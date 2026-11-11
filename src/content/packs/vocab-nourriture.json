@@ -1,0 +1,181 @@
+{
+  "id": "vocab-nourriture",
+  "section": "vocabulaire",
+  "title": "Manger et boire",
+  "level": "A2",
+  "topic": "Nourriture",
+  "summary": "Les repas, les courses et le restaurant.",
+  "release": 0,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Pour faire tes courses, commander au restaurant et parler de tes repas."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich hätte gern einen Kaffee, bitte.",
+          "fr": "Je voudrais un café, s'il vous plaît."
+        },
+        {
+          "de": "Zahlen, bitte! / Die Rechnung, bitte!",
+          "fr": "L'addition, s'il vous plaît !"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*das Gemüse* et *das Obst* sont des noms collectifs au **singulier** : *Gemüse **ist** gesund.*"
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Frühstück",
+      "fr": "le petit-déjeuner",
+      "article": "das",
+      "plural": "-",
+      "ex": {
+        "de": "Zum Frühstück esse ich Müsli.",
+        "fr": "Au petit-déjeuner, je mange du muesli."
+      }
+    },
+    {
+      "de": "Mittagessen",
+      "fr": "le déjeuner",
+      "article": "das",
+      "plural": "-",
+      "ex": {
+        "de": "Das Mittagessen ist um zwölf Uhr.",
+        "fr": "Le déjeuner est à midi."
+      }
+    },
+    {
+      "de": "Brot",
+      "fr": "le pain",
+      "article": "das",
+      "plural": "Brote",
+      "ex": {
+        "de": "Ich kaufe ein Brot beim Bäcker.",
+        "fr": "J'achète un pain chez le boulanger."
+      }
+    },
+    {
+      "de": "Käse",
+      "fr": "le fromage",
+      "article": "der",
+      "plural": "-",
+      "ex": {
+        "de": "Der Käse aus der Schweiz ist lecker.",
+        "fr": "Le fromage suisse est délicieux."
+      }
+    },
+    {
+      "de": "Gemüse",
+      "fr": "les légumes",
+      "article": "das",
+      "plural": "-",
+      "ex": {
+        "de": "Ich esse jeden Tag Gemüse.",
+        "fr": "Je mange des légumes tous les jours."
+      }
+    },
+    {
+      "de": "Obst",
+      "fr": "les fruits",
+      "article": "das",
+      "plural": "-",
+      "ex": {
+        "de": "Obst ist gesund.",
+        "fr": "Les fruits sont bons pour la santé."
+      }
+    },
+    {
+      "de": "Apfel",
+      "fr": "la pomme",
+      "article": "der",
+      "plural": "Äpfel",
+      "ex": {
+        "de": "Der Apfel ist rot.",
+        "fr": "La pomme est rouge."
+      }
+    },
+    {
+      "de": "Getränk",
+      "fr": "la boisson",
+      "article": "das",
+      "plural": "Getränke",
+      "ex": {
+        "de": "Welches Getränk möchtest du?",
+        "fr": "Quelle boisson veux-tu ?"
+      }
+    },
+    {
+      "de": "Rechnung",
+      "fr": "l'addition, la facture",
+      "article": "die",
+      "plural": "Rechnungen",
+      "ex": {
+        "de": "Die Rechnung, bitte!",
+        "fr": "L'addition, s'il vous plaît !"
+      }
+    },
+    {
+      "de": "Speisekarte",
+      "fr": "le menu, la carte",
+      "article": "die",
+      "plural": "Speisekarten",
+      "ex": {
+        "de": "Könnte ich bitte die Speisekarte haben?",
+        "fr": "Pourrais-je avoir la carte, s'il vous plaît ?"
+      }
+    },
+    {
+      "de": "Kellner",
+      "fr": "le serveur",
+      "article": "der",
+      "plural": "Kellner",
+      "ex": {
+        "de": "Der Kellner bringt die Getränke.",
+        "fr": "Le serveur apporte les boissons."
+      }
+    },
+    {
+      "de": "Gabel",
+      "fr": "la fourchette",
+      "article": "die",
+      "plural": "Gabeln",
+      "ex": {
+        "de": "Mir fehlt eine Gabel.",
+        "fr": "Il me manque une fourchette."
+      }
+    },
+    {
+      "de": "Durst",
+      "fr": "la soif",
+      "article": "der",
+      "plural": "-",
+      "ex": {
+        "de": "Ich habe großen Durst.",
+        "fr": "J'ai très soif."
+      }
+    },
+    {
+      "de": "lecker",
+      "fr": "délicieux",
+      "ex": {
+        "de": "Der Kuchen ist sehr lecker.",
+        "fr": "Le gâteau est délicieux."
+      }
+    },
+    {
+      "de": "bestellen",
+      "fr": "commander",
+      "ex": {
+        "de": "Ich möchte eine Pizza bestellen.",
+        "fr": "Je voudrais commander une pizza."
+      }
+    }
+  ]
+}

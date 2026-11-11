@@ -1,0 +1,55 @@
+{
+  "id": "gram-adjektivendungen",
+  "section": "grammaire",
+  "title": "Les terminaisons des adjectifs",
+  "level": "B1",
+  "topic": "Déclinaison des adjectifs",
+  "summary": "der neue Film, ein neuer Film, mit einem neuen Film : la méthode pour ne plus se tromper.",
+  "release": 4,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "p", "text": "Devant un nom, l'adjectif prend une terminaison qui dépend de **l'article**, du **genre** et du **cas**. Après le verbe (*Der Film ist neu*), il reste invariable." },
+    { "type": "h", "text": "Après l'article défini (der, die, das, dieser…)" },
+    { "type": "table", "head": ["", "Masculin", "Féminin", "Neutre", "Pluriel"], "rows": [
+      ["Nominatif", "der neu**e** Film", "die neu**e** Jacke", "das neu**e** Auto", "die neu**en** Schuhe"],
+      ["Accusatif", "den neu**en** Film", "die neu**e** Jacke", "das neu**e** Auto", "die neu**en** Schuhe"],
+      ["Datif", "dem neu**en** Film", "der neu**en** Jacke", "dem neu**en** Auto", "den neu**en** Schuhen"]
+    ] },
+    { "type": "tip", "text": "Règle simple : **-e** dans 5 cases (les 3 nominatifs singuliers + féminin et neutre à l'accusatif), **-en** partout ailleurs." },
+    { "type": "h", "text": "Après l'article indéfini (ein, kein, mein…)" },
+    { "type": "table", "head": ["", "Masculin", "Féminin", "Neutre", "Pluriel"], "rows": [
+      ["Nominatif", "ein neu**er** Film", "eine neu**e** Jacke", "ein neu**es** Auto", "keine neu**en** Schuhe"],
+      ["Accusatif", "einen neu**en** Film", "eine neu**e** Jacke", "ein neu**es** Auto", "keine neu**en** Schuhe"],
+      ["Datif", "einem neu**en** Film", "einer neu**en** Jacke", "einem neu**en** Auto", "keinen neu**en** Schuhen"]
+    ] },
+    { "type": "tip", "text": "Quand *ein* ne montre pas le genre (*ein* Film, *ein* Auto), c'est l'adjectif qui le montre : ein neu**er** Film (der), ein neu**es** Auto (das)." },
+    { "type": "h", "text": "Sans article" },
+    { "type": "p", "text": "L'adjectif prend la terminaison de l'article défini : *kalt**er** Kaffee* (der), *frisch**e** Milch* (die), *kalt**es** Wasser* (das). À l'accusatif masculin : *Ich trinke schwarz**en** Kaffee.*" },
+    { "type": "examples", "items": [
+      { "de": "Ich trage den blau**en** Pullover.", "fr": "Je porte le pull bleu." },
+      { "de": "Sie hat ein klein**es** Zimmer.", "fr": "Elle a une petite chambre." },
+      { "de": "Wir wohnen in einer groß**en** Stadt.", "fr": "Nous habitons dans une grande ville." },
+      { "de": "Der neu**e** Kollege ist nett.", "fr": "Le nouveau collègue est sympa." }
+    ] }
+  ],
+  "exercises": [
+    { "type": "mcq", "q": "Der ___ Mann ist mein Nachbar.", "options": ["alte", "alten", "alter"], "answer": 0, "why": "Après *der*, nominatif singulier → **-e** : der alt**e** Mann." },
+    { "type": "mcq", "q": "Ich habe einen ___ Hund.", "options": ["kleinen", "kleiner", "kleine"], "answer": 0, "why": "Accusatif masculin → **-en** : einen klein**en** Hund." },
+    { "type": "gap", "q": "Das ist ein ___ Haus.", "answers": ["schönes"], "hint": "schön, das Haus", "why": "*ein* ne montre pas le neutre → l'adjectif prend **-es**." },
+    { "type": "gap", "q": "Wir wohnen in einer ___ Wohnung.", "answers": ["großen"], "hint": "groß, die Wohnung, datif", "why": "Datif → **-en** : in einer groß**en** Wohnung." },
+    { "type": "mcq", "q": "Sie trägt die ___ Jacke.", "options": ["rote", "roten", "roter"], "answer": 0, "why": "Accusatif féminin après *die* → **-e**." },
+    { "type": "translate", "dir": "fr-de", "q": "J'ai une nouvelle voiture.", "answers": ["Ich habe ein neues Auto.", "Ich habe einen neuen Wagen."], "why": "das Auto : ein neu**es** Auto ; der Wagen : einen neu**en** Wagen." },
+    { "type": "mcq", "q": "Mit dem ___ Zug fahren wir nach Köln.", "options": ["nächsten", "nächste", "nächster"], "answer": 0, "why": "Datif → **-en** : mit dem nächst**en** Zug." },
+    { "type": "gap", "q": "Ich trinke gern ___ Kaffee.", "answers": ["schwarzen"], "hint": "schwarz, sans article, der Kaffee à l'accusatif", "why": "Sans article, l'adjectif prend la terminaison de *den* → schwarz**en**." }
+  ],
+  "exam": [
+    { "type": "gap", "q": "Kennst du den ___ Lehrer ?", "answers": ["neuen"], "hint": "neu, der Lehrer, accusatif", "why": "Accusatif masculin → **-en**." },
+    { "type": "mcq", "q": "Ein ___ Kind spielt im Garten.", "options": ["kleines", "kleine", "kleinen"], "answer": 0, "why": "Nominatif neutre après *ein* → **-es**." },
+    { "type": "mcq", "q": "Ich wohne bei einer ___ Familie.", "options": ["netten", "nette", "netter"], "answer": 0, "why": "*bei* + datif → **-en**." },
+    { "type": "gap", "q": "Die ___ Schuhe sind zu teuer.", "answers": ["neuen"], "hint": "neu, pluriel", "why": "Pluriel après article → **-en**." },
+    { "type": "translate", "dir": "fr-de", "q": "Je cherche un petit appartement.", "answers": ["Ich suche eine kleine Wohnung."], "why": "die Wohnung, accusatif : eine klein**e** Wohnung." },
+    { "type": "mcq", "q": "Es ist ein ___ Tag.", "options": ["schöner", "schönen", "schöne"], "answer": 0, "why": "Nominatif masculin après *ein* → **-er**." },
+    { "type": "gap", "q": "Wir sprechen mit dem ___ Chef.", "answers": ["neuen"], "hint": "neu, der Chef, datif", "why": "Datif → **-en**." },
+    { "type": "mcq", "q": "Ich esse gern ___ Brot.", "options": ["frisches", "frische", "frischen"], "answer": 0, "why": "Sans article, neutre accusatif → terminaison de *das* : frisch**es**." }
+  ]
+}

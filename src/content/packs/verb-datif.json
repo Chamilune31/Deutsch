@@ -1,0 +1,47 @@
+{
+  "id": "verb-datif",
+  "section": "verbes",
+  "title": "Les verbes suivis du datif",
+  "level": "B1",
+  "topic": "Verbes + datif",
+  "summary": "helfen, gefallen, gehören, danken… : des verbes qui piègent les francophones.",
+  "release": 4,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "p", "text": "Ces verbes ont un complément au **datif**, alors qu'en français on emploie souvent un COD." },
+    { "type": "examples", "items": [
+      { "de": "Ich helfe **dir**.", "fr": "Je t'aide." },
+      { "de": "Der Film gefällt **mir**.", "fr": "Le film me plaît. (sujet = der Film)" },
+      { "de": "Das Buch gehört **meinem** Bruder.", "fr": "Le livre appartient à mon frère." },
+      { "de": "Ich danke **Ihnen**!", "fr": "Je vous remercie !" }
+    ] },
+    { "type": "tip", "text": "Avec *gefallen* et *schmecken*, c'est la **chose** qui est sujet : *Die Suppe **schmeckt** mir* (la soupe me plaît). Au pluriel : *Die Schuhe **gefallen** mir.*" },
+    { "type": "tip", "text": "*antworten* + datif pour une personne (*Ich antworte **dir***), mais *antworten **auf*** + accusatif pour une chose (*auf eine Frage antworten*)." }
+  ],
+  "verbs": [
+    { "inf": "helfen", "fr": "aider", "kinds": ["fort", "datif"], "aux": "haben", "partizip": "geholfen",
+      "praesens": ["helfe", "hilfst", "hilft", "helfen", "helft", "helfen"],
+      "praeteritum": ["half", "halfst", "half", "halfen", "halft", "halfen"],
+      "example": { "de": "Kannst du mir bitte helfen?", "fr": "Peux-tu m'aider, s'il te plaît ?" } },
+    { "inf": "gefallen", "fr": "plaire", "kinds": ["fort", "datif"], "aux": "haben", "partizip": "gefallen",
+      "praesens": ["gefalle", "gefällst", "gefällt", "gefallen", "gefallt", "gefallen"],
+      "praeteritum": ["gefiel", "gefielst", "gefiel", "gefielen", "gefielt", "gefielen"],
+      "example": { "de": "Die Stadt hat mir sehr gut gefallen.", "fr": "La ville m'a beaucoup plu." } },
+    { "inf": "gehören", "fr": "appartenir", "kinds": ["regulier", "datif"], "aux": "haben", "partizip": "gehört",
+      "praesens": ["gehöre", "gehörst", "gehört", "gehören", "gehört", "gehören"],
+      "praeteritum": ["gehörte", "gehörtest", "gehörte", "gehörten", "gehörtet", "gehörten"],
+      "example": { "de": "Wem gehört die Tasche?", "fr": "À qui est ce sac ?" } },
+    { "inf": "danken", "fr": "remercier", "kinds": ["regulier", "datif"], "aux": "haben", "partizip": "gedankt",
+      "praesens": ["danke", "dankst", "dankt", "danken", "dankt", "danken"],
+      "praeteritum": ["dankte", "danktest", "dankte", "dankten", "danktet", "dankten"],
+      "example": { "de": "Wir danken dir für die Einladung.", "fr": "Nous te remercions pour l'invitation." } },
+    { "inf": "antworten", "fr": "répondre", "kinds": ["regulier", "datif"], "aux": "haben", "partizip": "geantwortet",
+      "praesens": ["antworte", "antwortest", "antwortet", "antworten", "antwortet", "antworten"],
+      "praeteritum": ["antwortete", "antwortetest", "antwortete", "antworteten", "antwortetet", "antworteten"],
+      "example": { "de": "Sie hat mir noch nicht geantwortet.", "fr": "Elle ne m'a pas encore répondu." } },
+    { "inf": "schmecken", "fr": "avoir bon goût, plaire (nourriture)", "kinds": ["regulier", "datif"], "aux": "haben", "partizip": "geschmeckt",
+      "praesens": ["schmecke", "schmeckst", "schmeckt", "schmecken", "schmeckt", "schmecken"],
+      "praeteritum": ["schmeckte", "schmecktest", "schmeckte", "schmeckten", "schmecktet", "schmeckten"],
+      "example": { "de": "Hat es Ihnen geschmeckt?", "fr": "Cela vous a plu ? (au restaurant)" } }
+  ]
+}

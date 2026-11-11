@@ -1,0 +1,189 @@
+{
+  "_info": "Programme A2 → B1. La tâche planifiée prend le premier sujet de « a_venir », crée le pack, puis le déplace dans « faits ».",
+  "grammaire": {
+    "faits": [
+      "gram-akkusativ-dativ",
+      "gram-prepositions-cas-fixe",
+      "gram-wechselpraepositionen",
+      "gram-nebensaetze",
+      "gram-komparativ-superlativ",
+      "gram-adjektivendungen",
+      "gram-relativsaetze",
+      "gram-konjunktiv-ii"
+    ],
+    "a_venir": [
+      {
+        "topic": "Le Perfekt : formation et choix de haben / sein",
+        "level": "A2"
+      },
+      {
+        "topic": "La négation : nicht ou kein ?",
+        "level": "A2"
+      },
+      {
+        "topic": "L'ordre des mots dans la phrase (temps, cause, manière, lieu)",
+        "level": "A2"
+      },
+      {
+        "topic": "Le Präteritum pour raconter à l'écrit",
+        "level": "B1"
+      },
+      {
+        "topic": "Verbes à préposition et da- / wo- (warten auf, sich freuen über…)",
+        "level": "B1"
+      },
+      {
+        "topic": "zu + infinitif et um … zu",
+        "level": "B1"
+      },
+      {
+        "topic": "als, wenn, nachdem, bevor : les subordonnées de temps",
+        "level": "B1"
+      },
+      {
+        "topic": "Les connecteurs : deshalb, trotzdem, außerdem",
+        "level": "B1"
+      },
+      {
+        "topic": "Le passif au présent et au Präteritum",
+        "level": "B1"
+      },
+      {
+        "topic": "Le génitif et wegen, trotz, während",
+        "level": "B1"
+      },
+      {
+        "topic": "Le Plusquamperfekt",
+        "level": "B1"
+      },
+      {
+        "topic": "Le Konjunktiv II au passé (hätte gemacht, wäre gegangen)",
+        "level": "B1"
+      },
+      {
+        "topic": "La déclinaison faible des noms (der Kunde → den Kunden)",
+        "level": "B1"
+      },
+      {
+        "topic": "Le discours indirect (aperçu du Konjunktiv I)",
+        "level": "B1"
+      }
+    ]
+  },
+  "verbes": {
+    "faits": [
+      "verb-incontournables",
+      "verb-modaux",
+      "verb-separables-quotidien",
+      "verb-mouvement",
+      "verb-reflechis",
+      "verb-datif",
+      "verb-communication",
+      "verb-etudes-travail"
+    ],
+    "a_venir": [
+      {
+        "topic": "Verbes mixtes : bringen, denken, kennen, nennen, rennen",
+        "level": "A2"
+      },
+      {
+        "topic": "Verbes inséparables : besuchen, erklären, verkaufen, gewinnen, verlieren, empfehlen",
+        "level": "A2"
+      },
+      {
+        "topic": "Séparables (2) : mitkommen, einladen, ausgehen, aussehen, zurückkommen",
+        "level": "A2"
+      },
+      {
+        "topic": "Cuisine : kochen, backen, schneiden, essen, trinken, nehmen",
+        "level": "A2"
+      },
+      {
+        "topic": "Position et mouvement : liegen/legen, stehen/stellen, sitzen/setzen, hängen",
+        "level": "B1"
+      },
+      {
+        "topic": "Argent : kaufen, bezahlen, kosten, sparen, leihen, ausgeben",
+        "level": "A2"
+      },
+      {
+        "topic": "Émotions : lachen, weinen, hoffen, sich ärgern, sich langweilen",
+        "level": "B1"
+      },
+      {
+        "topic": "Voyage : reisen, packen, buchen, übernachten, abfliegen",
+        "level": "A2"
+      },
+      {
+        "topic": "Verbes à préposition : warten auf, denken an, sprechen über, sich kümmern um",
+        "level": "B1"
+      },
+      {
+        "topic": "Verbes forts B1 : ziehen, schließen, verlieren, bieten, steigen, sterben",
+        "level": "B1"
+      }
+    ]
+  },
+  "vocabulaire": {
+    "faits": [
+      "vocab-logement",
+      "vocab-nourriture",
+      "vocab-transports-voyage",
+      "vocab-etudes",
+      "vocab-sante",
+      "vocab-entreprise",
+      "vocab-loisirs",
+      "vocab-meteo-environnement"
+    ],
+    "a_venir": [
+      {
+        "topic": "Famille et relations",
+        "level": "A2"
+      },
+      {
+        "topic": "Vêtements et achats",
+        "level": "A2"
+      },
+      {
+        "topic": "En ville : s'orienter",
+        "level": "A2"
+      },
+      {
+        "topic": "Sentiments et caractère",
+        "level": "B1"
+      },
+      {
+        "topic": "Médias et numérique",
+        "level": "B1"
+      },
+      {
+        "topic": "Argent et banque",
+        "level": "B1"
+      },
+      {
+        "topic": "Fêtes et traditions en Allemagne",
+        "level": "A2"
+      },
+      {
+        "topic": "Marketing et commerce",
+        "level": "B1"
+      },
+      {
+        "topic": "Chercher un appartement : les annonces",
+        "level": "B1"
+      },
+      {
+        "topic": "Le corps et l'apparence",
+        "level": "A2"
+      },
+      {
+        "topic": "Société et politique",
+        "level": "B1"
+      },
+      {
+        "topic": "Nature et animaux",
+        "level": "A2"
+      }
+    ]
+  }
+}

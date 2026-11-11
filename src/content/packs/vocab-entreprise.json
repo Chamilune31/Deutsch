@@ -1,0 +1,173 @@
+{
+  "id": "vocab-entreprise",
+  "section": "vocabulaire",
+  "title": "Le monde de l'entreprise",
+  "level": "B1",
+  "topic": "Travail",
+  "summary": "Candidature, entretien, réunion : le vocabulaire professionnel.",
+  "release": 4,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Le vocabulaire pour postuler à un stage, passer un entretien et travailler en équipe."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich bewerbe mich um ein Praktikum im Marketing.",
+          "fr": "Je postule pour un stage en marketing."
+        },
+        {
+          "de": "Wann passt Ihnen ein Termin?",
+          "fr": "Quand un rendez-vous vous conviendrait-il ?"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*sich bewerben **um*** (un poste) / ***bei*** (une entreprise) : *Ich bewerbe mich bei Siemens um eine Stelle.*"
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Unternehmen",
+      "fr": "l'entreprise",
+      "article": "das",
+      "plural": "Unternehmen",
+      "ex": {
+        "de": "Das Unternehmen hat 200 Mitarbeiter.",
+        "fr": "L'entreprise compte 200 salariés."
+      }
+    },
+    {
+      "de": "Mitarbeiter",
+      "fr": "le collaborateur, le salarié",
+      "article": "der",
+      "plural": "Mitarbeiter",
+      "ex": {
+        "de": "Jeder Mitarbeiter bekommt einen Laptop.",
+        "fr": "Chaque salarié reçoit un ordinateur portable."
+      }
+    },
+    {
+      "de": "Kollegin",
+      "fr": "la collègue",
+      "article": "die",
+      "plural": "Kolleginnen",
+      "ex": {
+        "de": "Meine Kollegin arbeitet im Marketing.",
+        "fr": "Ma collègue travaille au marketing."
+      }
+    },
+    {
+      "de": "Chef",
+      "fr": "le chef, le patron",
+      "article": "der",
+      "plural": "Chefs",
+      "ex": {
+        "de": "Der Chef ist heute nicht da.",
+        "fr": "Le patron n'est pas là aujourd'hui."
+      }
+    },
+    {
+      "de": "Besprechung",
+      "fr": "la réunion",
+      "article": "die",
+      "plural": "Besprechungen",
+      "ex": {
+        "de": "Die Besprechung dauert eine Stunde.",
+        "fr": "La réunion dure une heure."
+      }
+    },
+    {
+      "de": "Bewerbung",
+      "fr": "la candidature",
+      "article": "die",
+      "plural": "Bewerbungen",
+      "ex": {
+        "de": "Ich schreibe eine Bewerbung für ein Praktikum.",
+        "fr": "J'écris une candidature pour un stage."
+      }
+    },
+    {
+      "de": "Vorstellungsgespräch",
+      "fr": "l'entretien d'embauche",
+      "article": "das",
+      "plural": "Vorstellungsgespräche",
+      "ex": {
+        "de": "Morgen habe ich ein Vorstellungsgespräch.",
+        "fr": "Demain, j'ai un entretien d'embauche."
+      }
+    },
+    {
+      "de": "Lebenslauf",
+      "fr": "le CV",
+      "article": "der",
+      "plural": "Lebensläufe",
+      "ex": {
+        "de": "Bitte schicken Sie uns Ihren Lebenslauf.",
+        "fr": "Veuillez nous envoyer votre CV."
+      }
+    },
+    {
+      "de": "Gehalt",
+      "fr": "le salaire",
+      "article": "das",
+      "plural": "Gehälter",
+      "ex": {
+        "de": "Das Gehalt ist gut.",
+        "fr": "Le salaire est bon."
+      }
+    },
+    {
+      "de": "Vertrag",
+      "fr": "le contrat",
+      "article": "der",
+      "plural": "Verträge",
+      "ex": {
+        "de": "Ich habe den Vertrag unterschrieben.",
+        "fr": "J'ai signé le contrat."
+      }
+    },
+    {
+      "de": "Kunde",
+      "fr": "le client",
+      "article": "der",
+      "plural": "Kunden",
+      "ex": {
+        "de": "Der Kunde ist König.",
+        "fr": "Le client est roi."
+      }
+    },
+    {
+      "de": "Erfahrung",
+      "fr": "l'expérience",
+      "article": "die",
+      "plural": "Erfahrungen",
+      "ex": {
+        "de": "Ich habe Erfahrung im Verkauf.",
+        "fr": "J'ai de l'expérience dans la vente."
+      }
+    },
+    {
+      "de": "Abteilung",
+      "fr": "le service, le département",
+      "article": "die",
+      "plural": "Abteilungen",
+      "ex": {
+        "de": "In welcher Abteilung arbeitest du?",
+        "fr": "Dans quel service travailles-tu ?"
+      }
+    },
+    {
+      "de": "sich bewerben",
+      "fr": "postuler",
+      "ex": {
+        "de": "Ich möchte mich bei Siemens bewerben.",
+        "fr": "Je voudrais postuler chez Siemens."
+      }
+    }
+  ]
+}

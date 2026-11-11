@@ -1,0 +1,54 @@
+{
+  "id": "gram-prepositions-cas-fixe",
+  "section": "grammaire",
+  "title": "Prépositions + datif ou + accusatif",
+  "level": "A2",
+  "topic": "Prépositions à cas fixe",
+  "summary": "Les prépositions qui imposent toujours le datif (mit, bei, zu…) ou l'accusatif (für, durch, ohne…).",
+  "release": 0,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "p", "text": "Certaines prépositions imposent **toujours le même cas**, quel que soit le verbe. Il faut les apprendre par cœur." },
+    { "type": "table", "head": ["Toujours + datif", "Toujours + accusatif"], "rows": [
+      ["**aus** (de, hors de)", "**durch** (à travers)"],
+      ["**bei** (chez, près de)", "**für** (pour)"],
+      ["**mit** (avec, en)", "**gegen** (contre)"],
+      ["**nach** (après, vers)", "**ohne** (sans)"],
+      ["**seit** (depuis)", "**um** (autour de, à … heures)"],
+      ["**von** (de, par)", "**bis** (jusqu'à)"],
+      ["**zu** (chez, à, vers)", ""]
+    ] },
+    { "type": "tip", "text": "Moyen mnémotechnique pour l'accusatif : **DOGFU** = durch, ohne, gegen, für, um." },
+    { "type": "h", "text": "Les contractions" },
+    { "type": "list", "items": ["zu + dem = **zum** · zu + der = **zur**", "bei + dem = **beim**", "von + dem = **vom**"] },
+    { "type": "examples", "items": [
+      { "de": "Ich fahre **mit dem** Zug.", "fr": "Je prends le train." },
+      { "de": "Sie kommt **aus der** Schweiz.", "fr": "Elle vient de Suisse." },
+      { "de": "Ich gehe **zum** Arzt.", "fr": "Je vais chez le médecin." },
+      { "de": "Das Geschenk ist **für meinen** Bruder.", "fr": "Le cadeau est pour mon frère." },
+      { "de": "Wir gehen **durch den** Park.", "fr": "Nous traversons le parc." },
+      { "de": "**Seit einem** Jahr lerne ich Deutsch.", "fr": "J'apprends l'allemand depuis un an." }
+    ] },
+    { "type": "tip", "text": "**nach** ou **zu** ? *nach* + villes et pays sans article (*nach Berlin*), et *nach Hause*. *zu* + personnes, magasins, lieux précis (*zum Bäcker, zur Uni*)." }
+  ],
+  "exercises": [
+    { "type": "mcq", "q": "Ich wohne ___ meinen Eltern.", "options": ["bei", "mit", "zu"], "answer": 0, "why": "**bei** = chez (là où l'on est). *zu* indique la direction." },
+    { "type": "gap", "q": "Ich fahre jeden Tag mit ___ Fahrrad zur Uni.", "answers": ["dem"], "hint": "das Fahrrad", "why": "*mit* + datif : das Fahrrad → **dem** Fahrrad." },
+    { "type": "mcq", "q": "Das Geschenk ist für ___ Vater.", "options": ["deinen", "deinem", "dein"], "answer": 0, "why": "*für* + accusatif, masculin : **deinen** Vater." },
+    { "type": "gap", "q": "Ich gehe heute Abend ___ Supermarkt.", "answers": ["zum"], "hint": "zu + dem", "why": "der Supermarkt → zu dem = **zum**." },
+    { "type": "mcq", "q": "Wir fliegen im Sommer ___ Berlin.", "options": ["nach", "zu", "bei"], "answer": 0, "why": "Ville sans article → **nach**." },
+    { "type": "translate", "dir": "fr-de", "q": "Je vais chez le médecin.", "answers": ["Ich gehe zum Arzt.", "Ich gehe zur Ärztin."], "why": "Chez une personne (direction) → **zu** : zum Arzt / zur Ärztin." },
+    { "type": "gap", "q": "Seit ___ Woche bin ich krank.", "answers": ["einer"], "hint": "die Woche", "why": "*seit* + datif, féminin : **einer** Woche." },
+    { "type": "mcq", "q": "Ich trinke Kaffee ___ Zucker.", "options": ["ohne", "ohne den", "ohne dem"], "answer": 0, "why": "*ohne* + accusatif ; ici sans article : **ohne Zucker**." }
+  ],
+  "exam": [
+    { "type": "mcq", "q": "Er läuft durch ___ Wald.", "options": ["den", "dem", "der"], "answer": 0, "why": "*durch* + accusatif : der Wald → **den** Wald." },
+    { "type": "gap", "q": "Das Paket ist ___ meiner Schwester.", "answers": ["von"], "hint": "de la part de", "why": "**von** + datif = de (la part de)." },
+    { "type": "mcq", "q": "Ich spiele gegen ___ Freund Tennis.", "options": ["meinen", "meinem", "mein"], "answer": 0, "why": "*gegen* + accusatif : **meinen** Freund." },
+    { "type": "gap", "q": "Nach ___ Unterricht gehe ich nach Hause.", "answers": ["dem"], "hint": "der Unterricht", "why": "*nach* (après) + datif : **dem** Unterricht." },
+    { "type": "translate", "dir": "fr-de", "q": "Je viens de France.", "answers": ["Ich komme aus Frankreich."], "why": "Origine → **aus** ; pays sans article." },
+    { "type": "mcq", "q": "Ich gehe ___ Bäckerei.", "options": ["zur", "zum", "nach"], "answer": 0, "why": "die Bäckerei → zu der = **zur**." },
+    { "type": "translate", "dir": "fr-de", "q": "Elle travaille chez Siemens depuis deux ans.", "answers": ["Sie arbeitet seit zwei Jahren bei Siemens.", "Seit zwei Jahren arbeitet sie bei Siemens."], "why": "*seit* + datif pluriel : zwei Jahre**n** ; chez une entreprise → **bei**." },
+    { "type": "gap", "q": "Wir treffen uns ___ acht Uhr.", "answers": ["um"], "hint": "à … heures", "why": "L'heure : **um** acht Uhr." }
+  ]
+}

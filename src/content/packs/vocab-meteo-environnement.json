@@ -1,0 +1,177 @@
+{
+  "id": "vocab-meteo-environnement",
+  "section": "vocabulaire",
+  "title": "Météo et environnement",
+  "level": "B1",
+  "topic": "Environnement",
+  "summary": "Parler du temps qu'il fait et des enjeux écologiques.",
+  "release": 6,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Le temps qu'il fait, puis le vocabulaire de l'écologie, un thème fréquent à l'oral du B1."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Es regnet. / Es schneit. / Es ist sonnig.",
+          "fr": "Il pleut. / Il neige. / Il fait beau."
+        },
+        {
+          "de": "In Deutschland trennt man den Müll.",
+          "fr": "En Allemagne, on trie les déchets."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Pour la météo, on utilise le sujet impersonnel ***es*** : *Es ist kalt*, *es regnet*."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Wetter",
+      "fr": "le temps (météo)",
+      "article": "das",
+      "plural": "-",
+      "ex": {
+        "de": "Wie ist das Wetter heute?",
+        "fr": "Quel temps fait-il aujourd'hui ?"
+      }
+    },
+    {
+      "de": "Regen",
+      "fr": "la pluie",
+      "article": "der",
+      "plural": "-",
+      "ex": {
+        "de": "Der Regen hört nicht auf.",
+        "fr": "La pluie ne s'arrête pas."
+      }
+    },
+    {
+      "de": "Schnee",
+      "fr": "la neige",
+      "article": "der",
+      "plural": "-",
+      "ex": {
+        "de": "Im Winter liegt hier viel Schnee.",
+        "fr": "En hiver, il y a beaucoup de neige ici."
+      }
+    },
+    {
+      "de": "Gewitter",
+      "fr": "l'orage",
+      "article": "das",
+      "plural": "Gewitter",
+      "ex": {
+        "de": "Heute Abend gibt es ein Gewitter.",
+        "fr": "Ce soir, il y aura un orage."
+      }
+    },
+    {
+      "de": "Wolke",
+      "fr": "le nuage",
+      "article": "die",
+      "plural": "Wolken",
+      "ex": {
+        "de": "Am Himmel ist keine Wolke.",
+        "fr": "Il n'y a pas un nuage dans le ciel."
+      }
+    },
+    {
+      "de": "Temperatur",
+      "fr": "la température",
+      "article": "die",
+      "plural": "Temperaturen",
+      "ex": {
+        "de": "Die Temperatur liegt bei 25 Grad.",
+        "fr": "La température est d'environ 25 degrés."
+      }
+    },
+    {
+      "de": "Umwelt",
+      "fr": "l'environnement",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Wir müssen die Umwelt schützen.",
+        "fr": "Nous devons protéger l'environnement."
+      }
+    },
+    {
+      "de": "Klimawandel",
+      "fr": "le changement climatique",
+      "article": "der",
+      "plural": "-",
+      "ex": {
+        "de": "Der Klimawandel ist ein großes Problem.",
+        "fr": "Le changement climatique est un gros problème."
+      }
+    },
+    {
+      "de": "Müll",
+      "fr": "les déchets",
+      "article": "der",
+      "plural": "-",
+      "ex": {
+        "de": "Bitte trenn den Müll!",
+        "fr": "Trie les déchets, s'il te plaît !"
+      }
+    },
+    {
+      "de": "Energie",
+      "fr": "l'énergie",
+      "article": "die",
+      "plural": "Energien",
+      "ex": {
+        "de": "Wir sparen Energie.",
+        "fr": "Nous économisons l'énergie."
+      }
+    },
+    {
+      "de": "Natur",
+      "fr": "la nature",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Ich bin gern in der Natur.",
+        "fr": "J'aime être dans la nature."
+      }
+    },
+    {
+      "de": "schützen",
+      "fr": "protéger",
+      "ex": {
+        "de": "Wir müssen die Natur schützen.",
+        "fr": "Nous devons protéger la nature."
+      }
+    },
+    {
+      "de": "sonnig",
+      "fr": "ensoleillé",
+      "ex": {
+        "de": "Morgen wird es sonnig.",
+        "fr": "Demain, il fera beau."
+      }
+    },
+    {
+      "de": "recyceln",
+      "fr": "recycler",
+      "ex": {
+        "de": "Man kann Glas gut recyceln.",
+        "fr": "On peut bien recycler le verre."
+      }
+    },
+    {
+      "de": "nachhaltig",
+      "fr": "durable",
+      "ex": {
+        "de": "Ich versuche, nachhaltig zu leben.",
+        "fr": "J'essaie de vivre de façon durable."
+      }
+    }
+  ]
+}

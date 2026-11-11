@@ -1,0 +1,168 @@
+{
+  "id": "vocab-logement",
+  "section": "vocabulaire",
+  "title": "Le logement",
+  "level": "A2",
+  "topic": "Logement",
+  "summary": "Décrire son appartement, sa colocation et ses voisins.",
+  "release": 0,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Le vocabulaire pour parler de ton logement, chercher une colocation ou décrire ta chambre."
+    },
+    {
+      "type": "tip",
+      "text": "Les noms en **-ung**, **-heit**, **-keit** sont toujours féminins (*die Heizung*). Ceux en **-chen** et **-lein** sont neutres."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Wohnung",
+      "fr": "l'appartement",
+      "article": "die",
+      "plural": "Wohnungen",
+      "ex": {
+        "de": "Meine Wohnung ist klein, aber hell.",
+        "fr": "Mon appartement est petit mais lumineux."
+      }
+    },
+    {
+      "de": "Zimmer",
+      "fr": "la pièce, la chambre",
+      "article": "das",
+      "plural": "Zimmer",
+      "ex": {
+        "de": "Das Zimmer hat zwei Fenster.",
+        "fr": "La pièce a deux fenêtres."
+      }
+    },
+    {
+      "de": "Küche",
+      "fr": "la cuisine",
+      "article": "die",
+      "plural": "Küchen",
+      "ex": {
+        "de": "Wir kochen zusammen in der Küche.",
+        "fr": "Nous cuisinons ensemble dans la cuisine."
+      }
+    },
+    {
+      "de": "Bad",
+      "fr": "la salle de bains",
+      "article": "das",
+      "plural": "Bäder",
+      "ex": {
+        "de": "Das Bad ist neben dem Schlafzimmer.",
+        "fr": "La salle de bains est à côté de la chambre."
+      }
+    },
+    {
+      "de": "Schlafzimmer",
+      "fr": "la chambre à coucher",
+      "article": "das",
+      "plural": "Schlafzimmer",
+      "ex": {
+        "de": "Im Schlafzimmer steht ein großes Bett.",
+        "fr": "Dans la chambre, il y a un grand lit."
+      }
+    },
+    {
+      "de": "Miete",
+      "fr": "le loyer",
+      "article": "die",
+      "plural": "Mieten",
+      "ex": {
+        "de": "Die Miete kostet 600 Euro im Monat.",
+        "fr": "Le loyer coûte 600 euros par mois."
+      }
+    },
+    {
+      "de": "Nachbar",
+      "fr": "le voisin",
+      "article": "der",
+      "plural": "Nachbarn",
+      "ex": {
+        "de": "Mein Nachbar ist sehr freundlich.",
+        "fr": "Mon voisin est très aimable."
+      }
+    },
+    {
+      "de": "Mitbewohnerin",
+      "fr": "la colocataire",
+      "article": "die",
+      "plural": "Mitbewohnerinnen",
+      "ex": {
+        "de": "Meine Mitbewohnerin kommt aus Spanien.",
+        "fr": "Ma colocataire vient d'Espagne."
+      }
+    },
+    {
+      "de": "Treppe",
+      "fr": "l'escalier",
+      "article": "die",
+      "plural": "Treppen",
+      "ex": {
+        "de": "Die Treppe ist sehr steil.",
+        "fr": "L'escalier est très raide."
+      }
+    },
+    {
+      "de": "Schlüssel",
+      "fr": "la clé",
+      "article": "der",
+      "plural": "Schlüssel",
+      "ex": {
+        "de": "Ich habe meinen Schlüssel verloren.",
+        "fr": "J'ai perdu ma clé."
+      }
+    },
+    {
+      "de": "Schrank",
+      "fr": "l'armoire, le placard",
+      "article": "der",
+      "plural": "Schränke",
+      "ex": {
+        "de": "Der Schrank ist voll.",
+        "fr": "L'armoire est pleine."
+      }
+    },
+    {
+      "de": "Balkon",
+      "fr": "le balcon",
+      "article": "der",
+      "plural": "Balkone",
+      "ex": {
+        "de": "Im Sommer frühstücken wir auf dem Balkon.",
+        "fr": "L'été, nous prenons le petit-déjeuner sur le balcon."
+      }
+    },
+    {
+      "de": "Heizung",
+      "fr": "le chauffage",
+      "article": "die",
+      "plural": "Heizungen",
+      "ex": {
+        "de": "Die Heizung funktioniert nicht.",
+        "fr": "Le chauffage ne fonctionne pas."
+      }
+    },
+    {
+      "de": "umziehen",
+      "fr": "déménager",
+      "ex": {
+        "de": "Ich möchte nächsten Monat umziehen.",
+        "fr": "Je voudrais déménager le mois prochain."
+      }
+    },
+    {
+      "de": "gemütlich",
+      "fr": "confortable, chaleureux",
+      "ex": {
+        "de": "Die Wohnung ist sehr gemütlich.",
+        "fr": "L'appartement est très chaleureux."
+      }
+    }
+  ]
+}

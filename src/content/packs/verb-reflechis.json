@@ -1,0 +1,49 @@
+{
+  "id": "verb-reflechis",
+  "section": "verbes",
+  "title": "Les verbes réfléchis",
+  "level": "A2",
+  "topic": "Sentiments et routine",
+  "summary": "sich freuen, sich treffen, sich erinnern… avec le bon pronom réfléchi.",
+  "release": 3,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "p", "text": "Un verbe réfléchi s'accompagne d'un pronom qui renvoie au sujet. Au Perfekt, il prend **haben** (contrairement au français : *je me suis levée*)." },
+    { "type": "table", "head": ["Sujet", "Pronom réfléchi (accusatif)"], "rows": [
+      ["ich", "mich"], ["du", "dich"], ["er/sie/es", "sich"], ["wir", "uns"], ["ihr", "euch"], ["sie/Sie", "sich"]
+    ] },
+    { "type": "examples", "items": [
+      { "de": "Ich **freue mich** auf die Ferien.", "fr": "Je me réjouis des vacances (à venir)." },
+      { "de": "Wir **haben uns** gestern **getroffen**.", "fr": "Nous nous sommes vus hier." },
+      { "de": "**Erinnerst du dich** an ihn?", "fr": "Tu te souviens de lui ?" }
+    ] },
+    { "type": "tip", "text": "Attention aux prépositions : *sich freuen **auf*** (à venir) / ***über*** (déjà là), *sich erinnern **an***, *sich interessieren **für***." }
+  ],
+  "verbs": [
+    { "inf": "freuen", "fr": "se réjouir", "kinds": ["regulier", "reflechi"], "aux": "haben", "partizip": "gefreut", "refl": true,
+      "praesens": ["freue", "freust", "freut", "freuen", "freut", "freuen"],
+      "praeteritum": ["freute", "freutest", "freute", "freuten", "freutet", "freuten"],
+      "example": { "de": "Ich freue mich über dein Geschenk.", "fr": "Ton cadeau me fait plaisir." } },
+    { "inf": "waschen", "fr": "se laver", "kinds": ["fort", "reflechi"], "aux": "haben", "partizip": "gewaschen", "refl": true,
+      "praesens": ["wasche", "wäschst", "wäscht", "waschen", "wascht", "waschen"],
+      "praeteritum": ["wusch", "wuschst", "wusch", "wuschen", "wuscht", "wuschen"],
+      "example": { "de": "Das Kind wäscht sich die Hände.", "fr": "L'enfant se lave les mains." },
+      "note": "Avec une partie du corps, le pronom passe au datif : ich wasche mir die Hände." },
+    { "inf": "treffen", "fr": "se retrouver, se voir", "kinds": ["fort", "reflechi"], "aux": "haben", "partizip": "getroffen", "refl": true,
+      "praesens": ["treffe", "triffst", "trifft", "treffen", "trefft", "treffen"],
+      "praeteritum": ["traf", "trafst", "traf", "trafen", "traft", "trafen"],
+      "example": { "de": "Wir treffen uns um acht vor dem Kino.", "fr": "On se retrouve à 8 h devant le cinéma." } },
+    { "inf": "erinnern", "fr": "se souvenir", "kinds": ["regulier", "reflechi"], "aux": "haben", "partizip": "erinnert", "refl": true,
+      "praesens": ["erinnere", "erinnerst", "erinnert", "erinnern", "erinnert", "erinnern"],
+      "praeteritum": ["erinnerte", "erinnertest", "erinnerte", "erinnerten", "erinnertet", "erinnerten"],
+      "example": { "de": "Ich erinnere mich gut an meine erste Reise.", "fr": "Je me souviens bien de mon premier voyage." } },
+    { "inf": "interessieren", "fr": "s'intéresser", "kinds": ["regulier", "reflechi"], "aux": "haben", "partizip": "interessiert", "refl": true,
+      "praesens": ["interessiere", "interessierst", "interessiert", "interessieren", "interessiert", "interessieren"],
+      "praeteritum": ["interessierte", "interessiertest", "interessierte", "interessierten", "interessiertet", "interessierten"],
+      "example": { "de": "Sie interessiert sich für Wirtschaft.", "fr": "Elle s'intéresse à l'économie." } },
+    { "inf": "fühlen", "fr": "se sentir", "kinds": ["regulier", "reflechi"], "aux": "haben", "partizip": "gefühlt", "refl": true,
+      "praesens": ["fühle", "fühlst", "fühlt", "fühlen", "fühlt", "fühlen"],
+      "praeteritum": ["fühlte", "fühltest", "fühlte", "fühlten", "fühltet", "fühlten"],
+      "example": { "de": "Heute fühle ich mich nicht gut.", "fr": "Aujourd'hui, je ne me sens pas bien." } }
+  ]
+}

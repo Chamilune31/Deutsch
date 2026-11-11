@@ -1,0 +1,169 @@
+{
+  "id": "vocab-transports-voyage",
+  "section": "vocabulaire",
+  "title": "Transports et voyages",
+  "level": "A2",
+  "topic": "Voyage",
+  "summary": "Prendre le train, l'avion, trouver un hébergement.",
+  "release": 1,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Tout pour voyager en Allemagne : gare, billets, retards et hébergement."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Eine Fahrkarte nach Köln, bitte.",
+          "fr": "Un billet pour Cologne, s'il vous plaît."
+        },
+        {
+          "de": "Von welchem Gleis fährt der Zug ab?",
+          "fr": "De quelle voie part le train ?"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "En Allemagne, *die Verspätung* (le retard) est un sujet de conversation national : *Der Zug hat 20 Minuten Verspätung.*"
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Bahnhof",
+      "fr": "la gare",
+      "article": "der",
+      "plural": "Bahnhöfe",
+      "ex": {
+        "de": "Der Bahnhof ist zehn Minuten von hier.",
+        "fr": "La gare est à dix minutes d'ici."
+      }
+    },
+    {
+      "de": "Zug",
+      "fr": "le train",
+      "article": "der",
+      "plural": "Züge",
+      "ex": {
+        "de": "Der Zug hat Verspätung.",
+        "fr": "Le train est en retard."
+      }
+    },
+    {
+      "de": "Fahrkarte",
+      "fr": "le billet",
+      "article": "die",
+      "plural": "Fahrkarten",
+      "ex": {
+        "de": "Ich kaufe eine Fahrkarte am Automaten.",
+        "fr": "J'achète un billet au distributeur."
+      }
+    },
+    {
+      "de": "Gleis",
+      "fr": "la voie, le quai",
+      "article": "das",
+      "plural": "Gleise",
+      "ex": {
+        "de": "Der Zug fährt von Gleis 5 ab.",
+        "fr": "Le train part de la voie 5."
+      }
+    },
+    {
+      "de": "Verspätung",
+      "fr": "le retard",
+      "article": "die",
+      "plural": "Verspätungen",
+      "ex": {
+        "de": "Der Bus hat zehn Minuten Verspätung.",
+        "fr": "Le bus a dix minutes de retard."
+      }
+    },
+    {
+      "de": "Flughafen",
+      "fr": "l'aéroport",
+      "article": "der",
+      "plural": "Flughäfen",
+      "ex": {
+        "de": "Wie komme ich zum Flughafen?",
+        "fr": "Comment aller à l'aéroport ?"
+      }
+    },
+    {
+      "de": "Koffer",
+      "fr": "la valise",
+      "article": "der",
+      "plural": "Koffer",
+      "ex": {
+        "de": "Mein Koffer ist zu schwer.",
+        "fr": "Ma valise est trop lourde."
+      }
+    },
+    {
+      "de": "Reise",
+      "fr": "le voyage",
+      "article": "die",
+      "plural": "Reisen",
+      "ex": {
+        "de": "Die Reise nach Berlin war toll.",
+        "fr": "Le voyage à Berlin était super."
+      }
+    },
+    {
+      "de": "Haltestelle",
+      "fr": "l'arrêt (bus, tram)",
+      "article": "die",
+      "plural": "Haltestellen",
+      "ex": {
+        "de": "Die Haltestelle ist gleich um die Ecke.",
+        "fr": "L'arrêt est juste au coin de la rue."
+      }
+    },
+    {
+      "de": "Ausweis",
+      "fr": "la pièce d'identité",
+      "article": "der",
+      "plural": "Ausweise",
+      "ex": {
+        "de": "Bitte zeigen Sie Ihren Ausweis.",
+        "fr": "Montrez votre pièce d'identité, s'il vous plaît."
+      }
+    },
+    {
+      "de": "Unterkunft",
+      "fr": "l'hébergement",
+      "article": "die",
+      "plural": "Unterkünfte",
+      "ex": {
+        "de": "Wir suchen eine günstige Unterkunft.",
+        "fr": "Nous cherchons un hébergement bon marché."
+      }
+    },
+    {
+      "de": "umsteigen",
+      "fr": "changer (de train, de bus)",
+      "ex": {
+        "de": "In Frankfurt müssen wir umsteigen.",
+        "fr": "À Francfort, nous devons changer."
+      }
+    },
+    {
+      "de": "abfahren",
+      "fr": "partir (véhicule)",
+      "ex": {
+        "de": "Der Bus soll um acht Uhr abfahren.",
+        "fr": "Le bus doit partir à huit heures."
+      }
+    },
+    {
+      "de": "pünktlich",
+      "fr": "à l'heure, ponctuel",
+      "ex": {
+        "de": "Der Zug ist heute pünktlich.",
+        "fr": "Le train est à l'heure aujourd'hui."
+      }
+    }
+  ]
+}

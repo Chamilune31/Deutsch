@@ -1,0 +1,169 @@
+{
+  "id": "vocab-loisirs",
+  "section": "vocabulaire",
+  "title": "Les loisirs",
+  "level": "A2",
+  "topic": "Loisirs",
+  "summary": "Sorties, sport, culture : parler de son temps libre.",
+  "release": 5,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Pour parler de tes hobbies, proposer une sortie et raconter ton week-end."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Hast du Lust, ins Kino zu gehen?",
+          "fr": "Tu as envie d'aller au cinéma ?"
+        },
+        {
+          "de": "Am Wochenende gehen wir wandern.",
+          "fr": "Ce week-end, nous allons faire de la randonnée."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Le *Verein* (club, association) est central dans la vie allemande : on fait du sport, de la musique ou du théâtre *im Verein*."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Freizeit",
+      "fr": "le temps libre",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "In meiner Freizeit lese ich gern.",
+        "fr": "Pendant mon temps libre, j'aime lire."
+      }
+    },
+    {
+      "de": "Hobby",
+      "fr": "le hobby, le loisir",
+      "article": "das",
+      "plural": "Hobbys",
+      "ex": {
+        "de": "Mein Hobby ist Fotografieren.",
+        "fr": "Mon hobby, c'est la photo."
+      }
+    },
+    {
+      "de": "Ausflug",
+      "fr": "l'excursion, la sortie",
+      "article": "der",
+      "plural": "Ausflüge",
+      "ex": {
+        "de": "Am Sonntag machen wir einen Ausflug.",
+        "fr": "Dimanche, nous faisons une excursion."
+      }
+    },
+    {
+      "de": "Konzert",
+      "fr": "le concert",
+      "article": "das",
+      "plural": "Konzerte",
+      "ex": {
+        "de": "Das Konzert war fantastisch.",
+        "fr": "Le concert était fantastique."
+      }
+    },
+    {
+      "de": "Ausstellung",
+      "fr": "l'exposition",
+      "article": "die",
+      "plural": "Ausstellungen",
+      "ex": {
+        "de": "Die Ausstellung im Museum ist kostenlos.",
+        "fr": "L'exposition du musée est gratuite."
+      }
+    },
+    {
+      "de": "Mannschaft",
+      "fr": "l'équipe",
+      "article": "die",
+      "plural": "Mannschaften",
+      "ex": {
+        "de": "Unsere Mannschaft hat gewonnen.",
+        "fr": "Notre équipe a gagné."
+      }
+    },
+    {
+      "de": "Verein",
+      "fr": "le club, l'association",
+      "article": "der",
+      "plural": "Vereine",
+      "ex": {
+        "de": "Ich spiele Volleyball in einem Verein.",
+        "fr": "Je joue au volley dans un club."
+      }
+    },
+    {
+      "de": "Wanderung",
+      "fr": "la randonnée",
+      "article": "die",
+      "plural": "Wanderungen",
+      "ex": {
+        "de": "Die Wanderung dauert drei Stunden.",
+        "fr": "La randonnée dure trois heures."
+      }
+    },
+    {
+      "de": "Eintritt",
+      "fr": "l'entrée (le prix)",
+      "article": "der",
+      "plural": "-",
+      "ex": {
+        "de": "Der Eintritt kostet zehn Euro.",
+        "fr": "L'entrée coûte dix euros."
+      }
+    },
+    {
+      "de": "Spiel",
+      "fr": "le jeu, le match",
+      "article": "das",
+      "plural": "Spiele",
+      "ex": {
+        "de": "Das Spiel beginnt um 18 Uhr.",
+        "fr": "Le match commence à 18 h."
+      }
+    },
+    {
+      "de": "Lust",
+      "fr": "l'envie",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Hast du Lust auf Kino?",
+        "fr": "Tu as envie d'aller au cinéma ?"
+      }
+    },
+    {
+      "de": "wandern",
+      "fr": "faire de la randonnée",
+      "ex": {
+        "de": "Wir gehen am Wochenende wandern.",
+        "fr": "Nous allons faire de la randonnée ce week-end."
+      }
+    },
+    {
+      "de": "tanzen",
+      "fr": "danser",
+      "ex": {
+        "de": "Sie kann sehr gut tanzen.",
+        "fr": "Elle danse très bien."
+      }
+    },
+    {
+      "de": "spannend",
+      "fr": "passionnant",
+      "ex": {
+        "de": "Der Film war sehr spannend.",
+        "fr": "Le film était passionnant."
+      }
+    }
+  ]
+}

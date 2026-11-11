@@ -1,0 +1,179 @@
+{
+  "id": "vocab-sante",
+  "section": "vocabulaire",
+  "title": "La santé",
+  "level": "A2",
+  "topic": "Santé",
+  "summary": "Chez le médecin, à la pharmacie : dire où on a mal.",
+  "release": 3,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Pour prendre rendez-vous, expliquer tes symptômes et comprendre le pharmacien."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Mir tut der Kopf weh.",
+          "fr": "J'ai mal à la tête."
+        },
+        {
+          "de": "Ich hätte gern einen Termin beim Arzt.",
+          "fr": "Je voudrais un rendez-vous chez le médecin."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Faux ami : ***das Rezept*** = l'ordonnance (et la recette de cuisine), pas le reçu."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Arzt",
+      "fr": "le médecin",
+      "article": "der",
+      "plural": "Ärzte",
+      "ex": {
+        "de": "Ich muss zum Arzt gehen.",
+        "fr": "Je dois aller chez le médecin."
+      }
+    },
+    {
+      "de": "Ärztin",
+      "fr": "la médecin",
+      "article": "die",
+      "plural": "Ärztinnen",
+      "ex": {
+        "de": "Die Ärztin ist sehr nett.",
+        "fr": "La médecin est très gentille."
+      }
+    },
+    {
+      "de": "Termin",
+      "fr": "le rendez-vous",
+      "article": "der",
+      "plural": "Termine",
+      "ex": {
+        "de": "Ich habe morgen einen Termin.",
+        "fr": "J'ai rendez-vous demain."
+      }
+    },
+    {
+      "de": "Kopf",
+      "fr": "la tête",
+      "article": "der",
+      "plural": "Köpfe",
+      "ex": {
+        "de": "Mir tut der Kopf weh.",
+        "fr": "J'ai mal à la tête."
+      }
+    },
+    {
+      "de": "Bauch",
+      "fr": "le ventre",
+      "article": "der",
+      "plural": "Bäuche",
+      "ex": {
+        "de": "Ich habe Schmerzen im Bauch.",
+        "fr": "J'ai mal au ventre."
+      }
+    },
+    {
+      "de": "Schmerz",
+      "fr": "la douleur",
+      "article": "der",
+      "plural": "Schmerzen",
+      "ex": {
+        "de": "Der Schmerz ist sehr stark.",
+        "fr": "La douleur est très forte."
+      }
+    },
+    {
+      "de": "Fieber",
+      "fr": "la fièvre",
+      "article": "das",
+      "plural": "-",
+      "ex": {
+        "de": "Das Kind hat hohes Fieber.",
+        "fr": "L'enfant a beaucoup de fièvre."
+      }
+    },
+    {
+      "de": "Erkältung",
+      "fr": "le rhume",
+      "article": "die",
+      "plural": "Erkältungen",
+      "ex": {
+        "de": "Ich habe eine Erkältung.",
+        "fr": "J'ai un rhume."
+      }
+    },
+    {
+      "de": "Apotheke",
+      "fr": "la pharmacie",
+      "article": "die",
+      "plural": "Apotheken",
+      "ex": {
+        "de": "Die Apotheke ist bis 20 Uhr geöffnet.",
+        "fr": "La pharmacie est ouverte jusqu'à 20 h."
+      }
+    },
+    {
+      "de": "Tablette",
+      "fr": "le comprimé",
+      "article": "die",
+      "plural": "Tabletten",
+      "ex": {
+        "de": "Nimm eine Tablette nach dem Essen.",
+        "fr": "Prends un comprimé après le repas."
+      }
+    },
+    {
+      "de": "Rezept",
+      "fr": "l'ordonnance",
+      "article": "das",
+      "plural": "Rezepte",
+      "ex": {
+        "de": "Der Arzt gibt mir ein Rezept.",
+        "fr": "Le médecin me donne une ordonnance."
+      }
+    },
+    {
+      "de": "Krankenhaus",
+      "fr": "l'hôpital",
+      "article": "das",
+      "plural": "Krankenhäuser",
+      "ex": {
+        "de": "Mein Opa liegt im Krankenhaus.",
+        "fr": "Mon grand-père est à l'hôpital."
+      }
+    },
+    {
+      "de": "krank",
+      "fr": "malade",
+      "ex": {
+        "de": "Ich bin seit gestern krank.",
+        "fr": "Je suis malade depuis hier."
+      }
+    },
+    {
+      "de": "gesund",
+      "fr": "en bonne santé, sain",
+      "ex": {
+        "de": "Sport ist gesund.",
+        "fr": "Le sport est bon pour la santé."
+      }
+    },
+    {
+      "de": "husten",
+      "fr": "tousser",
+      "ex": {
+        "de": "Sie musste die ganze Nacht husten.",
+        "fr": "Elle a toussé toute la nuit."
+      }
+    }
+  ]
+}

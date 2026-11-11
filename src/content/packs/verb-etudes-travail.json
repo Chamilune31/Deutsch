@@ -1,0 +1,41 @@
+{
+  "id": "verb-etudes-travail",
+  "section": "verbes",
+  "title": "Études et travail",
+  "level": "B1",
+  "topic": "Études et travail",
+  "summary": "arbeiten, verstehen, vergessen, bekommen… pour parler de ses études et de son job.",
+  "release": 6,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "p", "text": "Les verbes à préfixe **inséparable** (*be-, ver-, er-, ent-, ge-, zer-*) ne prennent **pas de ge-** au participe : *verstehen → verstanden, bekommen → bekommen*." },
+    { "type": "tip", "text": "Faux ami : ***bekommen*** = recevoir, obtenir (et non « devenir », qui se dit *werden*)." },
+    { "type": "tip", "text": "Les radicaux en -t ou -d ajoutent un **e** : *du arbeitest, er arbeitet, ich arbeitete*." }
+  ],
+  "verbs": [
+    { "inf": "arbeiten", "fr": "travailler", "kinds": ["regulier"], "aux": "haben", "partizip": "gearbeitet",
+      "praesens": ["arbeite", "arbeitest", "arbeitet", "arbeiten", "arbeitet", "arbeiten"],
+      "praeteritum": ["arbeitete", "arbeitetest", "arbeitete", "arbeiteten", "arbeitetet", "arbeiteten"],
+      "example": { "de": "Neben dem Studium arbeite ich in einem Café.", "fr": "En plus de mes études, je travaille dans un café." } },
+    { "inf": "verstehen", "fr": "comprendre", "kinds": ["fort"], "aux": "haben", "partizip": "verstanden",
+      "praesens": ["verstehe", "verstehst", "versteht", "verstehen", "versteht", "verstehen"],
+      "praeteritum": ["verstand", "verstandst", "verstand", "verstanden", "verstandet", "verstanden"],
+      "example": { "de": "Ich habe die Aufgabe nicht verstanden.", "fr": "Je n'ai pas compris l'exercice." } },
+    { "inf": "vergessen", "fr": "oublier", "kinds": ["fort"], "aux": "haben", "partizip": "vergessen",
+      "praesens": ["vergesse", "vergisst", "vergisst", "vergessen", "vergesst", "vergessen"],
+      "praeteritum": ["vergaß", "vergaßt", "vergaß", "vergaßen", "vergaßt", "vergaßen"],
+      "example": { "de": "Ich habe mein Passwort vergessen.", "fr": "J'ai oublié mon mot de passe." } },
+    { "inf": "bekommen", "fr": "recevoir, obtenir", "kinds": ["fort"], "aux": "haben", "partizip": "bekommen",
+      "praesens": ["bekomme", "bekommst", "bekommt", "bekommen", "bekommt", "bekommen"],
+      "praeteritum": ["bekam", "bekamst", "bekam", "bekamen", "bekamt", "bekamen"],
+      "example": { "de": "Sie hat ein Praktikum in München bekommen.", "fr": "Elle a obtenu un stage à Munich." } },
+    { "inf": "verdienen", "fr": "gagner (de l'argent)", "kinds": ["regulier"], "aux": "haben", "partizip": "verdient",
+      "praesens": ["verdiene", "verdienst", "verdient", "verdienen", "verdient", "verdienen"],
+      "praeteritum": ["verdiente", "verdientest", "verdiente", "verdienten", "verdientet", "verdienten"],
+      "example": { "de": "Mit dem Nebenjob verdiene ich 500 Euro im Monat.", "fr": "Avec mon petit boulot, je gagne 500 euros par mois." } },
+    { "inf": "beginnen", "fr": "commencer", "kinds": ["fort"], "aux": "haben", "partizip": "begonnen",
+      "praesens": ["beginne", "beginnst", "beginnt", "beginnen", "beginnt", "beginnen"],
+      "praeteritum": ["begann", "begannst", "begann", "begannen", "begannt", "begannen"],
+      "example": { "de": "Das Semester beginnt im Oktober.", "fr": "Le semestre commence en octobre." } }
+  ]
+}

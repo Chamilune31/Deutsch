@@ -1,0 +1,50 @@
+{
+  "id": "gram-nebensaetze",
+  "section": "grammaire",
+  "title": "Les subordonnées : weil, dass, wenn, obwohl",
+  "level": "A2",
+  "topic": "Subordonnées",
+  "summary": "Envoyer le verbe conjugué à la fin de la subordonnée.",
+  "release": 2,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "p", "text": "Dans une subordonnée, le **verbe conjugué va à la fin**. Une **virgule** sépare toujours la principale et la subordonnée." },
+    { "type": "examples", "items": [
+      { "de": "Ich lerne Deutsch, **weil** ich in Berlin studieren **möchte**.", "fr": "J'apprends l'allemand parce que je voudrais étudier à Berlin." },
+      { "de": "Ich glaube, **dass** der Kurs morgen **beginnt**.", "fr": "Je crois que le cours commence demain." },
+      { "de": "**Wenn** ich Zeit **habe**, gehe ich ins Kino.", "fr": "Quand j'ai le temps, je vais au cinéma." },
+      { "de": "Ich gehe spazieren, **obwohl** es **regnet**.", "fr": "Je vais me promener bien qu'il pleuve." }
+    ] },
+    { "type": "table", "head": ["Conjonction", "Sens"], "rows": [
+      ["**weil**", "parce que"], ["**dass**", "que"], ["**wenn**", "quand (répétition), si (condition)"], ["**obwohl**", "bien que"], ["**ob**", "si (question indirecte)"]
+    ] },
+    { "type": "h", "text": "Verbes séparables, modaux et Perfekt" },
+    { "type": "list", "items": [
+      "Séparable : le verbe se ressoude — *…, weil ich früh **aufstehe**.*",
+      "Modal : le modal conjugué en dernier — *…, dass er nicht kommen **kann**.*",
+      "Perfekt : l'auxiliaire en dernier — *…, weil ich krank gewesen **bin**.*"
+    ] },
+    { "type": "tip", "text": "Si la subordonnée vient en premier, la principale commence par son verbe : *Wenn ich Zeit habe, **gehe** ich ins Kino.* (verbe, virgule, verbe)." },
+    { "type": "tip", "text": "**denn** (car) ne change pas l'ordre des mots : *Ich bleibe zu Hause, denn ich **bin** krank.*" }
+  ],
+  "exercises": [
+    { "type": "order", "answers": ["Ich bleibe zu Hause, weil ich krank bin"], "why": "Après *weil*, le verbe conjugué (*bin*) va à la fin." },
+    { "type": "mcq", "q": "Ich weiß, ___ du recht hast.", "options": ["dass", "weil", "wenn"], "answer": 0, "why": "« Je sais **que** tu as raison » → **dass**." },
+    { "type": "mcq", "q": "Ich komme nicht, weil ich ___.", "options": ["arbeiten muss", "muss arbeiten", "arbeite muss"], "answer": 0, "why": "Le modal conjugué va tout à la fin : *weil ich arbeiten **muss***." },
+    { "type": "gap", "q": "Wenn das Wetter schön ist, ___ wir an den See.", "answers": ["fahren", "gehen"], "hint": "la principale commence par le verbe", "why": "Subordonnée en premier → la principale commence par le verbe : *…, **fahren** wir…*" },
+    { "type": "translate", "dir": "fr-de", "q": "Je pense qu'il est malade.", "answers": ["Ich glaube, dass er krank ist.", "Ich denke, dass er krank ist.", "Ich glaube, er ist krank.", "Ich denke, er ist krank."], "why": "*dass* envoie *ist* à la fin. Sans *dass*, on garde l'ordre normal." },
+    { "type": "mcq", "q": "Ich gehe joggen, ___ es regnet.", "options": ["obwohl", "weil", "dass"], "answer": 0, "why": "Opposition (« bien qu'il pleuve ») → **obwohl**." },
+    { "type": "gap", "q": "Ich bin müde, weil ich heute früh ___ bin.", "answers": ["aufgestanden"], "hint": "aufstehen au Perfekt", "why": "Perfekt de *aufstehen* : *bin aufgestanden* ; l'auxiliaire va à la fin." },
+    { "type": "order", "answers": ["Sie fragt, ob du morgen kommst"], "why": "*ob* = si (question indirecte) ; verbe à la fin." }
+  ],
+  "exam": [
+    { "type": "mcq", "q": "Ich lerne viel, ___ ich die Prüfung bestehen will.", "options": ["weil", "obwohl", "ob"], "answer": 0, "why": "Cause → **weil**." },
+    { "type": "order", "answers": ["Wenn ich Zeit habe, lese ich ein Buch"], "why": "Subordonnée en premier → *verbe, virgule, verbe* : *habe, lese*." },
+    { "type": "mcq", "q": "Er sagt, dass er morgen ___.", "options": ["nicht kommen kann", "kann nicht kommen", "nicht kann kommen"], "answer": 0, "why": "Le modal conjugué va en dernier : *nicht kommen **kann***." },
+    { "type": "translate", "dir": "fr-de", "q": "Bien qu'il soit fatigué, il travaille.", "answers": ["Obwohl er müde ist, arbeitet er.", "Er arbeitet, obwohl er müde ist."], "why": "*obwohl* + verbe à la fin ; principale en second : *arbeitet er*." },
+    { "type": "gap", "q": "Ich weiß nicht, ___ er heute kommt.", "answers": ["ob"], "hint": "« si » (question indirecte)", "why": "Question indirecte oui/non → **ob** (et non *wenn*)." },
+    { "type": "mcq", "q": "Ich trinke Kaffee, ___ ich bin müde.", "options": ["denn", "weil", "dass"], "answer": 0, "why": "Le verbe *bin* est en 2e position → c'est **denn** (car), pas *weil*." },
+    { "type": "translate", "dir": "fr-de", "q": "Je reste à la maison parce qu'il pleut.", "answers": ["Ich bleibe zu Hause, weil es regnet.", "Ich bleibe daheim, weil es regnet.", "Weil es regnet, bleibe ich zu Hause."], "why": "*weil* + verbe à la fin : *weil es **regnet***." },
+    { "type": "gap", "q": "Weil ich keine Zeit habe, ___ ich nicht mit.", "answers": ["komme"], "hint": "mitkommen, la principale commence par le verbe", "why": "Principale après la subordonnée : *komme ich nicht mit*." }
+  ]
+}

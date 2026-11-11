@@ -1,0 +1,57 @@
+{
+  "id": "gram-komparativ-superlativ",
+  "section": "grammaire",
+  "title": "Comparer : plus, aussi, le plus",
+  "level": "A2",
+  "topic": "Comparatif et superlatif",
+  "summary": "schneller als, so groß wie, am besten : comparer des personnes et des choses.",
+  "release": 3,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "list", "items": [
+      "Comparatif : adjectif + **-er** + **als** → *schneller als*",
+      "Égalité : **so** + adjectif + **wie** → *so alt wie*",
+      "Superlatif : **am** + adjectif + **-sten** → *am schnellsten* (ou *der/die/das* + **-ste** devant un nom)"
+    ] },
+    { "type": "table", "head": ["Adjectif", "Comparatif", "Superlatif"], "rows": [
+      ["schnell", "schneller", "am schnellsten"],
+      ["klein", "kleiner", "am kleinsten"],
+      ["alt", "**ä**lter", "am **ä**ltesten"],
+      ["groß", "gr**ö**ßer", "am gr**ö**ßten"],
+      ["jung", "j**ü**nger", "am j**ü**ngsten"],
+      ["warm", "w**ä**rmer", "am w**ä**rmsten"],
+      ["gut", "**besser**", "am **besten**"],
+      ["viel", "**mehr**", "am **meisten**"],
+      ["gern", "**lieber**", "am **liebsten**"],
+      ["hoch", "**höher**", "am **höchsten**"]
+    ] },
+    { "type": "examples", "items": [
+      { "de": "Berlin ist **größer als** München.", "fr": "Berlin est plus grande que Munich." },
+      { "de": "Mein Bruder ist **so alt wie** ich.", "fr": "Mon frère a le même âge que moi." },
+      { "de": "Im Juli ist es **am wärmsten**.", "fr": "C'est en juillet qu'il fait le plus chaud." },
+      { "de": "Ich trinke **lieber** Tee **als** Kaffee.", "fr": "Je préfère le thé au café." },
+      { "de": "Das ist **der beste** Film des Jahres.", "fr": "C'est le meilleur film de l'année." }
+    ] },
+    { "type": "tip", "text": "Ne dis jamais *mehr schnell* : en allemand, on ajoute **-er**, même aux adjectifs longs (*interessanter*)." },
+    { "type": "tip", "text": "Adjectifs en -t, -d, -z, -s, -ß : un **-e-** s'ajoute au superlatif → *am ältesten, am kürzesten, am interessantesten*." }
+  ],
+  "exercises": [
+    { "type": "mcq", "q": "Ein Auto ist ___ als ein Fahrrad.", "options": ["schneller", "mehr schnell", "schnellste"], "answer": 0, "why": "Comparatif : **schneller als**." },
+    { "type": "gap", "q": "Mein Bruder ist zwei Jahre ___ als ich.", "answers": ["älter"], "hint": "alt", "why": "*alt* prend un Umlaut : **älter**." },
+    { "type": "mcq", "q": "Ich esse ___ Pizza als Pasta.", "options": ["lieber", "gerner", "mehr gern"], "answer": 0, "why": "Comparatif irrégulier de *gern* : **lieber**." },
+    { "type": "gap", "q": "Im Winter ist es kalt, aber im Januar ist es am ___.", "answers": ["kältesten"], "hint": "kalt, superlatif", "why": "*kalt* → am **kältesten** (Umlaut + -e- après -t)." },
+    { "type": "mcq", "q": "Anna ist so groß ___ ihre Mutter.", "options": ["wie", "als", "dass"], "answer": 0, "why": "Égalité : **so … wie**." },
+    { "type": "translate", "dir": "fr-de", "q": "Ce livre est meilleur que le film.", "answers": ["Dieses Buch ist besser als der Film.", "Das Buch ist besser als der Film."], "why": "*gut* → **besser als**." },
+    { "type": "gap", "q": "Die Zugspitze ist der ___ Berg Deutschlands.", "answers": ["höchste"], "hint": "hoch, superlatif devant un nom", "why": "Devant un nom : *der **höchste** Berg*." }
+  ],
+  "exam": [
+    { "type": "gap", "q": "Heute ist es ___ als gestern.", "answers": ["wärmer"], "hint": "warm", "why": "*warm* → **wärmer** (Umlaut)." },
+    { "type": "mcq", "q": "Wer ist ___ in deiner Familie ?", "options": ["am jüngsten", "am jüngste", "der jüngster"], "answer": 0, "why": "Superlatif sans nom : **am jüngsten**." },
+    { "type": "mcq", "q": "Berlin hat ___ Einwohner als Hamburg.", "options": ["mehr", "viel", "mehrer"], "answer": 0, "why": "*viel* → **mehr** (invariable)." },
+    { "type": "translate", "dir": "fr-de", "q": "Je suis aussi grande que ma sœur.", "answers": ["Ich bin so groß wie meine Schwester."], "why": "Égalité : **so groß wie**." },
+    { "type": "gap", "q": "Von allen Sprachen finde ich Deutsch am ___.", "answers": ["interessantesten"], "hint": "interessant", "why": "Adjectif en -t → **-esten** : am interessantesten." },
+    { "type": "mcq", "q": "Das ist die ___ Idee !", "options": ["beste", "besten", "gutste"], "answer": 0, "why": "*gut* → *best-* ; *die beste Idee* (nominatif féminin)." },
+    { "type": "translate", "dir": "fr-de", "q": "Je préfère le thé. (boire)", "answers": ["Ich trinke lieber Tee.", "Ich trinke lieber Tee als Kaffee."], "why": "Préférence : verbe + **lieber**." },
+    { "type": "gap", "q": "Der Zug ist teurer ___ der Bus.", "answers": ["als"], "hint": "plus … que", "why": "Comparatif + **als**." }
+  ]
+}

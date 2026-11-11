@@ -1,0 +1,162 @@
+{
+  "id": "vocab-etudes",
+  "section": "vocabulaire",
+  "title": "Les études",
+  "level": "A2",
+  "topic": "Études",
+  "summary": "Cours, examens, stage : parler de ta vie d'étudiante.",
+  "release": 2,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Le vocabulaire de l'université et des écoles, utile pour un échange ou un stage en Allemagne."
+    },
+    {
+      "type": "tip",
+      "text": "En Allemagne, la meilleure note est **1** (sehr gut) et la plus mauvaise **6** (à l'université : 5 = nicht bestanden)."
+    },
+    {
+      "type": "tip",
+      "text": "*eine Prüfung **bestehen*** = réussir un examen ; *durch eine Prüfung **fallen*** = échouer. *Passer un examen* se dit *eine Prüfung **machen** / **schreiben***."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Hochschule",
+      "fr": "l'école supérieure",
+      "article": "die",
+      "plural": "Hochschulen",
+      "ex": {
+        "de": "Sie studiert an einer Hochschule in Paris.",
+        "fr": "Elle étudie dans une école supérieure à Paris."
+      }
+    },
+    {
+      "de": "Vorlesung",
+      "fr": "le cours magistral",
+      "article": "die",
+      "plural": "Vorlesungen",
+      "ex": {
+        "de": "Die Vorlesung beginnt um zehn Uhr.",
+        "fr": "Le cours magistral commence à dix heures."
+      }
+    },
+    {
+      "de": "Prüfung",
+      "fr": "l'examen",
+      "article": "die",
+      "plural": "Prüfungen",
+      "ex": {
+        "de": "Morgen habe ich eine wichtige Prüfung.",
+        "fr": "Demain, j'ai un examen important."
+      }
+    },
+    {
+      "de": "Note",
+      "fr": "la note",
+      "article": "die",
+      "plural": "Noten",
+      "ex": {
+        "de": "Sie hat eine gute Note bekommen.",
+        "fr": "Elle a eu une bonne note."
+      }
+    },
+    {
+      "de": "Hausaufgabe",
+      "fr": "le devoir (à la maison)",
+      "article": "die",
+      "plural": "Hausaufgaben",
+      "ex": {
+        "de": "Die Hausaufgabe ist für Montag.",
+        "fr": "Le devoir est pour lundi."
+      }
+    },
+    {
+      "de": "Stundenplan",
+      "fr": "l'emploi du temps",
+      "article": "der",
+      "plural": "Stundenpläne",
+      "ex": {
+        "de": "Mein Stundenplan ist dieses Semester sehr voll.",
+        "fr": "Mon emploi du temps est très chargé ce semestre."
+      }
+    },
+    {
+      "de": "Semester",
+      "fr": "le semestre",
+      "article": "das",
+      "plural": "Semester",
+      "ex": {
+        "de": "Das Semester endet im Januar.",
+        "fr": "Le semestre se termine en janvier."
+      }
+    },
+    {
+      "de": "Bibliothek",
+      "fr": "la bibliothèque",
+      "article": "die",
+      "plural": "Bibliotheken",
+      "ex": {
+        "de": "Ich lerne oft in der Bibliothek.",
+        "fr": "Je travaille souvent à la bibliothèque."
+      }
+    },
+    {
+      "de": "Abschluss",
+      "fr": "le diplôme (de fin d'études)",
+      "article": "der",
+      "plural": "Abschlüsse",
+      "ex": {
+        "de": "Nach dem Abschluss möchte ich im Ausland arbeiten.",
+        "fr": "Après mon diplôme, je voudrais travailler à l'étranger."
+      }
+    },
+    {
+      "de": "Praktikum",
+      "fr": "le stage",
+      "article": "das",
+      "plural": "Praktika",
+      "ex": {
+        "de": "Ich mache ein Praktikum bei einer Bank.",
+        "fr": "Je fais un stage dans une banque."
+      }
+    },
+    {
+      "de": "Referat",
+      "fr": "l'exposé",
+      "article": "das",
+      "plural": "Referate",
+      "ex": {
+        "de": "Morgen halte ich ein Referat über Marketing.",
+        "fr": "Demain, je fais un exposé sur le marketing."
+      }
+    },
+    {
+      "de": "Kommilitone",
+      "fr": "le camarade d'études",
+      "article": "der",
+      "plural": "Kommilitonen",
+      "ex": {
+        "de": "Mein Kommilitone hilft mir beim Lernen.",
+        "fr": "Mon camarade m'aide à réviser."
+      }
+    },
+    {
+      "de": "bestehen",
+      "fr": "réussir (un examen)",
+      "ex": {
+        "de": "Ich hoffe, ich kann die Prüfung bestehen.",
+        "fr": "J'espère que je vais réussir l'examen."
+      }
+    },
+    {
+      "de": "lernen",
+      "fr": "apprendre, réviser",
+      "ex": {
+        "de": "Heute Abend muss ich für die Prüfung lernen.",
+        "fr": "Ce soir, je dois réviser pour l'examen."
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "gram-relativsaetze",
+  "section": "grammaire",
+  "title": "Les propositions relatives",
+  "level": "B1",
+  "topic": "Relatives",
+  "summary": "der Mann, der… / den… / dem… : choisir le bon pronom relatif.",
+  "release": 5,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "p", "text": "La relative précise un nom. Le pronom relatif ressemble à l'article défini, le **verbe va à la fin** et la relative est entre **virgules**." },
+    { "type": "table", "head": ["", "Masculin", "Féminin", "Neutre", "Pluriel"], "rows": [
+      ["Nominatif", "der", "die", "das", "die"],
+      ["Accusatif", "den", "die", "das", "die"],
+      ["Datif", "dem", "der", "dem", "**denen**"]
+    ] },
+    { "type": "p", "text": "Le **genre et le nombre** viennent du nom remplacé ; le **cas** vient de la fonction du pronom dans la relative." },
+    { "type": "examples", "items": [
+      { "de": "Das ist der Mann, **der** neben mir wohnt.", "fr": "C'est l'homme qui habite à côté de chez moi. (sujet → nominatif)" },
+      { "de": "Das ist der Mann, **den** ich gestern gesehen habe.", "fr": "C'est l'homme que j'ai vu hier. (COD → accusatif)" },
+      { "de": "Das ist der Mann, **dem** ich geholfen habe.", "fr": "C'est l'homme que j'ai aidé. (helfen + datif)" },
+      { "de": "Die Freunde, mit **denen** ich reise, sind lustig.", "fr": "Les amis avec qui je voyage sont drôles." },
+      { "de": "Das Buch, **das** ich lese, ist spannend.", "fr": "Le livre que je lis est passionnant." }
+    ] },
+    { "type": "tip", "text": "Avec une préposition, elle se place **devant** le pronom : *die Stadt, **in der** ich wohne*." },
+    { "type": "tip", "text": "Ne confonds pas le relatif ***das*** (qui/que) et la conjonction ***dass*** (que)." }
+  ],
+  "exercises": [
+    { "type": "mcq", "q": "Das ist die Frau, ___ in Berlin wohnt.", "options": ["die", "der", "den"], "answer": 0, "why": "Féminin, sujet de *wohnt* → nominatif **die**." },
+    { "type": "mcq", "q": "Der Film, ___ wir gestern gesehen haben, war super.", "options": ["den", "der", "dem"], "answer": 0, "why": "Masculin, COD de *gesehen* → accusatif **den**." },
+    { "type": "gap", "q": "Das ist mein Freund, ___ ich oft helfe.", "answers": ["dem"], "hint": "helfen + datif", "why": "Masculin + *helfen* (datif) → **dem**." },
+    { "type": "gap", "q": "Die Kinder, mit ___ ich spiele, sind nett.", "answers": ["denen"], "hint": "mit + datif pluriel", "why": "Datif pluriel → **denen**." },
+    { "type": "mcq", "q": "Das ist das Haus, ___ ich gekauft habe.", "options": ["das", "dass", "dem"], "answer": 0, "why": "Pronom relatif neutre accusatif → **das** (un seul s)." },
+    { "type": "order", "answers": ["Das ist die Stadt, in der ich wohne"], "why": "Préposition + pronom relatif (*in der*), verbe à la fin." },
+    { "type": "translate", "dir": "fr-de", "q": "Le livre que je lis est intéressant.", "answers": ["Das Buch, das ich lese, ist interessant.", "Das Buch, das ich gerade lese, ist interessant."], "why": "das Buch → relatif **das** ; deux virgules autour de la relative." }
+  ],
+  "exam": [
+    { "type": "gap", "q": "Wie heißt der Kollege, ___ aus Spanien kommt ?", "answers": ["der"], "hint": "sujet, masculin", "why": "Sujet de *kommt* → nominatif **der**." },
+    { "type": "mcq", "q": "Die Wohnung, ___ wir suchen, muss billig sein.", "options": ["die", "der", "denen"], "answer": 0, "why": "Féminin, COD de *suchen* → **die**." },
+    { "type": "mcq", "q": "Das ist die Lehrerin, ___ ich die Hausaufgaben gegeben habe.", "options": ["der", "die", "dem"], "answer": 0, "why": "On donne **à** la professeure → datif féminin **der**." },
+    { "type": "gap", "q": "Das Restaurant, in ___ wir gegessen haben, ist teuer.", "answers": ["dem"], "hint": "in + datif, das Restaurant", "why": "Position → *in* + datif neutre : **dem**." },
+    { "type": "translate", "dir": "fr-de", "q": "C'est la femme que j'aime.", "answers": ["Das ist die Frau, die ich liebe."], "why": "Féminin accusatif → **die** ; verbe à la fin." },
+    { "type": "mcq", "q": "Die Leute, ___ ich geschrieben habe, haben nicht geantwortet.", "options": ["denen", "die", "den"], "answer": 0, "why": "On écrit **à** quelqu'un → datif pluriel **denen**." },
+    { "type": "order", "answers": ["Der Mann, der dort steht, ist mein Vater"], "why": "Relative intercalée entre virgules, verbe *steht* à la fin." },
+    { "type": "mcq", "q": "Kennst du den Studenten, ___ Deutsch lernt ?", "options": ["der", "den", "dem"], "answer": 0, "why": "Sujet de *lernt* → nominatif **der** (même si *den Studenten* est à l'accusatif dans la principale)." }
+  ]
+}

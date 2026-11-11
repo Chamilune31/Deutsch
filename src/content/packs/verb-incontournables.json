@@ -1,0 +1,39 @@
+{
+  "id": "verb-incontournables",
+  "section": "verbes",
+  "title": "Les incontournables : sein, haben, werden…",
+  "level": "A2",
+  "topic": "Verbes essentiels",
+  "summary": "Les cinq verbes irréguliers qu'on utilise dans presque chaque phrase.",
+  "release": 0,
+  "createdAt": "2026-11-11",
+  "lesson": [
+    { "type": "p", "text": "**sein** et **haben** servent d'auxiliaires au Perfekt, **werden** sert à former le futur (et le passif). Ils sont irréguliers à tous les temps : ce sont les premiers à maîtriser." },
+    { "type": "tip", "text": "À l'oral, on raconte le passé au **Perfekt**… sauf avec *sein*, *haben* et les modaux, qu'on emploie surtout au **Präteritum** : *Ich **war** müde. Ich **hatte** keine Zeit.*" },
+    { "type": "tip", "text": "*wissen* = savoir (une information) ; *kennen* = connaître (une personne, un lieu). *Ich **weiß**, wo er wohnt. Ich **kenne** ihn.*" }
+  ],
+  "verbs": [
+    { "inf": "sein", "fr": "être", "kinds": ["auxiliaire", "fort"], "aux": "sein", "partizip": "gewesen",
+      "praesens": ["bin", "bist", "ist", "sind", "seid", "sind"],
+      "praeteritum": ["war", "warst", "war", "waren", "wart", "waren"],
+      "example": { "de": "Gestern war ich sehr müde.", "fr": "Hier, j'étais très fatiguée." } },
+    { "inf": "haben", "fr": "avoir", "kinds": ["auxiliaire"], "aux": "haben", "partizip": "gehabt",
+      "praesens": ["habe", "hast", "hat", "haben", "habt", "haben"],
+      "praeteritum": ["hatte", "hattest", "hatte", "hatten", "hattet", "hatten"],
+      "example": { "de": "Wir hatten keine Zeit.", "fr": "Nous n'avions pas le temps." } },
+    { "inf": "werden", "fr": "devenir", "kinds": ["auxiliaire", "fort"], "aux": "sein", "partizip": "geworden",
+      "praesens": ["werde", "wirst", "wird", "werden", "werdet", "werden"],
+      "praeteritum": ["wurde", "wurdest", "wurde", "wurden", "wurdet", "wurden"],
+      "example": { "de": "Sie wird Ärztin.", "fr": "Elle va devenir médecin." },
+      "note": "Avec un infinitif, werden forme le futur : Ich werde morgen arbeiten." },
+    { "inf": "wissen", "fr": "savoir", "kinds": ["mixte"], "aux": "haben", "partizip": "gewusst",
+      "praesens": ["weiß", "weißt", "weiß", "wissen", "wisst", "wissen"],
+      "praeteritum": ["wusste", "wusstest", "wusste", "wussten", "wusstet", "wussten"],
+      "example": { "de": "Weißt du, wann der Kurs beginnt?", "fr": "Sais-tu quand le cours commence ?" } },
+    { "inf": "geben", "fr": "donner", "kinds": ["fort"], "aux": "haben", "partizip": "gegeben",
+      "praesens": ["gebe", "gibst", "gibt", "geben", "gebt", "geben"],
+      "praeteritum": ["gab", "gabst", "gab", "gaben", "gabt", "gaben"],
+      "example": { "de": "Es gibt ein Problem.", "fr": "Il y a un problème." },
+      "note": "es gibt + accusatif = il y a." }
+  ]
+}
