@@ -1,0 +1,177 @@
+{
+  "id": "vocab-ville",
+  "section": "vocabulaire",
+  "title": "En ville : s'orienter",
+  "level": "A2",
+  "topic": "Ville",
+  "summary": "Demander et indiquer le chemin, les lieux de la ville.",
+  "release": 3,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Pour demander ton chemin et comprendre la réponse."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Entschuldigung, wie komme ich zum Rathaus?",
+          "fr": "Pardon, comment aller à la mairie ?"
+        },
+        {
+          "de": "Gehen Sie geradeaus und dann die zweite Straße links.",
+          "fr": "Allez tout droit, puis prenez la deuxième rue à gauche."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Pour la direction : ***zum / zur*** + lieu (*zum Bahnhof, zur Post*) ; pour une ville : ***nach*** (*nach Hamburg*)."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Straße",
+      "fr": "la rue",
+      "article": "die",
+      "plural": "Straßen",
+      "ex": {
+        "de": "Die Straße ist sehr laut.",
+        "fr": "La rue est très bruyante."
+      }
+    },
+    {
+      "de": "Kreuzung",
+      "fr": "le carrefour",
+      "article": "die",
+      "plural": "Kreuzungen",
+      "ex": {
+        "de": "An der Kreuzung gehen Sie rechts.",
+        "fr": "Au carrefour, tournez à droite."
+      }
+    },
+    {
+      "de": "Ampel",
+      "fr": "le feu (de circulation)",
+      "article": "die",
+      "plural": "Ampeln",
+      "ex": {
+        "de": "Bei Rot muss man an der Ampel warten.",
+        "fr": "Au rouge, il faut attendre au feu."
+      }
+    },
+    {
+      "de": "Ecke",
+      "fr": "le coin",
+      "article": "die",
+      "plural": "Ecken",
+      "ex": {
+        "de": "Die Bäckerei ist gleich um die Ecke.",
+        "fr": "La boulangerie est juste au coin."
+      }
+    },
+    {
+      "de": "Rathaus",
+      "fr": "la mairie",
+      "article": "das",
+      "plural": "Rathäuser",
+      "ex": {
+        "de": "Das Rathaus ist am Marktplatz.",
+        "fr": "La mairie est sur la place du marché."
+      }
+    },
+    {
+      "de": "Post",
+      "fr": "la poste",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Ich bringe das Paket zur Post.",
+        "fr": "J'apporte le colis à la poste."
+      }
+    },
+    {
+      "de": "Kirche",
+      "fr": "l'église",
+      "article": "die",
+      "plural": "Kirchen",
+      "ex": {
+        "de": "Die Kirche ist sehr alt.",
+        "fr": "L'église est très ancienne."
+      }
+    },
+    {
+      "de": "Brücke",
+      "fr": "le pont",
+      "article": "die",
+      "plural": "Brücken",
+      "ex": {
+        "de": "Wir gehen über die Brücke.",
+        "fr": "Nous traversons le pont."
+      }
+    },
+    {
+      "de": "Stadtplan",
+      "fr": "le plan de la ville",
+      "article": "der",
+      "plural": "Stadtpläne",
+      "ex": {
+        "de": "Hast du einen Stadtplan?",
+        "fr": "As-tu un plan de la ville ?"
+      }
+    },
+    {
+      "de": "Fußgängerzone",
+      "fr": "la zone piétonne",
+      "article": "die",
+      "plural": "Fußgängerzonen",
+      "ex": {
+        "de": "In der Fußgängerzone gibt es viele Geschäfte.",
+        "fr": "Dans la zone piétonne, il y a beaucoup de magasins."
+      }
+    },
+    {
+      "de": "Viertel",
+      "fr": "le quartier",
+      "article": "das",
+      "plural": "Viertel",
+      "ex": {
+        "de": "Ich wohne in einem ruhigen Viertel.",
+        "fr": "J'habite dans un quartier calme."
+      }
+    },
+    {
+      "de": "geradeaus",
+      "fr": "tout droit",
+      "ex": {
+        "de": "Gehen Sie immer geradeaus.",
+        "fr": "Allez toujours tout droit."
+      }
+    },
+    {
+      "de": "links",
+      "fr": "à gauche",
+      "ex": {
+        "de": "Die Post ist links.",
+        "fr": "La poste est à gauche."
+      }
+    },
+    {
+      "de": "rechts",
+      "fr": "à droite",
+      "ex": {
+        "de": "Biegen Sie rechts ab.",
+        "fr": "Tournez à droite."
+      }
+    },
+    {
+      "de": "weit",
+      "fr": "loin",
+      "ex": {
+        "de": "Ist es weit von hier?",
+        "fr": "C'est loin d'ici ?"
+      }
+    }
+  ]
+}

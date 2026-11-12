@@ -1,0 +1,67 @@
+{
+  "id": "parler-organiser-fete",
+  "section": "oral",
+  "title": "Organiser une fête ensemble",
+  "level": "B1",
+  "topic": "Planifier",
+  "release": 1,
+  "summary": "Proposer, accepter, refuser poliment : l'épreuve « planifier ensemble ».",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Dans cette épreuve, tu planifies quelque chose avec ton partenaire. On évalue ta capacité à **proposer**, **réagir** et **trouver un compromis**, pas seulement ton vocabulaire."
+    },
+    {
+      "type": "tip",
+      "text": "Entraîne-toi en jouant les deux rôles : propose une idée, puis réponds-y comme le ferait ton partenaire."
+    }
+  ],
+  "task": {
+    "prompt": "Ton cours d'allemand se termine. Avec une camarade, vous organisez une petite fête pour le groupe. Joue le dialogue en parlant des points ci-dessous (environ **2 minutes**).",
+    "points": [
+      "Quand et où faire la fête ?",
+      "Qui apporte quoi (nourriture, boissons) ?",
+      "Faut-il un cadeau pour le professeur ?",
+      "Qui invite les autres ?"
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 120,
+    "phrases": [
+      {
+        "de": "Wie wäre es mit …?",
+        "fr": "Que dirais-tu de… ?"
+      },
+      {
+        "de": "Wollen wir … ?",
+        "fr": "On … ?"
+      },
+      {
+        "de": "Das ist eine gute Idee!",
+        "fr": "C'est une bonne idée !"
+      },
+      {
+        "de": "Ich bin nicht sicher, ob …",
+        "fr": "Je ne suis pas sûre que…"
+      },
+      {
+        "de": "Ich schlage vor, dass …",
+        "fr": "Je propose que…"
+      },
+      {
+        "de": "Was hältst du davon?",
+        "fr": "Qu'en penses-tu ?"
+      },
+      {
+        "de": "Einverstanden!",
+        "fr": "D'accord !"
+      },
+      {
+        "de": "Dann machen wir es so.",
+        "fr": "Alors, faisons comme ça."
+      }
+    ],
+    "model": "A: Wollen wir die Party am Freitagabend machen? Dann haben alle Zeit.\nB: Gute Idee! Aber wo? Bei mir ist die Wohnung leider zu klein.\nA: Wie wäre es mit dem Park neben der Sprachschule? Wenn das Wetter schlecht ist, können wir in den Kursraum gehen.\nB: Einverstanden. Und das Essen? Ich schlage vor, dass jeder etwas mitbringt.\nA: Ja, das ist am einfachsten. Ich kümmere mich um die Getränke.\nB: Sollen wir auch ein Geschenk für unsere Lehrerin kaufen?\nA: Unbedingt! Vielleicht ein Buch oder Blumen? Was hältst du davon?\nB: Ein Buch finde ich besser. Ich schreibe heute Abend allen eine Nachricht und sammle das Geld.\nA: Super, dann machen wir es so!",
+    "modelFr": "A : On fait la fête vendredi soir ? Tout le monde aura le temps. B : Bonne idée ! Mais où ? Chez moi, l'appartement est trop petit. A : Que dirais-tu du parc à côté de l'école ? S'il fait mauvais, on peut aller dans la salle de cours. B : D'accord. Et pour manger ? Je propose que chacun apporte quelque chose. A : Oui, c'est le plus simple. Je m'occupe des boissons. B : On achète aussi un cadeau pour notre prof ? A : Absolument ! Un livre ou des fleurs ? Qu'en penses-tu ? B : Je préfère un livre. J'écris ce soir un message à tout le monde et je récupère l'argent. A : Super, alors faisons comme ça !"
+  },
+  "createdAt": "2026-11-12"
+}

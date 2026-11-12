@@ -1,7 +1,10 @@
 # Deutsch B1 — ma plateforme d'allemand
 
-Site gratuit pour passer de A2 à B1 : **Mes cours** (Logan, Brayan), **Grammaire**, **Verbes**, **Vocabulaire**,
-avec exercices, examens chronométrés, révision espacée et recommandations.
+Site gratuit pour passer de A2 à B1 :
+- **Apprendre** : Grammaire, Verbes (tableaux + phrases en contexte), Vocabulaire ;
+- **Pratiquer** les quatre compétences du B1 : Lire, Écouter (voix allemande du navigateur), Écrire (rédactions corrigées), Parler (enregistrement de ta voix) ;
+- **Mes cours** avec Logan et Brayan : dépose un PDF ou un Word depuis le site, il devient une leçon ;
+- une **séance du jour** de 15 minutes, des examens chronométrés, la révision espacée et un suivi de progrès.
 Aucune clé API : le contenu est rédigé par Claude (avec ton abonnement) et le site le corrige tout seul.
 
 ## Mise en ligne (une seule fois, environ 10 minutes)
@@ -32,9 +35,12 @@ Aucune clé API : le contenu est rédigé par Claude (avec ton abonnement) et le
   en suivant `docs/programme.json`, vérifie tout (`npm run validate && npm run build`) puis pousse sur GitHub.
 - Pour qu'elle fonctionne, GitHub doit être connecté à Claude (Paramètres → Connecteurs) avec accès à ce dépôt.
 
-## Ajouter un cours
+## Ajouter un cours ou envoyer une rédaction
 
-- **Automatique** : dépose le PDF ou le Word dans `cours/logan/` ou `cours/brayan/` sur GitHub (*Add file → Upload files*).
+- **Depuis le site** : page *Mes cours*, connecte une fois le site à GitHub avec un jeton personnel (instructions affichées sur la page :
+  jeton « fine-grained », accès au seul dépôt Deutsch, permission *Contents : Read and write*), puis dépose ton fichier.
+  Le même jeton permet d'envoyer tes rédactions depuis la section *Écrire*. La tâche planifiée les traite à son passage suivant.
+- **Depuis GitHub** : dépose le PDF ou le Word dans `cours/logan/` ou `cours/brayan/` (*Add file → Upload files*).
 - **Immédiat** : page *Mes cours* → *Copier le prompt* → colle-le dans Claude avec ton fichier → colle la réponse sur le site.
 
 ## Bon à savoir

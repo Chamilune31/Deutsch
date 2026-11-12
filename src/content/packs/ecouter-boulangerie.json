@@ -1,0 +1,206 @@
+{
+  "id": "ecouter-boulangerie",
+  "section": "ecoute",
+  "title": "À la boulangerie",
+  "level": "A2",
+  "topic": "Nourriture",
+  "release": 0,
+  "summary": "Un dialogue au comptoir : commander, demander un prix, payer.",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Écoute une première fois sans lire la transcription pour saisir le sens général, puis une deuxième fois pour les détails (chiffres, heures, lieux)."
+    }
+  ],
+  "listening": {
+    "title": "In der Bäckerei",
+    "situation": "Samedi matin, une cliente commande à la boulangerie.",
+    "lines": [
+      {
+        "who": "Verkäufer",
+        "de": "Guten Morgen! Was darf es sein?"
+      },
+      {
+        "who": "Kundin",
+        "de": "Guten Morgen! Ich hätte gern vier Brötchen und ein Vollkornbrot, bitte."
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Gern. Das Vollkornbrot ist leider schon ausverkauft. Möchten Sie vielleicht ein Roggenbrot?"
+      },
+      {
+        "who": "Kundin",
+        "de": "Ja, dann nehme ich ein Roggenbrot. Und was kostet der Apfelkuchen?"
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Ein Stück kostet zwei Euro fünfzig."
+      },
+      {
+        "who": "Kundin",
+        "de": "Dann nehme ich zwei Stück, für meine Mitbewohnerin und für mich."
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Sehr gern. Sonst noch etwas?"
+      },
+      {
+        "who": "Kundin",
+        "de": "Nein, danke, das ist alles. Kann ich mit Karte zahlen?"
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Ja, natürlich. Das macht dann zusammen elf Euro zwanzig."
+      },
+      {
+        "who": "Kundin",
+        "de": "Hier, bitte. Schönes Wochenende!"
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Danke, Ihnen auch!"
+      }
+    ],
+    "glossary": [
+      {
+        "de": "Was darf es sein?",
+        "fr": "Qu'est-ce que je vous sers ?"
+      },
+      {
+        "de": "das Brötchen",
+        "fr": "le petit pain"
+      },
+      {
+        "de": "ausverkauft",
+        "fr": "épuisé, plus en stock"
+      },
+      {
+        "de": "Sonst noch etwas?",
+        "fr": "Et avec ceci ?"
+      },
+      {
+        "de": "Das macht…",
+        "fr": "Ça fait…"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Wie viele Brötchen kauft die Kundin?",
+      "options": [
+        "Vier",
+        "Zwei",
+        "Sechs"
+      ],
+      "answer": 0,
+      "why": "*Ich hätte gern vier Brötchen.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Warum nimmt sie ein Roggenbrot?",
+      "options": [
+        "Das Vollkornbrot ist ausverkauft",
+        "Sie mag kein Vollkornbrot",
+        "Das Roggenbrot ist billiger"
+      ],
+      "answer": 0,
+      "why": "*Das Vollkornbrot ist leider schon ausverkauft.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel kostet ein Stück Apfelkuchen?",
+      "options": [
+        "2,50 €",
+        "2,00 €",
+        "5,00 €"
+      ],
+      "answer": 0,
+      "why": "*zwei Euro fünfzig*."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie bezahlt die Kundin?",
+      "options": [
+        "Mit Karte",
+        "Bar",
+        "Sie bezahlt nicht"
+      ],
+      "answer": 0,
+      "why": "*Kann ich mit Karte zahlen? — Ja, natürlich.*"
+    },
+    {
+      "type": "dictation",
+      "text": "Ich hätte gern vier Brötchen, bitte.",
+      "fr": "Je voudrais quatre petits pains, s'il vous plaît.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "dictation",
+      "text": "Kann ich mit Karte zahlen?",
+      "fr": "Je peux payer par carte ?",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Für wen ist der zweite Kuchen?",
+      "options": [
+        "Für ihre Mitbewohnerin",
+        "Für ihre Mutter",
+        "Für den Verkäufer"
+      ],
+      "answer": 0,
+      "why": "*für meine Mitbewohnerin und für mich*."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel bezahlt die Kundin insgesamt?",
+      "options": [
+        "11,20 €",
+        "12,10 €",
+        "10,20 €"
+      ],
+      "answer": 0,
+      "why": "*elf Euro zwanzig*."
+    },
+    {
+      "type": "mcq",
+      "q": "Wann findet das Gespräch statt?",
+      "options": [
+        "Am Morgen",
+        "Am Abend",
+        "Am Mittag"
+      ],
+      "answer": 0,
+      "why": "*Guten Morgen!*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was fragt der Verkäufer am Ende?",
+      "options": [
+        "Sonst noch etwas?",
+        "Möchten Sie eine Tüte?",
+        "Haben Sie Kleingeld?"
+      ],
+      "answer": 0,
+      "why": "*Sonst noch etwas?* = Et avec ceci ?"
+    },
+    {
+      "type": "dictation",
+      "text": "Das macht zusammen elf Euro zwanzig.",
+      "fr": "Ça fait onze euros vingt en tout.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "gap",
+      "q": "Der Verkäufer fragt am Anfang: „Was darf es ___?“",
+      "answers": [
+        "sein"
+      ],
+      "why": "Formule figée : *Was darf es **sein**?*"
+    }
+  ],
+  "createdAt": "2026-11-12"
+}

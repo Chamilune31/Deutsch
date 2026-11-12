@@ -49,7 +49,7 @@ export function VerbTables({ verbs }: { verbs: Verb[] }) {
                 <div className="fr">{v.example.fr}</div>
               </div>
             )}
-            {v.note && <p className="hint">💡 {v.note}</p>}
+            {v.note && <p className="hint">{v.note}</p>}
           </div>
         ))}
       </div>

@@ -5,46 +5,286 @@
   "level": "A2",
   "topic": "Communication",
   "summary": "Parler, dire, demander, raconter, écrire, lire, aux quatre temps.",
-  "release": 5,
+  "release": 4,
   "createdAt": "2026-11-11",
   "lesson": [
-    { "type": "list", "items": [
-      "**sprechen** = parler (une langue, avec quelqu'un) ; **sagen** = dire (quelque chose).",
-      "**fragen** = demander (poser une question) ; pour demander un objet, on dit *bitten um*.",
-      "**erzählen** = raconter : pas de *ge-* au participe (*erzählt*), comme tous les verbes en *er-, be-, ver-*."
-    ] },
-    { "type": "examples", "items": [
-      { "de": "Sprichst du Deutsch?", "fr": "Tu parles allemand ?" },
-      { "de": "Was hat er gesagt?", "fr": "Qu'est-ce qu'il a dit ?" },
-      { "de": "Sie hat mir von ihrer Reise erzählt.", "fr": "Elle m'a parlé de son voyage." }
-    ] },
-    { "type": "tip", "text": "*sprechen* et *lesen* changent de voyelle : *du sprichst, er spricht* ; *du liest, er liest*." }
+    {
+      "type": "list",
+      "items": [
+        "**sprechen** = parler (une langue, avec quelqu'un) ; **sagen** = dire (quelque chose).",
+        "**fragen** = demander (poser une question) ; pour demander un objet, on dit *bitten um*.",
+        "**erzählen** = raconter : pas de *ge-* au participe (*erzählt*), comme tous les verbes en *er-, be-, ver-*."
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Sprichst du Deutsch?",
+          "fr": "Tu parles allemand ?"
+        },
+        {
+          "de": "Was hat er gesagt?",
+          "fr": "Qu'est-ce qu'il a dit ?"
+        },
+        {
+          "de": "Sie hat mir von ihrer Reise erzählt.",
+          "fr": "Elle m'a parlé de son voyage."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*sprechen* et *lesen* changent de voyelle : *du sprichst, er spricht* ; *du liest, er liest*."
+    }
   ],
   "verbs": [
-    { "inf": "sprechen", "fr": "parler", "kinds": ["fort"], "aux": "haben", "partizip": "gesprochen",
-      "praesens": ["spreche", "sprichst", "spricht", "sprechen", "sprecht", "sprechen"],
-      "praeteritum": ["sprach", "sprachst", "sprach", "sprachen", "spracht", "sprachen"],
-      "example": { "de": "Er spricht drei Sprachen.", "fr": "Il parle trois langues." } },
-    { "inf": "sagen", "fr": "dire", "kinds": ["regulier"], "aux": "haben", "partizip": "gesagt",
-      "praesens": ["sage", "sagst", "sagt", "sagen", "sagt", "sagen"],
-      "praeteritum": ["sagte", "sagtest", "sagte", "sagten", "sagtet", "sagten"],
-      "example": { "de": "Kannst du das noch einmal sagen?", "fr": "Tu peux le redire ?" } },
-    { "inf": "fragen", "fr": "demander, questionner", "kinds": ["regulier"], "aux": "haben", "partizip": "gefragt",
-      "praesens": ["frage", "fragst", "fragt", "fragen", "fragt", "fragen"],
-      "praeteritum": ["fragte", "fragtest", "fragte", "fragten", "fragtet", "fragten"],
-      "example": { "de": "Ich frage den Lehrer nach der Lösung.", "fr": "Je demande la solution au professeur." },
-      "note": "fragen + accusatif de la personne : Ich frage ihn." },
-    { "inf": "erzählen", "fr": "raconter", "kinds": ["regulier"], "aux": "haben", "partizip": "erzählt",
-      "praesens": ["erzähle", "erzählst", "erzählt", "erzählen", "erzählt", "erzählen"],
-      "praeteritum": ["erzählte", "erzähltest", "erzählte", "erzählten", "erzähltet", "erzählten"],
-      "example": { "de": "Erzähl mal, wie war dein Wochenende?", "fr": "Raconte, c'était comment ton week-end ?" } },
-    { "inf": "schreiben", "fr": "écrire", "kinds": ["fort"], "aux": "haben", "partizip": "geschrieben",
-      "praesens": ["schreibe", "schreibst", "schreibt", "schreiben", "schreibt", "schreiben"],
-      "praeteritum": ["schrieb", "schriebst", "schrieb", "schrieben", "schriebt", "schrieben"],
-      "example": { "de": "Ich schreibe meiner Freundin eine Nachricht.", "fr": "J'écris un message à mon amie." } },
-    { "inf": "lesen", "fr": "lire", "kinds": ["fort"], "aux": "haben", "partizip": "gelesen",
-      "praesens": ["lese", "liest", "liest", "lesen", "lest", "lesen"],
-      "praeteritum": ["las", "last", "las", "lasen", "last", "lasen"],
-      "example": { "de": "Abends lese ich gern einen Roman.", "fr": "Le soir, j'aime lire un roman." } }
+    {
+      "inf": "sprechen",
+      "fr": "parler",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "gesprochen",
+      "praesens": [
+        "spreche",
+        "sprichst",
+        "spricht",
+        "sprechen",
+        "sprecht",
+        "sprechen"
+      ],
+      "praeteritum": [
+        "sprach",
+        "sprachst",
+        "sprach",
+        "sprachen",
+        "spracht",
+        "sprachen"
+      ],
+      "example": {
+        "de": "Er spricht drei Sprachen.",
+        "fr": "Il parle trois langues."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Sprichst] du auch Spanisch?",
+          "fr": "Tu parles aussi espagnol ?"
+        },
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] gestern mit meinem Chef [gesprochen].",
+          "fr": "J'ai parlé avec mon chef hier."
+        }
+      ]
+    },
+    {
+      "inf": "sagen",
+      "fr": "dire",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "gesagt",
+      "praesens": [
+        "sage",
+        "sagst",
+        "sagt",
+        "sagen",
+        "sagt",
+        "sagen"
+      ],
+      "praeteritum": [
+        "sagte",
+        "sagtest",
+        "sagte",
+        "sagten",
+        "sagtet",
+        "sagten"
+      ],
+      "example": {
+        "de": "Kannst du das noch einmal sagen?",
+        "fr": "Tu peux le redire ?"
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Was [hat] der Lehrer [gesagt]?",
+          "fr": "Qu'a dit le professeur ?"
+        },
+        {
+          "t": "praesens",
+          "de": "Wie [sagt] man das auf Deutsch?",
+          "fr": "Comment dit-on ça en allemand ?"
+        }
+      ]
+    },
+    {
+      "inf": "fragen",
+      "fr": "demander, questionner",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "gefragt",
+      "praesens": [
+        "frage",
+        "fragst",
+        "fragt",
+        "fragen",
+        "fragt",
+        "fragen"
+      ],
+      "praeteritum": [
+        "fragte",
+        "fragtest",
+        "fragte",
+        "fragten",
+        "fragtet",
+        "fragten"
+      ],
+      "example": {
+        "de": "Ich frage den Lehrer nach der Lösung.",
+        "fr": "Je demande la solution au professeur."
+      },
+      "note": "fragen + accusatif de la personne : Ich frage ihn.",
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Ich [frage] mal die Verkäuferin.",
+          "fr": "Je vais demander à la vendeuse."
+        },
+        {
+          "t": "perfekt",
+          "de": "[Hast] du ihn nach seiner Nummer [gefragt]?",
+          "fr": "Tu lui as demandé son numéro ?"
+        }
+      ]
+    },
+    {
+      "inf": "erzählen",
+      "fr": "raconter",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "erzählt",
+      "praesens": [
+        "erzähle",
+        "erzählst",
+        "erzählt",
+        "erzählen",
+        "erzählt",
+        "erzählen"
+      ],
+      "praeteritum": [
+        "erzählte",
+        "erzähltest",
+        "erzählte",
+        "erzählten",
+        "erzähltet",
+        "erzählten"
+      ],
+      "example": {
+        "de": "Erzähl mal, wie war dein Wochenende?",
+        "fr": "Raconte, c'était comment ton week-end ?"
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Sie [hat] mir von ihrer Reise [erzählt].",
+          "fr": "Elle m'a parlé de son voyage."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Meine Oma [erzählte] uns oft Geschichten.",
+          "fr": "Ma grand-mère nous racontait souvent des histoires."
+        }
+      ]
+    },
+    {
+      "inf": "schreiben",
+      "fr": "écrire",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "geschrieben",
+      "praesens": [
+        "schreibe",
+        "schreibst",
+        "schreibt",
+        "schreiben",
+        "schreibt",
+        "schreiben"
+      ],
+      "praeteritum": [
+        "schrieb",
+        "schriebst",
+        "schrieb",
+        "schrieben",
+        "schriebt",
+        "schrieben"
+      ],
+      "example": {
+        "de": "Ich schreibe meiner Freundin eine Nachricht.",
+        "fr": "J'écris un message à mon amie."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Ich [schreibe] dir heute Abend eine Nachricht.",
+          "fr": "Je t'écris un message ce soir."
+        },
+        {
+          "t": "perfekt",
+          "de": "Wir [haben] einen Brief an die Firma [geschrieben].",
+          "fr": "Nous avons écrit une lettre à l'entreprise."
+        }
+      ]
+    },
+    {
+      "inf": "lesen",
+      "fr": "lire",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "gelesen",
+      "praesens": [
+        "lese",
+        "liest",
+        "liest",
+        "lesen",
+        "lest",
+        "lesen"
+      ],
+      "praeteritum": [
+        "las",
+        "last",
+        "las",
+        "lasen",
+        "last",
+        "lasen"
+      ],
+      "example": {
+        "de": "Abends lese ich gern einen Roman.",
+        "fr": "Le soir, j'aime lire un roman."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Was [liest] du gerade?",
+          "fr": "Qu'est-ce que tu lis en ce moment ?"
+        },
+        {
+          "t": "perfekt",
+          "de": "[Hast] du das Buch schon [gelesen]?",
+          "fr": "Tu as déjà lu le livre ?"
+        }
+      ]
+    }
   ]
 }

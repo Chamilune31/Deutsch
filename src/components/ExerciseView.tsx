@@ -1,7 +1,8 @@
-import { useMemo, useRef } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import type { Exercise } from '../lib/types';
 import { PRONOUNS, TENSE_LABEL } from '../lib/verbs';
-import { same } from '../lib/grade';
+import { clozeSolution, parseCloze, same, wordScore } from '../lib/grade';
+import { canSpeak, speak } from '../lib/speech';
 import { Rich, SpeakButton } from './Rich';
 
 /* ---------- Insertion des caractères allemands ---------- */
@@ -29,7 +30,9 @@ function TextInput({
   autoFocus,
   onEnter,
   label,
+  width,
 }: {
+  width?: string;
   value: string;
   onChange: (v: string) => void;
   disabled?: boolean;
@@ -40,10 +43,12 @@ function TextInput({
   label?: string;
 }) {
   const ref = useRef<HTMLInputElement>(null);
+  const style = width ? { width } : undefined;
   return (
     <input
       ref={ref}
       className={`text-input ${status ?? ''}`}
+      style={style}
       value={value}
       disabled={disabled}
       placeholder={placeholder}
@@ -102,6 +107,18 @@ export function ExerciseView({
 }) {
   const seed = useMemo(() => Math.random(), [ex]);
 
+  useEffect(() => {
+    if (ex.type !== 'mcq' || revealed) return;
+    const onKey = (e: KeyboardEvent) => {
+      const t = e.target as HTMLElement;
+      if (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.tagName === 'SELECT') return;
+      const n = Number(e.key);
+      if (n >= 1 && n <= ex.options.length) onChange(String(n - 1));
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [ex, revealed, onChange]);
+
   switch (ex.type) {
     case 'mcq':
       return (
@@ -117,7 +134,10 @@ export function ExerciseView({
               else if (revealed && chosen) cls = 'ko';
               return (
                 <button key={i} type="button" className={`option ${cls}`} disabled={revealed} onClick={() => onChange(String(i))}>
-                  <Rich text={o} />
+                  <kbd aria-hidden>{i + 1}</kbd>
+                  <span>
+                    <Rich text={o} />
+                  </span>
                 </button>
               );
             })}
@@ -288,10 +308,111 @@ export function ExerciseView({
         </div>
       );
     }
+
+    case 'cloze': {
+      const parts = parseCloze(ex.text);
+      const n = parts.filter((p) => 'answers' in p).length;
+      const vals = parseArr(given, n);
+      let j = -1;
+      return (
+        <div className="ex">
+          <p className="instr">{ex.q ?? 'Complète avec la bonne forme'}</p>
+          <p className="q gap-line">
+            {parts.map((p, k) => {
+              if ('text' in p) return <Rich key={k} text={p.text} />;
+              j++;
+              const idx = j;
+              const status = revealed ? (p.answers.some((a) => same(a, vals[idx])) ? 'ok' : 'ko') : undefined;
+              return (
+                <span key={k} className="blank">
+                  <TextInput
+                    value={vals[idx]}
+                    disabled={revealed}
+                    status={status}
+                    autoFocus={idx === 0}
+                    label={`Case ${idx + 1}`}
+                    width={`${Math.min(18, Math.max(5, Math.max(...p.answers.map((a) => a.length)) + 3))}ch`}
+                    onEnter={idx === n - 1 ? onEnter : undefined}
+                    onChange={(v) => {
+                      const next = [...vals];
+                      next[idx] = v;
+                      onChange(JSON.stringify(next));
+                    }}
+                  />
+                  {status === 'ko' && <span className="correction inline">{p.answers[0]}</span>}
+                </span>
+              );
+            })}
+          </p>
+          {ex.hint && <p className="hint">{ex.hint}</p>}
+          {!revealed && <UmlautBar />}
+        </div>
+      );
+    }
+
+    case 'dictation':
+      return <Dictation ex={ex} given={given} onChange={onChange} revealed={revealed} onEnter={onEnter} />;
   }
 }
 
+function Dictation({
+  ex,
+  given,
+  onChange,
+  revealed,
+  onEnter,
+}: {
+  ex: Extract<Exercise, { type: 'dictation' }>;
+  given: string;
+  onChange: (v: string) => void;
+  revealed: boolean;
+  onEnter?: () => void;
+}) {
+  const [plays, setPlays] = useState(0);
+  const play = (rate: number) => {
+    speak(ex.text, rate);
+    setPlays((p) => p + 1);
+  };
+  useEffect(() => {
+    const t = setTimeout(() => play(0.85), 350);
+    return () => clearTimeout(t);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ex]);
+  const score = revealed ? wordScore(ex.text, given) : 0;
+  return (
+    <div className="ex">
+      <p className="instr">Écoute et écris la phrase</p>
+      {canSpeak ? (
+        <div className="row">
+          <button type="button" className="btn play" onClick={() => play(0.85)}>
+            Écouter
+          </button>
+          <button type="button" className="btn ghost" onClick={() => play(0.6)}>
+            Plus lentement
+          </button>
+          <span className="muted small">{plays > 0 ? `Écoutée ${plays} fois` : ''}</span>
+        </div>
+      ) : (
+        <p className="muted">La lecture audio n’est pas disponible sur ce navigateur.</p>
+      )}
+      <TextInput
+        value={given}
+        onChange={onChange}
+        disabled={revealed}
+        status={revealed ? (score >= 0.999 ? 'ok' : 'ko') : undefined}
+        autoFocus
+        onEnter={onEnter}
+        placeholder="Écris ce que tu entends…"
+      />
+      {revealed && ex.fr && <p className="hint">{ex.fr}</p>}
+      {!revealed && <UmlautBar />}
+    </div>
+  );
+}
+
 /** Convertit la réponse brute en texte lisible pour le bilan. */
+export { clozeSolution };
+
 export function givenLabel(ex: Exercise, given: string): string {
   if (!given) return '—';
   if (ex.type === 'mcq') return ex.options[Number(given)] ?? '—';
@@ -303,6 +424,13 @@ export function givenLabel(ex: Exercise, given: string): string {
   if (ex.type === 'conjugation') {
     const ask = ex.ask ?? [0, 1, 2, 3, 4, 5];
     return parseArr(given, ask.length).map((v, j) => `${PRONOUNS[ask[j]]} ${v || '?'}`).join(' · ');
+  }
+  if (ex.type === 'cloze') {
+    const vals = parseArr(given, 50);
+    let j = 0;
+    return parseCloze(ex.text)
+      .map((p) => ('text' in p ? p.text : vals[j++] || '___'))
+      .join('');
   }
   return given;
 }

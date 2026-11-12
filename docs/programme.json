@@ -1,5 +1,5 @@
 {
-  "_info": "Programme A2 → B1. La tâche planifiée prend le premier sujet de « a_venir », crée le pack, puis le déplace dans « faits ».",
+  "_info": "Programme A2 → B1. La tâche planifiée prend le premier sujet de « a_venir » de chaque section, crée le pack, puis le déplace dans « faits ».",
   "grammaire": {
     "faits": [
       "gram-akkusativ-dativ",
@@ -9,31 +9,19 @@
       "gram-komparativ-superlativ",
       "gram-adjektivendungen",
       "gram-relativsaetze",
-      "gram-konjunktiv-ii"
+      "gram-konjunktiv-ii",
+      "gram-perfekt",
+      "gram-negation",
+      "gram-wortstellung",
+      "gram-zu-infinitiv"
     ],
     "a_venir": [
-      {
-        "topic": "Le Perfekt : formation et choix de haben / sein",
-        "level": "A2"
-      },
-      {
-        "topic": "La négation : nicht ou kein ?",
-        "level": "A2"
-      },
-      {
-        "topic": "L'ordre des mots dans la phrase (temps, cause, manière, lieu)",
-        "level": "A2"
-      },
       {
         "topic": "Le Präteritum pour raconter à l'écrit",
         "level": "B1"
       },
       {
         "topic": "Verbes à préposition et da- / wo- (warten auf, sich freuen über…)",
-        "level": "B1"
-      },
-      {
-        "topic": "zu + infinitif et um … zu",
         "level": "B1"
       },
       {
@@ -79,21 +67,12 @@
       "verb-reflechis",
       "verb-datif",
       "verb-communication",
-      "verb-etudes-travail"
+      "verb-etudes-travail",
+      "verb-mixtes",
+      "verb-inseparables",
+      "verb-separables-sortir"
     ],
     "a_venir": [
-      {
-        "topic": "Verbes mixtes : bringen, denken, kennen, nennen, rennen",
-        "level": "A2"
-      },
-      {
-        "topic": "Verbes inséparables : besuchen, erklären, verkaufen, gewinnen, verlieren, empfehlen",
-        "level": "A2"
-      },
-      {
-        "topic": "Séparables (2) : mitkommen, einladen, ausgehen, aussehen, zurückkommen",
-        "level": "A2"
-      },
       {
         "topic": "Cuisine : kochen, backen, schneiden, essen, trinken, nehmen",
         "level": "A2"
@@ -133,25 +112,13 @@
       "vocab-sante",
       "vocab-entreprise",
       "vocab-loisirs",
-      "vocab-meteo-environnement"
+      "vocab-meteo-environnement",
+      "vocab-famille",
+      "vocab-vetements",
+      "vocab-ville",
+      "vocab-sentiments"
     ],
     "a_venir": [
-      {
-        "topic": "Famille et relations",
-        "level": "A2"
-      },
-      {
-        "topic": "Vêtements et achats",
-        "level": "A2"
-      },
-      {
-        "topic": "En ville : s'orienter",
-        "level": "A2"
-      },
-      {
-        "topic": "Sentiments et caractère",
-        "level": "B1"
-      },
       {
         "topic": "Médias et numérique",
         "level": "B1"
@@ -183,6 +150,130 @@
       {
         "topic": "Nature et animaux",
         "level": "A2"
+      }
+    ]
+  },
+  "lecture": {
+    "faits": [
+      "lire-annonce-coloc",
+      "lire-mail-hambourg",
+      "lire-article-job-etudiant"
+    ],
+    "a_venir": [
+      {
+        "topic": "Un forum : les avis sur un restaurant",
+        "level": "A2"
+      },
+      {
+        "topic": "Le règlement intérieur d'une résidence étudiante",
+        "level": "A2"
+      },
+      {
+        "topic": "Une offre de stage dans une entreprise allemande",
+        "level": "B1"
+      },
+      {
+        "topic": "Article : la semaine de quatre jours",
+        "level": "B1"
+      },
+      {
+        "topic": "Un programme de festival d'été",
+        "level": "A2"
+      },
+      {
+        "topic": "Mail d'un collègue : organisation d'un séminaire",
+        "level": "B1"
+      }
+    ]
+  },
+  "ecoute": {
+    "faits": [
+      "ecouter-boulangerie",
+      "ecouter-gare",
+      "ecouter-rendez-vous-medecin"
+    ],
+    "a_venir": [
+      {
+        "topic": "Message sur un répondeur : changement de rendez-vous",
+        "level": "A2"
+      },
+      {
+        "topic": "À l'hôtel : réserver une chambre",
+        "level": "A2"
+      },
+      {
+        "topic": "Entretien d'embauche pour un stage",
+        "level": "B1"
+      },
+      {
+        "topic": "Bulletin météo à la radio",
+        "level": "B1"
+      },
+      {
+        "topic": "Au magasin : rapporter un article défectueux",
+        "level": "A2"
+      },
+      {
+        "topic": "Podcast : conseils pour mieux dormir",
+        "level": "B1"
+      }
+    ]
+  },
+  "ecriture": {
+    "faits": [
+      "ecrire-invitation",
+      "ecrire-forum-teletravail",
+      "ecrire-mail-formel"
+    ],
+    "a_venir": [
+      {
+        "topic": "Raconter son week-end à un ami",
+        "level": "A2"
+      },
+      {
+        "topic": "Se plaindre poliment auprès d'un hôtel",
+        "level": "B1"
+      },
+      {
+        "topic": "Forum : faut-il apprendre une langue à l'étranger ?",
+        "level": "B1"
+      },
+      {
+        "topic": "S'excuser auprès d'un professeur pour une absence",
+        "level": "B1"
+      },
+      {
+        "topic": "Répondre à une annonce de colocation",
+        "level": "A2"
+      }
+    ]
+  },
+  "oral": {
+    "faits": [
+      "parler-se-presenter",
+      "parler-organiser-fete",
+      "parler-presentation-reseaux"
+    ],
+    "a_venir": [
+      {
+        "topic": "Décrire une photo : une famille au restaurant",
+        "level": "A2"
+      },
+      {
+        "topic": "Planifier ensemble un week-end à Vienne",
+        "level": "B1"
+      },
+      {
+        "topic": "Présenter : vivre en ville ou à la campagne ?",
+        "level": "B1"
+      },
+      {
+        "topic": "Raconter son meilleur souvenir de voyage",
+        "level": "A2"
+      },
+      {
+        "topic": "Présenter : le sport à l'école",
+        "level": "B1"
       }
     ]
   }

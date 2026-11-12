@@ -43,14 +43,14 @@ export function ReviewPage() {
 
       {!mode && (
         <div className="grid">
-          <button className="pack-card action" type="button" disabled={!due.length} onClick={() => setMode('due')}>
-            <h4>🧠 Révision du jour</h4>
+          <button className="pack-card action s-revision" type="button" disabled={!due.length} onClick={() => setMode('due')}>
+            <h4>Révision du jour</h4>
             <p className="muted">
               {due.length ? `${due.length} élément${due.length > 1 ? 's' : ''} à revoir (max. ${MAX} par séance)` : 'Rien à revoir aujourd’hui, bravo !'}
             </p>
           </button>
-          <button className="pack-card action" type="button" disabled={!hard.length} onClick={() => setMode('hard')}>
-            <h4>🎯 Mes erreurs fréquentes</h4>
+          <button className="pack-card action s-revision" type="button" disabled={!hard.length} onClick={() => setMode('hard')}>
+            <h4>Mes erreurs fréquentes</h4>
             <p className="muted">
               {hard.length ? `${hard.length} élément${hard.length > 1 ? 's' : ''} déjà ratés au moins une fois` : 'Aucune erreur enregistrée pour l’instant.'}
             </p>
@@ -61,7 +61,7 @@ export function ReviewPage() {
       {mode && (
         <div className="card">
           <button type="button" className="back linklike" onClick={() => setMode(null)}>
-            ← Changer de mode
+            Changer de mode
           </button>
           <Quiz
             key={`${mode}${run}`}

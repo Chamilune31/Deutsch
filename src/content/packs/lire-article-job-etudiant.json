@@ -1,0 +1,187 @@
+{
+  "id": "lire-article-job-etudiant",
+  "section": "lecture",
+  "title": "Étudier et travailler",
+  "level": "B1",
+  "topic": "Études et travail",
+  "release": 1,
+  "summary": "Un article de presse sur les jobs étudiants : comprendre les opinions et les chiffres.",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Méthode B1 : lis d'abord les questions, puis parcours le texte en cherchant les passages utiles. Tu n'as pas besoin de comprendre chaque mot."
+    },
+    {
+      "type": "p",
+      "text": "Dans un article, distingue les **faits** (chiffres, études) des **opinions** (citations entre guillemets, *meint, findet, sagt*)."
+    }
+  ],
+  "reading": {
+    "title": "Jobben neben dem Studium: Fluch oder Segen?",
+    "kind": "Article de magazine",
+    "paragraphs": [
+      "Fast zwei Drittel der Studierenden in Deutschland arbeiten neben dem Studium. Das zeigt eine aktuelle Umfrage. Die meisten jobben zehn bis fünfzehn Stunden pro Woche – im Café, im Supermarkt oder als Werkstudent in einem Unternehmen.",
+      "Der wichtigste Grund ist das Geld. Vor allem in Großstädten wie München oder Hamburg sind die Mieten in den letzten Jahren stark gestiegen. „Ohne meinen Job könnte ich mir mein WG-Zimmer nicht leisten“, erzählt Jonas, 23, der Wirtschaft in München studiert. Er arbeitet zwölf Stunden pro Woche bei einer Versicherung.",
+      "Für viele ist der Job aber mehr als nur eine Geldquelle. Lisa, 21, studiert Marketing in Köln und arbeitet in einer Werbeagentur. „Ich lerne dort Dinge, die man an der Uni nicht lernt. Und ich habe schon Kontakte für meine spätere Karriere“, sagt sie.",
+      "Experten sehen aber auch Risiken. Wer mehr als zwanzig Stunden pro Woche arbeitet, braucht oft länger für sein Studium oder hat schlechtere Noten. „Wichtig ist eine gute Balance“, meint die Psychologin Dr. Anna Weber. „Studierende sollten genug Zeit für Erholung und Freunde haben – sonst droht Stress.“"
+    ],
+    "glossary": [
+      {
+        "de": "Fluch oder Segen",
+        "fr": "malédiction ou bénédiction"
+      },
+      {
+        "de": "die Umfrage",
+        "fr": "le sondage"
+      },
+      {
+        "de": "der Werkstudent",
+        "fr": "l'étudiant salarié en entreprise"
+      },
+      {
+        "de": "sich etwas leisten",
+        "fr": "pouvoir se payer quelque chose"
+      },
+      {
+        "de": "die Erholung",
+        "fr": "le repos"
+      },
+      {
+        "de": "drohen",
+        "fr": "menacer"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Wie viele Studierende arbeiten neben dem Studium?",
+      "options": [
+        "Fast zwei Drittel",
+        "Etwa die Hälfte",
+        "Fast alle"
+      ],
+      "answer": 0,
+      "why": "*Fast zwei Drittel der Studierenden*."
+    },
+    {
+      "type": "mcq",
+      "q": "Was ist laut Artikel der wichtigste Grund für einen Job?",
+      "options": [
+        "Das Geld",
+        "Die Kontakte",
+        "Die Langeweile"
+      ],
+      "answer": 0,
+      "why": "*Der wichtigste Grund ist das Geld.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Jonas arbeitet in einem Café.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Il travaille *bei einer Versicherung* (une assurance)."
+    },
+    {
+      "type": "mcq",
+      "q": "Was findet Lisa an ihrem Job gut?",
+      "options": [
+        "Sie lernt Neues und knüpft Kontakte",
+        "Sie verdient sehr viel",
+        "Sie kann zu Hause arbeiten"
+      ],
+      "answer": 0,
+      "why": "*Ich lerne dort Dinge… und ich habe schon Kontakte.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Laut Experten ist es problemlos, mehr als zwanzig Stunden pro Woche zu arbeiten.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Au-delà de 20 heures, les études durent souvent plus longtemps."
+    },
+    {
+      "type": "mcq",
+      "q": "Was empfiehlt Dr. Weber?",
+      "options": [
+        "Eine gute Balance zwischen Arbeit, Studium und Freizeit",
+        "Gar nicht zu arbeiten",
+        "Nur in den Ferien zu arbeiten"
+      ],
+      "answer": 0,
+      "why": "*Wichtig ist eine gute Balance.*"
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Wie viele Stunden arbeiten die meisten Studierenden?",
+      "options": [
+        "10 bis 15 Stunden pro Woche",
+        "20 Stunden pro Woche",
+        "5 Stunden pro Monat"
+      ],
+      "answer": 0,
+      "why": "*zehn bis fünfzehn Stunden pro Woche*."
+    },
+    {
+      "type": "mcq",
+      "q": "Warum ist ein Job in München besonders wichtig?",
+      "options": [
+        "Weil die Mieten stark gestiegen sind",
+        "Weil es dort viele Cafés gibt",
+        "Weil das Studium dort teurer ist"
+      ],
+      "answer": 0,
+      "why": "*In Großstädten… sind die Mieten stark gestiegen.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Lisa studiert Wirtschaft in München.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "C'est Jonas. Lisa étudie le marketing à Cologne."
+    },
+    {
+      "type": "mcq",
+      "q": "Welche Folge kann zu viel Arbeit haben?",
+      "options": [
+        "Schlechtere Noten",
+        "Mehr Freunde",
+        "Ein kürzeres Studium"
+      ],
+      "answer": 0,
+      "why": "*…braucht oft länger für sein Studium oder hat schlechtere Noten.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wer ist Dr. Anna Weber?",
+      "options": [
+        "Eine Psychologin",
+        "Eine Professorin für Marketing",
+        "Eine Studentin"
+      ],
+      "answer": 0,
+      "why": "*die Psychologin Dr. Anna Weber*."
+    },
+    {
+      "type": "gap",
+      "q": "Jonas sagt, ohne Job könnte er sich sein Zimmer nicht ___.",
+      "answers": [
+        "leisten"
+      ],
+      "hint": "se payer",
+      "why": "*sich etwas **leisten*** = pouvoir se payer."
+    }
+  ],
+  "createdAt": "2026-11-12"
+}

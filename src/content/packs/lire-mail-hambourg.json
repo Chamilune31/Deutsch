@@ -1,0 +1,189 @@
+{
+  "id": "lire-mail-hambourg",
+  "section": "lecture",
+  "title": "Un week-end à Hambourg",
+  "level": "A2",
+  "topic": "Voyage",
+  "release": 0,
+  "summary": "Le mail d'une amie qui raconte son week-end : repérer qui, quoi, quand.",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Méthode B1 : lis d'abord les questions, puis parcours le texte en cherchant les passages utiles. Tu n'as pas besoin de comprendre chaque mot."
+    },
+    {
+      "type": "p",
+      "text": "Dans un récit, repère les mots de temps (*zuerst, dann, danach, am Abend*) : ils donnent l'ordre des événements."
+    }
+  ],
+  "reading": {
+    "title": "Liebe Grüße aus Hamburg!",
+    "kind": "Mail personnel",
+    "paragraphs": [
+      "Liebe Clara,",
+      "wie geht es dir? Ich bin gerade aus Hamburg zurückgekommen und muss dir unbedingt von meinem Wochenende erzählen!",
+      "Am Freitagabend bin ich mit dem Zug von Frankfurt nach Hamburg gefahren. Leider hatte der Zug eine Stunde Verspätung, deshalb bin ich erst um Mitternacht im Hotel angekommen. Ich war total müde.",
+      "Am Samstag hat das Wetter aber super mitgespielt: Die Sonne hat geschienen und es war gar nicht kalt. Zuerst habe ich eine Hafenrundfahrt gemacht – das war toll! Danach bin ich durch die Speicherstadt gelaufen und habe in einem kleinen Café Fischbrötchen gegessen. Am Abend war ich in der Elbphilharmonie. Das Konzert war wunderschön, aber die Karten waren ziemlich teuer.",
+      "Am Sonntag hat es leider den ganzen Tag geregnet. Ich bin deshalb ins Museum gegangen und habe mir eine Ausstellung über die Geschichte der Stadt angesehen. Um 17 Uhr bin ich wieder nach Hause gefahren – diesmal ohne Verspätung!",
+      "Du musst unbedingt auch mal nach Hamburg fahren. Vielleicht können wir im Frühling zusammen hinfahren?",
+      "Ganz liebe Grüße\nSophie"
+    ],
+    "glossary": [
+      {
+        "de": "unbedingt",
+        "fr": "absolument"
+      },
+      {
+        "de": "die Hafenrundfahrt",
+        "fr": "le tour du port en bateau"
+      },
+      {
+        "de": "mitspielen (Wetter)",
+        "fr": "être de la partie (météo)"
+      },
+      {
+        "de": "ziemlich",
+        "fr": "assez, plutôt"
+      },
+      {
+        "de": "die Ausstellung",
+        "fr": "l'exposition"
+      },
+      {
+        "de": "hinfahren",
+        "fr": "y aller"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Wie ist Sophie nach Hamburg gefahren?",
+      "options": [
+        "Mit dem Zug",
+        "Mit dem Auto",
+        "Mit dem Flugzeug"
+      ],
+      "answer": 0,
+      "why": "*mit dem Zug von Frankfurt nach Hamburg*."
+    },
+    {
+      "type": "mcq",
+      "q": "Sophie ist am Freitag pünktlich im Hotel angekommen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Le train avait une heure de retard : elle est arrivée à minuit."
+    },
+    {
+      "type": "mcq",
+      "q": "Was hat Sophie am Samstag zuerst gemacht?",
+      "options": [
+        "Eine Hafenrundfahrt",
+        "Ein Konzert besucht",
+        "Fischbrötchen gegessen"
+      ],
+      "answer": 0,
+      "why": "*Zuerst habe ich eine Hafenrundfahrt gemacht.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Am Samstag war das Wetter schön.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*Die Sonne hat geschienen.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Warum ist Sophie am Sonntag ins Museum gegangen?",
+      "options": [
+        "Weil es geregnet hat",
+        "Weil das Museum kostenlos war",
+        "Weil Clara es empfohlen hat"
+      ],
+      "answer": 0,
+      "why": "*Am Sonntag hat es geregnet. Ich bin deshalb ins Museum gegangen.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Die Konzertkarten waren billig.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*die Karten waren ziemlich teuer*."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Woher kommt Sophie?",
+      "options": [
+        "Aus Frankfurt",
+        "Aus Hamburg",
+        "Aus Köln"
+      ],
+      "answer": 0,
+      "why": "Elle a pris le train *von Frankfurt nach Hamburg*."
+    },
+    {
+      "type": "mcq",
+      "q": "Wo hat Sophie Fischbrötchen gegessen?",
+      "options": [
+        "In einem kleinen Café",
+        "Im Hotel",
+        "In der Elbphilharmonie"
+      ],
+      "answer": 0,
+      "why": "*in einem kleinen Café Fischbrötchen gegessen*."
+    },
+    {
+      "type": "mcq",
+      "q": "Was hat Sophie am Samstagabend gemacht?",
+      "options": [
+        "Sie war in einem Konzert",
+        "Sie ist ins Museum gegangen",
+        "Sie ist nach Hause gefahren"
+      ],
+      "answer": 0,
+      "why": "*Am Abend war ich in der Elbphilharmonie.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Auf der Rückfahrt hatte der Zug wieder Verspätung.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*diesmal ohne Verspätung*."
+    },
+    {
+      "type": "mcq",
+      "q": "Was schlägt Sophie Clara vor?",
+      "options": [
+        "Im Frühling zusammen nach Hamburg zu fahren",
+        "Am Wochenende zu telefonieren",
+        "Ein Konzert in Frankfurt zu besuchen"
+      ],
+      "answer": 0,
+      "why": "*Vielleicht können wir im Frühling zusammen hinfahren?*"
+    },
+    {
+      "type": "gap",
+      "q": "Die Ausstellung im Museum war über die ___ der Stadt.",
+      "answers": [
+        "Geschichte"
+      ],
+      "hint": "l'histoire",
+      "why": "*eine Ausstellung über die **Geschichte** der Stadt*."
+    }
+  ],
+  "createdAt": "2026-11-12"
+}

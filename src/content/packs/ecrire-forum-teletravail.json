@@ -1,0 +1,74 @@
+{
+  "id": "ecrire-forum-teletravail",
+  "section": "ecriture",
+  "title": "Forum : télétravail ou bureau ?",
+  "level": "B1",
+  "topic": "Opinion",
+  "release": 1,
+  "summary": "Donne ton avis argumenté sur un forum, comme à l'épreuve écrite du B1.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Donner son avis"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Introduire : *Meiner Meinung nach…* (verbe juste après !), *Ich finde, dass…* (verbe à la fin)",
+        "Argumenter : *Ein Vorteil ist…*, *Ein Nachteil ist…*, *Außerdem…*, *Trotzdem…*",
+        "Conclure : *Insgesamt…*, *Deshalb…*"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Après *Meiner Meinung nach*, *Deshalb*, *Außerdem*, le verbe vient tout de suite : ***Meiner Meinung nach ist** Homeoffice praktisch.*"
+    }
+  ],
+  "task": {
+    "prompt": "Sur un forum, on discute : « **Homeoffice oder Büro – wo arbeitet man besser?** » Écris ton opinion (environ **100 mots**).",
+    "points": [
+      "Donne ton avis général",
+      "Cite au moins un avantage du télétravail",
+      "Cite au moins un inconvénient",
+      "Raconte une expérience personnelle (stage, job, cours en ligne)"
+    ],
+    "minWords": 100,
+    "phrases": [
+      {
+        "de": "Meiner Meinung nach ist…",
+        "fr": "À mon avis, …"
+      },
+      {
+        "de": "Ich finde, dass…",
+        "fr": "Je trouve que…"
+      },
+      {
+        "de": "Ein großer Vorteil ist, dass…",
+        "fr": "Un gros avantage est que…"
+      },
+      {
+        "de": "Ein Nachteil ist aber…",
+        "fr": "Un inconvénient est cependant…"
+      },
+      {
+        "de": "Außerdem…",
+        "fr": "De plus…"
+      },
+      {
+        "de": "Bei meinem Praktikum habe ich…",
+        "fr": "Pendant mon stage, j'ai…"
+      },
+      {
+        "de": "Deshalb denke ich, dass…",
+        "fr": "C'est pourquoi je pense que…"
+      },
+      {
+        "de": "Insgesamt…",
+        "fr": "Dans l'ensemble…"
+      }
+    ],
+    "model": "Meiner Meinung nach ist eine Mischung aus Homeoffice und Büro ideal.\nEin großer Vorteil vom Homeoffice ist, dass man keine Zeit im Zug oder im Stau verliert. Außerdem kann man zu Hause oft ruhiger arbeiten. Ein Nachteil ist aber, dass man die Kollegen weniger sieht. Man fühlt sich schnell allein und lernt weniger von den anderen.\nBei meinem Praktikum letztes Jahr habe ich zwei Tage pro Woche zu Hause gearbeitet. Das war praktisch, aber im Büro habe ich viel mehr Fragen gestellt und neue Leute kennengelernt.\nDeshalb denke ich, dass zwei oder drei Tage Homeoffice pro Woche perfekt sind.",
+    "modelFr": "À mon avis, un mélange de télétravail et de bureau est idéal. Un gros avantage du télétravail est qu'on ne perd pas de temps dans le train ou les bouchons. De plus, on travaille souvent plus au calme à la maison. Un inconvénient est cependant qu'on voit moins ses collègues. On se sent vite seul et on apprend moins des autres. Pendant mon stage l'an dernier, j'ai travaillé deux jours par semaine à la maison. C'était pratique, mais au bureau j'ai posé beaucoup plus de questions et rencontré de nouvelles personnes. C'est pourquoi je pense que deux ou trois jours de télétravail par semaine, c'est parfait."
+  },
+  "createdAt": "2026-11-12"
+}

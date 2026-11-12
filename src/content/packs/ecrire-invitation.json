@@ -1,0 +1,74 @@
+{
+  "id": "ecrire-invitation",
+  "section": "ecriture",
+  "title": "Répondre à une invitation",
+  "level": "A2",
+  "topic": "Mail personnel",
+  "release": 0,
+  "summary": "Une amie t'invite à son anniversaire : réponds-lui par mail.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "La structure d'un mail personnel"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Salutation : **Liebe** Anna, / **Lieber** Tom, (suivie d'une virgule, puis minuscule à la ligne)",
+        "Remercier, puis traiter **chaque point** dans l'ordre",
+        "Formule finale : *Viele Grüße* / *Liebe Grüße* + ton prénom"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "À l'examen, chaque point oublié coûte des points. Coche-les au fur et à mesure dans ta tête."
+    }
+  ],
+  "task": {
+    "prompt": "Ta amie Anna t'invite à sa fête d'anniversaire samedi prochain à 20 h. Tu peux venir, mais seulement plus tard. Écris-lui un mail (environ **80 mots**).",
+    "points": [
+      "Remercie-la pour l'invitation",
+      "Dis que tu viens, mais plus tard, et explique pourquoi",
+      "Propose d'apporter quelque chose",
+      "Demande quel cadeau lui ferait plaisir"
+    ],
+    "minWords": 80,
+    "phrases": [
+      {
+        "de": "Vielen Dank für deine Einladung!",
+        "fr": "Merci beaucoup pour ton invitation !"
+      },
+      {
+        "de": "Ich komme sehr gern, aber…",
+        "fr": "Je viens avec plaisir, mais…"
+      },
+      {
+        "de": "Leider muss ich bis … arbeiten.",
+        "fr": "Malheureusement, je dois travailler jusqu'à…"
+      },
+      {
+        "de": "Ich bin dann gegen … Uhr da.",
+        "fr": "Je serai là vers … heures."
+      },
+      {
+        "de": "Soll ich etwas mitbringen?",
+        "fr": "Veux-tu que j'apporte quelque chose ?"
+      },
+      {
+        "de": "Was wünschst du dir zum Geburtstag?",
+        "fr": "Qu'aimerais-tu pour ton anniversaire ?"
+      },
+      {
+        "de": "Ich freue mich schon auf die Party!",
+        "fr": "J'ai hâte d'être à la fête !"
+      },
+      {
+        "de": "Liebe Grüße",
+        "fr": "Bises / Amicalement"
+      }
+    ],
+    "model": "Liebe Anna,\nvielen Dank für deine Einladung! Ich freue mich sehr und komme natürlich gern zu deiner Party. Leider muss ich am Samstag bis 21 Uhr im Café arbeiten. Ich bin dann gegen 22 Uhr bei dir, ist das okay?\nSoll ich etwas mitbringen? Ich kann zum Beispiel einen Salat oder einen Kuchen machen.\nUnd sag mal: Was wünschst du dir zum Geburtstag? Ich habe noch keine Idee!\nIch freue mich schon auf den Abend.\nLiebe Grüße\nLéa",
+    "modelFr": "Chère Anna, merci beaucoup pour ton invitation ! Je suis très contente et je viens bien sûr à ta fête. Malheureusement, je dois travailler au café jusqu'à 21 h samedi. Je serai chez toi vers 22 h, ça va ? Veux-tu que j'apporte quelque chose ? Je peux par exemple faire une salade ou un gâteau. Et dis-moi : qu'aimerais-tu pour ton anniversaire ? Je n'ai pas encore d'idée ! J'ai hâte d'être à la soirée. Bises, Léa"
+  },
+  "createdAt": "2026-11-12"
+}

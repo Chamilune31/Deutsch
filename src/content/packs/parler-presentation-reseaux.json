@@ -1,0 +1,78 @@
+{
+  "id": "parler-presentation-reseaux",
+  "section": "oral",
+  "title": "Présenter un sujet : les réseaux sociaux",
+  "level": "B1",
+  "topic": "Présentation",
+  "release": 2,
+  "summary": "Une présentation structurée en cinq parties, comme à l'oral du B1.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Le plan en cinq parties"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Introduire le sujet",
+        "Raconter ta situation personnelle",
+        "Décrire la situation dans ton pays",
+        "Avantages et inconvénients",
+        "Conclusion et ton avis"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Annonce les étapes à voix haute : *Zuerst…, dann…, zum Schluss…* — ça structure ta présentation et rassure l'examinateur."
+    }
+  ],
+  "task": {
+    "prompt": "Présente le sujet « **Soziale Medien – Fluch oder Segen?** » pendant environ **3 minutes**.",
+    "points": [
+      "Présente le sujet et le plan",
+      "Ton utilisation personnelle des réseaux sociaux",
+      "La situation en France",
+      "Avantages et inconvénients",
+      "Ton opinion pour conclure"
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "phrases": [
+      {
+        "de": "In meiner Präsentation geht es um …",
+        "fr": "Ma présentation porte sur…"
+      },
+      {
+        "de": "Zuerst erzähle ich …, dann …",
+        "fr": "D'abord je raconte…, ensuite…"
+      },
+      {
+        "de": "Ich persönlich nutze …",
+        "fr": "Personnellement, j'utilise…"
+      },
+      {
+        "de": "In Frankreich ist es so, dass …",
+        "fr": "En France, c'est comme ça : …"
+      },
+      {
+        "de": "Ein Vorteil ist …",
+        "fr": "Un avantage est…"
+      },
+      {
+        "de": "Auf der anderen Seite …",
+        "fr": "D'un autre côté…"
+      },
+      {
+        "de": "Zum Schluss möchte ich sagen, dass …",
+        "fr": "Pour conclure, j'aimerais dire que…"
+      },
+      {
+        "de": "Vielen Dank für Ihre Aufmerksamkeit.",
+        "fr": "Merci de votre attention."
+      }
+    ],
+    "model": "In meiner Präsentation geht es um soziale Medien. Zuerst erzähle ich von meinen Erfahrungen, dann spreche ich über die Situation in Frankreich und danach über Vorteile und Nachteile. Zum Schluss sage ich meine Meinung.\nIch persönlich nutze jeden Tag Instagram und WhatsApp, vor allem, um mit meinen Freunden in Kontakt zu bleiben. LinkedIn benutze ich auch, weil ich einen Praktikumsplatz suche.\nIn Frankreich ist es ähnlich: Fast alle jungen Leute haben ein Smartphone und verbringen mehrere Stunden pro Tag online.\nEin großer Vorteil ist, dass man schnell Informationen bekommt und Kontakte auf der ganzen Welt hat. Auf der anderen Seite verliert man viel Zeit, und manche Nachrichten sind falsch.\nZum Schluss möchte ich sagen, dass soziale Medien praktisch sind, wenn man sie bewusst nutzt. Vielen Dank für Ihre Aufmerksamkeit.",
+    "modelFr": "Ma présentation porte sur les réseaux sociaux. D'abord, je raconte mon expérience, puis je parle de la situation en France et ensuite des avantages et inconvénients. Pour finir, je donne mon avis. Personnellement, j'utilise Instagram et WhatsApp tous les jours, surtout pour rester en contact avec mes amis. J'utilise aussi LinkedIn, car je cherche un stage. En France, c'est similaire : presque tous les jeunes ont un smartphone et passent plusieurs heures par jour en ligne. Un gros avantage est qu'on obtient vite des informations et qu'on a des contacts dans le monde entier. D'un autre côté, on perd beaucoup de temps, et certaines informations sont fausses. Pour conclure, j'aimerais dire que les réseaux sociaux sont pratiques si on les utilise de façon consciente. Merci de votre attention."
+  },
+  "createdAt": "2026-11-12"
+}

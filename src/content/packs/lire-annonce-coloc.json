@@ -1,0 +1,188 @@
+{
+  "id": "lire-annonce-coloc",
+  "section": "lecture",
+  "title": "Une chambre en colocation",
+  "level": "A2",
+  "topic": "Logement",
+  "release": 0,
+  "summary": "Comprendre une petite annonce et le mail qui y répond.",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Méthode B1 : lis d'abord les questions, puis parcours le texte en cherchant les passages utiles. Tu n'as pas besoin de comprendre chaque mot."
+    },
+    {
+      "type": "p",
+      "text": "Les annonces utilisent beaucoup d'abréviations : **WG** (Wohngemeinschaft, colocation), **qm** (mètres carrés), **NK** (Nebenkosten, charges)."
+    }
+  ],
+  "reading": {
+    "title": "WG-Zimmer in Köln-Ehrenfeld",
+    "kind": "Petite annonce et réponse",
+    "paragraphs": [
+      "**Zimmer frei ab 1. Dezember!** Wir sind eine nette Dreier-WG (zwei Studentinnen, ein Student) und suchen eine neue Mitbewohnerin oder einen neuen Mitbewohner. Das Zimmer ist 16 qm groß, hell und möbliert: Es gibt ein Bett, einen Schreibtisch und einen großen Schrank.",
+      "Die Wohnung liegt in Köln-Ehrenfeld, nur fünf Minuten zu Fuß von der U-Bahn. Küche und Bad teilen wir. Einen Balkon gibt es leider nicht, aber dafür einen kleinen Garten hinter dem Haus.",
+      "Die Miete beträgt 450 Euro warm, also mit Nebenkosten. Internet kostet extra 10 Euro im Monat. Rauchen ist in der Wohnung nicht erlaubt. Wir kochen gern zusammen und gehen manchmal am Wochenende aus.",
+      "Interesse? Schreib uns eine kurze Nachricht an wg-ehrenfeld@mail.de und erzähl ein bisschen von dir. Wir laden dich dann zu einem WG-Casting ein!",
+      "---",
+      "**Antwort:** Hallo zusammen, ich heiße Léa, bin 22 Jahre alt und komme aus Lyon. Ab Dezember mache ich ein Praktikum in Köln und suche deshalb ein Zimmer für sechs Monate. Ich rauche nicht, koche sehr gern und spiele Gitarre (aber nicht zu laut, versprochen!). Hättet ihr am Samstag Zeit für ein Treffen? Viele Grüße, Léa"
+    ],
+    "glossary": [
+      {
+        "de": "möbliert",
+        "fr": "meublé"
+      },
+      {
+        "de": "teilen",
+        "fr": "partager"
+      },
+      {
+        "de": "warm (Miete)",
+        "fr": "charges comprises"
+      },
+      {
+        "de": "erlaubt",
+        "fr": "autorisé"
+      },
+      {
+        "de": "das WG-Casting",
+        "fr": "l'entretien pour entrer en coloc"
+      },
+      {
+        "de": "versprochen",
+        "fr": "promis"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "In der WG wohnen schon drei Personen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*Dreier-WG (zwei Studentinnen, ein Student)* : trois personnes."
+    },
+    {
+      "type": "mcq",
+      "q": "Was gibt es im Zimmer?",
+      "options": [
+        "Ein Bett, einen Schreibtisch und einen Schrank",
+        "Ein Bett und einen Balkon",
+        "Nur einen Schreibtisch"
+      ],
+      "answer": 0,
+      "why": "Le texte cite *ein Bett, einen Schreibtisch und einen großen Schrank*."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Wohnung hat einen Balkon.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Einen Balkon gibt es leider nicht* — mais un petit jardin."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel kostet das Zimmer insgesamt mit Internet?",
+      "options": [
+        "450 Euro",
+        "460 Euro",
+        "440 Euro"
+      ],
+      "answer": 1,
+      "why": "450 € charges comprises + 10 € d'Internet = 460 €."
+    },
+    {
+      "type": "mcq",
+      "q": "Was machen die Mitbewohner gern zusammen?",
+      "options": [
+        "Sie kochen",
+        "Sie rauchen auf dem Balkon",
+        "Sie spielen Gitarre"
+      ],
+      "answer": 0,
+      "why": "*Wir kochen gern zusammen.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Léa sucht ein Zimmer für ein ganzes Jahr.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Elle cherche une chambre *für sechs Monate*."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Ab wann ist das Zimmer frei?",
+      "options": [
+        "Ab dem 1. Dezember",
+        "Ab Samstag",
+        "Ab sofort"
+      ],
+      "answer": 0,
+      "why": "*Zimmer frei ab 1. Dezember.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie kommt man schnell zur U-Bahn?",
+      "options": [
+        "In fünf Minuten zu Fuß",
+        "Mit dem Bus",
+        "Mit dem Fahrrad in zehn Minuten"
+      ],
+      "answer": 0,
+      "why": "*nur fünf Minuten zu Fuß von der U-Bahn*."
+    },
+    {
+      "type": "mcq",
+      "q": "In der Wohnung darf man rauchen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Rauchen ist in der Wohnung nicht erlaubt.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Warum kommt Léa nach Köln?",
+      "options": [
+        "Sie macht ein Praktikum",
+        "Sie beginnt ein Studium",
+        "Sie besucht Freunde"
+      ],
+      "answer": 0,
+      "why": "*Ab Dezember mache ich ein Praktikum in Köln.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was schlägt Léa vor?",
+      "options": [
+        "Ein Treffen am Samstag",
+        "Ein Telefonat am Sonntag",
+        "Sofort einzuziehen"
+      ],
+      "answer": 0,
+      "why": "*Hättet ihr am Samstag Zeit für ein Treffen?*"
+    },
+    {
+      "type": "gap",
+      "q": "Die Miete ist warm, das heißt mit ___.",
+      "answers": [
+        "Nebenkosten"
+      ],
+      "hint": "les charges",
+      "why": "*450 Euro warm, also mit **Nebenkosten***."
+    }
+  ],
+  "createdAt": "2026-11-12"
+}

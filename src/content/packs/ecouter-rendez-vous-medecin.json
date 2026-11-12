@@ -1,0 +1,210 @@
+{
+  "id": "ecouter-rendez-vous-medecin",
+  "section": "ecoute",
+  "title": "Prendre rendez-vous chez le médecin",
+  "level": "B1",
+  "topic": "Santé",
+  "release": 1,
+  "summary": "Un appel au cabinet médical : symptômes, disponibilités, consignes.",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Écoute une première fois sans lire la transcription pour saisir le sens général, puis une deuxième fois pour les détails (chiffres, heures, lieux)."
+    },
+    {
+      "type": "p",
+      "text": "Au téléphone, note pendant l'écoute les **jours et heures proposés** : la bonne réponse est souvent le deuxième créneau, après un refus."
+    }
+  ],
+  "listening": {
+    "title": "Anruf in der Arztpraxis",
+    "situation": "Léa appelle le cabinet du docteur Schneider.",
+    "lines": [
+      {
+        "who": "Praxis",
+        "de": "Praxis Dr. Schneider, Sie sprechen mit Frau Krüger. Was kann ich für Sie tun?"
+      },
+      {
+        "who": "Léa",
+        "de": "Guten Tag, hier ist Léa Martin. Ich hätte gern einen Termin. Ich habe seit drei Tagen Halsschmerzen und Fieber."
+      },
+      {
+        "who": "Praxis",
+        "de": "Oh, das tut mir leid. Waren Sie schon einmal bei uns?"
+      },
+      {
+        "who": "Léa",
+        "de": "Nein, ich bin neu in Köln. Ich mache hier ein Praktikum."
+      },
+      {
+        "who": "Praxis",
+        "de": "Kein Problem. Dann bringen Sie bitte Ihre Versicherungskarte mit. Können Sie heute um 16 Uhr kommen?"
+      },
+      {
+        "who": "Léa",
+        "de": "Heute Nachmittag arbeite ich leider bis 17 Uhr. Geht es vielleicht morgen früh?"
+      },
+      {
+        "who": "Praxis",
+        "de": "Morgen um halb neun ist noch etwas frei."
+      },
+      {
+        "who": "Léa",
+        "de": "Perfekt, das passt mir sehr gut."
+      },
+      {
+        "who": "Praxis",
+        "de": "Gut, dann bis morgen um 8 Uhr 30. Bitte kommen Sie zehn Minuten früher, Sie müssen noch ein Formular ausfüllen."
+      },
+      {
+        "who": "Léa",
+        "de": "Mache ich. Vielen Dank und auf Wiederhören!"
+      }
+    ],
+    "glossary": [
+      {
+        "de": "die Praxis",
+        "fr": "le cabinet médical"
+      },
+      {
+        "de": "die Halsschmerzen",
+        "fr": "le mal de gorge"
+      },
+      {
+        "de": "die Versicherungskarte",
+        "fr": "la carte d'assurance maladie"
+      },
+      {
+        "de": "Das passt mir.",
+        "fr": "Ça me convient."
+      },
+      {
+        "de": "ein Formular ausfüllen",
+        "fr": "remplir un formulaire"
+      },
+      {
+        "de": "Auf Wiederhören!",
+        "fr": "Au revoir ! (au téléphone)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Warum ruft Léa an?",
+      "options": [
+        "Sie ist krank und braucht einen Termin",
+        "Sie sucht einen Praktikumsplatz",
+        "Sie möchte einen Termin absagen"
+      ],
+      "answer": 0,
+      "why": "*Ich hätte gern einen Termin. Ich habe… Halsschmerzen und Fieber.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Seit wann ist Léa krank?",
+      "options": [
+        "Seit drei Tagen",
+        "Seit gestern",
+        "Seit einer Woche"
+      ],
+      "answer": 0,
+      "why": "*seit drei Tagen*."
+    },
+    {
+      "type": "mcq",
+      "q": "Was soll Léa mitbringen?",
+      "options": [
+        "Ihre Versicherungskarte",
+        "Ein Rezept",
+        "Ihren Pass"
+      ],
+      "answer": 0,
+      "why": "*bringen Sie bitte Ihre Versicherungskarte mit*."
+    },
+    {
+      "type": "mcq",
+      "q": "Warum kann Léa nicht um 16 Uhr kommen?",
+      "options": [
+        "Sie arbeitet bis 17 Uhr",
+        "Sie hat einen Kurs",
+        "Sie wohnt zu weit weg"
+      ],
+      "answer": 0,
+      "why": "*Heute Nachmittag arbeite ich leider bis 17 Uhr.*"
+    },
+    {
+      "type": "dictation",
+      "text": "Ich habe seit drei Tagen Halsschmerzen.",
+      "fr": "J'ai mal à la gorge depuis trois jours.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "dictation",
+      "text": "Das passt mir sehr gut.",
+      "fr": "Ça me convient très bien.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Wann hat Léa ihren Termin?",
+      "options": [
+        "Morgen um 8:30 Uhr",
+        "Heute um 16 Uhr",
+        "Morgen um 17 Uhr"
+      ],
+      "answer": 0,
+      "why": "*dann bis morgen um 8 Uhr 30*."
+    },
+    {
+      "type": "mcq",
+      "q": "Warum soll sie zehn Minuten früher kommen?",
+      "options": [
+        "Sie muss ein Formular ausfüllen",
+        "Der Arzt hat wenig Zeit",
+        "Die Praxis öffnet früher"
+      ],
+      "answer": 0,
+      "why": "*Sie müssen noch ein Formular ausfüllen.*"
+    },
+    {
+      "type": "mcq",
+      "q": "War Léa schon einmal in dieser Praxis?",
+      "options": [
+        "Nein, sie ist neu in Köln",
+        "Ja, letztes Jahr",
+        "Ja, letzte Woche"
+      ],
+      "answer": 0,
+      "why": "*Nein, ich bin neu in Köln.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie heißt die Frau am Telefon?",
+      "options": [
+        "Frau Krüger",
+        "Frau Schneider",
+        "Frau Martin"
+      ],
+      "answer": 0,
+      "why": "*Sie sprechen mit Frau Krüger.*"
+    },
+    {
+      "type": "dictation",
+      "text": "Bitte bringen Sie Ihre Versicherungskarte mit.",
+      "fr": "Veuillez apporter votre carte d'assurance maladie.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "gap",
+      "q": "Am Ende des Telefonats sagt man „Auf ___!“",
+      "answers": [
+        "Wiederhören"
+      ],
+      "why": "Au téléphone : *Auf **Wiederhören**!* (on ne se voit pas)."
+    }
+  ],
+  "createdAt": "2026-11-12"
+}

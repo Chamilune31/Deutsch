@@ -8,48 +8,307 @@
   "release": 0,
   "createdAt": "2026-11-11",
   "lesson": [
-    { "type": "p", "text": "Le modal est conjugué en 2e position, l'autre verbe va **à l'infinitif à la fin** : *Ich **muss** heute **arbeiten**.*" },
-    { "type": "list", "items": [
-      "Au présent, **ich** et **er** ont la même forme, sans terminaison : *ich kann, er kann*.",
-      "Au Präteritum, l'Umlaut disparaît : *können → konnte, müssen → musste*.",
-      "Pour le passé, on utilise surtout le **Präteritum** : *Ich **konnte** nicht kommen.*"
-    ] },
-    { "type": "table", "head": ["Verbe", "Sens"], "rows": [
-      ["können", "pouvoir (capacité, possibilité), savoir faire"],
-      ["müssen", "devoir (obligation, nécessité)"],
-      ["wollen", "vouloir (volonté forte)"],
-      ["sollen", "devoir (on me l'a demandé, conseil)"],
-      ["dürfen", "avoir le droit ; *nicht dürfen* = ne pas avoir le droit"],
-      ["mögen", "aimer bien ; *ich möchte* = je voudrais"]
-    ] },
-    { "type": "tip", "text": "Piège : *nicht müssen* = ne pas être obligé (*Du musst nicht kommen* = tu n'es pas obligée de venir). « Il ne faut pas » se dit ***nicht dürfen***." },
-    { "type": "tip", "text": "Le Perfekt d'un modal suivi d'un infinitif utilise deux infinitifs : *Ich habe arbeiten **müssen***. On l'évite en préférant le Präteritum." }
+    {
+      "type": "p",
+      "text": "Le modal est conjugué en 2e position, l'autre verbe va **à l'infinitif à la fin** : *Ich **muss** heute **arbeiten**.*"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Au présent, **ich** et **er** ont la même forme, sans terminaison : *ich kann, er kann*.",
+        "Au Präteritum, l'Umlaut disparaît : *können → konnte, müssen → musste*.",
+        "Pour le passé, on utilise surtout le **Präteritum** : *Ich **konnte** nicht kommen.*"
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Verbe",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "können",
+          "pouvoir (capacité, possibilité), savoir faire"
+        ],
+        [
+          "müssen",
+          "devoir (obligation, nécessité)"
+        ],
+        [
+          "wollen",
+          "vouloir (volonté forte)"
+        ],
+        [
+          "sollen",
+          "devoir (on me l'a demandé, conseil)"
+        ],
+        [
+          "dürfen",
+          "avoir le droit ; *nicht dürfen* = ne pas avoir le droit"
+        ],
+        [
+          "mögen",
+          "aimer bien ; *ich möchte* = je voudrais"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Piège : *nicht müssen* = ne pas être obligé (*Du musst nicht kommen* = tu n'es pas obligée de venir). « Il ne faut pas » se dit ***nicht dürfen***."
+    },
+    {
+      "type": "tip",
+      "text": "Le Perfekt d'un modal suivi d'un infinitif utilise deux infinitifs : *Ich habe arbeiten **müssen***. On l'évite en préférant le Präteritum."
+    }
   ],
   "verbs": [
-    { "inf": "können", "fr": "pouvoir, savoir faire", "kinds": ["modal"], "aux": "haben", "partizip": "gekonnt",
-      "praesens": ["kann", "kannst", "kann", "können", "könnt", "können"],
-      "praeteritum": ["konnte", "konntest", "konnte", "konnten", "konntet", "konnten"],
-      "example": { "de": "Ich kann gut schwimmen.", "fr": "Je sais bien nager." } },
-    { "inf": "müssen", "fr": "devoir, être obligé", "kinds": ["modal"], "aux": "haben", "partizip": "gemusst",
-      "praesens": ["muss", "musst", "muss", "müssen", "müsst", "müssen"],
-      "praeteritum": ["musste", "musstest", "musste", "mussten", "musstet", "mussten"],
-      "example": { "de": "Wir müssen morgen früh aufstehen.", "fr": "Nous devons nous lever tôt demain." } },
-    { "inf": "wollen", "fr": "vouloir", "kinds": ["modal"], "aux": "haben", "partizip": "gewollt",
-      "praesens": ["will", "willst", "will", "wollen", "wollt", "wollen"],
-      "praeteritum": ["wollte", "wolltest", "wollte", "wollten", "wolltet", "wollten"],
-      "example": { "de": "Sie will in Deutschland studieren.", "fr": "Elle veut étudier en Allemagne." } },
-    { "inf": "sollen", "fr": "devoir (conseil, consigne)", "kinds": ["modal"], "aux": "haben", "partizip": "gesollt",
-      "praesens": ["soll", "sollst", "soll", "sollen", "sollt", "sollen"],
-      "praeteritum": ["sollte", "solltest", "sollte", "sollten", "solltet", "sollten"],
-      "example": { "de": "Der Arzt sagt, ich soll mehr schlafen.", "fr": "Le médecin dit que je dois dormir davantage." } },
-    { "inf": "dürfen", "fr": "avoir le droit de", "kinds": ["modal"], "aux": "haben", "partizip": "gedurft",
-      "praesens": ["darf", "darfst", "darf", "dürfen", "dürft", "dürfen"],
-      "praeteritum": ["durfte", "durftest", "durfte", "durften", "durftet", "durften"],
-      "example": { "de": "Hier darf man nicht rauchen.", "fr": "Ici, on n'a pas le droit de fumer." } },
-    { "inf": "mögen", "fr": "aimer bien", "kinds": ["modal"], "aux": "haben", "partizip": "gemocht",
-      "praesens": ["mag", "magst", "mag", "mögen", "mögt", "mögen"],
-      "praeteritum": ["mochte", "mochtest", "mochte", "mochten", "mochtet", "mochten"],
-      "example": { "de": "Ich mag Schokolade.", "fr": "J'aime le chocolat." },
-      "note": "ich möchte (je voudrais) est la forme polie, très fréquente." }
+    {
+      "inf": "können",
+      "fr": "pouvoir, savoir faire",
+      "kinds": [
+        "modal"
+      ],
+      "aux": "haben",
+      "partizip": "gekonnt",
+      "praesens": [
+        "kann",
+        "kannst",
+        "kann",
+        "können",
+        "könnt",
+        "können"
+      ],
+      "praeteritum": [
+        "konnte",
+        "konntest",
+        "konnte",
+        "konnten",
+        "konntet",
+        "konnten"
+      ],
+      "example": {
+        "de": "Ich kann gut schwimmen.",
+        "fr": "Je sais bien nager."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Kannst] du mir bitte helfen?",
+          "fr": "Tu peux m'aider, s'il te plaît ?"
+        },
+        {
+          "t": "praeteritum",
+          "de": "Gestern [konnte] ich nicht kommen, ich war krank.",
+          "fr": "Hier, je n'ai pas pu venir, j'étais malade."
+        }
+      ]
+    },
+    {
+      "inf": "müssen",
+      "fr": "devoir, être obligé",
+      "kinds": [
+        "modal"
+      ],
+      "aux": "haben",
+      "partizip": "gemusst",
+      "praesens": [
+        "muss",
+        "musst",
+        "muss",
+        "müssen",
+        "müsst",
+        "müssen"
+      ],
+      "praeteritum": [
+        "musste",
+        "musstest",
+        "musste",
+        "mussten",
+        "musstet",
+        "mussten"
+      ],
+      "example": {
+        "de": "Wir müssen morgen früh aufstehen.",
+        "fr": "Nous devons nous lever tôt demain."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Wir [müssen] morgen früh aufstehen.",
+          "fr": "Nous devons nous lever tôt demain."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Letzte Woche [musste] sie jeden Abend arbeiten.",
+          "fr": "La semaine dernière, elle a dû travailler tous les soirs."
+        }
+      ]
+    },
+    {
+      "inf": "wollen",
+      "fr": "vouloir",
+      "kinds": [
+        "modal"
+      ],
+      "aux": "haben",
+      "partizip": "gewollt",
+      "praesens": [
+        "will",
+        "willst",
+        "will",
+        "wollen",
+        "wollt",
+        "wollen"
+      ],
+      "praeteritum": [
+        "wollte",
+        "wolltest",
+        "wollte",
+        "wollten",
+        "wolltet",
+        "wollten"
+      ],
+      "example": {
+        "de": "Sie will in Deutschland studieren.",
+        "fr": "Elle veut étudier en Allemagne."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Was [willst] du nach dem Studium machen?",
+          "fr": "Que veux-tu faire après tes études ?"
+        },
+        {
+          "t": "praeteritum",
+          "de": "Wir [wollten] ins Kino gehen, aber es war zu spät.",
+          "fr": "Nous voulions aller au cinéma, mais il était trop tard."
+        }
+      ]
+    },
+    {
+      "inf": "sollen",
+      "fr": "devoir (conseil, consigne)",
+      "kinds": [
+        "modal"
+      ],
+      "aux": "haben",
+      "partizip": "gesollt",
+      "praesens": [
+        "soll",
+        "sollst",
+        "soll",
+        "sollen",
+        "sollt",
+        "sollen"
+      ],
+      "praeteritum": [
+        "sollte",
+        "solltest",
+        "sollte",
+        "sollten",
+        "solltet",
+        "sollten"
+      ],
+      "example": {
+        "de": "Der Arzt sagt, ich soll mehr schlafen.",
+        "fr": "Le médecin dit que je dois dormir davantage."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Der Arzt sagt, ich [soll] mehr Wasser trinken.",
+          "fr": "Le médecin dit que je dois boire plus d'eau."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Eigentlich [sollten] wir um acht Uhr da sein.",
+          "fr": "En fait, nous étions censés être là à huit heures."
+        }
+      ]
+    },
+    {
+      "inf": "dürfen",
+      "fr": "avoir le droit de",
+      "kinds": [
+        "modal"
+      ],
+      "aux": "haben",
+      "partizip": "gedurft",
+      "praesens": [
+        "darf",
+        "darfst",
+        "darf",
+        "dürfen",
+        "dürft",
+        "dürfen"
+      ],
+      "praeteritum": [
+        "durfte",
+        "durftest",
+        "durfte",
+        "durften",
+        "durftet",
+        "durften"
+      ],
+      "example": {
+        "de": "Hier darf man nicht rauchen.",
+        "fr": "Ici, on n'a pas le droit de fumer."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Hier [darf] man nicht parken.",
+          "fr": "Ici, on n'a pas le droit de se garer."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Als Kind [durfte] ich nicht lange fernsehen.",
+          "fr": "Enfant, je n'avais pas le droit de regarder longtemps la télé."
+        }
+      ]
+    },
+    {
+      "inf": "mögen",
+      "fr": "aimer bien",
+      "kinds": [
+        "modal"
+      ],
+      "aux": "haben",
+      "partizip": "gemocht",
+      "praesens": [
+        "mag",
+        "magst",
+        "mag",
+        "mögen",
+        "mögt",
+        "mögen"
+      ],
+      "praeteritum": [
+        "mochte",
+        "mochtest",
+        "mochte",
+        "mochten",
+        "mochtet",
+        "mochten"
+      ],
+      "example": {
+        "de": "Ich mag Schokolade.",
+        "fr": "J'aime le chocolat."
+      },
+      "note": "ich möchte (je voudrais) est la forme polie, très fréquente.",
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Magst] du Sushi?",
+          "fr": "Tu aimes les sushis ?"
+        },
+        {
+          "t": "praeteritum",
+          "de": "Früher [mochte] ich keinen Kaffee.",
+          "fr": "Avant, je n'aimais pas le café."
+        }
+      ]
+    }
   ]
 }

@@ -8,53 +8,319 @@
   "release": 0,
   "createdAt": "2026-11-11",
   "lesson": [
-    { "type": "h", "text": "Pourquoi les articles changent" },
-    { "type": "p", "text": "En allemand, l'article change selon la **fonction** du nom dans la phrase : sujet (nominatif), complément d'objet direct (accusatif) ou complément d'objet indirect (datif)." },
-    { "type": "table", "head": ["Cas", "Masculin", "Féminin", "Neutre", "Pluriel"], "rows": [
-      ["Nominatif (sujet)", "der / ein", "die / eine", "das / ein", "die / –"],
-      ["Accusatif (COD)", "**den / einen**", "die / eine", "das / ein", "die / –"],
-      ["Datif (COI)", "**dem / einem**", "**der / einer**", "**dem / einem**", "**den** + nom en **-n**"]
-    ] },
-    { "type": "h", "text": "L'accusatif : Wen? Was?" },
-    { "type": "p", "text": "C'est le complément d'objet direct. **Seul le masculin change** : der → den, ein → einen. Les possessifs suivent ein : mein → meinen." },
-    { "type": "examples", "items": [
-      { "de": "Ich sehe **den** Hund.", "fr": "Je vois le chien." },
-      { "de": "Sie kauft **einen** Computer.", "fr": "Elle achète un ordinateur." },
-      { "de": "Wir besuchen **unseren** Großvater.", "fr": "Nous rendons visite à notre grand-père." }
-    ] },
-    { "type": "h", "text": "Le datif : Wem?" },
-    { "type": "p", "text": "C'est souvent la **personne qui reçoit** quelque chose. Au pluriel, le nom prend un **-n** s'il n'en a pas déjà." },
-    { "type": "examples", "items": [
-      { "de": "Ich gebe **dem** Kind ein Buch.", "fr": "Je donne un livre à l'enfant." },
-      { "de": "Er schenkt **seiner** Mutter Blumen.", "fr": "Il offre des fleurs à sa mère." },
-      { "de": "Wir schreiben **den** Freunde**n**.", "fr": "Nous écrivons aux amis." }
-    ] },
-    { "type": "tip", "text": "Certains verbes demandent le datif alors qu'en français on a un COD : **helfen** (aider), **danken** (remercier), **gratulieren** (féliciter). *Ich helfe **dir**.* = Je t'aide." },
-    { "type": "h", "text": "Les pronoms personnels" },
-    { "type": "table", "head": ["Nominatif", "Accusatif", "Datif"], "rows": [
-      ["ich", "mich", "mir"], ["du", "dich", "dir"], ["er", "ihn", "ihm"], ["sie", "sie", "ihr"], ["es", "es", "ihm"],
-      ["wir", "uns", "uns"], ["ihr", "euch", "euch"], ["sie / Sie", "sie / Sie", "ihnen / Ihnen"]
-    ] },
-    { "type": "tip", "text": "Ordre avec deux compléments : **datif avant accusatif** pour deux noms (*Ich gebe dem Mann das Buch*), mais un **pronom à l'accusatif passe devant** (*Ich gebe es dem Mann*)." }
+    {
+      "type": "h",
+      "text": "Pourquoi les articles changent"
+    },
+    {
+      "type": "p",
+      "text": "En allemand, l'article change selon la **fonction** du nom dans la phrase : sujet (nominatif), complément d'objet direct (accusatif) ou complément d'objet indirect (datif)."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Cas",
+        "Masculin",
+        "Féminin",
+        "Neutre",
+        "Pluriel"
+      ],
+      "rows": [
+        [
+          "Nominatif (sujet)",
+          "der / ein",
+          "die / eine",
+          "das / ein",
+          "die / –"
+        ],
+        [
+          "Accusatif (COD)",
+          "**den / einen**",
+          "die / eine",
+          "das / ein",
+          "die / –"
+        ],
+        [
+          "Datif (COI)",
+          "**dem / einem**",
+          "**der / einer**",
+          "**dem / einem**",
+          "**den** + nom en **-n**"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "L'accusatif : Wen? Was?"
+    },
+    {
+      "type": "p",
+      "text": "C'est le complément d'objet direct. **Seul le masculin change** : der → den, ein → einen. Les possessifs suivent ein : mein → meinen."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich sehe **den** Hund.",
+          "fr": "Je vois le chien."
+        },
+        {
+          "de": "Sie kauft **einen** Computer.",
+          "fr": "Elle achète un ordinateur."
+        },
+        {
+          "de": "Wir besuchen **unseren** Großvater.",
+          "fr": "Nous rendons visite à notre grand-père."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Le datif : Wem?"
+    },
+    {
+      "type": "p",
+      "text": "C'est souvent la **personne qui reçoit** quelque chose. Au pluriel, le nom prend un **-n** s'il n'en a pas déjà."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich gebe **dem** Kind ein Buch.",
+          "fr": "Je donne un livre à l'enfant."
+        },
+        {
+          "de": "Er schenkt **seiner** Mutter Blumen.",
+          "fr": "Il offre des fleurs à sa mère."
+        },
+        {
+          "de": "Wir schreiben **den** Freunde**n**.",
+          "fr": "Nous écrivons aux amis."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Certains verbes demandent le datif alors qu'en français on a un COD : **helfen** (aider), **danken** (remercier), **gratulieren** (féliciter). *Ich helfe **dir**.* = Je t'aide."
+    },
+    {
+      "type": "h",
+      "text": "Les pronoms personnels"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Nominatif",
+        "Accusatif",
+        "Datif"
+      ],
+      "rows": [
+        [
+          "ich",
+          "mich",
+          "mir"
+        ],
+        [
+          "du",
+          "dich",
+          "dir"
+        ],
+        [
+          "er",
+          "ihn",
+          "ihm"
+        ],
+        [
+          "sie",
+          "sie",
+          "ihr"
+        ],
+        [
+          "es",
+          "es",
+          "ihm"
+        ],
+        [
+          "wir",
+          "uns",
+          "uns"
+        ],
+        [
+          "ihr",
+          "euch",
+          "euch"
+        ],
+        [
+          "sie / Sie",
+          "sie / Sie",
+          "ihnen / Ihnen"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ordre avec deux compléments : **datif avant accusatif** pour deux noms (*Ich gebe dem Mann das Buch*), mais un **pronom à l'accusatif passe devant** (*Ich gebe es dem Mann*)."
+    }
   ],
   "exercises": [
-    { "type": "mcq", "q": "Ich sehe ___ Mann.", "options": ["der", "den", "dem"], "answer": 1, "why": "*sehen* + accusatif ; masculin : der Mann → **den** Mann." },
-    { "type": "gap", "q": "Ich gebe ___ Kind einen Apfel.", "answers": ["dem"], "hint": "das Kind, au datif", "why": "L'enfant reçoit la pomme → datif neutre : **dem** Kind." },
-    { "type": "mcq", "q": "Kannst du ___ helfen ? (me)", "options": ["mich", "mir", "ich"], "answer": 1, "why": "*helfen* se construit avec le datif : ich → **mir**." },
-    { "type": "gap", "q": "Wir besuchen ___ Großvater am Sonntag.", "answers": ["unseren"], "hint": "unser Großvater, à l'accusatif", "why": "*besuchen* + accusatif ; les possessifs prennent les terminaisons de *ein* : **unseren**." },
-    { "type": "translate", "dir": "fr-de", "q": "J'achète un ordinateur.", "answers": ["Ich kaufe einen Computer.", "Ich kaufe einen Rechner."], "why": "der Computer → accusatif **einen** Computer." },
-    { "type": "mcq", "q": "Ich schenke ___ Freundin Blumen.", "options": ["meine", "meiner", "meinem"], "answer": 1, "why": "Elle reçoit les fleurs → datif féminin : **meiner**." },
-    { "type": "order", "answers": ["Ich gebe dem Mann das Buch", "Dem Mann gebe ich das Buch", "Das Buch gebe ich dem Mann"], "why": "Datif (dem Mann) avant accusatif (das Buch) ; le verbe reste en 2e position." },
-    { "type": "translate", "dir": "fr-de", "q": "Je le vois. (le chien)", "answers": ["Ich sehe ihn.", "Ich sehe ihn"], "why": "der Hund → pronom accusatif **ihn**." }
+    {
+      "type": "mcq",
+      "q": "Ich sehe ___ Mann.",
+      "options": [
+        "der",
+        "den",
+        "dem"
+      ],
+      "answer": 1,
+      "why": "*sehen* + accusatif ; masculin : der Mann → **den** Mann."
+    },
+    {
+      "type": "gap",
+      "q": "Ich gebe ___ Kind einen Apfel.",
+      "answers": [
+        "dem"
+      ],
+      "hint": "das Kind, au datif",
+      "why": "L'enfant reçoit la pomme → datif neutre : **dem** Kind."
+    },
+    {
+      "type": "mcq",
+      "q": "Kannst du ___ helfen ? (me)",
+      "options": [
+        "mich",
+        "mir",
+        "ich"
+      ],
+      "answer": 1,
+      "why": "*helfen* se construit avec le datif : ich → **mir**."
+    },
+    {
+      "type": "gap",
+      "q": "Wir besuchen ___ Großvater am Sonntag.",
+      "answers": [
+        "unseren"
+      ],
+      "hint": "unser Großvater, à l'accusatif",
+      "why": "*besuchen* + accusatif ; les possessifs prennent les terminaisons de *ein* : **unseren**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "J'achète un ordinateur.",
+      "answers": [
+        "Ich kaufe einen Computer.",
+        "Ich kaufe einen Rechner."
+      ],
+      "why": "der Computer → accusatif **einen** Computer."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich schenke ___ Freundin Blumen.",
+      "options": [
+        "meine",
+        "meiner",
+        "meinem"
+      ],
+      "answer": 1,
+      "why": "Elle reçoit les fleurs → datif féminin : **meiner**."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich gebe dem Mann das Buch",
+        "Dem Mann gebe ich das Buch",
+        "Das Buch gebe ich dem Mann"
+      ],
+      "why": "Datif (dem Mann) avant accusatif (das Buch) ; le verbe reste en 2e position."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je le vois. (le chien)",
+      "answers": [
+        "Ich sehe ihn.",
+        "Ich sehe ihn"
+      ],
+      "why": "der Hund → pronom accusatif **ihn**."
+    }
   ],
   "exam": [
-    { "type": "mcq", "q": "Das Auto gehört ___ Vater.", "options": ["der", "den", "dem"], "answer": 2, "why": "*gehören* + datif : **dem** Vater." },
-    { "type": "gap", "q": "Ich rufe ___ morgen an. (lui, masculin)", "answers": ["ihn"], "hint": "anrufen + accusatif", "why": "*anrufen* se construit avec l'accusatif : er → **ihn**." },
-    { "type": "translate", "dir": "fr-de", "q": "Je donne le livre à la femme.", "answers": ["Ich gebe der Frau das Buch.", "Ich gebe das Buch der Frau."], "why": "La femme reçoit → datif : **der** Frau." },
-    { "type": "mcq", "q": "Wir danken ___ für die Hilfe. (toi)", "options": ["dich", "dir", "du"], "answer": 1, "why": "*danken* + datif : du → **dir**." },
-    { "type": "gap", "q": "Die Lehrerin erklärt ___ Studenten die Regel.", "answers": ["den"], "hint": "die Studenten (pluriel), au datif", "why": "Datif pluriel : **den** Studenten." },
-    { "type": "mcq", "q": "Er hat ___ Bruder und ___ Schwester.", "options": ["einen / eine", "ein / eine", "einem / einer"], "answer": 0, "why": "*haben* + accusatif : **einen** Bruder (masc.), **eine** Schwester (fém.)." },
-    { "type": "order", "answers": ["Kannst du mir das Salz geben?"], "why": "Question oui/non : verbe en 1re position, infinitif à la fin. Datif *mir* avant accusatif *das Salz*." },
-    { "type": "translate", "dir": "fr-de", "q": "Je l'aide. (lui, masculin)", "answers": ["Ich helfe ihm."], "why": "*helfen* + datif : er → **ihm**." }
+    {
+      "type": "mcq",
+      "q": "Das Auto gehört ___ Vater.",
+      "options": [
+        "der",
+        "den",
+        "dem"
+      ],
+      "answer": 2,
+      "why": "*gehören* + datif : **dem** Vater."
+    },
+    {
+      "type": "gap",
+      "q": "Ich rufe ___ morgen an. (lui, masculin)",
+      "answers": [
+        "ihn"
+      ],
+      "hint": "anrufen + accusatif",
+      "why": "*anrufen* se construit avec l'accusatif : er → **ihn**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je donne le livre à la femme.",
+      "answers": [
+        "Ich gebe der Frau das Buch.",
+        "Ich gebe das Buch der Frau."
+      ],
+      "why": "La femme reçoit → datif : **der** Frau."
+    },
+    {
+      "type": "mcq",
+      "q": "Wir danken ___ für die Hilfe. (toi)",
+      "options": [
+        "dich",
+        "dir",
+        "du"
+      ],
+      "answer": 1,
+      "why": "*danken* + datif : du → **dir**."
+    },
+    {
+      "type": "gap",
+      "q": "Die Lehrerin erklärt ___ Studenten die Regel.",
+      "answers": [
+        "den"
+      ],
+      "hint": "die Studenten (pluriel), au datif",
+      "why": "Datif pluriel : **den** Studenten."
+    },
+    {
+      "type": "mcq",
+      "q": "Er hat ___ Bruder und ___ Schwester.",
+      "options": [
+        "einen / eine",
+        "ein / eine",
+        "einem / einer"
+      ],
+      "answer": 0,
+      "why": "*haben* + accusatif : **einen** Bruder (masc.), **eine** Schwester (fém.)."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Kannst du mir das Salz geben?"
+      ],
+      "why": "Question oui/non : verbe en 1re position, infinitif à la fin. Datif *mir* avant accusatif *das Salz*."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je l'aide. (lui, masculin)",
+      "answers": [
+        "Ich helfe ihm."
+      ],
+      "why": "*helfen* + datif : er → **ihm**."
+    }
   ]
 }

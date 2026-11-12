@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { grade, normalize } from './grade';
+import { clozeBlanks, grade, normalize, wordScore } from './grade';
 import { forms } from './verbs';
 import { examSet, practiceSet, rngFrom, exerciseFromRef } from './generate';
 import { updateSrs, addDays } from './storage';
@@ -19,6 +19,10 @@ function perfect(ex: Exercise): string {
       return JSON.stringify(ex.pairs.map((p) => p[1]));
     case 'conjugation':
       return JSON.stringify((ex.ask ?? [0, 1, 2, 3, 4, 5]).map((i) => ex.forms[i]));
+    case 'cloze':
+      return JSON.stringify(clozeBlanks(ex.text).map((b) => b[0]));
+    case 'dictation':
+      return ex.text;
   }
 }
 
@@ -98,7 +102,7 @@ describe('contenu', () => {
   it('chaque exercice généré est cohérent (la réponse attendue obtient 1)', () => {
     const map = new Map(STATIC_PACKS.map((p) => [p.id, p]));
     for (let seed = 1; seed <= 5; seed++) {
-      for (const pack of STATIC_PACKS) {
+      for (const pack of STATIC_PACKS.filter((p) => p.section !== 'ecriture' && p.section !== 'oral')) {
         const rng = rngFrom(seed);
         const sets = [practiceSet(pack, rng), examSet(pack, rng)];
         for (const set of sets) {
@@ -123,5 +127,28 @@ describe('mise en forme', () => {
       { t: 'aufstehe', b: true, i: true },
     ]);
     expect(richSegments('a **b** c').map((s) => s.b)).toEqual([false, true, false]);
+  });
+});
+
+describe('nouveaux exercices', () => {
+  it('note les textes à trous multiples et les dictées', () => {
+    const ex: Exercise = { type: 'cloze', text: 'Gestern [bin] ich nach Berlin [gefahren|gereist].' };
+    expect(grade(ex, JSON.stringify(['bin', 'gereist']))).toBe(1);
+    expect(grade(ex, JSON.stringify(['habe', 'gefahren']))).toBe(0.5);
+    expect(wordScore('Ich hätte gern vier Brötchen', 'ich hatte gern vier Brötchen')).toBe(0.8);
+    expect(grade({ type: 'dictation', text: 'Kann ich mit Karte zahlen?' }, 'kann ich mit karte zahlen')).toBe(1);
+  });
+  it('refuse une phrase en contexte incohérente avec la conjugaison', () => {
+    const pack = STATIC_PACKS.find((p) => p.id === 'verb-mouvement')!;
+    const bad = JSON.parse(JSON.stringify(pack));
+    bad.verbs[0].ctx = [{ t: 'perfekt', de: 'Ich [habe] nach Hause [gegangen].', fr: 'x' }];
+    expect(validateAll([bad]).join(' ')).toMatch(/ne correspond à aucune forme/);
+  });
+  it('chaque pack de compétence a son support', () => {
+    for (const p of STATIC_PACKS) {
+      if (p.section === 'lecture') expect(p.reading, p.id).toBeTruthy();
+      if (p.section === 'ecoute') expect(p.listening, p.id).toBeTruthy();
+      if (p.section === 'ecriture' || p.section === 'oral') expect(p.task, p.id).toBeTruthy();
+    }
   });
 });

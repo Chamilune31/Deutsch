@@ -5,42 +5,294 @@
   "level": "A2",
   "topic": "Quotidien",
   "summary": "aufstehen, anrufen, einkaufen… : la particule part à la fin de la phrase.",
-  "release": 1,
+  "release": 0,
   "createdAt": "2026-11-11",
   "lesson": [
-    { "type": "p", "text": "Un verbe séparable a une **particule accentuée** (*auf-, an-, ein-, mit-, fern-…*). Au présent et au Präteritum, elle part **à la fin de la phrase**." },
-    { "type": "examples", "items": [
-      { "de": "Ich **stehe** jeden Tag um sieben Uhr **auf**.", "fr": "Je me lève tous les jours à 7 h." },
-      { "de": "Ich **bin** heute spät **aufgestanden**.", "fr": "Je me suis levée tard aujourd'hui. (Perfekt : -ge- entre la particule et le verbe)" },
-      { "de": "Ich muss morgen **einkaufen**.", "fr": "Je dois faire les courses demain. (infinitif : la particule reste collée)" }
-    ] },
-    { "type": "tip", "text": "Dans une subordonnée, le verbe se ressoude à la fin : *…, weil ich früh **aufstehe***." }
+    {
+      "type": "p",
+      "text": "Un verbe séparable a une **particule accentuée** (*auf-, an-, ein-, mit-, fern-…*). Au présent et au Präteritum, elle part **à la fin de la phrase**."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich **stehe** jeden Tag um sieben Uhr **auf**.",
+          "fr": "Je me lève tous les jours à 7 h."
+        },
+        {
+          "de": "Ich **bin** heute spät **aufgestanden**.",
+          "fr": "Je me suis levée tard aujourd'hui. (Perfekt : -ge- entre la particule et le verbe)"
+        },
+        {
+          "de": "Ich muss morgen **einkaufen**.",
+          "fr": "Je dois faire les courses demain. (infinitif : la particule reste collée)"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Dans une subordonnée, le verbe se ressoude à la fin : *…, weil ich früh **aufstehe***."
+    }
   ],
   "verbs": [
-    { "inf": "aufstehen", "fr": "se lever", "kinds": ["fort", "separable"], "aux": "sein", "partizip": "aufgestanden", "sep": "auf",
-      "praesens": ["stehe", "stehst", "steht", "stehen", "steht", "stehen"],
-      "praeteritum": ["stand", "standst", "stand", "standen", "standet", "standen"],
-      "example": { "de": "Am Wochenende stehe ich spät auf.", "fr": "Le week-end, je me lève tard." } },
-    { "inf": "anrufen", "fr": "appeler (au téléphone)", "kinds": ["fort", "separable"], "aux": "haben", "partizip": "angerufen", "sep": "an",
-      "praesens": ["rufe", "rufst", "ruft", "rufen", "ruft", "rufen"],
-      "praeteritum": ["rief", "riefst", "rief", "riefen", "rieft", "riefen"],
-      "example": { "de": "Ich rufe dich heute Abend an.", "fr": "Je t'appelle ce soir." },
-      "note": "anrufen + accusatif : Ich rufe ihn an." },
-    { "inf": "einkaufen", "fr": "faire les courses", "kinds": ["regulier", "separable"], "aux": "haben", "partizip": "eingekauft", "sep": "ein",
-      "praesens": ["kaufe", "kaufst", "kauft", "kaufen", "kauft", "kaufen"],
-      "praeteritum": ["kaufte", "kauftest", "kaufte", "kauften", "kauftet", "kauften"],
-      "example": { "de": "Wir kaufen am Samstag ein.", "fr": "Nous faisons les courses samedi." } },
-    { "inf": "anfangen", "fr": "commencer", "kinds": ["fort", "separable"], "aux": "haben", "partizip": "angefangen", "sep": "an",
-      "praesens": ["fange", "fängst", "fängt", "fangen", "fangt", "fangen"],
-      "praeteritum": ["fing", "fingst", "fing", "fingen", "fingt", "fingen"],
-      "example": { "de": "Der Kurs fängt um neun Uhr an.", "fr": "Le cours commence à 9 h." } },
-    { "inf": "ankommen", "fr": "arriver", "kinds": ["fort", "separable"], "aux": "sein", "partizip": "angekommen", "sep": "an",
-      "praesens": ["komme", "kommst", "kommt", "kommen", "kommt", "kommen"],
-      "praeteritum": ["kam", "kamst", "kam", "kamen", "kamt", "kamen"],
-      "example": { "de": "Der Zug kommt um acht Uhr in Berlin an.", "fr": "Le train arrive à Berlin à 8 h." } },
-    { "inf": "fernsehen", "fr": "regarder la télévision", "kinds": ["fort", "separable"], "aux": "haben", "partizip": "ferngesehen", "sep": "fern",
-      "praesens": ["sehe", "siehst", "sieht", "sehen", "seht", "sehen"],
-      "praeteritum": ["sah", "sahst", "sah", "sahen", "saht", "sahen"],
-      "example": { "de": "Abends sieht mein Bruder fern.", "fr": "Le soir, mon frère regarde la télé." } }
+    {
+      "inf": "aufstehen",
+      "fr": "se lever",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "sein",
+      "partizip": "aufgestanden",
+      "sep": "auf",
+      "praesens": [
+        "stehe",
+        "stehst",
+        "steht",
+        "stehen",
+        "steht",
+        "stehen"
+      ],
+      "praeteritum": [
+        "stand",
+        "standst",
+        "stand",
+        "standen",
+        "standet",
+        "standen"
+      ],
+      "example": {
+        "de": "Am Wochenende stehe ich spät auf.",
+        "fr": "Le week-end, je me lève tard."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Am Wochenende [stehe] ich erst um zehn Uhr [auf].",
+          "fr": "Le week-end, je ne me lève qu'à dix heures."
+        },
+        {
+          "t": "perfekt",
+          "de": "Heute [bin] ich zu spät [aufgestanden].",
+          "fr": "Aujourd'hui, je me suis levée trop tard."
+        }
+      ]
+    },
+    {
+      "inf": "anrufen",
+      "fr": "appeler (au téléphone)",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "angerufen",
+      "sep": "an",
+      "praesens": [
+        "rufe",
+        "rufst",
+        "ruft",
+        "rufen",
+        "ruft",
+        "rufen"
+      ],
+      "praeteritum": [
+        "rief",
+        "riefst",
+        "rief",
+        "riefen",
+        "rieft",
+        "riefen"
+      ],
+      "example": {
+        "de": "Ich rufe dich heute Abend an.",
+        "fr": "Je t'appelle ce soir."
+      },
+      "note": "anrufen + accusatif : Ich rufe ihn an.",
+      "ctx": [
+        {
+          "t": "futur",
+          "de": "Ich [werde] dich heute Abend [anrufen].",
+          "fr": "Je t'appellerai ce soir."
+        },
+        {
+          "t": "perfekt",
+          "de": "[Hast] du deine Mutter schon [angerufen]?",
+          "fr": "Tu as déjà appelé ta mère ?"
+        }
+      ]
+    },
+    {
+      "inf": "einkaufen",
+      "fr": "faire les courses",
+      "kinds": [
+        "regulier",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "eingekauft",
+      "sep": "ein",
+      "praesens": [
+        "kaufe",
+        "kaufst",
+        "kauft",
+        "kaufen",
+        "kauft",
+        "kaufen"
+      ],
+      "praeteritum": [
+        "kaufte",
+        "kauftest",
+        "kaufte",
+        "kauften",
+        "kauftet",
+        "kauften"
+      ],
+      "example": {
+        "de": "Wir kaufen am Samstag ein.",
+        "fr": "Nous faisons les courses samedi."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Wir [kaufen] samstags auf dem Markt [ein].",
+          "fr": "Le samedi, nous faisons les courses au marché."
+        },
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] schon [eingekauft], wir können kochen.",
+          "fr": "J'ai déjà fait les courses, on peut cuisiner."
+        }
+      ]
+    },
+    {
+      "inf": "anfangen",
+      "fr": "commencer",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "angefangen",
+      "sep": "an",
+      "praesens": [
+        "fange",
+        "fängst",
+        "fängt",
+        "fangen",
+        "fangt",
+        "fangen"
+      ],
+      "praeteritum": [
+        "fing",
+        "fingst",
+        "fing",
+        "fingen",
+        "fingt",
+        "fingen"
+      ],
+      "example": {
+        "de": "Der Kurs fängt um neun Uhr an.",
+        "fr": "Le cours commence à 9 h."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Wann [fängt] der Film [an]?",
+          "fr": "Quand le film commence-t-il ?"
+        },
+        {
+          "t": "praeteritum",
+          "de": "Das Konzert [fing] mit einer Stunde Verspätung [an].",
+          "fr": "Le concert a commencé avec une heure de retard."
+        }
+      ]
+    },
+    {
+      "inf": "ankommen",
+      "fr": "arriver",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "sein",
+      "partizip": "angekommen",
+      "sep": "an",
+      "praesens": [
+        "komme",
+        "kommst",
+        "kommt",
+        "kommen",
+        "kommt",
+        "kommen"
+      ],
+      "praeteritum": [
+        "kam",
+        "kamst",
+        "kam",
+        "kamen",
+        "kamt",
+        "kamen"
+      ],
+      "example": {
+        "de": "Der Zug kommt um acht Uhr in Berlin an.",
+        "fr": "Le train arrive à Berlin à 8 h."
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Wir [sind] gestern Abend in Berlin [angekommen].",
+          "fr": "Nous sommes arrivés à Berlin hier soir."
+        },
+        {
+          "t": "praesens",
+          "de": "Der Zug [kommt] um 18 Uhr in Köln [an].",
+          "fr": "Le train arrive à Cologne à 18 h."
+        }
+      ]
+    },
+    {
+      "inf": "fernsehen",
+      "fr": "regarder la télévision",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "ferngesehen",
+      "sep": "fern",
+      "praesens": [
+        "sehe",
+        "siehst",
+        "sieht",
+        "sehen",
+        "seht",
+        "sehen"
+      ],
+      "praeteritum": [
+        "sah",
+        "sahst",
+        "sah",
+        "sahen",
+        "saht",
+        "sahen"
+      ],
+      "example": {
+        "de": "Abends sieht mein Bruder fern.",
+        "fr": "Le soir, mon frère regarde la télé."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Mein Bruder [sieht] jeden Abend [fern].",
+          "fr": "Mon frère regarde la télé tous les soirs."
+        },
+        {
+          "t": "perfekt",
+          "de": "Gestern [haben] wir den ganzen Abend [ferngesehen].",
+          "fr": "Hier, nous avons regardé la télé toute la soirée."
+        }
+      ]
+    }
   ]
 }

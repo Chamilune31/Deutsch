@@ -1,0 +1,228 @@
+{
+  "id": "gram-perfekt",
+  "section": "grammaire",
+  "title": "Le Perfekt : raconter au passé",
+  "level": "A2",
+  "topic": "Perfekt",
+  "summary": "Former le passé composé allemand et choisir entre haben et sein.",
+  "release": 0,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "À l'oral, on raconte le passé au **Perfekt** : auxiliaire **haben** ou **sein** conjugué en 2e position + **participe passé à la fin**."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich **habe** gestern Pizza **gegessen**.",
+          "fr": "Hier, j'ai mangé une pizza."
+        },
+        {
+          "de": "Wir **sind** nach Berlin **gefahren**.",
+          "fr": "Nous sommes allés à Berlin."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Former le participe passé"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Type de verbe",
+        "Règle",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Régulier",
+          "**ge-** + radical + **-t**",
+          "machen → gemacht, kaufen → gekauft"
+        ],
+        [
+          "Fort",
+          "**ge-** + radical (souvent modifié) + **-en**",
+          "schreiben → geschrieben, trinken → getrunken"
+        ],
+        [
+          "Séparable",
+          "particule + **ge** + verbe",
+          "einkaufen → eingekauft, anrufen → angerufen"
+        ],
+        [
+          "Inséparable (be-, ver-, er-…)",
+          "**pas de ge-**",
+          "besuchen → besucht, verstehen → verstanden"
+        ],
+        [
+          "En -ieren",
+          "**pas de ge-**",
+          "studieren → studiert, telefonieren → telefoniert"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "haben ou sein ?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**sein** pour un **déplacement** d'un lieu à un autre : gehen, fahren, fliegen, kommen, laufen…",
+        "**sein** pour un **changement d'état** : aufstehen, einschlafen, werden, sterben…",
+        "**sein** aussi pour **sein**, **bleiben** et **passieren** : *Ich bin zu Hause geblieben.*",
+        "**haben** pour tous les autres verbes, y compris les verbes réfléchis : *Ich habe mich gefreut.*"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Différence avec le français : *je me suis levée* → *ich **bin** aufgestanden* (changement d'état), mais *je me suis lavée* → *ich **habe** mich gewaschen* (réfléchi)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Gestern ___ ich lange geschlafen.",
+      "options": [
+        "habe",
+        "bin",
+        "hat"
+      ],
+      "answer": 0,
+      "why": "*schlafen* n'exprime ni déplacement ni changement d'état → **haben**."
+    },
+    {
+      "type": "mcq",
+      "q": "Wir ___ mit dem Zug nach Köln gefahren.",
+      "options": [
+        "haben",
+        "sind",
+        "seid"
+      ],
+      "answer": 1,
+      "why": "*fahren* = déplacement → **sein** : wir **sind** gefahren."
+    },
+    {
+      "type": "gap",
+      "q": "Ich habe ein neues Handy ___. (kaufen)",
+      "answers": [
+        "gekauft"
+      ],
+      "why": "Verbe régulier : ge- + kauf + -t = **gekauft**."
+    },
+    {
+      "type": "gap",
+      "q": "Hast du die Hausaufgaben schon ___? (machen)",
+      "answers": [
+        "gemacht"
+      ],
+      "why": "Régulier : **gemacht**."
+    },
+    {
+      "type": "cloze",
+      "text": "Am Samstag [bin] ich früh [aufgestanden].",
+      "hint": "aufstehen au Perfekt",
+      "why": "Changement d'état → *sein* ; séparable → auf**ge**standen."
+    },
+    {
+      "type": "mcq",
+      "q": "Participe passé de *studieren* :",
+      "options": [
+        "studiert",
+        "gestudiert",
+        "gestudieren"
+      ],
+      "answer": 0,
+      "why": "Les verbes en *-ieren* ne prennent pas *ge-* : **studiert**."
+    },
+    {
+      "type": "cloze",
+      "text": "Letzte Woche [haben] wir unsere Freunde in Lyon [besucht].",
+      "hint": "besuchen au Perfekt",
+      "why": "*besuchen* : haben ; préfixe *be-* → pas de *ge-* : **besucht**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Elle est restée à la maison.",
+      "answers": [
+        "Sie ist zu Hause geblieben.",
+        "Sie ist daheim geblieben."
+      ],
+      "why": "*bleiben* prend **sein** : *ist geblieben*."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Was ___ passiert?",
+      "options": [
+        "ist",
+        "hat",
+        "habt"
+      ],
+      "answer": 0,
+      "why": "*passieren* se conjugue avec **sein** : *Was ist passiert?*"
+    },
+    {
+      "type": "gap",
+      "q": "Ich habe dir eine E-Mail ___. (schreiben)",
+      "answers": [
+        "geschrieben"
+      ],
+      "why": "Verbe fort : **geschrieben**."
+    },
+    {
+      "type": "cloze",
+      "text": "Um wie viel Uhr [bist] du gestern [angekommen]?",
+      "hint": "ankommen, du",
+      "why": "Déplacement → *sein* ; séparable : an**ge**kommen."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich ___ mich sehr über deinen Besuch gefreut.",
+      "options": [
+        "habe",
+        "bin",
+        "war"
+      ],
+      "answer": 0,
+      "why": "Les verbes réfléchis prennent **haben** au Perfekt."
+    },
+    {
+      "type": "gap",
+      "q": "Hast du den Text ___? (verstehen)",
+      "answers": [
+        "verstanden"
+      ],
+      "why": "Préfixe *ver-* : pas de *ge-* → **verstanden**."
+    },
+    {
+      "type": "cloze",
+      "text": "Meine Eltern [haben] mich gestern Abend [angerufen].",
+      "hint": "anrufen au Perfekt",
+      "why": "*anrufen* : haben ; séparable → an**ge**rufen."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Nous sommes allés au cinéma.",
+      "answers": [
+        "Wir sind ins Kino gegangen.",
+        "Wir sind ins Kino gefahren."
+      ],
+      "why": "Déplacement → **sind** … gegangen."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich habe gestern Abend lange gearbeitet",
+        "Gestern Abend habe ich lange gearbeitet"
+      ],
+      "why": "Auxiliaire en 2e position, participe à la fin."
+    }
+  ]
+}

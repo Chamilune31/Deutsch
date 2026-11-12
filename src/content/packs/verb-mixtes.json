@@ -1,0 +1,268 @@
+{
+  "id": "verb-mixtes",
+  "section": "verbes",
+  "title": "Les verbes mixtes : bringen, denken, kennen…",
+  "level": "A2",
+  "topic": "Verbes mixtes",
+  "summary": "Des verbes qui changent de voyelle comme les forts mais prennent -te et -t comme les réguliers.",
+  "release": 1,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Les verbes **mixtes** changent de voyelle au Präteritum et au participe (comme les verbes forts), mais prennent les terminaisons **-te** et **-t** des verbes réguliers : *denken → dachte → gedacht*."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Infinitif",
+        "Präteritum",
+        "Participe"
+      ],
+      "rows": [
+        [
+          "bringen",
+          "brachte",
+          "gebracht"
+        ],
+        [
+          "denken",
+          "dachte",
+          "gedacht"
+        ],
+        [
+          "kennen",
+          "kannte",
+          "gekannt"
+        ],
+        [
+          "nennen",
+          "nannte",
+          "genannt"
+        ],
+        [
+          "rennen",
+          "rannte",
+          "ist gerannt"
+        ],
+        [
+          "wissen",
+          "wusste",
+          "gewusst"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Au présent, ils sont réguliers : *ich kenne, du kennst, er kennt*. Seul *wissen* fait exception (*ich weiß*)."
+    }
+  ],
+  "verbs": [
+    {
+      "inf": "bringen",
+      "fr": "apporter",
+      "kinds": [
+        "mixte"
+      ],
+      "aux": "haben",
+      "partizip": "gebracht",
+      "praesens": [
+        "bringe",
+        "bringst",
+        "bringt",
+        "bringen",
+        "bringt",
+        "bringen"
+      ],
+      "praeteritum": [
+        "brachte",
+        "brachtest",
+        "brachte",
+        "brachten",
+        "brachtet",
+        "brachten"
+      ],
+      "example": {
+        "de": "Kannst du mir ein Glas Wasser bringen?",
+        "fr": "Tu peux m'apporter un verre d'eau ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Der Kellner [bringt] uns die Speisekarte.",
+          "fr": "Le serveur nous apporte la carte."
+        },
+        {
+          "t": "perfekt",
+          "de": "Wer [hat] den Kuchen [gebracht]?",
+          "fr": "Qui a apporté le gâteau ?"
+        }
+      ]
+    },
+    {
+      "inf": "denken",
+      "fr": "penser",
+      "kinds": [
+        "mixte"
+      ],
+      "aux": "haben",
+      "partizip": "gedacht",
+      "praesens": [
+        "denke",
+        "denkst",
+        "denkt",
+        "denken",
+        "denkt",
+        "denken"
+      ],
+      "praeteritum": [
+        "dachte",
+        "dachtest",
+        "dachte",
+        "dachten",
+        "dachtet",
+        "dachten"
+      ],
+      "example": {
+        "de": "Woran denkst du?",
+        "fr": "À quoi penses-tu ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Ich [denke] oft an meine Familie.",
+          "fr": "Je pense souvent à ma famille."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Ich [dachte], der Kurs beginnt um neun.",
+          "fr": "Je pensais que le cours commençait à neuf heures."
+        }
+      ],
+      "note": "denken an + accusatif : penser à."
+    },
+    {
+      "inf": "kennen",
+      "fr": "connaître",
+      "kinds": [
+        "mixte"
+      ],
+      "aux": "haben",
+      "partizip": "gekannt",
+      "praesens": [
+        "kenne",
+        "kennst",
+        "kennt",
+        "kennen",
+        "kennt",
+        "kennen"
+      ],
+      "praeteritum": [
+        "kannte",
+        "kanntest",
+        "kannte",
+        "kannten",
+        "kanntet",
+        "kannten"
+      ],
+      "example": {
+        "de": "Ich kenne diese Stadt gut.",
+        "fr": "Je connais bien cette ville."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Kennst] du ein gutes Restaurant hier?",
+          "fr": "Tu connais un bon restaurant ici ?"
+        },
+        {
+          "t": "praeteritum",
+          "de": "Damals [kannten] wir niemanden in der Stadt.",
+          "fr": "À l'époque, nous ne connaissions personne en ville."
+        }
+      ]
+    },
+    {
+      "inf": "nennen",
+      "fr": "nommer, appeler",
+      "kinds": [
+        "mixte"
+      ],
+      "aux": "haben",
+      "partizip": "genannt",
+      "praesens": [
+        "nenne",
+        "nennst",
+        "nennt",
+        "nennen",
+        "nennt",
+        "nennen"
+      ],
+      "praeteritum": [
+        "nannte",
+        "nanntest",
+        "nannte",
+        "nannten",
+        "nanntet",
+        "nannten"
+      ],
+      "example": {
+        "de": "Wie nennt man das auf Deutsch?",
+        "fr": "Comment appelle-t-on ça en allemand ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Alle [nennen] ihn Max.",
+          "fr": "Tout le monde l'appelle Max."
+        },
+        {
+          "t": "perfekt",
+          "de": "Sie [haben] ihre Tochter Lena [genannt].",
+          "fr": "Ils ont appelé leur fille Lena."
+        }
+      ]
+    },
+    {
+      "inf": "rennen",
+      "fr": "courir (vite)",
+      "kinds": [
+        "mixte"
+      ],
+      "aux": "sein",
+      "partizip": "gerannt",
+      "praesens": [
+        "renne",
+        "rennst",
+        "rennt",
+        "rennen",
+        "rennt",
+        "rennen"
+      ],
+      "praeteritum": [
+        "rannte",
+        "ranntest",
+        "rannte",
+        "rannten",
+        "ranntet",
+        "rannten"
+      ],
+      "example": {
+        "de": "Die Kinder rennen in den Garten.",
+        "fr": "Les enfants courent dans le jardin."
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Ich [bin] zum Bus [gerannt].",
+          "fr": "J'ai couru jusqu'au bus."
+        },
+        {
+          "t": "praesens",
+          "de": "Warum [rennst] du so?",
+          "fr": "Pourquoi cours-tu comme ça ?"
+        }
+      ]
+    }
+  ]
+}

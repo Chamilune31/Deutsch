@@ -1,0 +1,59 @@
+{
+  "id": "parler-se-presenter",
+  "section": "oral",
+  "title": "Se présenter",
+  "level": "A2",
+  "topic": "Présentation",
+  "release": 0,
+  "summary": "Parle de toi pendant une minute et demie : la première épreuve de l'oral.",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "À l'oral du B1, la première partie est souvent une présentation libre. Parle de façon naturelle, sans réciter, et relie tes phrases (*und, aber, weil, deshalb*)."
+    },
+    {
+      "type": "tip",
+      "text": "Si tu cherches un mot, ne t'arrête pas : reformule (*Wie sagt man… ? Ich meine…*). L'examinateur évalue aussi ta capacité à continuer."
+    }
+  ],
+  "task": {
+    "prompt": "Présente-toi à voix haute pendant environ **1 minute 30**.",
+    "points": [
+      "Nom, âge, ville d'origine",
+      "Études (école, matière, année)",
+      "Pourquoi tu apprends l'allemand",
+      "Loisirs et projets pour l'avenir"
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 90,
+    "phrases": [
+      {
+        "de": "Ich heiße … und bin … Jahre alt.",
+        "fr": "Je m'appelle … et j'ai … ans."
+      },
+      {
+        "de": "Ich komme aus … und wohne jetzt in …",
+        "fr": "Je viens de … et j'habite maintenant à …"
+      },
+      {
+        "de": "Ich studiere … an der …",
+        "fr": "J'étudie … à …"
+      },
+      {
+        "de": "Ich lerne Deutsch, weil …",
+        "fr": "J'apprends l'allemand parce que …"
+      },
+      {
+        "de": "In meiner Freizeit … ich gern …",
+        "fr": "Pendant mon temps libre, j'aime …"
+      },
+      {
+        "de": "Später möchte ich …",
+        "fr": "Plus tard, j'aimerais …"
+      }
+    ],
+    "model": "Hallo, ich heiße Léa und bin 22 Jahre alt. Ich komme aus Lyon, aber jetzt wohne ich in der Nähe von Paris, weil ich an einer Business School studiere. Ich bin im dritten Jahr und interessiere mich besonders für Marketing.\nIch lerne Deutsch, weil ich nächstes Jahr ein Praktikum in Deutschland machen möchte. Viele große Unternehmen kommen aus Deutschland, deshalb ist die Sprache für meine Karriere wichtig.\nIn meiner Freizeit gehe ich gern laufen und treffe Freunde. Ich reise auch sehr gern – letzten Sommer war ich zum ersten Mal in Berlin.\nSpäter möchte ich in einem internationalen Unternehmen arbeiten, vielleicht in München oder in Wien.",
+    "modelFr": "Bonjour, je m'appelle Léa et j'ai 22 ans. Je viens de Lyon, mais j'habite maintenant près de Paris, car j'étudie dans une école de commerce. Je suis en troisième année et je m'intéresse particulièrement au marketing. J'apprends l'allemand parce que je voudrais faire un stage en Allemagne l'année prochaine. Beaucoup de grandes entreprises sont allemandes, c'est pourquoi la langue est importante pour ma carrière. Pendant mon temps libre, j'aime courir et voir mes amis. J'adore aussi voyager : l'été dernier, je suis allée à Berlin pour la première fois. Plus tard, j'aimerais travailler dans une entreprise internationale, peut-être à Munich ou à Vienne."
+  },
+  "createdAt": "2026-11-12"
+}

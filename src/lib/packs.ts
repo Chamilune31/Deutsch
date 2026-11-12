@@ -59,4 +59,11 @@ export const SECTION_LABEL: Record<Section, string> = {
   grammaire: 'Grammaire',
   verbes: 'Verbes',
   vocabulaire: 'Vocabulaire',
+  lecture: 'Lire',
+  ecoute: 'Écouter',
+  ecriture: 'Écrire',
+  oral: 'Parler',
 };
+
+export const LEARN: Section[] = ['grammaire', 'verbes', 'vocabulaire'];
+export const SKILLS: Section[] = ['lecture', 'ecoute', 'ecriture', 'oral'];

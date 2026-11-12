@@ -8,46 +8,260 @@
   "release": 1,
   "createdAt": "2026-11-11",
   "lesson": [
-    { "type": "p", "text": "Neuf prépositions changent de cas selon le sens : **an, auf, hinter, in, neben, über, unter, vor, zwischen**." },
-    { "type": "table", "head": ["Question", "Cas", "Exemple"], "rows": [
-      ["**Wo ?** (où l'on est — pas de déplacement)", "Datif", "Das Buch liegt **auf dem** Tisch."],
-      ["**Wohin ?** (où l'on va — direction)", "Accusatif", "Ich lege das Buch **auf den** Tisch."]
-    ] },
-    { "type": "h", "text": "Les paires de verbes" },
-    { "type": "table", "head": ["Position (Wo ? + datif)", "Mouvement (Wohin ? + accusatif)"], "rows": [
-      ["**liegen** — être posé à plat", "**legen** — poser à plat"],
-      ["**stehen** — être debout", "**stellen** — poser debout"],
-      ["**sitzen** — être assis", "**sich setzen** — s'asseoir"],
-      ["**hängen** — être accroché", "**hängen** — accrocher"]
-    ] },
-    { "type": "h", "text": "Les contractions" },
-    { "type": "list", "items": ["in + dem = **im** · in + das = **ins**", "an + dem = **am** · an + das = **ans**"] },
-    { "type": "examples", "items": [
-      { "de": "Ich bin **im** Kino. / Ich gehe **ins** Kino.", "fr": "Je suis au cinéma. / Je vais au cinéma." },
-      { "de": "Das Bild hängt **an der** Wand.", "fr": "Le tableau est accroché au mur." },
-      { "de": "Ich hänge das Bild **an die** Wand.", "fr": "J'accroche le tableau au mur." },
-      { "de": "Die Katze schläft **unter dem** Bett.", "fr": "Le chat dort sous le lit." }
-    ] },
-    { "type": "tip", "text": "Piège classique : *Ich gehe **in die** Stadt* (direction → accusatif) mais *Ich bin **in der** Stadt* (position → datif)." }
+    {
+      "type": "p",
+      "text": "Neuf prépositions changent de cas selon le sens : **an, auf, hinter, in, neben, über, unter, vor, zwischen**."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Question",
+        "Cas",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "**Wo ?** (où l'on est — pas de déplacement)",
+          "Datif",
+          "Das Buch liegt **auf dem** Tisch."
+        ],
+        [
+          "**Wohin ?** (où l'on va — direction)",
+          "Accusatif",
+          "Ich lege das Buch **auf den** Tisch."
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Les paires de verbes"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Position (Wo ? + datif)",
+        "Mouvement (Wohin ? + accusatif)"
+      ],
+      "rows": [
+        [
+          "**liegen** — être posé à plat",
+          "**legen** — poser à plat"
+        ],
+        [
+          "**stehen** — être debout",
+          "**stellen** — poser debout"
+        ],
+        [
+          "**sitzen** — être assis",
+          "**sich setzen** — s'asseoir"
+        ],
+        [
+          "**hängen** — être accroché",
+          "**hängen** — accrocher"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Les contractions"
+    },
+    {
+      "type": "list",
+      "items": [
+        "in + dem = **im** · in + das = **ins**",
+        "an + dem = **am** · an + das = **ans**"
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich bin **im** Kino. / Ich gehe **ins** Kino.",
+          "fr": "Je suis au cinéma. / Je vais au cinéma."
+        },
+        {
+          "de": "Das Bild hängt **an der** Wand.",
+          "fr": "Le tableau est accroché au mur."
+        },
+        {
+          "de": "Ich hänge das Bild **an die** Wand.",
+          "fr": "J'accroche le tableau au mur."
+        },
+        {
+          "de": "Die Katze schläft **unter dem** Bett.",
+          "fr": "Le chat dort sous le lit."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Piège classique : *Ich gehe **in die** Stadt* (direction → accusatif) mais *Ich bin **in der** Stadt* (position → datif)."
+    }
   ],
   "exercises": [
-    { "type": "mcq", "q": "Das Buch liegt auf ___ Tisch.", "options": ["den", "dem", "der"], "answer": 1, "why": "*liegen* = position (Wo ?) → datif : **dem** Tisch." },
-    { "type": "mcq", "q": "Ich lege das Buch auf ___ Tisch.", "options": ["den", "dem", "der"], "answer": 0, "why": "*legen* = mouvement (Wohin ?) → accusatif : **den** Tisch." },
-    { "type": "gap", "q": "Am Wochenende gehe ich ___ Kino.", "answers": ["ins"], "hint": "in + das", "why": "Direction → accusatif : in das = **ins** Kino." },
-    { "type": "gap", "q": "Wir sitzen ___ Garten.", "answers": ["im"], "hint": "in + dem", "why": "Position → datif : in dem = **im** Garten." },
-    { "type": "mcq", "q": "Stell die Flasche bitte ___ Kühlschrank !", "options": ["in den", "im", "in dem"], "answer": 0, "why": "*stellen* = mouvement → accusatif : **in den** Kühlschrank." },
-    { "type": "mcq", "q": "Das Bild ___ an der Wand.", "options": ["hängt", "legt", "stellt"], "answer": 0, "why": "*an der Wand* (datif) = position ; un tableau est accroché : **hängt**." },
-    { "type": "translate", "dir": "fr-de", "q": "Je vais en ville.", "answers": ["Ich gehe in die Stadt.", "Ich fahre in die Stadt."], "why": "Direction → accusatif : **in die** Stadt." },
-    { "type": "order", "answers": ["Die Katze schläft unter dem Bett"], "why": "Position → datif : unter **dem** Bett." }
+    {
+      "type": "mcq",
+      "q": "Das Buch liegt auf ___ Tisch.",
+      "options": [
+        "den",
+        "dem",
+        "der"
+      ],
+      "answer": 1,
+      "why": "*liegen* = position (Wo ?) → datif : **dem** Tisch."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich lege das Buch auf ___ Tisch.",
+      "options": [
+        "den",
+        "dem",
+        "der"
+      ],
+      "answer": 0,
+      "why": "*legen* = mouvement (Wohin ?) → accusatif : **den** Tisch."
+    },
+    {
+      "type": "gap",
+      "q": "Am Wochenende gehe ich ___ Kino.",
+      "answers": [
+        "ins"
+      ],
+      "hint": "in + das",
+      "why": "Direction → accusatif : in das = **ins** Kino."
+    },
+    {
+      "type": "gap",
+      "q": "Wir sitzen ___ Garten.",
+      "answers": [
+        "im"
+      ],
+      "hint": "in + dem",
+      "why": "Position → datif : in dem = **im** Garten."
+    },
+    {
+      "type": "mcq",
+      "q": "Stell die Flasche bitte ___ Kühlschrank !",
+      "options": [
+        "in den",
+        "im",
+        "in dem"
+      ],
+      "answer": 0,
+      "why": "*stellen* = mouvement → accusatif : **in den** Kühlschrank."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Bild ___ an der Wand.",
+      "options": [
+        "hängt",
+        "legt",
+        "stellt"
+      ],
+      "answer": 0,
+      "why": "*an der Wand* (datif) = position ; un tableau est accroché : **hängt**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je vais en ville.",
+      "answers": [
+        "Ich gehe in die Stadt.",
+        "Ich fahre in die Stadt."
+      ],
+      "why": "Direction → accusatif : **in die** Stadt."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Die Katze schläft unter dem Bett"
+      ],
+      "why": "Position → datif : unter **dem** Bett."
+    }
   ],
   "exam": [
-    { "type": "gap", "q": "Das Handy liegt ___ Sofa.", "answers": ["auf dem"], "hint": "das Sofa — position", "why": "Position → datif : **auf dem** Sofa." },
-    { "type": "gap", "q": "Er setzt sich ___ Stuhl.", "answers": ["auf den"], "hint": "der Stuhl — mouvement", "why": "*sich setzen* = mouvement → accusatif : **auf den** Stuhl." },
-    { "type": "mcq", "q": "Die Lampe hängt ___ Tisch.", "options": ["über dem", "über den", "über das"], "answer": 0, "why": "Position → datif : **über dem** Tisch." },
-    { "type": "mcq", "q": "Ich warte ___ Bahnhof auf dich.", "options": ["am", "ans", "an den"], "answer": 0, "why": "On attend sur place → datif : an dem = **am** Bahnhof." },
-    { "type": "mcq", "q": "Wohin gehst du ? — ___ Bibliothek.", "options": ["In die", "In der", "Im"], "answer": 0, "why": "*Wohin ?* → accusatif : **in die** Bibliothek." },
-    { "type": "translate", "dir": "fr-de", "q": "Le vélo est devant la maison.", "answers": ["Das Fahrrad steht vor dem Haus.", "Das Rad steht vor dem Haus.", "Das Fahrrad ist vor dem Haus.", "Das Rad ist vor dem Haus."], "why": "Position → datif : **vor dem** Haus." },
-    { "type": "gap", "q": "Die Apotheke ist neben ___ Bank.", "answers": ["der"], "hint": "die Bank — position", "why": "Position → datif féminin : neben **der** Bank." },
-    { "type": "mcq", "q": "Wir fahren morgen ___ Meer.", "options": ["ans", "am", "an dem"], "answer": 0, "why": "Direction → accusatif : an das = **ans** Meer." }
+    {
+      "type": "gap",
+      "q": "Das Handy liegt ___ Sofa.",
+      "answers": [
+        "auf dem"
+      ],
+      "hint": "das Sofa — position",
+      "why": "Position → datif : **auf dem** Sofa."
+    },
+    {
+      "type": "gap",
+      "q": "Er setzt sich ___ Stuhl.",
+      "answers": [
+        "auf den"
+      ],
+      "hint": "der Stuhl — mouvement",
+      "why": "*sich setzen* = mouvement → accusatif : **auf den** Stuhl."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Lampe hängt ___ Tisch.",
+      "options": [
+        "über dem",
+        "über den",
+        "über das"
+      ],
+      "answer": 0,
+      "why": "Position → datif : **über dem** Tisch."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich warte ___ Bahnhof auf dich.",
+      "options": [
+        "am",
+        "ans",
+        "an den"
+      ],
+      "answer": 0,
+      "why": "On attend sur place → datif : an dem = **am** Bahnhof."
+    },
+    {
+      "type": "mcq",
+      "q": "Wohin gehst du ? — ___ Bibliothek.",
+      "options": [
+        "In die",
+        "In der",
+        "Im"
+      ],
+      "answer": 0,
+      "why": "*Wohin ?* → accusatif : **in die** Bibliothek."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Le vélo est devant la maison.",
+      "answers": [
+        "Das Fahrrad steht vor dem Haus.",
+        "Das Rad steht vor dem Haus.",
+        "Das Fahrrad ist vor dem Haus.",
+        "Das Rad ist vor dem Haus."
+      ],
+      "why": "Position → datif : **vor dem** Haus."
+    },
+    {
+      "type": "gap",
+      "q": "Die Apotheke ist neben ___ Bank.",
+      "answers": [
+        "der"
+      ],
+      "hint": "die Bank — position",
+      "why": "Position → datif féminin : neben **der** Bank."
+    },
+    {
+      "type": "mcq",
+      "q": "Wir fahren morgen ___ Meer.",
+      "options": [
+        "ans",
+        "am",
+        "an dem"
+      ],
+      "answer": 0,
+      "why": "Direction → accusatif : an das = **ans** Meer."
+    }
   ]
 }

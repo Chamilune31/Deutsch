@@ -1,4 +1,12 @@
-export type Section = 'cours' | 'grammaire' | 'verbes' | 'vocabulaire';
+export type Section =
+  | 'cours'
+  | 'grammaire'
+  | 'verbes'
+  | 'vocabulaire'
+  | 'lecture'
+  | 'ecoute'
+  | 'ecriture'
+  | 'oral';
 export type Level = 'A2' | 'B1';
 export type Teacher = 'logan' | 'brayan';
 export type Tense = 'praesens' | 'perfekt' | 'praeteritum' | 'futur';
@@ -16,7 +24,8 @@ export type Block =
 export type ItemRef =
   | { k: 'ex'; pack: string; list: 'exercises' | 'exam'; i: number }
   | { k: 'vocab'; pack: string; de: string }
-  | { k: 'verb'; pack: string; inf: string; tense: Tense };
+  | { k: 'verb'; pack: string; inf: string; tense: Tense }
+  | { k: 'ctx'; pack: string; inf: string; i: number };
 
 interface ExBase {
   tag?: string;
@@ -38,7 +47,11 @@ export type Exercise =
       tense: Tense;
       forms: string[];
       ask?: number[];
-    });
+    })
+  /** Texte à trous multiple : « Gestern [bin] ich nach Berlin [gefahren]. » ; variantes séparées par « | ». */
+  | (ExBase & { type: 'cloze'; q?: string; text: string; hint?: string })
+  /** Dictée : la phrase est lue par la synthèse vocale. */
+  | (ExBase & { type: 'dictation'; text: string; fr?: string });
 
 export type VerbKind =
   | 'regulier'
@@ -49,6 +62,13 @@ export type VerbKind =
   | 'reflechi'
   | 'datif'
   | 'auxiliaire';
+
+/** Phrase en contexte : les formes du verbe sont entre crochets. */
+export interface VerbContext {
+  t: Tense;
+  de: string;
+  fr: string;
+}
 
 export interface Verb {
   /** Infinitif sans « sich » (ex. « freuen », « aufstehen ») */
@@ -65,6 +85,7 @@ export interface Verb {
   refl?: boolean;
   example?: { de: string; fr: string };
   note?: string;
+  ctx?: VerbContext[];
 }
 
 export interface VocabItem {
@@ -73,6 +94,35 @@ export interface VocabItem {
   article?: 'der' | 'die' | 'das';
   plural?: string;
   ex?: { de: string; fr: string };
+}
+
+/** Texte de lecture (section lecture). */
+export interface Reading {
+  title: string;
+  kind: string;
+  paragraphs: string[];
+  glossary?: { de: string; fr: string }[];
+}
+
+/** Document sonore (section écoute), lu par la synthèse vocale. */
+export interface Listening {
+  title: string;
+  situation: string;
+  lines: { who?: string; de: string }[];
+  glossary?: { de: string; fr: string }[];
+}
+
+/** Sujet d'expression (sections écriture et oral). */
+export interface Task {
+  prompt: string;
+  points: string[];
+  minWords?: number;
+  prepSeconds?: number;
+  speakSeconds?: number;
+  phrases: { de: string; fr: string }[];
+  model: string;
+  modelFr?: string;
+  criteria?: string[];
 }
 
 export interface Pack {
@@ -91,6 +141,9 @@ export interface Pack {
   lesson: Block[];
   verbs?: Verb[];
   vocab?: VocabItem[];
+  reading?: Reading;
+  listening?: Listening;
+  task?: Task;
   exercises?: Exercise[];
   exam?: Exercise[];
 }
@@ -100,4 +153,16 @@ export interface Result {
   score: number; // 0..1
   given: string;
   expected: string;
+}
+
+/** Correction d'une rédaction, écrite par la tâche planifiée. */
+export interface Correction {
+  id: string;
+  pack: string;
+  date: string;
+  text: string;
+  corrected: string;
+  comments: { original: string; fix: string; why: string }[];
+  summary: string;
+  level?: string;
 }

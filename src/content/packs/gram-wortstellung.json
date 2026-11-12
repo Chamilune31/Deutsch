@@ -1,0 +1,234 @@
+{
+  "id": "gram-wortstellung",
+  "section": "grammaire",
+  "title": "L'ordre des mots dans la phrase",
+  "level": "A2",
+  "topic": "Ordre des mots",
+  "summary": "Verbe en 2e position, inversion et ordre temps-cause-manière-lieu.",
+  "release": 3,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Le verbe conjugué en 2e position"
+    },
+    {
+      "type": "p",
+      "text": "Dans une phrase déclarative, le verbe conjugué est **toujours le 2e élément**. Si la phrase ne commence pas par le sujet, le sujet passe **juste après le verbe** (inversion)."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "**Ich** fahre morgen nach München.",
+          "fr": "Je vais à Munich demain."
+        },
+        {
+          "de": "**Morgen** fahre **ich** nach München.",
+          "fr": "Demain, je vais à Munich."
+        },
+        {
+          "de": "**Nach München** fahre **ich** morgen.",
+          "fr": "À Munich, j'y vais demain."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "La « parenthèse verbale »"
+    },
+    {
+      "type": "p",
+      "text": "Le 2e morceau du verbe va **à la fin** : infinitif après un modal, participe passé, particule séparable."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich **muss** heute lange **arbeiten**.",
+          "fr": "Je dois travailler longtemps aujourd'hui."
+        },
+        {
+          "de": "Wir **haben** im Restaurant **gegessen**.",
+          "fr": "Nous avons mangé au restaurant."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Te-Ka-Mo-Lo"
+    },
+    {
+      "type": "p",
+      "text": "Les compléments suivent en général l'ordre **Temps – Cause – Manière – Lieu** (wann? warum? wie? wo/wohin?)."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich fahre **morgen** (Te) **wegen eines Termins** (Ka) **mit dem Zug** (Mo) **nach Köln** (Lo).",
+          "fr": "Demain, je vais à Cologne en train pour un rendez-vous."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*und, aber, oder, denn, sondern* ne comptent pas comme une position : *Ich bin müde, **aber** ich **gehe** noch aus.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "answers": [
+        "Morgen fahre ich nach Berlin",
+        "Ich fahre morgen nach Berlin"
+      ],
+      "why": "Le verbe *fahre* est en 2e position ; avec *Morgen* en tête, inversion du sujet."
+    },
+    {
+      "type": "mcq",
+      "q": "Am Wochenende ___ in die Berge.",
+      "options": [
+        "fahren wir",
+        "wir fahren",
+        "wir fahren gern"
+      ],
+      "answer": 0,
+      "why": "*Am Wochenende* occupe la 1re position → verbe puis sujet : **fahren wir**."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich fahre heute mit dem Fahrrad zur Uni"
+      ],
+      "why": "Te-Ka-Mo-Lo : *heute* (temps) – *mit dem Fahrrad* (manière) – *zur Uni* (lieu)."
+    },
+    {
+      "type": "mcq",
+      "q": "Leider ___ heute nicht kommen.",
+      "options": [
+        "kann ich",
+        "ich kann",
+        "ich kommen kann"
+      ],
+      "answer": 0,
+      "why": "*Leider* en tête → inversion : **kann ich** … kommen."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Gestern habe ich meine Oma besucht",
+        "Ich habe gestern meine Oma besucht"
+      ],
+      "why": "Auxiliaire en 2e position, participe *besucht* à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich bin müde, aber ich ___ noch.",
+      "options": [
+        "lerne",
+        "noch lerne",
+        "lernen"
+      ],
+      "answer": 0,
+      "why": "*aber* ne compte pas : *ich lerne noch* (ordre normal)."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Aujourd'hui, je travaille à la maison.",
+      "answers": [
+        "Heute arbeite ich zu Hause.",
+        "Ich arbeite heute zu Hause.",
+        "Heute arbeite ich daheim.",
+        "Ich arbeite heute daheim."
+      ],
+      "why": "*Heute* en tête → *arbeite ich*."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Im Sommer möchte ich nach Spanien fliegen"
+      ],
+      "why": "Modal en 2e position, infinitif *fliegen* à la fin."
+    }
+  ],
+  "exam": [
+    {
+      "type": "order",
+      "answers": [
+        "Nach dem Kurs gehen wir ins Café",
+        "Wir gehen nach dem Kurs ins Café"
+      ],
+      "why": "Verbe en 2e position ; complément de temps avant le lieu."
+    },
+    {
+      "type": "mcq",
+      "q": "Um acht Uhr ___ der Film an.",
+      "options": [
+        "fängt",
+        "anfängt",
+        "fängt an"
+      ],
+      "answer": 0,
+      "why": "Verbe conjugué *fängt* en 2e position, particule *an* déjà à la fin."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich gehe am Samstag mit Anna ins Kino"
+      ],
+      "why": "Te (am Samstag) – Mo (mit Anna) – Lo (ins Kino)."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Le soir, je regarde souvent la télé.",
+      "answers": [
+        "Abends sehe ich oft fern.",
+        "Am Abend sehe ich oft fern.",
+        "Ich sehe abends oft fern."
+      ],
+      "why": "Inversion après *Abends* ; particule *fern* à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Deshalb ___ ich ein Praktikum in Deutschland.",
+      "options": [
+        "mache",
+        "ich mache",
+        "machen"
+      ],
+      "answer": 0,
+      "why": "*deshalb* occupe la 1re position (contrairement à *und, aber*) → inversion : **mache ich**."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Heute Abend muss ich noch meine Präsentation vorbereiten"
+      ],
+      "why": "Modal en 2e position, infinitif à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Wir fahren ___ nach Hamburg.",
+      "options": [
+        "morgen mit dem Zug",
+        "mit dem Zug morgen",
+        "nach morgen mit dem Zug"
+      ],
+      "answer": 0,
+      "why": "Te-Ka-Mo-Lo : le temps (*morgen*) avant la manière (*mit dem Zug*)."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Hier, nous avons mangé au restaurant.",
+      "answers": [
+        "Gestern haben wir im Restaurant gegessen.",
+        "Wir haben gestern im Restaurant gegessen."
+      ],
+      "why": "Inversion après *Gestern* ; participe *gegessen* à la fin."
+    }
+  ]
+}

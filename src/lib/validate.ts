@@ -1,7 +1,8 @@
 import type { Exercise, Pack, Verb } from './types';
-import { normalize } from './grade';
+import { clozeBlanks, normalize, parseCloze } from './grade';
+import { forms } from './verbs';
 
-const SECTIONS = ['cours', 'grammaire', 'verbes', 'vocabulaire'];
+const SECTIONS = ['cours', 'grammaire', 'verbes', 'vocabulaire', 'lecture', 'ecoute', 'ecriture', 'oral'];
 const LEVELS = ['A2', 'B1'];
 const TENSES = ['praesens', 'perfekt', 'praeteritum', 'futur'];
 const KINDS = ['regulier', 'fort', 'mixte', 'modal', 'separable', 'reflechi', 'datif', 'auxiliaire'];
@@ -53,6 +54,14 @@ function checkExercise(ex: Exercise, where: string, errs: string[]) {
       if (!TENSES.includes(ex.tense)) e('tense invalide');
       if (!isStrArr(ex.forms, 6) || ex.forms.length !== 6) e('forms doit contenir 6 formes');
       break;
+    case 'cloze':
+      if (!isStr(ex.text) || clozeBlanks(ex.text).length === 0) e('text doit contenir au moins un [trou]');
+      else if (clozeBlanks(ex.text).some((alts) => !alts.every(isStr))) e('trou vide');
+      else if (/[[\]]/.test(parseCloze(ex.text).map((p) => ('text' in p ? p.text : '')).join(''))) e('crochets mal fermés');
+      break;
+    case 'dictation':
+      if (!isStr(ex.text) || ex.text.split(/\s+/).length < 3) e('text : phrase d’au moins 3 mots');
+      break;
     default:
       e(`type inconnu « ${(ex as { type: string }).type} »`);
   }
@@ -79,6 +88,27 @@ function checkVerb(v: Verb, where: string, errs: string[]) {
     e('ne pas inclure la particule séparable dans praesens (elle est ajoutée automatiquement)');
   if (v.refl && v.praesens?.some((f) => / (mich|dich|sich|uns|euch)$/.test(f)))
     e('ne pas inclure le pronom réfléchi dans les formes (ajouté automatiquement)');
+  (v.ctx ?? []).forEach((c, i) => {
+    const w = `ctx[${i}]`;
+    if (!['praesens', 'perfekt', 'praeteritum', 'futur'].includes(c.t)) return e(`${w} : t invalide`);
+    if (!isStr(c.de) || !isStr(c.fr)) return e(`${w} : de et fr requis`);
+    const blanks = clozeBlanks(c.de);
+    if (!blanks.length) return e(`${w} : mettre les formes du verbe entre [crochets]`);
+    if (!isStrArr(v.praesens, 6) || !isStrArr(v.praeteritum, 6)) return;
+    const bag = (s: string) => normalize(s).split(' ').sort().join(' ');
+    const given = bag(blanks.map((b) => b[0]).join(' '));
+    const ok = forms(v, c.t).some((f, p) => {
+      if (bag(f) === given) return true;
+      // subordonnée : particule séparable collée au verbe
+      if (v.sep && (c.t === 'praesens' || c.t === 'praeteritum')) {
+        const base = (c.t === 'praesens' ? v.praesens : v.praeteritum)[p];
+        const glued = v.refl ? `${v.sep}${base} ${['mich', 'dich', 'sich', 'uns', 'euch', 'sich'][p]}` : `${v.sep}${base}`;
+        if (bag(glued) === given) return true;
+      }
+      return false;
+    });
+    if (!ok) e(`${w} : « ${blanks.map((b) => b[0]).join(' ')} » ne correspond à aucune forme de ${v.inf} au ${c.t}`);
+  });
 }
 
 export function validatePack(p: Pack): string[] {
@@ -119,11 +149,27 @@ export function validatePack(p: Pack): string[] {
   const des = (p.vocab ?? []).map((w) => w.de);
   if (new Set(des).size !== des.length) e('vocab : mots en double');
 
+  if (p.section === 'lecture') {
+    if (!p.reading || !isStr(p.reading.title) || !isStrArr(p.reading.paragraphs)) e('reading requis (title, paragraphs)');
+  }
+  if (p.section === 'ecoute') {
+    if (!p.listening || !isStr(p.listening.title) || !Array.isArray(p.listening.lines) || p.listening.lines.length < 3 || !p.listening.lines.every((l) => isStr(l.de)))
+      e('listening requis (title, au moins 3 lines)');
+  }
+  if (p.section === 'ecriture' || p.section === 'oral') {
+    const t = p.task;
+    if (!t || !isStr(t.prompt) || !isStrArr(t.points) || !isStr(t.model) || !Array.isArray(t.phrases) || t.phrases.length < 4)
+      e('task requis (prompt, points, model, au moins 4 phrases)');
+    else if (!t.phrases.every((x) => isStr(x.de) && isStr(x.fr))) e('task.phrases invalides');
+  }
+
   (p.exercises ?? []).forEach((x, i) => checkExercise(x, `${id} exercises[${i}]`, errs));
   (p.exam ?? []).forEach((x, i) => checkExercise(x, `${id} exam[${i}]`, errs));
 
   const hasAuto = (p.verbs?.length ?? 0) >= 3 || (p.vocab?.length ?? 0) >= 6;
-  if (!hasAuto) {
+  if (p.section === 'ecriture' || p.section === 'oral') {
+    /* pas d'exercices obligatoires */
+  } else if (!hasAuto) {
     if ((p.exercises?.length ?? 0) < 6) e('au moins 6 exercices requis (ou ≥ 3 verbes / ≥ 6 mots)');
     if ((p.exam?.length ?? 0) < 6) e('au moins 6 questions d’examen requises (ou ≥ 3 verbes / ≥ 6 mots)');
   }

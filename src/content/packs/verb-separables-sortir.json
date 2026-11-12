@@ -1,0 +1,293 @@
+{
+  "id": "verb-separables-sortir",
+  "section": "verbes",
+  "title": "Sortir et inviter : séparables (2)",
+  "level": "A2",
+  "topic": "Sorties",
+  "summary": "mitkommen, einladen, ausgehen, aussehen… pour organiser une sortie.",
+  "release": 6,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Encore des verbes séparables, utiles pour proposer une sortie ou raconter ta soirée. Rappel : la particule part à la fin au présent, et le participe met **-ge-** entre la particule et le verbe (*eingeladen, ausgegangen*)."
+    },
+    {
+      "type": "tip",
+      "text": "Exception : si le verbe de base commence déjà par un préfixe inséparable, pas de *-ge-* : *vorbereiten → vorbereitet*."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Kommst du mit?",
+          "fr": "Tu viens avec nous ?"
+        },
+        {
+          "de": "Ich lade dich ein.",
+          "fr": "Je t'invite (c'est moi qui paie)."
+        }
+      ]
+    }
+  ],
+  "verbs": [
+    {
+      "inf": "mitkommen",
+      "fr": "venir avec",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "sein",
+      "partizip": "mitgekommen",
+      "praesens": [
+        "komme",
+        "kommst",
+        "kommt",
+        "kommen",
+        "kommt",
+        "kommen"
+      ],
+      "praeteritum": [
+        "kam",
+        "kamst",
+        "kam",
+        "kamen",
+        "kamt",
+        "kamen"
+      ],
+      "example": {
+        "de": "Wir gehen ins Kino. Kommst du mit?",
+        "fr": "On va au cinéma. Tu viens ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Kommst] du heute Abend [mit]?",
+          "fr": "Tu viens avec nous ce soir ?"
+        },
+        {
+          "t": "perfekt",
+          "de": "Leider [ist] meine Freundin nicht [mitgekommen].",
+          "fr": "Malheureusement, mon amie n'est pas venue."
+        }
+      ],
+      "sep": "mit"
+    },
+    {
+      "inf": "einladen",
+      "fr": "inviter",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "eingeladen",
+      "praesens": [
+        "lade",
+        "lädst",
+        "lädt",
+        "laden",
+        "ladet",
+        "laden"
+      ],
+      "praeteritum": [
+        "lud",
+        "ludst",
+        "lud",
+        "luden",
+        "ludet",
+        "luden"
+      ],
+      "example": {
+        "de": "Sie lädt alle Freunde zu ihrem Geburtstag ein.",
+        "fr": "Elle invite tous ses amis à son anniversaire."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Ich [lade] dich zum Essen [ein].",
+          "fr": "Je t'invite au restaurant."
+        },
+        {
+          "t": "perfekt",
+          "de": "Sie [hat] uns zu ihrer Party [eingeladen].",
+          "fr": "Elle nous a invités à sa fête."
+        }
+      ],
+      "sep": "ein"
+    },
+    {
+      "inf": "ausgehen",
+      "fr": "sortir (le soir)",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "sein",
+      "partizip": "ausgegangen",
+      "praesens": [
+        "gehe",
+        "gehst",
+        "geht",
+        "gehen",
+        "geht",
+        "gehen"
+      ],
+      "praeteritum": [
+        "ging",
+        "gingst",
+        "ging",
+        "gingen",
+        "gingt",
+        "gingen"
+      ],
+      "example": {
+        "de": "Wir gehen heute Abend aus.",
+        "fr": "Nous sortons ce soir."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Am Freitag [gehen] wir [aus].",
+          "fr": "Vendredi, nous sortons."
+        },
+        {
+          "t": "perfekt",
+          "de": "Gestern [bin] ich mit Kollegen [ausgegangen].",
+          "fr": "Hier, je suis sortie avec des collègues."
+        }
+      ],
+      "sep": "aus"
+    },
+    {
+      "inf": "aussehen",
+      "fr": "avoir l'air",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "ausgesehen",
+      "praesens": [
+        "sehe",
+        "siehst",
+        "sieht",
+        "sehen",
+        "seht",
+        "sehen"
+      ],
+      "praeteritum": [
+        "sah",
+        "sahst",
+        "sah",
+        "sahen",
+        "saht",
+        "sahen"
+      ],
+      "example": {
+        "de": "Das Kleid sieht toll aus.",
+        "fr": "La robe est superbe."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Du [siehst] heute müde [aus].",
+          "fr": "Tu as l'air fatiguée aujourd'hui."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Das Hotel [sah] auf den Fotos besser [aus].",
+          "fr": "L'hôtel avait l'air mieux sur les photos."
+        }
+      ],
+      "sep": "aus"
+    },
+    {
+      "inf": "zurückkommen",
+      "fr": "revenir",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "sein",
+      "partizip": "zurückgekommen",
+      "praesens": [
+        "komme",
+        "kommst",
+        "kommt",
+        "kommen",
+        "kommt",
+        "kommen"
+      ],
+      "praeteritum": [
+        "kam",
+        "kamst",
+        "kam",
+        "kamen",
+        "kamt",
+        "kamen"
+      ],
+      "example": {
+        "de": "Wann kommst du zurück?",
+        "fr": "Quand reviens-tu ?"
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Wann [bist] du aus dem Urlaub [zurückgekommen]?",
+          "fr": "Quand es-tu rentrée de vacances ?"
+        },
+        {
+          "t": "futur",
+          "de": "Ich [werde] um sechs Uhr [zurückkommen].",
+          "fr": "Je reviendrai à six heures."
+        }
+      ],
+      "sep": "zurück"
+    },
+    {
+      "inf": "vorbereiten",
+      "fr": "préparer",
+      "kinds": [
+        "regulier",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "vorbereitet",
+      "praesens": [
+        "bereite",
+        "bereitest",
+        "bereitet",
+        "bereiten",
+        "bereitet",
+        "bereiten"
+      ],
+      "praeteritum": [
+        "bereitete",
+        "bereitetest",
+        "bereitete",
+        "bereiteten",
+        "bereitetet",
+        "bereiteten"
+      ],
+      "example": {
+        "de": "Ich bereite das Abendessen vor.",
+        "fr": "Je prépare le dîner."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Heute Abend [bereite] ich meine Präsentation [vor].",
+          "fr": "Ce soir, je prépare ma présentation."
+        },
+        {
+          "t": "perfekt",
+          "de": "[Habt] ihr das Referat schon [vorbereitet]?",
+          "fr": "Vous avez déjà préparé l'exposé ?"
+        }
+      ],
+      "sep": "vor"
+    }
+  ]
+}

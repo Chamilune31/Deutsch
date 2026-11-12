@@ -34,7 +34,7 @@ export function ProgressPage() {
     <div className="page">
       <header className="page-head">
         <h1>Progrès</h1>
-        <p className="muted">Ta progression est enregistrée dans ce navigateur. Fais une sauvegarde pour la retrouver sur un autre appareil.</p>
+        <p className="lead">Ta progression est enregistrée dans ce navigateur. Fais une sauvegarde pour la retrouver sur un autre appareil.</p>
       </header>
 
       <div className="stats wide">
@@ -128,10 +128,10 @@ export function ProgressPage() {
         <h2>Sauvegarde</h2>
         <div className="row">
           <button className="btn" type="button" onClick={download}>
-            ⬇️ Télécharger ma sauvegarde
+            Télécharger ma sauvegarde
           </button>
           <button className="btn" type="button" onClick={() => fileRef.current?.click()}>
-            ⬆️ Restaurer une sauvegarde
+            Restaurer une sauvegarde
           </button>
           <input
             ref={fileRef}
@@ -143,9 +143,9 @@ export function ProgressPage() {
               if (!f) return;
               try {
                 importProgress(await f.text());
-                setMsg('✅ Sauvegarde restaurée.');
+                setMsg('Sauvegarde restaurée.');
               } catch (err) {
-                setMsg(`❌ ${(err as Error).message}`);
+                setMsg((err as Error).message);
               }
             }}
           />

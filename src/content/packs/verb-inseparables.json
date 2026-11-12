@@ -1,0 +1,282 @@
+{
+  "id": "verb-inseparables",
+  "section": "verbes",
+  "title": "Les verbes inséparables",
+  "level": "A2",
+  "topic": "Verbes inséparables",
+  "summary": "besuchen, erklären, verkaufen, gewinnen… : préfixe fixe et participe sans ge-.",
+  "release": 3,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Les préfixes **be-, emp-, ent-, er-, ge-, ver-, zer-** ne se séparent jamais du verbe et ne sont pas accentués. Au participe passé, **pas de ge-** : *besuchen → besucht*, *verlieren → verloren*."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich besuche meine Oma.",
+          "fr": "Je rends visite à ma grand-mère."
+        },
+        {
+          "de": "Ich habe meine Oma besucht.",
+          "fr": "J'ai rendu visite à ma grand-mère."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*verkaufen* (vendre) ≠ *kaufen* (acheter) ; *verlieren* (perdre) ≠ *gewinnen* (gagner). Le préfixe change souvent le sens."
+    }
+  ],
+  "verbs": [
+    {
+      "inf": "besuchen",
+      "fr": "rendre visite, visiter",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "besucht",
+      "praesens": [
+        "besuche",
+        "besuchst",
+        "besucht",
+        "besuchen",
+        "besucht",
+        "besuchen"
+      ],
+      "praeteritum": [
+        "besuchte",
+        "besuchtest",
+        "besuchte",
+        "besuchten",
+        "besuchtet",
+        "besuchten"
+      ],
+      "example": {
+        "de": "Wir besuchen morgen das Museum.",
+        "fr": "Demain, nous visitons le musée."
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Am Wochenende [haben] wir meine Großeltern [besucht].",
+          "fr": "Ce week-end, nous avons rendu visite à mes grands-parents."
+        },
+        {
+          "t": "futur",
+          "de": "Nächsten Monat [werde] ich dich in Paris [besuchen].",
+          "fr": "Le mois prochain, je viendrai te voir à Paris."
+        }
+      ]
+    },
+    {
+      "inf": "erklären",
+      "fr": "expliquer",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "erklärt",
+      "praesens": [
+        "erkläre",
+        "erklärst",
+        "erklärt",
+        "erklären",
+        "erklärt",
+        "erklären"
+      ],
+      "praeteritum": [
+        "erklärte",
+        "erklärtest",
+        "erklärte",
+        "erklärten",
+        "erklärtet",
+        "erklärten"
+      ],
+      "example": {
+        "de": "Kannst du mir das erklären?",
+        "fr": "Tu peux m'expliquer ça ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Die Lehrerin [erklärt] die Regel noch einmal.",
+          "fr": "La professeure explique encore une fois la règle."
+        },
+        {
+          "t": "perfekt",
+          "de": "Er [hat] mir den Weg [erklärt].",
+          "fr": "Il m'a expliqué le chemin."
+        }
+      ]
+    },
+    {
+      "inf": "verkaufen",
+      "fr": "vendre",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "verkauft",
+      "praesens": [
+        "verkaufe",
+        "verkaufst",
+        "verkauft",
+        "verkaufen",
+        "verkauft",
+        "verkaufen"
+      ],
+      "praeteritum": [
+        "verkaufte",
+        "verkauftest",
+        "verkaufte",
+        "verkauften",
+        "verkauftet",
+        "verkauften"
+      ],
+      "example": {
+        "de": "Der Laden verkauft Bio-Gemüse.",
+        "fr": "Le magasin vend des légumes bio."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Wir [verkaufen] unser altes Auto.",
+          "fr": "Nous vendons notre vieille voiture."
+        },
+        {
+          "t": "perfekt",
+          "de": "Sie [hat] ihr Fahrrad im Internet [verkauft].",
+          "fr": "Elle a vendu son vélo sur Internet."
+        }
+      ]
+    },
+    {
+      "inf": "gewinnen",
+      "fr": "gagner",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "gewonnen",
+      "praesens": [
+        "gewinne",
+        "gewinnst",
+        "gewinnt",
+        "gewinnen",
+        "gewinnt",
+        "gewinnen"
+      ],
+      "praeteritum": [
+        "gewann",
+        "gewannst",
+        "gewann",
+        "gewannen",
+        "gewannt",
+        "gewannen"
+      ],
+      "example": {
+        "de": "Wer gewinnt heute?",
+        "fr": "Qui gagne aujourd'hui ?"
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Unsere Mannschaft [hat] das Spiel [gewonnen].",
+          "fr": "Notre équipe a gagné le match."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Letztes Jahr [gewann] sie den ersten Preis.",
+          "fr": "L'année dernière, elle a gagné le premier prix."
+        }
+      ],
+      "note": "gewinnen = gagner un jeu ; gagner de l'argent se dit verdienen."
+    },
+    {
+      "inf": "verlieren",
+      "fr": "perdre",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "verloren",
+      "praesens": [
+        "verliere",
+        "verlierst",
+        "verliert",
+        "verlieren",
+        "verliert",
+        "verlieren"
+      ],
+      "praeteritum": [
+        "verlor",
+        "verlorst",
+        "verlor",
+        "verloren",
+        "verlort",
+        "verloren"
+      ],
+      "example": {
+        "de": "Ich verliere oft meine Brille.",
+        "fr": "Je perds souvent mes lunettes."
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] mein Handy [verloren].",
+          "fr": "J'ai perdu mon portable."
+        },
+        {
+          "t": "praesens",
+          "de": "Er [verliert] nie die Geduld.",
+          "fr": "Il ne perd jamais patience."
+        }
+      ]
+    },
+    {
+      "inf": "empfehlen",
+      "fr": "recommander",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "empfohlen",
+      "praesens": [
+        "empfehle",
+        "empfiehlst",
+        "empfiehlt",
+        "empfehlen",
+        "empfehlt",
+        "empfehlen"
+      ],
+      "praeteritum": [
+        "empfahl",
+        "empfahlst",
+        "empfahl",
+        "empfahlen",
+        "empfahlt",
+        "empfahlen"
+      ],
+      "example": {
+        "de": "Ich empfehle dir dieses Buch.",
+        "fr": "Je te recommande ce livre."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Was [empfiehlst] du mir?",
+          "fr": "Que me recommandes-tu ?"
+        },
+        {
+          "t": "perfekt",
+          "de": "Der Kellner [hat] uns den Fisch [empfohlen].",
+          "fr": "Le serveur nous a recommandé le poisson."
+        }
+      ]
+    }
+  ]
+}

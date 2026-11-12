@@ -18,7 +18,7 @@ for (const f of files) {
 }
 errs.push(...validateAll(packs));
 const by = (s: string) => packs.filter((p) => p.section === s).length;
-console.log(`${packs.length} packs — grammaire ${by('grammaire')}, verbes ${by('verbes')}, vocabulaire ${by('vocabulaire')}, cours ${by('cours')}`);
+console.log(`${packs.length} packs — grammaire ${by('grammaire')}, verbes ${by('verbes')}, vocabulaire ${by('vocabulaire')}, lire ${by('lecture')}, écouter ${by('ecoute')}, écrire ${by('ecriture')}, parler ${by('oral')}, cours ${by('cours')}`);
 if (errs.length) {
   console.error(`\n❌ ${errs.length} erreur(s) :\n- ` + errs.join('\n- '));
   process.exit(1);

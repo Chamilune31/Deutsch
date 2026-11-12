@@ -1,0 +1,179 @@
+{
+  "id": "vocab-famille",
+  "section": "vocabulaire",
+  "title": "Famille et relations",
+  "level": "A2",
+  "topic": "Famille",
+  "summary": "Présenter sa famille, ses amis et parler des relations.",
+  "release": 0,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Pour présenter ta famille et parler de tes proches."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich habe zwei Geschwister.",
+          "fr": "J'ai deux frères et sœurs."
+        },
+        {
+          "de": "Meine Eltern sind geschieden.",
+          "fr": "Mes parents sont divorcés."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*die Geschwister* (frères et sœurs) n'existe qu'au pluriel. *die Eltern* (parents) aussi."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Eltern",
+      "fr": "les parents",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Meine Eltern wohnen in Lyon.",
+        "fr": "Mes parents habitent à Lyon."
+      }
+    },
+    {
+      "de": "Geschwister",
+      "fr": "les frères et sœurs",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Hast du Geschwister?",
+        "fr": "As-tu des frères et sœurs ?"
+      }
+    },
+    {
+      "de": "Bruder",
+      "fr": "le frère",
+      "article": "der",
+      "plural": "Brüder",
+      "ex": {
+        "de": "Mein Bruder ist zwei Jahre älter als ich.",
+        "fr": "Mon frère a deux ans de plus que moi."
+      }
+    },
+    {
+      "de": "Schwester",
+      "fr": "la sœur",
+      "article": "die",
+      "plural": "Schwestern",
+      "ex": {
+        "de": "Meine Schwester studiert Medizin.",
+        "fr": "Ma sœur fait des études de médecine."
+      }
+    },
+    {
+      "de": "Großeltern",
+      "fr": "les grands-parents",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Am Sonntag besuchen wir die Großeltern.",
+        "fr": "Dimanche, nous rendons visite aux grands-parents."
+      }
+    },
+    {
+      "de": "Onkel",
+      "fr": "l'oncle",
+      "article": "der",
+      "plural": "Onkel",
+      "ex": {
+        "de": "Mein Onkel lebt in Kanada.",
+        "fr": "Mon oncle vit au Canada."
+      }
+    },
+    {
+      "de": "Tante",
+      "fr": "la tante",
+      "article": "die",
+      "plural": "Tanten",
+      "ex": {
+        "de": "Meine Tante kocht sehr gut.",
+        "fr": "Ma tante cuisine très bien."
+      }
+    },
+    {
+      "de": "Cousine",
+      "fr": "la cousine",
+      "article": "die",
+      "plural": "Cousinen",
+      "ex": {
+        "de": "Meine Cousine heiratet im Juni.",
+        "fr": "Ma cousine se marie en juin."
+      }
+    },
+    {
+      "de": "Ehemann",
+      "fr": "le mari",
+      "article": "der",
+      "plural": "Ehemänner",
+      "ex": {
+        "de": "Ihr Ehemann arbeitet bei einer Bank.",
+        "fr": "Son mari travaille dans une banque."
+      }
+    },
+    {
+      "de": "Freundin",
+      "fr": "l'amie, la petite amie",
+      "article": "die",
+      "plural": "Freundinnen",
+      "ex": {
+        "de": "Meine beste Freundin heißt Clara.",
+        "fr": "Ma meilleure amie s'appelle Clara."
+      }
+    },
+    {
+      "de": "Hochzeit",
+      "fr": "le mariage",
+      "article": "die",
+      "plural": "Hochzeiten",
+      "ex": {
+        "de": "Die Hochzeit war wunderschön.",
+        "fr": "Le mariage était magnifique."
+      }
+    },
+    {
+      "de": "Beziehung",
+      "fr": "la relation",
+      "article": "die",
+      "plural": "Beziehungen",
+      "ex": {
+        "de": "Sie haben eine gute Beziehung.",
+        "fr": "Ils ont une bonne relation."
+      }
+    },
+    {
+      "de": "verheiratet",
+      "fr": "marié(e)",
+      "ex": {
+        "de": "Mein Bruder ist seit zwei Jahren verheiratet.",
+        "fr": "Mon frère est marié depuis deux ans."
+      }
+    },
+    {
+      "de": "ledig",
+      "fr": "célibataire",
+      "ex": {
+        "de": "Meine Tante ist ledig.",
+        "fr": "Ma tante est célibataire."
+      }
+    },
+    {
+      "de": "sich verstehen",
+      "fr": "bien s'entendre",
+      "ex": {
+        "de": "Wir verstehen uns sehr gut.",
+        "fr": "Nous nous entendons très bien."
+      }
+    }
+  ]
+}

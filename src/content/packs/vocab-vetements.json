@@ -1,0 +1,177 @@
+{
+  "id": "vocab-vetements",
+  "section": "vocabulaire",
+  "title": "Vêtements et achats",
+  "level": "A2",
+  "topic": "Vêtements",
+  "summary": "Faire du shopping, demander une taille, essayer et payer.",
+  "release": 1,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Pour faire du shopping : demander une taille, essayer, échanger un article."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Kann ich das anprobieren?",
+          "fr": "Je peux l'essayer ?"
+        },
+        {
+          "de": "Haben Sie das eine Nummer größer?",
+          "fr": "Vous l'avez une taille au-dessus ?"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*die Hose* (le pantalon) et *die Jeans* sont au **singulier** en allemand : *Die Hose **ist** zu lang.*"
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Hose",
+      "fr": "le pantalon",
+      "article": "die",
+      "plural": "Hosen",
+      "ex": {
+        "de": "Die Hose ist zu lang.",
+        "fr": "Le pantalon est trop long."
+      }
+    },
+    {
+      "de": "Hemd",
+      "fr": "la chemise",
+      "article": "das",
+      "plural": "Hemden",
+      "ex": {
+        "de": "Er trägt ein weißes Hemd.",
+        "fr": "Il porte une chemise blanche."
+      }
+    },
+    {
+      "de": "Kleid",
+      "fr": "la robe",
+      "article": "das",
+      "plural": "Kleider",
+      "ex": {
+        "de": "Das Kleid steht dir gut.",
+        "fr": "La robe te va bien."
+      }
+    },
+    {
+      "de": "Jacke",
+      "fr": "la veste",
+      "article": "die",
+      "plural": "Jacken",
+      "ex": {
+        "de": "Nimm eine Jacke mit, es ist kalt.",
+        "fr": "Prends une veste, il fait froid."
+      }
+    },
+    {
+      "de": "Mantel",
+      "fr": "le manteau",
+      "article": "der",
+      "plural": "Mäntel",
+      "ex": {
+        "de": "Der Mantel ist sehr warm.",
+        "fr": "Le manteau est très chaud."
+      }
+    },
+    {
+      "de": "Pullover",
+      "fr": "le pull",
+      "article": "der",
+      "plural": "Pullover",
+      "ex": {
+        "de": "Ich suche einen grauen Pullover.",
+        "fr": "Je cherche un pull gris."
+      }
+    },
+    {
+      "de": "Schuh",
+      "fr": "la chaussure",
+      "article": "der",
+      "plural": "Schuhe",
+      "ex": {
+        "de": "Diese Schuhe sind bequem.",
+        "fr": "Ces chaussures sont confortables."
+      }
+    },
+    {
+      "de": "Größe",
+      "fr": "la taille",
+      "article": "die",
+      "plural": "Größen",
+      "ex": {
+        "de": "Welche Größe haben Sie?",
+        "fr": "Quelle taille faites-vous ?"
+      }
+    },
+    {
+      "de": "Umkleidekabine",
+      "fr": "la cabine d'essayage",
+      "article": "die",
+      "plural": "Umkleidekabinen",
+      "ex": {
+        "de": "Die Umkleidekabine ist da hinten.",
+        "fr": "La cabine d'essayage est au fond."
+      }
+    },
+    {
+      "de": "Angebot",
+      "fr": "l'offre, la promotion",
+      "article": "das",
+      "plural": "Angebote",
+      "ex": {
+        "de": "Die Jacke ist im Angebot.",
+        "fr": "La veste est en promotion."
+      }
+    },
+    {
+      "de": "Kasse",
+      "fr": "la caisse",
+      "article": "die",
+      "plural": "Kassen",
+      "ex": {
+        "de": "Bitte zahlen Sie an der Kasse.",
+        "fr": "Veuillez payer à la caisse."
+      }
+    },
+    {
+      "de": "anprobieren",
+      "fr": "essayer (un vêtement)",
+      "ex": {
+        "de": "Ich möchte das Kleid anprobieren.",
+        "fr": "Je voudrais essayer la robe."
+      }
+    },
+    {
+      "de": "tragen",
+      "fr": "porter",
+      "ex": {
+        "de": "Im Büro trage ich keine Jeans.",
+        "fr": "Au bureau, je ne porte pas de jean."
+      }
+    },
+    {
+      "de": "umtauschen",
+      "fr": "échanger",
+      "ex": {
+        "de": "Kann ich den Pullover umtauschen?",
+        "fr": "Puis-je échanger le pull ?"
+      }
+    },
+    {
+      "de": "bequem",
+      "fr": "confortable",
+      "ex": {
+        "de": "Die Hose ist sehr bequem.",
+        "fr": "Le pantalon est très confortable."
+      }
+    }
+  ]
+}

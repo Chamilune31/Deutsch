@@ -1,5 +1,8 @@
 import type { ReactNode } from 'react';
 import type { Block } from '../lib/types';
+import { canSpeak, speak } from '../lib/speech';
+
+export { speak };
 
 /** Découpe un texte en segments **gras** / *italique* (imbrication possible). */
 export function richSegments(text: string): { t: string; b: boolean; i: boolean }[] {
@@ -42,28 +45,14 @@ export function Rich({ text }: { text: string }) {
   return <>{parts}</>;
 }
 
-let germanVoice: SpeechSynthesisVoice | null | undefined;
-
-export function speak(text: string) {
-  if (typeof speechSynthesis === 'undefined') return;
-  const clean = text.replace(/\*\*/g, '').replace(/\*/g, '');
-  const u = new SpeechSynthesisUtterance(clean);
-  u.lang = 'de-DE';
-  u.rate = 0.9;
-  if (germanVoice === undefined) {
-    const voices = speechSynthesis.getVoices();
-    germanVoice = voices.find((v) => v.lang.startsWith('de')) ?? null;
-  }
-  if (germanVoice) u.voice = germanVoice;
-  speechSynthesis.cancel();
-  speechSynthesis.speak(u);
-}
-
 export function SpeakButton({ text }: { text: string }) {
-  if (typeof speechSynthesis === 'undefined') return null;
+  if (!canSpeak) return null;
   return (
     <button className="speak" type="button" title="Écouter" aria-label={`Écouter : ${text}`} onClick={() => speak(text)}>
-      🔊
+      <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+        <path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor" />
+        <path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />
+      </svg>
     </button>
   );
 }
@@ -88,7 +77,6 @@ export function Blocks({ blocks }: { blocks: Block[] }) {
           case 'tip':
             return (
               <div key={i} className="tip">
-                <span aria-hidden>💡</span>
                 <div>
                   <Rich text={b.text} />
                 </div>

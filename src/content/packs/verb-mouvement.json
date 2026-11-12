@@ -5,41 +5,272 @@
   "level": "A2",
   "topic": "Déplacements",
   "summary": "Les verbes de mouvement, presque tous forts et conjugués avec sein au Perfekt.",
-  "release": 2,
+  "release": 0,
   "createdAt": "2026-11-11",
   "lesson": [
-    { "type": "p", "text": "Les verbes qui expriment un **déplacement d'un point à un autre** ou un **changement d'état** forment leur Perfekt avec **sein** : *Ich **bin** nach Berlin **gefahren**.*" },
-    { "type": "list", "items": [
-      "**gehen** = aller à pied ; **fahren** = aller avec un véhicule (voiture, train, vélo).",
-      "**bleiben** (rester) prend aussi *sein*, même sans mouvement.",
-      "Plusieurs verbes forts changent de voyelle à **du** et **er** : *du fährst, er läuft*."
-    ] },
-    { "type": "tip", "text": "« Je vais à Munich en train » se dit *Ich **fahre** mit dem Zug nach München*, pas *ich gehe*." }
+    {
+      "type": "p",
+      "text": "Les verbes qui expriment un **déplacement d'un point à un autre** ou un **changement d'état** forment leur Perfekt avec **sein** : *Ich **bin** nach Berlin **gefahren**.*"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**gehen** = aller à pied ; **fahren** = aller avec un véhicule (voiture, train, vélo).",
+        "**bleiben** (rester) prend aussi *sein*, même sans mouvement.",
+        "Plusieurs verbes forts changent de voyelle à **du** et **er** : *du fährst, er läuft*."
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "« Je vais à Munich en train » se dit *Ich **fahre** mit dem Zug nach München*, pas *ich gehe*."
+    }
   ],
   "verbs": [
-    { "inf": "gehen", "fr": "aller (à pied)", "kinds": ["fort"], "aux": "sein", "partizip": "gegangen",
-      "praesens": ["gehe", "gehst", "geht", "gehen", "geht", "gehen"],
-      "praeteritum": ["ging", "gingst", "ging", "gingen", "gingt", "gingen"],
-      "example": { "de": "Ich gehe zu Fuß zur Uni.", "fr": "Je vais à la fac à pied." } },
-    { "inf": "fahren", "fr": "aller (en véhicule), conduire", "kinds": ["fort"], "aux": "sein", "partizip": "gefahren",
-      "praesens": ["fahre", "fährst", "fährt", "fahren", "fahrt", "fahren"],
-      "praeteritum": ["fuhr", "fuhrst", "fuhr", "fuhren", "fuhrt", "fuhren"],
-      "example": { "de": "Am Wochenende fahren wir nach Hamburg.", "fr": "Ce week-end, nous allons à Hambourg." } },
-    { "inf": "kommen", "fr": "venir", "kinds": ["fort"], "aux": "sein", "partizip": "gekommen",
-      "praesens": ["komme", "kommst", "kommt", "kommen", "kommt", "kommen"],
-      "praeteritum": ["kam", "kamst", "kam", "kamen", "kamt", "kamen"],
-      "example": { "de": "Woher kommst du?", "fr": "D'où viens-tu ?" } },
-    { "inf": "fliegen", "fr": "voler, prendre l'avion", "kinds": ["fort"], "aux": "sein", "partizip": "geflogen",
-      "praesens": ["fliege", "fliegst", "fliegt", "fliegen", "fliegt", "fliegen"],
-      "praeteritum": ["flog", "flogst", "flog", "flogen", "flogt", "flogen"],
-      "example": { "de": "Im Sommer fliege ich nach Wien.", "fr": "Cet été, je prends l'avion pour Vienne." } },
-    { "inf": "laufen", "fr": "courir, marcher", "kinds": ["fort"], "aux": "sein", "partizip": "gelaufen",
-      "praesens": ["laufe", "läufst", "läuft", "laufen", "lauft", "laufen"],
-      "praeteritum": ["lief", "liefst", "lief", "liefen", "lieft", "liefen"],
-      "example": { "de": "Sie läuft jeden Morgen im Park.", "fr": "Elle court tous les matins au parc." } },
-    { "inf": "bleiben", "fr": "rester", "kinds": ["fort"], "aux": "sein", "partizip": "geblieben",
-      "praesens": ["bleibe", "bleibst", "bleibt", "bleiben", "bleibt", "bleiben"],
-      "praeteritum": ["blieb", "bliebst", "blieb", "blieben", "bliebt", "blieben"],
-      "example": { "de": "Heute bleibe ich zu Hause.", "fr": "Aujourd'hui, je reste à la maison." } }
+    {
+      "inf": "gehen",
+      "fr": "aller (à pied)",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "sein",
+      "partizip": "gegangen",
+      "praesens": [
+        "gehe",
+        "gehst",
+        "geht",
+        "gehen",
+        "geht",
+        "gehen"
+      ],
+      "praeteritum": [
+        "ging",
+        "gingst",
+        "ging",
+        "gingen",
+        "gingt",
+        "gingen"
+      ],
+      "example": {
+        "de": "Ich gehe zu Fuß zur Uni.",
+        "fr": "Je vais à la fac à pied."
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Am Samstag [sind] wir ins Museum [gegangen].",
+          "fr": "Samedi, nous sommes allés au musée."
+        },
+        {
+          "t": "praesens",
+          "de": "[Gehst] du heute Abend ins Kino?",
+          "fr": "Tu vas au cinéma ce soir ?"
+        }
+      ]
+    },
+    {
+      "inf": "fahren",
+      "fr": "aller (en véhicule), conduire",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "sein",
+      "partizip": "gefahren",
+      "praesens": [
+        "fahre",
+        "fährst",
+        "fährt",
+        "fahren",
+        "fahrt",
+        "fahren"
+      ],
+      "praeteritum": [
+        "fuhr",
+        "fuhrst",
+        "fuhr",
+        "fuhren",
+        "fuhrt",
+        "fuhren"
+      ],
+      "example": {
+        "de": "Am Wochenende fahren wir nach Hamburg.",
+        "fr": "Ce week-end, nous allons à Hambourg."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Im Sommer [fährt] meine Familie nach Italien.",
+          "fr": "L'été, ma famille va en Italie."
+        },
+        {
+          "t": "perfekt",
+          "de": "Ich [bin] mit dem Zug nach Hamburg [gefahren].",
+          "fr": "Je suis allée à Hambourg en train."
+        }
+      ]
+    },
+    {
+      "inf": "kommen",
+      "fr": "venir",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "sein",
+      "partizip": "gekommen",
+      "praesens": [
+        "komme",
+        "kommst",
+        "kommt",
+        "kommen",
+        "kommt",
+        "kommen"
+      ],
+      "praeteritum": [
+        "kam",
+        "kamst",
+        "kam",
+        "kamen",
+        "kamt",
+        "kamen"
+      ],
+      "example": {
+        "de": "Woher kommst du?",
+        "fr": "D'où viens-tu ?"
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Warum [bist] du nicht zur Party [gekommen]?",
+          "fr": "Pourquoi n'es-tu pas venue à la fête ?"
+        },
+        {
+          "t": "praesens",
+          "de": "Woher [kommt] ihr?",
+          "fr": "D'où venez-vous ?"
+        }
+      ]
+    },
+    {
+      "inf": "fliegen",
+      "fr": "voler, prendre l'avion",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "sein",
+      "partizip": "geflogen",
+      "praesens": [
+        "fliege",
+        "fliegst",
+        "fliegt",
+        "fliegen",
+        "fliegt",
+        "fliegen"
+      ],
+      "praeteritum": [
+        "flog",
+        "flogst",
+        "flog",
+        "flogen",
+        "flogt",
+        "flogen"
+      ],
+      "example": {
+        "de": "Im Sommer fliege ich nach Wien.",
+        "fr": "Cet été, je prends l'avion pour Vienne."
+      },
+      "ctx": [
+        {
+          "t": "futur",
+          "de": "Nächstes Jahr [werden] wir nach Kanada [fliegen].",
+          "fr": "L'année prochaine, nous irons au Canada en avion."
+        },
+        {
+          "t": "perfekt",
+          "de": "Sie [ist] letzte Woche nach Madrid [geflogen].",
+          "fr": "Elle a pris l'avion pour Madrid la semaine dernière."
+        }
+      ]
+    },
+    {
+      "inf": "laufen",
+      "fr": "courir, marcher",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "sein",
+      "partizip": "gelaufen",
+      "praesens": [
+        "laufe",
+        "läufst",
+        "läuft",
+        "laufen",
+        "lauft",
+        "laufen"
+      ],
+      "praeteritum": [
+        "lief",
+        "liefst",
+        "lief",
+        "liefen",
+        "lieft",
+        "liefen"
+      ],
+      "example": {
+        "de": "Sie läuft jeden Morgen im Park.",
+        "fr": "Elle court tous les matins au parc."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Er [läuft] jeden Morgen fünf Kilometer.",
+          "fr": "Il court cinq kilomètres tous les matins."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Wir [liefen] schnell zum Bahnhof.",
+          "fr": "Nous avons couru vite jusqu'à la gare."
+        }
+      ]
+    },
+    {
+      "inf": "bleiben",
+      "fr": "rester",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "sein",
+      "partizip": "geblieben",
+      "praesens": [
+        "bleibe",
+        "bleibst",
+        "bleibt",
+        "bleiben",
+        "bleibt",
+        "bleiben"
+      ],
+      "praeteritum": [
+        "blieb",
+        "bliebst",
+        "blieb",
+        "blieben",
+        "bliebt",
+        "blieben"
+      ],
+      "example": {
+        "de": "Heute bleibe ich zu Hause.",
+        "fr": "Aujourd'hui, je reste à la maison."
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Wegen des Regens [sind] wir zu Hause [geblieben].",
+          "fr": "À cause de la pluie, nous sommes restés à la maison."
+        },
+        {
+          "t": "futur",
+          "de": "Wie lange [wirst] du in Wien [bleiben]?",
+          "fr": "Combien de temps resteras-tu à Vienne ?"
+        }
+      ]
+    }
   ]
 }

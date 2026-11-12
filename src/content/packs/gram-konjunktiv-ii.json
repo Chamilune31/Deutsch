@@ -5,50 +5,285 @@
   "level": "B1",
   "topic": "Konjunktiv II",
   "summary": "würde, wäre, hätte, könnte : le conditionnel allemand.",
-  "release": 6,
+  "release": 8,
   "createdAt": "2026-11-11",
   "lesson": [
-    { "type": "p", "text": "Le Konjunktiv II correspond au **conditionnel** français : souhaits, hypothèses, conseils et demandes polies." },
-    { "type": "h", "text": "würde + infinitif (la plupart des verbes)" },
-    { "type": "table", "head": ["Pronom", "würde", "Infinitif à la fin"], "rows": [
-      ["ich", "würde", "… reisen"], ["du", "würdest", "… reisen"], ["er/sie/es", "würde", "… reisen"],
-      ["wir", "würden", "… reisen"], ["ihr", "würdet", "… reisen"], ["sie/Sie", "würden", "… reisen"]
-    ] },
-    { "type": "h", "text": "Les formes propres à connaître" },
-    { "type": "table", "head": ["Infinitif", "Konjunktiv II", "Exemple"], "rows": [
-      ["sein", "**wäre**", "Ich wäre gern reich."],
-      ["haben", "**hätte**", "Ich hätte gern einen Kaffee."],
-      ["können", "**könnte**", "Könnten Sie mir helfen ?"],
-      ["müssen", "**müsste**", "Du müsstest mehr schlafen."],
-      ["sollen", "**sollte**", "Du solltest zum Arzt gehen."],
-      ["dürfen", "**dürfte**", "Dürfte ich das Fenster öffnen ?"]
-    ] },
-    { "type": "examples", "items": [
-      { "de": "**Wenn** ich Zeit **hätte**, **würde** ich mehr reisen.", "fr": "Si j'avais le temps, je voyagerais plus." },
-      { "de": "Ich **würde** gern in Wien wohnen.", "fr": "J'aimerais habiter à Vienne." },
-      { "de": "**Könnten** Sie das bitte wiederholen ?", "fr": "Pourriez-vous répéter, s'il vous plaît ?" },
-      { "de": "An deiner Stelle **würde** ich das nicht machen.", "fr": "À ta place, je ne ferais pas ça." }
-    ] },
-    { "type": "tip", "text": "Au café ou dans un magasin : ***Ich hätte gern…*** = je voudrais… (aussi poli que *Ich möchte…*)." },
-    { "type": "tip", "text": "Avec *sein* et *haben*, on utilise **wäre / hätte** plutôt que *würde sein / würde haben* : *Wenn ich reich **wäre**, würde ich ein Haus kaufen.*" }
+    {
+      "type": "p",
+      "text": "Le Konjunktiv II correspond au **conditionnel** français : souhaits, hypothèses, conseils et demandes polies."
+    },
+    {
+      "type": "h",
+      "text": "würde + infinitif (la plupart des verbes)"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Pronom",
+        "würde",
+        "Infinitif à la fin"
+      ],
+      "rows": [
+        [
+          "ich",
+          "würde",
+          "… reisen"
+        ],
+        [
+          "du",
+          "würdest",
+          "… reisen"
+        ],
+        [
+          "er/sie/es",
+          "würde",
+          "… reisen"
+        ],
+        [
+          "wir",
+          "würden",
+          "… reisen"
+        ],
+        [
+          "ihr",
+          "würdet",
+          "… reisen"
+        ],
+        [
+          "sie/Sie",
+          "würden",
+          "… reisen"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Les formes propres à connaître"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Infinitif",
+        "Konjunktiv II",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "sein",
+          "**wäre**",
+          "Ich wäre gern reich."
+        ],
+        [
+          "haben",
+          "**hätte**",
+          "Ich hätte gern einen Kaffee."
+        ],
+        [
+          "können",
+          "**könnte**",
+          "Könnten Sie mir helfen ?"
+        ],
+        [
+          "müssen",
+          "**müsste**",
+          "Du müsstest mehr schlafen."
+        ],
+        [
+          "sollen",
+          "**sollte**",
+          "Du solltest zum Arzt gehen."
+        ],
+        [
+          "dürfen",
+          "**dürfte**",
+          "Dürfte ich das Fenster öffnen ?"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "**Wenn** ich Zeit **hätte**, **würde** ich mehr reisen.",
+          "fr": "Si j'avais le temps, je voyagerais plus."
+        },
+        {
+          "de": "Ich **würde** gern in Wien wohnen.",
+          "fr": "J'aimerais habiter à Vienne."
+        },
+        {
+          "de": "**Könnten** Sie das bitte wiederholen ?",
+          "fr": "Pourriez-vous répéter, s'il vous plaît ?"
+        },
+        {
+          "de": "An deiner Stelle **würde** ich das nicht machen.",
+          "fr": "À ta place, je ne ferais pas ça."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Au café ou dans un magasin : ***Ich hätte gern…*** = je voudrais… (aussi poli que *Ich möchte…*)."
+    },
+    {
+      "type": "tip",
+      "text": "Avec *sein* et *haben*, on utilise **wäre / hätte** plutôt que *würde sein / würde haben* : *Wenn ich reich **wäre**, würde ich ein Haus kaufen.*"
+    }
   ],
   "exercises": [
-    { "type": "mcq", "q": "Wenn ich mehr Geld ___, würde ich ein Auto kaufen.", "options": ["hätte", "habe", "hatte"], "answer": 0, "why": "Hypothèse → Konjunktiv II de *haben* : **hätte**." },
-    { "type": "gap", "q": "___ Sie mir bitte helfen ?", "answers": ["Könnten", "Würden"], "hint": "demande polie", "why": "Politesse : **Könnten** Sie… ? ou **Würden** Sie… ?" },
-    { "type": "mcq", "q": "Ich ___ gern einen Tee. (au café)", "options": ["hätte", "habe", "wäre"], "answer": 0, "why": "Formule polie : *Ich **hätte** gern…*" },
-    { "type": "gap", "q": "Du ___ mehr schlafen.", "answers": ["solltest", "müsstest"], "hint": "conseil", "why": "Conseil : du **solltest** / du **müsstest**." },
-    { "type": "translate", "dir": "fr-de", "q": "J'aimerais voyager en Italie.", "answers": ["Ich würde gern nach Italien reisen.", "Ich würde gerne nach Italien reisen.", "Ich würde gern nach Italien fahren.", "Ich würde gerne nach Italien fahren."], "why": "Souhait : **würde** + gern + infinitif à la fin." },
-    { "type": "mcq", "q": "Wenn ich du ___, würde ich das Angebot annehmen.", "options": ["wäre", "bin", "würde"], "answer": 0, "why": "« Si j'étais toi » → *Wenn ich du **wäre***." },
-    { "type": "order", "answers": ["An deiner Stelle würde ich mehr lernen"], "why": "*An deiner Stelle* en 1re position → verbe *würde* en 2e, infinitif à la fin." }
+    {
+      "type": "mcq",
+      "q": "Wenn ich mehr Geld ___, würde ich ein Auto kaufen.",
+      "options": [
+        "hätte",
+        "habe",
+        "hatte"
+      ],
+      "answer": 0,
+      "why": "Hypothèse → Konjunktiv II de *haben* : **hätte**."
+    },
+    {
+      "type": "gap",
+      "q": "___ Sie mir bitte helfen ?",
+      "answers": [
+        "Könnten",
+        "Würden"
+      ],
+      "hint": "demande polie",
+      "why": "Politesse : **Könnten** Sie… ? ou **Würden** Sie… ?"
+    },
+    {
+      "type": "mcq",
+      "q": "Ich ___ gern einen Tee. (au café)",
+      "options": [
+        "hätte",
+        "habe",
+        "wäre"
+      ],
+      "answer": 0,
+      "why": "Formule polie : *Ich **hätte** gern…*"
+    },
+    {
+      "type": "gap",
+      "q": "Du ___ mehr schlafen.",
+      "answers": [
+        "solltest",
+        "müsstest"
+      ],
+      "hint": "conseil",
+      "why": "Conseil : du **solltest** / du **müsstest**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "J'aimerais voyager en Italie.",
+      "answers": [
+        "Ich würde gern nach Italien reisen.",
+        "Ich würde gerne nach Italien reisen.",
+        "Ich würde gern nach Italien fahren.",
+        "Ich würde gerne nach Italien fahren."
+      ],
+      "why": "Souhait : **würde** + gern + infinitif à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Wenn ich du ___, würde ich das Angebot annehmen.",
+      "options": [
+        "wäre",
+        "bin",
+        "würde"
+      ],
+      "answer": 0,
+      "why": "« Si j'étais toi » → *Wenn ich du **wäre***."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "An deiner Stelle würde ich mehr lernen"
+      ],
+      "why": "*An deiner Stelle* en 1re position → verbe *würde* en 2e, infinitif à la fin."
+    }
   ],
   "exam": [
-    { "type": "gap", "q": "Wenn das Wetter schön ___, würden wir grillen.", "answers": ["wäre"], "hint": "sein", "why": "Hypothèse avec *sein* → **wäre**." },
-    { "type": "mcq", "q": "___ ich das Fenster öffnen ?", "options": ["Dürfte", "Durfte", "Dürfe"], "answer": 0, "why": "Demande très polie → **Dürfte** (Konjunktiv II de *dürfen*)." },
-    { "type": "translate", "dir": "fr-de", "q": "Pourriez-vous répéter, s'il vous plaît ?", "answers": ["Könnten Sie das bitte wiederholen?", "Könnten Sie bitte wiederholen?", "Würden Sie das bitte wiederholen?", "Würden Sie bitte wiederholen?"], "why": "Politesse : **Könnten Sie** … wiederholen ?" },
-    { "type": "mcq", "q": "Ich ___ gern in Berlin wohnen. (souhait)", "options": ["würde", "werde", "wäre"], "answer": 0, "why": "Souhait → **würde** + infinitif. *werde* exprime le futur." },
-    { "type": "gap", "q": "Wenn ich Zeit hätte, ___ ich dich besuchen.", "answers": ["würde"], "hint": "conditionnel", "why": "Conséquence : **würde** + infinitif à la fin." },
-    { "type": "mcq", "q": "Du ___ zum Arzt gehen, du hustest seit einer Woche.", "options": ["solltest", "wärst", "hättest"], "answer": 0, "why": "Conseil → **solltest**." },
-    { "type": "translate", "dir": "fr-de", "q": "Si j'étais riche, j'achèterais une maison.", "answers": ["Wenn ich reich wäre, würde ich ein Haus kaufen.", "Wäre ich reich, würde ich ein Haus kaufen."], "why": "*Wenn* + **wäre** (verbe à la fin), puis *würde ich … kaufen*." },
-    { "type": "order", "answers": ["Ich hätte gern ein Glas Wasser"], "why": "Formule polie *Ich hätte gern…*" }
+    {
+      "type": "gap",
+      "q": "Wenn das Wetter schön ___, würden wir grillen.",
+      "answers": [
+        "wäre"
+      ],
+      "hint": "sein",
+      "why": "Hypothèse avec *sein* → **wäre**."
+    },
+    {
+      "type": "mcq",
+      "q": "___ ich das Fenster öffnen ?",
+      "options": [
+        "Dürfte",
+        "Durfte",
+        "Dürfe"
+      ],
+      "answer": 0,
+      "why": "Demande très polie → **Dürfte** (Konjunktiv II de *dürfen*)."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Pourriez-vous répéter, s'il vous plaît ?",
+      "answers": [
+        "Könnten Sie das bitte wiederholen?",
+        "Könnten Sie bitte wiederholen?",
+        "Würden Sie das bitte wiederholen?",
+        "Würden Sie bitte wiederholen?"
+      ],
+      "why": "Politesse : **Könnten Sie** … wiederholen ?"
+    },
+    {
+      "type": "mcq",
+      "q": "Ich ___ gern in Berlin wohnen. (souhait)",
+      "options": [
+        "würde",
+        "werde",
+        "wäre"
+      ],
+      "answer": 0,
+      "why": "Souhait → **würde** + infinitif. *werde* exprime le futur."
+    },
+    {
+      "type": "gap",
+      "q": "Wenn ich Zeit hätte, ___ ich dich besuchen.",
+      "answers": [
+        "würde"
+      ],
+      "hint": "conditionnel",
+      "why": "Conséquence : **würde** + infinitif à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Du ___ zum Arzt gehen, du hustest seit einer Woche.",
+      "options": [
+        "solltest",
+        "wärst",
+        "hättest"
+      ],
+      "answer": 0,
+      "why": "Conseil → **solltest**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Si j'étais riche, j'achèterais une maison.",
+      "answers": [
+        "Wenn ich reich wäre, würde ich ein Haus kaufen.",
+        "Wäre ich reich, würde ich ein Haus kaufen."
+      ],
+      "why": "*Wenn* + **wäre** (verbe à la fin), puis *würde ich … kaufen*."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich hätte gern ein Glas Wasser"
+      ],
+      "why": "Formule polie *Ich hätte gern…*"
+    }
   ]
 }

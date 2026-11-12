@@ -1,0 +1,169 @@
+{
+  "id": "vocab-sentiments",
+  "section": "vocabulaire",
+  "title": "Sentiments et caractère",
+  "level": "B1",
+  "topic": "Sentiments",
+  "summary": "Décrire son humeur, ses émotions et la personnalité des autres.",
+  "release": 6,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Pour exprimer ce que tu ressens et décrire le caractère de quelqu'un, très utile à l'oral du B1."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich bin ein bisschen nervös wegen der Prüfung.",
+          "fr": "Je suis un peu nerveuse à cause de l'examen."
+        },
+        {
+          "de": "Er ist sehr hilfsbereit.",
+          "fr": "Il est très serviable."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Beaucoup de sentiments se disent avec un verbe réfléchi : *sich freuen, sich ärgern, sich langweilen, sich Sorgen machen*."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Gefühl",
+      "fr": "le sentiment",
+      "article": "das",
+      "plural": "Gefühle",
+      "ex": {
+        "de": "Ich habe ein gutes Gefühl.",
+        "fr": "J'ai un bon pressentiment."
+      }
+    },
+    {
+      "de": "Angst",
+      "fr": "la peur",
+      "article": "die",
+      "plural": "Ängste",
+      "ex": {
+        "de": "Ich habe Angst vor Spinnen.",
+        "fr": "J'ai peur des araignées."
+      }
+    },
+    {
+      "de": "Freude",
+      "fr": "la joie",
+      "article": "die",
+      "plural": "Freuden",
+      "ex": {
+        "de": "Die Freude war groß.",
+        "fr": "La joie était grande."
+      }
+    },
+    {
+      "de": "Laune",
+      "fr": "l'humeur",
+      "article": "die",
+      "plural": "Launen",
+      "ex": {
+        "de": "Heute hast du gute Laune!",
+        "fr": "Aujourd'hui, tu es de bonne humeur !"
+      }
+    },
+    {
+      "de": "Sorge",
+      "fr": "le souci",
+      "article": "die",
+      "plural": "Sorgen",
+      "ex": {
+        "de": "Mach dir keine Sorgen!",
+        "fr": "Ne t'inquiète pas !"
+      }
+    },
+    {
+      "de": "Geduld",
+      "fr": "la patience",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Mein Lehrer hat viel Geduld.",
+        "fr": "Mon professeur a beaucoup de patience."
+      }
+    },
+    {
+      "de": "Eigenschaft",
+      "fr": "la qualité, le trait de caractère",
+      "article": "die",
+      "plural": "Eigenschaften",
+      "ex": {
+        "de": "Ehrlichkeit ist eine wichtige Eigenschaft.",
+        "fr": "L'honnêteté est une qualité importante."
+      }
+    },
+    {
+      "de": "glücklich",
+      "fr": "heureux",
+      "ex": {
+        "de": "Sie ist sehr glücklich in Berlin.",
+        "fr": "Elle est très heureuse à Berlin."
+      }
+    },
+    {
+      "de": "traurig",
+      "fr": "triste",
+      "ex": {
+        "de": "Warum bist du so traurig?",
+        "fr": "Pourquoi es-tu si triste ?"
+      }
+    },
+    {
+      "de": "wütend",
+      "fr": "en colère",
+      "ex": {
+        "de": "Mein Chef war wütend.",
+        "fr": "Mon chef était en colère."
+      }
+    },
+    {
+      "de": "nervös",
+      "fr": "nerveux",
+      "ex": {
+        "de": "Vor Prüfungen bin ich immer nervös.",
+        "fr": "Avant les examens, je suis toujours nerveuse."
+      }
+    },
+    {
+      "de": "ehrlich",
+      "fr": "honnête, franc",
+      "ex": {
+        "de": "Sei ehrlich mit mir!",
+        "fr": "Sois franc avec moi !"
+      }
+    },
+    {
+      "de": "hilfsbereit",
+      "fr": "serviable",
+      "ex": {
+        "de": "Meine Kollegen sind sehr hilfsbereit.",
+        "fr": "Mes collègues sont très serviables."
+      }
+    },
+    {
+      "de": "schüchtern",
+      "fr": "timide",
+      "ex": {
+        "de": "Als Kind war ich sehr schüchtern.",
+        "fr": "Enfant, j'étais très timide."
+      }
+    },
+    {
+      "de": "sich ärgern",
+      "fr": "s'énerver",
+      "ex": {
+        "de": "Ich ärgere mich über den Lärm.",
+        "fr": "Le bruit m'énerve."
+      }
+    }
+  ]
+}

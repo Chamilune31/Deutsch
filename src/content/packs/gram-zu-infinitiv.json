@@ -1,0 +1,211 @@
+{
+  "id": "gram-zu-infinitiv",
+  "section": "grammaire",
+  "title": "zu + infinitif et um … zu",
+  "level": "B1",
+  "topic": "zu + infinitif",
+  "summary": "Ich habe keine Lust zu…, ich lerne Deutsch, um… : construire l'infinitif avec zu.",
+  "release": 5,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Après beaucoup de verbes, de noms et d'adjectifs, on emploie **zu + infinitif à la fin** de la proposition, souvent séparée par une virgule."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich habe keine Lust, heute **zu kochen**.",
+          "fr": "Je n'ai pas envie de cuisiner aujourd'hui."
+        },
+        {
+          "de": "Es ist schwer, früh **aufzustehen**.",
+          "fr": "C'est difficile de se lever tôt."
+        },
+        {
+          "de": "Vergiss nicht, mich **anzurufen**!",
+          "fr": "N'oublie pas de m'appeler !"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Expressions fréquentes : *Lust haben, Zeit haben, versuchen, vergessen, anfangen, aufhören, hoffen, es ist wichtig / schwer / schön…*",
+        "Verbe séparable : **zu** se glisse entre la particule et le verbe → *ein**zu**kaufen, an**zu**rufen*.",
+        "**Pas de zu** après les verbes de modalité : *Ich muss arbeiten* (et non ~~zu arbeiten~~)."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "um … zu : le but"
+    },
+    {
+      "type": "p",
+      "text": "**um … zu** + infinitif = pour (but), quand le sujet est le même dans les deux parties."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich lerne Deutsch, **um** in Berlin **zu** studieren.",
+          "fr": "J'apprends l'allemand pour étudier à Berlin."
+        },
+        {
+          "de": "Sie spart Geld, **um** eine Reise **zu** machen.",
+          "fr": "Elle économise pour faire un voyage."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Si les sujets sont différents, on utilise ***damit*** + verbe à la fin : *Ich erkläre es dir, **damit** du es verstehst.*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "text": "Ich habe keine Zeit, heute [zu kochen].",
+      "hint": "kochen",
+      "why": "*keine Zeit haben* + **zu** + infinitif."
+    },
+    {
+      "type": "cloze",
+      "text": "Vergiss nicht, morgen [einzukaufen]!",
+      "hint": "einkaufen (séparable)",
+      "why": "Verbe séparable : *ein**zu**kaufen*, en un seul mot."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich muss morgen früh ___.",
+      "options": [
+        "aufstehen",
+        "aufzustehen",
+        "zu aufstehen"
+      ],
+      "answer": 0,
+      "why": "Après un modal, **pas de zu** : *Ich muss aufstehen*."
+    },
+    {
+      "type": "gap",
+      "q": "Ich spare Geld, ___ ein Auto zu kaufen.",
+      "answers": [
+        "um"
+      ],
+      "hint": "pour (but)",
+      "why": "But, même sujet → **um** … zu."
+    },
+    {
+      "type": "mcq",
+      "q": "Es ist wichtig, jeden Tag ein bisschen ___.",
+      "options": [
+        "zu lernen",
+        "lernen",
+        "um lernen"
+      ],
+      "answer": 0,
+      "why": "*Es ist wichtig* + **zu** + infinitif."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich lerne Deutsch, um in Wien zu arbeiten"
+      ],
+      "why": "*um* au début de la proposition, *zu* + infinitif à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich erkläre es noch einmal, ___ du es verstehst.",
+      "options": [
+        "damit",
+        "um",
+        "zu"
+      ],
+      "answer": 0,
+      "why": "Sujets différents (ich / du) → **damit** + verbe à la fin."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "J'essaie de dormir plus.",
+      "answers": [
+        "Ich versuche, mehr zu schlafen.",
+        "Ich versuche mehr zu schlafen."
+      ],
+      "why": "*versuchen* + **zu** + infinitif."
+    }
+  ],
+  "exam": [
+    {
+      "type": "cloze",
+      "text": "Hast du Lust, am Wochenende [mitzukommen]?",
+      "hint": "mitkommen (séparable)",
+      "why": "Séparable : *mit**zu**kommen*."
+    },
+    {
+      "type": "mcq",
+      "q": "Sie fährt nach München, ___ ihre Freundin zu besuchen.",
+      "options": [
+        "um",
+        "damit",
+        "für"
+      ],
+      "answer": 0,
+      "why": "But, même sujet → **um** … zu."
+    },
+    {
+      "type": "gap",
+      "q": "Es ist schön, dich ___ sehen!",
+      "answers": [
+        "zu"
+      ],
+      "why": "*Es ist schön* + **zu** + infinitif."
+    },
+    {
+      "type": "mcq",
+      "q": "Wir wollen heute Abend ins Kino ___.",
+      "options": [
+        "gehen",
+        "zu gehen",
+        "um zu gehen"
+      ],
+      "answer": 0,
+      "why": "Après le modal *wollen* : infinitif **sans zu**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "N'oublie pas de m'appeler !",
+      "answers": [
+        "Vergiss nicht, mich anzurufen!",
+        "Vergiss nicht mich anzurufen!"
+      ],
+      "why": "*anrufen* → *an**zu**rufen*."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Er hat angefangen, Spanisch zu lernen"
+      ],
+      "why": "*anfangen* + zu + infinitif à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich gebe dir meine Nummer, ___ du mich anrufen kannst.",
+      "options": [
+        "damit",
+        "um",
+        "dass zu"
+      ],
+      "answer": 0,
+      "why": "Sujets différents → **damit**."
+    },
+    {
+      "type": "cloze",
+      "text": "Ich gehe in die Bibliothek, um für die Prüfung [zu lernen].",
+      "hint": "lernen",
+      "why": "*um* … **zu lernen** à la fin."
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "gram-negation",
+  "section": "grammaire",
+  "title": "La négation : nicht ou kein ?",
+  "level": "A2",
+  "topic": "Négation",
+  "summary": "Choisir entre nicht et kein, et placer nicht au bon endroit.",
+  "release": 0,
+  "createdAt": "2026-11-12",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "kein : nier un nom"
+    },
+    {
+      "type": "p",
+      "text": "**kein** remplace *ein* ou l'absence d'article devant un nom. Il se décline comme *ein* (et prend aussi une forme au pluriel)."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich habe **ein** Auto. → Ich habe **kein** Auto.",
+          "fr": "Je n'ai pas de voiture."
+        },
+        {
+          "de": "Ich trinke Kaffee. → Ich trinke **keinen** Kaffee.",
+          "fr": "Je ne bois pas de café."
+        },
+        {
+          "de": "Wir haben **keine** Zeit.",
+          "fr": "Nous n'avons pas le temps."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Masculin",
+        "Féminin",
+        "Neutre",
+        "Pluriel"
+      ],
+      "rows": [
+        [
+          "Nominatif",
+          "kein",
+          "keine",
+          "kein",
+          "keine"
+        ],
+        [
+          "Accusatif",
+          "**keinen**",
+          "keine",
+          "kein",
+          "keine"
+        ],
+        [
+          "Datif",
+          "keinem",
+          "keiner",
+          "keinem",
+          "keinen"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "nicht : tout le reste"
+    },
+    {
+      "type": "p",
+      "text": "**nicht** nie un verbe, un adjectif, un adverbe, un nom avec article défini ou possessif, ou un nom propre."
+    },
+    {
+      "type": "list",
+      "items": [
+        "En fin de phrase pour nier toute la phrase : *Ich komme heute **nicht**.*",
+        "Devant l'adjectif ou l'adverbe : *Das ist **nicht** teuer.*",
+        "Devant un complément avec préposition : *Ich wohne **nicht** in Berlin.*",
+        "Devant l'infinitif ou le participe : *Ich kann **nicht** schwimmen. Ich habe **nicht** geschlafen.*"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "« Pas de… mais… » : ***kein*** … ***sondern*** (*Das ist kein Tee, sondern Kaffee*). Pour contredire une question négative, on répond ***doch*** : *Kommst du nicht? — Doch!*"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Ich habe ___ Hunger.",
+      "options": [
+        "keinen",
+        "nicht",
+        "kein"
+      ],
+      "answer": 0,
+      "why": "Nom sans article (der Hunger) → **keinen** (accusatif masculin)."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Hotel ist ___ teuer.",
+      "options": [
+        "nicht",
+        "kein",
+        "keine"
+      ],
+      "answer": 0,
+      "why": "On nie un adjectif → **nicht**."
+    },
+    {
+      "type": "gap",
+      "q": "Wir haben ___ Kinder.",
+      "answers": [
+        "keine"
+      ],
+      "hint": "pluriel",
+      "why": "Pluriel → **keine**."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich finde ___ Schlüssel nicht.",
+      "options": [
+        "meinen",
+        "keinen",
+        "nicht"
+      ],
+      "answer": 0,
+      "why": "Avec un possessif, on garde le possessif et on met **nicht** : *Ich finde meinen Schlüssel nicht.*"
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich komme heute Abend nicht"
+      ],
+      "why": "*nicht* en fin de phrase nie toute la phrase."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je n'ai pas de voiture.",
+      "answers": [
+        "Ich habe kein Auto.",
+        "Ich habe keinen Wagen."
+      ],
+      "why": "das Auto → **kein** Auto."
+    },
+    {
+      "type": "mcq",
+      "q": "Hast du keine Zeit? — ___, ich habe Zeit!",
+      "options": [
+        "Doch",
+        "Ja",
+        "Nein"
+      ],
+      "answer": 0,
+      "why": "Pour contredire une question négative : **Doch**."
+    },
+    {
+      "type": "gap",
+      "q": "Das ist kein Wasser, ___ Wodka!",
+      "answers": [
+        "sondern"
+      ],
+      "hint": "mais (rectification)",
+      "why": "*kein … **sondern*** = pas… mais."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Sie spricht ___ Deutsch.",
+      "options": [
+        "kein",
+        "nicht",
+        "keinen"
+      ],
+      "answer": 0,
+      "why": "Langue sans article → **kein** : *Sie spricht kein Deutsch.*"
+    },
+    {
+      "type": "gap",
+      "q": "Ich wohne ___ in Paris, sondern in Lyon.",
+      "answers": [
+        "nicht"
+      ],
+      "hint": "devant le complément de lieu",
+      "why": "Complément avec préposition → **nicht** devant."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich habe ___ Bruder.",
+      "options": [
+        "keinen",
+        "kein",
+        "nicht"
+      ],
+      "answer": 0,
+      "why": "der Bruder, accusatif → **keinen**."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich habe gestern nicht gut geschlafen"
+      ],
+      "why": "*nicht* devant l'adverbe *gut* ; participe à la fin."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Il ne vient pas aujourd'hui.",
+      "answers": [
+        "Er kommt heute nicht.",
+        "Heute kommt er nicht."
+      ],
+      "why": "*nicht* en fin de phrase."
+    },
+    {
+      "type": "mcq",
+      "q": "Das ist ___ Problem.",
+      "options": [
+        "kein",
+        "keine",
+        "nicht"
+      ],
+      "answer": 0,
+      "why": "das Problem → **kein** Problem."
+    },
+    {
+      "type": "gap",
+      "q": "Leider habe ich ___ Lust, ins Kino zu gehen.",
+      "answers": [
+        "keine"
+      ],
+      "hint": "die Lust",
+      "why": "die Lust → **keine** Lust."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich kann heute ___ kommen.",
+      "options": [
+        "nicht",
+        "kein",
+        "keine"
+      ],
+      "answer": 0,
+      "why": "On nie le verbe → **nicht** devant l'infinitif."
+    }
+  ]
+}

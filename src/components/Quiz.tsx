@@ -7,13 +7,20 @@ import { TENSE_SHORT } from '../lib/verbs';
 
 type Mode = 'practice' | 'exam' | 'review';
 
+function questionLabel(ex: Exercise): string {
+  if (ex.type === 'conjugation') return `${ex.verb} — ${TENSE_SHORT[ex.tense]}`;
+  if (ex.type === 'cloze') return ex.text.replace(/\[[^\]]*\]/g, '___');
+  if (ex.type === 'dictation') return 'Dictée';
+  return ex.q ?? 'Exercice';
+}
+
 function scoreOf(ex: Exercise, given: string) {
   return grade(ex, ex.type === 'order' ? givenLabel(ex, given) : given);
 }
 
 function hasAnswer(ex: Exercise, given: string) {
   if (!given) return false;
-  if (ex.type === 'match' || ex.type === 'conjugation') {
+  if (ex.type === 'match' || ex.type === 'conjugation' || ex.type === 'cloze') {
     try {
       return (JSON.parse(given) as string[]).some((v) => v && v.trim());
     } catch {
@@ -101,7 +108,7 @@ export function Quiz({
           {results.map((r, i) => (
             <li key={i} className={r.score >= 0.999 ? 'ok' : r.score > 0 ? 'partial' : 'ko'}>
               <div className="result-q">
-                <Rich text={'q' in r.ex && r.ex.q ? r.ex.q : r.ex.type === 'conjugation' ? `${r.ex.verb} — ${TENSE_SHORT[r.ex.tense]}` : 'Exercice'} />
+                <Rich text={questionLabel(r.ex)} />
               </div>
               <div className="result-a">
                 <span>Ta réponse : {r.given}</span>
@@ -195,7 +202,7 @@ export function Quiz({
       <div className="quiz-actions">
         {isExam && idx > 0 && (
           <button className="btn ghost" type="button" onClick={() => setIdx(idx - 1)}>
-            ← Précédente
+            Précédente
           </button>
         )}
         <button
@@ -204,7 +211,7 @@ export function Quiz({
           onClick={primary}
           disabled={!isExam && !revealed && !hasAnswer(ex, given)}
         >
-          {isExam ? (last ? 'Terminer l’examen' : 'Suivante →') : revealed ? (last ? 'Voir le bilan' : 'Suivante →') : 'Vérifier'}
+          {isExam ? (last ? 'Terminer l’examen' : 'Suivante') : revealed ? (last ? 'Voir le bilan' : 'Suivante') : 'Vérifier'}
         </button>
       </div>
     </div>

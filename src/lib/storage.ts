@@ -141,6 +141,16 @@ export function recordResults(mode: Attempt['mode'], pack: string | null, result
   setProgress(p);
 }
 
+/** Enregistre une séance sans exercices notés (rédaction, oral). */
+export function recordAttempt(mode: Attempt['mode'], pack: string, score: number, total: number) {
+  const day = today();
+  setProgress({
+    ...progress,
+    attempts: [...progress.attempts, { pack, mode, date: new Date().toISOString(), score, total }].slice(-500),
+    days: progress.days.includes(day) ? progress.days : [...progress.days, day],
+  });
+}
+
 export function dueItems(p: Progress, day = today()): SrsItem[] {
   return Object.values(p.srs)
     .filter((s) => s.due <= day)
@@ -188,6 +198,32 @@ export function removeImportedPack(id: string) {
   imported = imported.filter((p) => p.id !== id);
   write(KEY_PACKS, imported);
   emit();
+}
+
+/* ---------- Rédactions envoyées ---------- */
+
+export interface Writing {
+  id: string;
+  pack: string;
+  date: string;
+  text: string;
+  sent: boolean;
+}
+const KEY_WRITINGS = 'deutsch-writings-v1';
+let writings: Writing[] = typeof localStorage !== 'undefined' ? read(KEY_WRITINGS, [] as Writing[]) : [];
+
+export function useWritings(): Writing[] {
+  return useSyncExternalStore(subscribe, () => writings, () => writings);
+}
+
+export function saveWriting(w: Writing) {
+  writings = [...writings.filter((x) => x.id !== w.id), w];
+  write(KEY_WRITINGS, writings);
+  emit();
+}
+
+export function draftKey(pack: string) {
+  return `deutsch-draft-${pack}`;
 }
 
 /* ---------- Réglages ---------- */

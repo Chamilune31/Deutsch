@@ -1,0 +1,75 @@
+{
+  "id": "ecrire-mail-formel",
+  "section": "ecriture",
+  "title": "Mail formel : se renseigner sur un cours",
+  "level": "B1",
+  "topic": "Mail formel",
+  "release": 2,
+  "summary": "Écrire à une école de langues pour demander des informations.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Les codes du mail formel"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Salutation : *Sehr geehrte Damen und Herren,* (destinataire inconnu) ou *Sehr geehrte Frau Weber, / Sehr geehrter Herr Weber,*",
+        "Vouvoiement : **Sie, Ihnen, Ihr** toujours avec majuscule",
+        "Demandes polies au Konjunktiv II : *Könnten Sie mir… ?*, *Ich würde gern wissen, ob…*",
+        "Formule finale : *Mit freundlichen Grüßen* + prénom et nom"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Question indirecte : *ob* (si) ou un mot interrogatif (*wann, wie viel*) + verbe à la fin : *Ich würde gern wissen, **wann** der Kurs **beginnt**.*"
+    }
+  ],
+  "task": {
+    "prompt": "Tu veux suivre un cours intensif d'allemand à Berlin cet été. Écris un mail à l'école de langues « Sprachschule Spree » (environ **100 mots**).",
+    "points": [
+      "Présente-toi brièvement et explique pourquoi tu écris",
+      "Demande les dates et le prix du cours",
+      "Demande si l'école propose un logement",
+      "Demande s'il y a un test de niveau"
+    ],
+    "minWords": 100,
+    "phrases": [
+      {
+        "de": "Sehr geehrte Damen und Herren,",
+        "fr": "Madame, Monsieur,"
+      },
+      {
+        "de": "ich habe Ihre Anzeige im Internet gelesen.",
+        "fr": "j'ai lu votre annonce sur Internet."
+      },
+      {
+        "de": "Ich interessiere mich für…",
+        "fr": "Je m'intéresse à…"
+      },
+      {
+        "de": "Könnten Sie mir bitte mitteilen, …",
+        "fr": "Pourriez-vous m'indiquer…"
+      },
+      {
+        "de": "Ich würde gern wissen, ob…",
+        "fr": "J'aimerais savoir si…"
+      },
+      {
+        "de": "Außerdem habe ich eine Frage zu…",
+        "fr": "J'ai aussi une question concernant…"
+      },
+      {
+        "de": "Vielen Dank im Voraus für Ihre Antwort.",
+        "fr": "Merci d'avance pour votre réponse."
+      },
+      {
+        "de": "Mit freundlichen Grüßen",
+        "fr": "Cordialement"
+      }
+    ],
+    "model": "Sehr geehrte Damen und Herren,\nich heiße Léa Martin, ich bin 22 Jahre alt und studiere an einer Business School in Frankreich. Ich habe Ihre Anzeige im Internet gelesen und interessiere mich für einen Intensivkurs im Juli, weil ich mein Deutsch für ein Praktikum verbessern möchte.\nKönnten Sie mir bitte mitteilen, wann die Kurse beginnen und wie viel ein Kurs von vier Wochen kostet? Außerdem würde ich gern wissen, ob Ihre Schule auch Zimmer in Gastfamilien oder in einer WG anbietet.\nGibt es vor dem Kurs einen Einstufungstest? Ich glaube, mein Niveau ist A2.\nVielen Dank im Voraus für Ihre Antwort.\nMit freundlichen Grüßen\nLéa Martin",
+    "modelFr": "Madame, Monsieur, je m'appelle Léa Martin, j'ai 22 ans et j'étudie dans une école de commerce en France. J'ai lu votre annonce sur Internet et je m'intéresse à un cours intensif en juillet, car je voudrais améliorer mon allemand pour un stage. Pourriez-vous m'indiquer quand les cours commencent et combien coûte un cours de quatre semaines ? J'aimerais aussi savoir si votre école propose des chambres en famille d'accueil ou en colocation. Y a-t-il un test de niveau avant le cours ? Je pense que mon niveau est A2. Merci d'avance pour votre réponse. Cordialement, Léa Martin"
+  },
+  "createdAt": "2026-11-12"
+}

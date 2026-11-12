@@ -1,0 +1,191 @@
+{
+  "id": "ecouter-gare",
+  "section": "ecoute",
+  "title": "Annonces à la gare",
+  "level": "A2",
+  "topic": "Voyage",
+  "release": 0,
+  "summary": "Comprendre les annonces : voie, retard, changement de quai.",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Écoute une première fois sans lire la transcription pour saisir le sens général, puis une deuxième fois pour les détails (chiffres, heures, lieux)."
+    },
+    {
+      "type": "p",
+      "text": "Dans les annonces, les informations clés sont presque toujours : **le train** (ICE, RE…), **la destination**, **l'heure**, **la voie** (Gleis) et **le retard** (Verspätung)."
+    }
+  ],
+  "listening": {
+    "title": "Durchsagen am Bahnhof",
+    "situation": "Tu attends ton train pour Munich à la gare de Francfort.",
+    "lines": [
+      {
+        "who": "Ansage 1",
+        "de": "Achtung an Gleis sieben. Der ICE 625 nach München, planmäßige Abfahrt 14 Uhr 32, hat heute circa zwanzig Minuten Verspätung."
+      },
+      {
+        "who": "Ansage 1",
+        "de": "Grund dafür ist eine Reparatur am Zug. Wir bitten um Entschuldigung."
+      },
+      {
+        "who": "Ansage 2",
+        "de": "Information zum Regionalexpress nach Wiesbaden. Der Zug fährt heute ausnahmsweise von Gleis zwölf ab, nicht von Gleis neun."
+      },
+      {
+        "who": "Ansage 3",
+        "de": "Liebe Fahrgäste, bitte beachten Sie: Wegen Bauarbeiten fällt die S-Bahn zum Flughafen am Wochenende aus."
+      },
+      {
+        "who": "Ansage 3",
+        "de": "Bitte nutzen Sie die Busse vor dem Haupteingang."
+      },
+      {
+        "who": "Ansage 4",
+        "de": "Achtung an Gleis sieben. Der ICE nach München fährt jetzt ein. Bitte Vorsicht bei der Einfahrt."
+      }
+    ],
+    "glossary": [
+      {
+        "de": "planmäßig",
+        "fr": "prévu (selon l'horaire)"
+      },
+      {
+        "de": "ausnahmsweise",
+        "fr": "exceptionnellement"
+      },
+      {
+        "de": "ausfallen",
+        "fr": "être supprimé"
+      },
+      {
+        "de": "die Bauarbeiten",
+        "fr": "les travaux"
+      },
+      {
+        "de": "der Fahrgast",
+        "fr": "le voyageur"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Von welchem Gleis fährt der ICE nach München?",
+      "options": [
+        "Gleis 7",
+        "Gleis 9",
+        "Gleis 12"
+      ],
+      "answer": 0,
+      "why": "*Achtung an Gleis sieben. Der ICE 625 nach München…*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel Verspätung hat der ICE?",
+      "options": [
+        "Ungefähr 20 Minuten",
+        "Ungefähr 32 Minuten",
+        "Keine"
+      ],
+      "answer": 0,
+      "why": "*circa zwanzig Minuten Verspätung*."
+    },
+    {
+      "type": "mcq",
+      "q": "Warum hat der ICE Verspätung?",
+      "options": [
+        "Wegen einer Reparatur am Zug",
+        "Wegen des Wetters",
+        "Wegen Bauarbeiten"
+      ],
+      "answer": 0,
+      "why": "*Grund dafür ist eine Reparatur am Zug.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Von welchem Gleis fährt heute der Zug nach Wiesbaden?",
+      "options": [
+        "Gleis 12",
+        "Gleis 9",
+        "Gleis 7"
+      ],
+      "answer": 0,
+      "why": "*ausnahmsweise von Gleis zwölf, nicht von Gleis neun*."
+    },
+    {
+      "type": "dictation",
+      "text": "Der Zug hat zwanzig Minuten Verspätung.",
+      "fr": "Le train a vingt minutes de retard.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "dictation",
+      "text": "Wir bitten um Entschuldigung.",
+      "fr": "Nous vous prions de nous excuser.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Was passiert mit der S-Bahn zum Flughafen?",
+      "options": [
+        "Sie fällt am Wochenende aus",
+        "Sie fährt von Gleis 12",
+        "Sie hat zehn Minuten Verspätung"
+      ],
+      "answer": 0,
+      "why": "*…fällt die S-Bahn zum Flughafen am Wochenende aus.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie kommt man am Wochenende zum Flughafen?",
+      "options": [
+        "Mit dem Bus",
+        "Mit dem ICE",
+        "Zu Fuß"
+      ],
+      "answer": 0,
+      "why": "*Bitte nutzen Sie die Busse vor dem Haupteingang.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wann sollte der ICE planmäßig abfahren?",
+      "options": [
+        "Um 14:32 Uhr",
+        "Um 14:20 Uhr",
+        "Um 16:25 Uhr"
+      ],
+      "answer": 0,
+      "why": "*planmäßige Abfahrt 14 Uhr 32*."
+    },
+    {
+      "type": "mcq",
+      "q": "Was sagt die letzte Durchsage?",
+      "options": [
+        "Der ICE fährt jetzt ein",
+        "Der ICE fällt aus",
+        "Der ICE fährt von Gleis 12"
+      ],
+      "answer": 0,
+      "why": "*Der ICE nach München fährt jetzt ein.*"
+    },
+    {
+      "type": "dictation",
+      "text": "Der Zug fährt heute von Gleis zwölf ab.",
+      "fr": "Le train part aujourd'hui de la voie douze.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "gap",
+      "q": "Wegen ___ fällt die S-Bahn aus.",
+      "answers": [
+        "Bauarbeiten"
+      ],
+      "hint": "travaux",
+      "why": "*Wegen **Bauarbeiten** fällt die S-Bahn… aus.*"
+    }
+  ],
+  "createdAt": "2026-11-12"
+}
