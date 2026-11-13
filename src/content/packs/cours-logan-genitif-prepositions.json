@@ -1,0 +1,312 @@
+{
+  "section": "cours",
+  "teacher": "logan",
+  "level": "A2",
+  "source": "Notes du cours du 13/11/2026",
+  "createdAt": "2026-11-13",
+  "id": "cours-logan-genitif-prepositions",
+  "title": "Le génitif et les prépositions par cas",
+  "topic": "Génitif et prépositions",
+  "tags": [
+    "Prépositions à cas fixe",
+    "Prépositions mixtes"
+  ],
+  "summary": "Exprimer la possession, et savoir quel cas suit chaque préposition.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Former le génitif"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Genre",
+        "Article",
+        "Nom",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Masculin / neutre",
+          "**des** / eines",
+          "+ **-s** ou **-es**",
+          "die Katze **des** Mann**es**, des Kind**es**, des Baby**s**"
+        ],
+        [
+          "Féminin",
+          "**der** / einer",
+          "inchangé",
+          "die Katze **der** Frau"
+        ],
+        [
+          "Pluriel",
+          "**der**",
+          "inchangé",
+          "der Ball **der** Kinder"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "**-es** après *-s, -ss, -ß, -x, -z* (obligatoire : *des Hauses, des Platzes*) et souvent après un nom d'une syllabe (*des Mannes, des Kindes*).",
+        "**-s** après les noms de plusieurs syllabes et les mots étrangers : *des Lehrers, des Wochenendes, des Babys*.",
+        "Noms propres : un simple **-s**, sans apostrophe — *Chamilas Katze*."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "À l'oral : von + datif"
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Die Katze der Frau. → Die Katze **von der** Frau.",
+          "fr": "Le chat de la femme."
+        },
+        {
+          "de": "Die Katze des Mannes. → Die Katze **von dem** (vom) Mann.",
+          "fr": "Le chat de l'homme."
+        },
+        {
+          "de": "Der Ball der Kinder. → Der Ball **von den** Kinder**n**.",
+          "fr": "Le ballon des enfants."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "À l'écrit et dans un registre soutenu, préfère le génitif. À l'oral, *von* + datif est très courant."
+    },
+    {
+      "type": "h",
+      "text": "Prépositions : quel cas ?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Cas",
+        "Prépositions"
+      ],
+      "rows": [
+        [
+          "**Datif**",
+          "aus, bei, mit, nach, seit, von, zu, gegenüber (en face de), ab (à partir de)"
+        ],
+        [
+          "**Accusatif**",
+          "durch, für, gegen, ohne, um, bis, entlang (le long de, placé après le nom)"
+        ],
+        [
+          "**Génitif**",
+          "während (pendant), trotz (malgré), statt / anstatt (au lieu de), innerhalb (à l'intérieur de), außerhalb (à l'extérieur de), wegen (à cause de)"
+        ],
+        [
+          "**Datif ou accusatif**",
+          "an, auf, hinter, in, neben, über, unter, vor, zwischen : datif pour *wo ?*, accusatif pour *wohin ?*"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "**Während des** Wochenendes habe ich viel gelesen.",
+          "fr": "Pendant le week-end, j'ai beaucoup lu."
+        },
+        {
+          "de": "**Trotz des** Regens gehen wir spazieren.",
+          "fr": "Malgré la pluie, nous allons nous promener."
+        },
+        {
+          "de": "**Ab** nächster Woche arbeite ich bei Siemens.",
+          "fr": "À partir de la semaine prochaine, je travaille chez Siemens."
+        },
+        {
+          "de": "Wir gehen **den Fluss entlang**.",
+          "fr": "Nous marchons le long de la rivière."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "À l'oral, beaucoup d'Allemands emploient *wegen, trotz, während* avec le datif (*wegen dem Regen*). À l'examen, utilise le génitif : *wegen **des** Regens*."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Das Auto ___ Vaters ist neu.",
+      "options": [
+        "des",
+        "der",
+        "dem"
+      ],
+      "answer": 0,
+      "why": "Génitif masculin : **des** Vater**s**."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Zimmer ___ Schwester ist klein.",
+      "options": [
+        "der",
+        "des",
+        "die"
+      ],
+      "answer": 0,
+      "why": "Génitif féminin : **der** Schwester."
+    },
+    {
+      "type": "gap",
+      "q": "Das ist das Spielzeug des ___.",
+      "answers": [
+        "Kindes",
+        "Kinds"
+      ],
+      "why": "Neutre d'une syllabe : génitif en **-es** → des Kind**es**.",
+      "hint": "das Kind"
+    },
+    {
+      "type": "mcq",
+      "q": "___ des Wochenendes habe ich viel gelesen.",
+      "options": [
+        "Während",
+        "Mit",
+        "Für"
+      ],
+      "answer": 0,
+      "why": "*während* (pendant) + génitif."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich gehe ohne ___ Freund ins Kino.",
+      "options": [
+        "meinen",
+        "meinem",
+        "meines"
+      ],
+      "answer": 0,
+      "why": "*ohne* + accusatif : **meinen** Freund."
+    },
+    {
+      "type": "mcq",
+      "q": "Er wohnt seit ___ Jahr in Berlin.",
+      "options": [
+        "einem",
+        "ein",
+        "eines"
+      ],
+      "answer": 0,
+      "why": "*seit* + datif : **einem** Jahr."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Le chat de la femme",
+      "answers": [
+        "Die Katze der Frau",
+        "Die Katze von der Frau"
+      ],
+      "why": "Génitif *der Frau* ou, à l'oral, *von der Frau*."
+    },
+    {
+      "type": "mcq",
+      "q": "Trotz ___ Regens gehen wir spazieren.",
+      "options": [
+        "des",
+        "dem",
+        "den"
+      ],
+      "answer": 0,
+      "why": "*trotz* + génitif : **des** Regens."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Das ist das Haus ___ Eltern.",
+      "options": [
+        "meiner",
+        "meinen",
+        "meines"
+      ],
+      "answer": 0,
+      "why": "Génitif pluriel : **meiner** Eltern."
+    },
+    {
+      "type": "gap",
+      "q": "Der Ball ___ Kinder liegt im Garten.",
+      "answers": [
+        "der"
+      ],
+      "why": "Génitif pluriel : **der** Kinder.",
+      "hint": "die Kinder"
+    },
+    {
+      "type": "mcq",
+      "q": "Statt ___ Kaffees trinke ich Tee.",
+      "options": [
+        "des",
+        "dem",
+        "den"
+      ],
+      "answer": 0,
+      "why": "*statt* + génitif : **des** Kaffees."
+    },
+    {
+      "type": "mcq",
+      "q": "Wir gehen durch ___ Park.",
+      "options": [
+        "den",
+        "dem",
+        "des"
+      ],
+      "answer": 0,
+      "why": "*durch* + accusatif : **den** Park."
+    },
+    {
+      "type": "mcq",
+      "q": "Ab ___ 1. Dezember habe ich Urlaub.",
+      "options": [
+        "dem",
+        "den",
+        "der"
+      ],
+      "answer": 0,
+      "why": "*ab* + datif : *ab **dem** 1. Dezember*."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Pendant les vacances",
+      "answers": [
+        "Während der Ferien",
+        "während der Ferien"
+      ],
+      "why": "*während* + génitif pluriel : **der** Ferien."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Bank ist gegenüber ___ Bahnhof.",
+      "options": [
+        "dem",
+        "den",
+        "des"
+      ],
+      "answer": 0,
+      "why": "*gegenüber* + datif : **dem** Bahnhof."
+    },
+    {
+      "type": "mcq",
+      "q": "Außerhalb ___ Stadt ist es ruhig.",
+      "options": [
+        "der",
+        "die",
+        "dem"
+      ],
+      "answer": 0,
+      "why": "*außerhalb* + génitif féminin : **der** Stadt."
+    }
+  ]
+}

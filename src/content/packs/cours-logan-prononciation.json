@@ -1,0 +1,326 @@
+{
+  "section": "cours",
+  "teacher": "logan",
+  "level": "A2",
+  "source": "Notes du cours du 13/11/2026",
+  "createdAt": "2026-11-13",
+  "id": "cours-logan-prononciation",
+  "title": "Prononciation : les sons qui piègent",
+  "topic": "Prononciation",
+  "summary": "ei, ie, eu, äu, au, les deux ch, chs, -er et -ig : lire un mot allemand sans hésiter.",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "L'allemand se lit presque comme il s'écrit, à condition de connaître quelques groupes de lettres. Touche le haut-parleur pour écouter chaque exemple."
+    },
+    {
+      "type": "h",
+      "text": "Les diphtongues et voyelles longues"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Écrit",
+        "Se prononce",
+        "Exemples"
+      ],
+      "rows": [
+        [
+          "**ei** / **ai**",
+          "« aï » (comme *ail*)",
+          "nein, mein, Mai"
+        ],
+        [
+          "**ie**",
+          "« i » long",
+          "Sie, riesig, viel"
+        ],
+        [
+          "**eu** / **äu**",
+          "« oï » (comme *boy* en anglais)",
+          "neu, heute, häufig, Häuser"
+        ],
+        [
+          "**au**",
+          "« aou »",
+          "auch, Haus, Frau"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Piège classique : **ei** se lit « aï » et **ie** se lit « i ». Astuce : on prononce la **deuxième** lettre à l'anglaise — *ei* comme le *i* de *wine*, *ie* comme le *e* de *see*."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Nein, das ist nicht mein Haus.",
+          "fr": "Non, ce n'est pas ma maison."
+        },
+        {
+          "de": "Sie hat viele riesige Bücher.",
+          "fr": "Elle a beaucoup de livres énormes."
+        },
+        {
+          "de": "Heute ist alles neu.",
+          "fr": "Aujourd'hui, tout est nouveau."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Les deux « ch »"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Position",
+        "Son",
+        "Exemples"
+      ],
+      "rows": [
+        [
+          "après **a, o, u, au**",
+          "son dur, raclé au fond de la gorge (*ach-Laut*)",
+          "machen, Buch, noch, auch"
+        ],
+        [
+          "après **e, i, ä, ö, ü, ei, eu**, une consonne, ou en début de mot",
+          "son doux, comme un « ch » chuchoté en souriant (*ich-Laut*)",
+          "ich, sprechen, Mädchen, Milch"
+        ],
+        [
+          "**chs**",
+          "« ks »",
+          "sechs, sechzehn, wachsen"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich mache auch noch Sport.",
+          "fr": "Je fais aussi encore du sport."
+        },
+        {
+          "de": "Sechs plus zehn ist sechzehn.",
+          "fr": "Six plus dix font seize."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Attention : dans *sechzehn*, le **ch** reste suivi de **z** → « zèk-tséhn ». Seul le groupe **chs** se lit « ks »."
+    },
+    {
+      "type": "h",
+      "text": "Les fins de mots"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**-er** final se prononce comme un « a » léger : *Donnerstag*, *Lehrer*, *aber*, *Wasser*.",
+        "**-ig** final se prononce comme **-ich** en allemand standard : *wenig*, *König*, *zwanzig*, *richtig* (dans le Sud, on entend aussi « -ik »).",
+        "**-e** final se prononce toujours, comme un « e » faible : *Schule*, *Tasche*.",
+        "**h** après une voyelle ne se prononce pas : il allonge la voyelle (*Bahn*, *sehr*, *Uhr*)."
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Am Donnerstag habe ich wenig Zeit.",
+          "fr": "Jeudi, j'ai peu de temps."
+        },
+        {
+          "de": "Das ist richtig.",
+          "fr": "C'est juste."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Comment se prononce **ei** dans *nein* ?",
+      "options": [
+        "« aï »",
+        "« i » long",
+        "« oï »"
+      ],
+      "answer": 0,
+      "why": "*ei* = « aï » : nein, mein, klein."
+    },
+    {
+      "type": "mcq",
+      "q": "Comment se prononce **ie** dans *riesig* ?",
+      "options": [
+        "« i » long",
+        "« aï »",
+        "« i-é »"
+      ],
+      "answer": 0,
+      "why": "*ie* = « i » long : Sie, viel, riesig."
+    },
+    {
+      "type": "mcq",
+      "q": "Dans quel mot entend-on le son « oï » ?",
+      "options": [
+        "neu",
+        "nein",
+        "Sie"
+      ],
+      "answer": 0,
+      "why": "*eu* (et *äu*) = « oï » : neu, heute, häufig."
+    },
+    {
+      "type": "mcq",
+      "q": "Dans *machen*, le **ch** est…",
+      "options": [
+        "dur, raclé (après a)",
+        "doux, comme dans *ich*",
+        "prononcé « k »"
+      ],
+      "answer": 0,
+      "why": "Après *a, o, u, au* : ch dur (*ach-Laut*)."
+    },
+    {
+      "type": "mcq",
+      "q": "Comment se prononce **chs** dans *sechs* ?",
+      "options": [
+        "« ks »",
+        "« ch » doux",
+        "« ch » dur"
+      ],
+      "answer": 0,
+      "why": "*chs* = « ks » : sechs, wachsen."
+    },
+    {
+      "type": "mcq",
+      "q": "Le **-er** final de *Donnerstag* se prononce…",
+      "options": [
+        "comme un « a » léger",
+        "« èr » comme en français",
+        "« eur »"
+      ],
+      "answer": 0,
+      "why": "*-er* final ≈ « a » : Donnerstag, Lehrer, aber."
+    },
+    {
+      "type": "mcq",
+      "q": "Le **-ig** final de *wenig* se prononce en allemand standard…",
+      "options": [
+        "comme « -ich »",
+        "comme « -igue »",
+        "comme « -ije »"
+      ],
+      "answer": 0,
+      "why": "*-ig* final = « -ich » : wenig, zwanzig."
+    },
+    {
+      "type": "dictation",
+      "text": "Heute ist alles neu.",
+      "fr": "Aujourd'hui, tout est nouveau.",
+      "why": "Réécoute en te concentrant sur les sons étudiés."
+    },
+    {
+      "type": "dictation",
+      "text": "Ich mache auch noch Sport.",
+      "fr": "Je fais aussi encore du sport.",
+      "why": "Réécoute en te concentrant sur les sons étudiés."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Quel mot contient le son « aï » ?",
+      "options": [
+        "mein",
+        "Miete",
+        "Mut"
+      ],
+      "answer": 0,
+      "why": "*ei* = « aï »."
+    },
+    {
+      "type": "mcq",
+      "q": "Quel mot contient un **ch** doux (*ich-Laut*) ?",
+      "options": [
+        "sprechen",
+        "Buch",
+        "noch"
+      ],
+      "answer": 0,
+      "why": "Après *e* : ch doux. Après *u, o* : ch dur."
+    },
+    {
+      "type": "mcq",
+      "q": "*häufig* se prononce…",
+      "options": [
+        "« hoïfich »",
+        "« héoufig »",
+        "« hofig »"
+      ],
+      "answer": 0,
+      "why": "*äu* = « oï » et *-ig* = « -ich »."
+    },
+    {
+      "type": "mcq",
+      "q": "Quel mot se prononce avec « ks » ?",
+      "options": [
+        "sechs",
+        "sechzehn",
+        "Milch"
+      ],
+      "answer": 0,
+      "why": "Seul le groupe *chs* se lit « ks »."
+    },
+    {
+      "type": "mcq",
+      "q": "Dans *Bahn*, le **h**…",
+      "options": [
+        "ne se prononce pas et allonge le a",
+        "se prononce comme en anglais",
+        "se prononce « ch »"
+      ],
+      "answer": 0,
+      "why": "*h* après une voyelle = voyelle longue."
+    },
+    {
+      "type": "match",
+      "q": "Associe chaque graphie à son son",
+      "pairs": [
+        [
+          "ei",
+          "« aï »"
+        ],
+        [
+          "ie",
+          "« i » long"
+        ],
+        [
+          "eu",
+          "« oï »"
+        ],
+        [
+          "chs",
+          "« ks »"
+        ]
+      ]
+    },
+    {
+      "type": "dictation",
+      "text": "Am Donnerstag habe ich wenig Zeit.",
+      "fr": "Jeudi, j'ai peu de temps.",
+      "why": "Réécoute en te concentrant sur les sons étudiés."
+    },
+    {
+      "type": "dictation",
+      "text": "Sie hat viele riesige Bücher.",
+      "fr": "Elle a beaucoup de livres énormes.",
+      "why": "Réécoute en te concentrant sur les sons étudiés."
+    }
+  ]
+}

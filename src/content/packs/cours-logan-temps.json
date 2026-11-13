@@ -1,0 +1,467 @@
+{
+  "section": "cours",
+  "teacher": "logan",
+  "level": "A2",
+  "source": "Notes du cours du 13/11/2026",
+  "createdAt": "2026-11-13",
+  "id": "cours-logan-temps",
+  "title": "Les temps : passé, plus-que-parfait et futur",
+  "topic": "Temps du verbe",
+  "tags": [
+    "Perfekt"
+  ],
+  "summary": "Präteritum, Perfekt, Plusquamperfekt, Futur I et II : formation et emploi.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Quel passé choisir ?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Perfekt** : surtout à l'**oral** — *Ich habe gekocht.*",
+        "**Präteritum** : surtout à l'**écrit** (récits, articles) — *Ich kochte.* Exception : *sein, haben* et les modaux, au Präteritum même à l'oral."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Le Perfekt : haben / sein + participe passé"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**sein** : déplacement (*fahren, gehen, kommen*), changement d'état (*aufstehen, werden*), et *sein, bleiben, werden*.",
+        "**haben** : tous les autres verbes (*kochen, schlafen, arbeiten*…).",
+        "Participe : *ge-* + radical + **-t** (régulier : *gemacht, gelernt, gearbeitet*) ou **-en** (fort : *gegangen, gesprochen*).",
+        "Préfixe inséparable (*be-, er-, ent-, ver-, ge-, zer-, miss-, emp-*) : **pas de ge-** → *besucht, verstanden*. Séparable : **-ge-** au milieu → *angekommen*."
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich **bin** nach München **gefahren**.",
+          "fr": "Je suis allée à Munich."
+        },
+        {
+          "de": "Ich **habe** gut **geschlafen**.",
+          "fr": "J'ai bien dormi."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Le Präteritum : trois modèles"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Type",
+        "Formation",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Régulier",
+          "radical + **-te** + terminaisons (–, -st, –, -n, -t, -n)",
+          "machen → mach**te** → gemacht"
+        ],
+        [
+          "Irrégulier (fort)",
+          "**radical modifié** + terminaisons (–, -st, –, -en, -t, -en)",
+          "gehen → **ging** → ist gegangen ; sprechen → **sprach** → hat gesprochen"
+        ],
+        [
+          "Mixte",
+          "**radical modifié** + **-te**",
+          "bringen → **brach**te → gebracht ; denken → **dach**te"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Au Präteritum, *ich* et *er* ont la même forme, sans terminaison : *ich ging, er ging* ; *ich machte, er machte*. Autres formes à connaître : *laufen → lief*, *halten → hielt (gehalten)*."
+    },
+    {
+      "type": "h",
+      "text": "Le Plusquamperfekt : l'action d'avant"
+    },
+    {
+      "type": "p",
+      "text": "**hatte / war** (Präteritum de l'auxiliaire) + participe passé. On l'emploie pour une action **antérieure** à une autre action passée, souvent avec ***nachdem***."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "**Nachdem** Chamila **gearbeitet hatte**, hat sie Sushi gegessen.",
+          "fr": "Après avoir travaillé, Chamila a mangé des sushis."
+        },
+        {
+          "de": "Als ich ankam, **war** der Zug schon **abgefahren**.",
+          "fr": "Quand je suis arrivée, le train était déjà parti."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Futur I et futur II"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Temps",
+        "Formation",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Futur I",
+          "**werden** + infinitif",
+          "Morgen **werde** ich **arbeiten**."
+        ],
+        [
+          "Futur II (futur antérieur)",
+          "**werden** + participe passé + **haben / sein**",
+          "Ich **werde** meine Hausaufgaben **erledigt haben**. / Er **wird** **gekommen sein**."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Pour parler du futur, le présent + un mot de temps suffit souvent : *Morgen arbeite ich.* Le futur II s'emploie surtout pour une supposition sur le passé : *Er wird den Zug verpasst haben* (il aura raté le train)."
+    },
+    {
+      "type": "h",
+      "text": "Corrections de tes notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "*ich bin **in** München gefahren* → ***nach** München* (ville = direction avec *nach*).",
+        "*spach* → ***sprach***.",
+        "*Chamila hatte gearbeitet und sie hat Sushi gegessen* : on relie plutôt avec ***nachdem*** pour montrer l'ordre des actions.",
+        "*erlerdigt* → ***erledigt*** ; *ins Kinos* → ***ins Kino***."
+      ]
+    }
+  ],
+  "verbs": [
+    {
+      "inf": "machen",
+      "fr": "faire",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "gemacht",
+      "praesens": [
+        "mache",
+        "machst",
+        "macht",
+        "machen",
+        "macht",
+        "machen"
+      ],
+      "praeteritum": [
+        "machte",
+        "machtest",
+        "machte",
+        "machten",
+        "machtet",
+        "machten"
+      ],
+      "example": {
+        "de": "Was machst du heute?",
+        "fr": "Que fais-tu aujourd'hui ?"
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Was [hast] du am Wochenende [gemacht]?",
+          "fr": "Qu'as-tu fait ce week-end ?"
+        },
+        {
+          "t": "futur",
+          "de": "Morgen [werde] ich Sport [machen].",
+          "fr": "Demain, je ferai du sport."
+        }
+      ]
+    },
+    {
+      "inf": "gehen",
+      "fr": "aller (à pied)",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "sein",
+      "partizip": "gegangen",
+      "praesens": [
+        "gehe",
+        "gehst",
+        "geht",
+        "gehen",
+        "geht",
+        "gehen"
+      ],
+      "praeteritum": [
+        "ging",
+        "gingst",
+        "ging",
+        "gingen",
+        "gingt",
+        "gingen"
+      ],
+      "example": {
+        "de": "Ich gehe nach Hause.",
+        "fr": "Je rentre à la maison."
+      },
+      "ctx": [
+        {
+          "t": "praeteritum",
+          "de": "Nach dem Essen [gingen] wir spazieren.",
+          "fr": "Après le repas, nous sommes allés nous promener."
+        },
+        {
+          "t": "perfekt",
+          "de": "Sie [ist] früh ins Bett [gegangen].",
+          "fr": "Elle s'est couchée tôt."
+        }
+      ]
+    },
+    {
+      "inf": "bringen",
+      "fr": "apporter",
+      "kinds": [
+        "mixte"
+      ],
+      "aux": "haben",
+      "partizip": "gebracht",
+      "praesens": [
+        "bringe",
+        "bringst",
+        "bringt",
+        "bringen",
+        "bringt",
+        "bringen"
+      ],
+      "praeteritum": [
+        "brachte",
+        "brachtest",
+        "brachte",
+        "brachten",
+        "brachtet",
+        "brachten"
+      ],
+      "example": {
+        "de": "Bringst du Brot?",
+        "fr": "Tu apportes du pain ?"
+      },
+      "ctx": [
+        {
+          "t": "praeteritum",
+          "de": "Der Kellner [brachte] uns die Rechnung.",
+          "fr": "Le serveur nous a apporté l'addition."
+        },
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] dir einen Kuchen [gebracht].",
+          "fr": "Je t'ai apporté un gâteau."
+        }
+      ]
+    },
+    {
+      "inf": "kommen",
+      "fr": "venir",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "sein",
+      "partizip": "gekommen",
+      "praesens": [
+        "komme",
+        "kommst",
+        "kommt",
+        "kommen",
+        "kommt",
+        "kommen"
+      ],
+      "praeteritum": [
+        "kam",
+        "kamst",
+        "kam",
+        "kamen",
+        "kamt",
+        "kamen"
+      ],
+      "example": {
+        "de": "Kommst du mit?",
+        "fr": "Tu viens ?"
+      },
+      "ctx": [
+        {
+          "t": "praeteritum",
+          "de": "Er [kam] zu spät zum Unterricht.",
+          "fr": "Il est arrivé en retard au cours."
+        },
+        {
+          "t": "futur",
+          "de": "Wann [wirst] du nach Hause [kommen]?",
+          "fr": "Quand rentreras-tu à la maison ?"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Ich ___ nach München gefahren.",
+      "options": [
+        "bin",
+        "habe",
+        "war"
+      ],
+      "answer": 0,
+      "why": "*fahren* = déplacement → **sein**."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich ___ gut geschlafen.",
+      "options": [
+        "habe",
+        "bin",
+        "hatte"
+      ],
+      "answer": 0,
+      "why": "*schlafen* → **haben**."
+    },
+    {
+      "type": "gap",
+      "q": "Gestern ___ ich lange. (arbeiten, Präteritum)",
+      "answers": [
+        "arbeitete"
+      ],
+      "why": "Régulier : radical + **-te** (+ e après -t) : ich arbeit**ete**."
+    },
+    {
+      "type": "mcq",
+      "q": "Präteritum de *sprechen* (ich) :",
+      "options": [
+        "sprach",
+        "sprechte",
+        "spach"
+      ],
+      "answer": 0,
+      "why": "Verbe fort : **sprach**."
+    },
+    {
+      "type": "mcq",
+      "q": "Präteritum de *bringen* (er) :",
+      "options": [
+        "brachte",
+        "bringte",
+        "brang"
+      ],
+      "answer": 0,
+      "why": "Verbe mixte : radical modifié + -te → **brachte**."
+    },
+    {
+      "type": "cloze",
+      "text": "Nachdem sie gearbeitet [hatte], hat sie Sushi gegessen.",
+      "hint": "Plusquamperfekt",
+      "why": "Action antérieure : **hatte** + participe, verbe à la fin après *nachdem*."
+    },
+    {
+      "type": "cloze",
+      "text": "Morgen [werde] ich arbeiten.",
+      "hint": "Futur I",
+      "why": "*werden* + infinitif : **werde** … arbeiten."
+    },
+    {
+      "type": "cloze",
+      "text": "Um zehn Uhr [werde] ich meine Hausaufgaben [erledigt] [haben].",
+      "hint": "Futur II",
+      "why": "*werden* + participe + *haben* : **werde** … **erledigt haben**."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Er ___ zu Hause geblieben.",
+      "options": [
+        "ist",
+        "hat",
+        "wird"
+      ],
+      "answer": 0,
+      "why": "*bleiben* prend **sein**."
+    },
+    {
+      "type": "mcq",
+      "q": "Participe passé de *besuchen* :",
+      "options": [
+        "besucht",
+        "gebesucht",
+        "besuchen"
+      ],
+      "answer": 0,
+      "why": "Préfixe inséparable : pas de *ge-*."
+    },
+    {
+      "type": "gap",
+      "q": "Als ich ankam, ___ der Zug schon abgefahren.",
+      "answers": [
+        "war"
+      ],
+      "why": "Plusquamperfekt avec *sein* : **war** abgefahren."
+    },
+    {
+      "type": "mcq",
+      "q": "Präteritum de *gehen* (wir) :",
+      "options": [
+        "gingen",
+        "gehten",
+        "gangen"
+      ],
+      "answer": 0,
+      "why": "Verbe fort : **gingen**."
+    },
+    {
+      "type": "mcq",
+      "q": "Quel temps emploie-t-on surtout à l'oral ?",
+      "options": [
+        "le Perfekt",
+        "le Präteritum",
+        "le Plusquamperfekt"
+      ],
+      "answer": 0,
+      "why": "À l'oral, on raconte au **Perfekt** (sauf *sein, haben*, modaux)."
+    },
+    {
+      "type": "cloze",
+      "text": "Wann [wirst] du nach Hause [kommen]?",
+      "hint": "Futur I, du",
+      "why": "*werden* + infinitif : **wirst** … **kommen**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je suis allée à Munich.",
+      "answers": [
+        "Ich bin nach München gefahren.",
+        "Ich bin nach München gegangen."
+      ],
+      "why": "Ville → **nach** ; déplacement → **bin** … gefahren."
+    },
+    {
+      "type": "mcq",
+      "q": "Präteritum de *laufen* (er) :",
+      "options": [
+        "lief",
+        "laufte",
+        "lauf"
+      ],
+      "answer": 0,
+      "why": "Verbe fort : **lief**."
+    }
+  ]
+}

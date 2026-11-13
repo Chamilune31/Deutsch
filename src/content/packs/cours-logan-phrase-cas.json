@@ -1,0 +1,344 @@
+{
+  "section": "cours",
+  "teacher": "logan",
+  "level": "A2",
+  "source": "Notes du cours du 13/11/2026",
+  "createdAt": "2026-11-13",
+  "id": "cours-logan-phrase-cas",
+  "title": "La phrase allemande et les quatre cas",
+  "topic": "Structure de la phrase",
+  "tags": [
+    "Ordre des mots",
+    "Accusatif et datif",
+    "Subordonnées"
+  ],
+  "summary": "Phrase simple et complexe, inversion, nominatif, accusatif, datif, génitif, et als / wenn / ob.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Phrase simple, phrase complexe"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Schéma",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Phrase simple (principale)",
+          "**S – V – C** : le verbe conjugué en 2e position",
+          "Wir **machen** das."
+        ],
+        [
+          "Inversion",
+          "**C – V – S** : un autre élément en 1re position, le verbe reste 2e",
+          "Das **machen** wir. / Am Wochenende **will** ich schlafen."
+        ],
+        [
+          "Phrase complexe (subordonnée)",
+          "conjonction + **S – C – V** : le verbe conjugué à la fin",
+          "…, weil wir das **machen**."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Quel que soit le premier élément, le verbe conjugué reste **2e**. *Ich will am Wochenende schlafen* = *Am Wochenende will ich schlafen*."
+    },
+    {
+      "type": "h",
+      "text": "Les quatre cas"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Cas",
+        "Question",
+        "Rôle",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Nominatif",
+          "**Wer? Was?**",
+          "sujet",
+          "**Der Mann** schläft."
+        ],
+        [
+          "Accusatif",
+          "**Wen? Was?**",
+          "complément d'objet direct",
+          "Ich sehe **den Mann**."
+        ],
+        [
+          "Datif",
+          "**Wem?**",
+          "complément d'objet indirect (celui qui reçoit)",
+          "Ich helfe **dem Mann**."
+        ],
+        [
+          "Génitif",
+          "**Wessen?**",
+          "possession (« de »)",
+          "Das ist das Auto **des Mannes**."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Masculin",
+        "Féminin",
+        "Neutre",
+        "Pluriel"
+      ],
+      "rows": [
+        [
+          "Nominatif",
+          "der",
+          "die",
+          "das",
+          "die"
+        ],
+        [
+          "Accusatif",
+          "**den**",
+          "die",
+          "das",
+          "die"
+        ],
+        [
+          "Datif",
+          "**dem**",
+          "**der**",
+          "**dem**",
+          "**den** (+ -n)"
+        ],
+        [
+          "Génitif",
+          "**des** (+ -s/-es)",
+          "**der**",
+          "**des** (+ -s/-es)",
+          "**der**"
+        ]
+      ]
+    },
+    {
+      "type": "list",
+      "items": [
+        "Le cas peut venir du **verbe** : *sehen, haben, kaufen* + accusatif ; *helfen, danken, gefallen* + datif.",
+        "*geben* a deux compléments : la personne au datif, la chose à l'accusatif — *Ich gebe **dir** **den** Kuli.*",
+        "Le cas peut aussi venir d'une **préposition** (voir la leçon sur les prépositions)."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Als, wenn ou ob ?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Conjonction",
+        "Sens",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "**als**",
+          "quand (fait **unique** dans le passé)",
+          "**Als** ich Kind war, wohnte ich in Lyon."
+        ],
+        [
+          "**wenn**",
+          "quand (répété, présent, futur) / si (condition)",
+          "**Wenn** ich Zeit habe, lese ich."
+        ],
+        [
+          "**ob**",
+          "si (question indirecte)",
+          "Ich weiß nicht, **ob** er kommt."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Test rapide pour « si » : peut-on le remplacer par « est-ce que » ? Oui → **ob** (*je ne sais pas si / est-ce qu'il vient*). Non → **wenn** (condition)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "answers": [
+        "Am Wochenende will ich schlafen",
+        "Ich will am Wochenende schlafen"
+      ],
+      "why": "Le verbe conjugué *will* reste en 2e position ; l'infinitif *schlafen* va à la fin."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Das machen wir morgen",
+        "Wir machen das morgen"
+      ],
+      "why": "Inversion possible : *Das* en tête, puis le verbe, puis le sujet."
+    },
+    {
+      "type": "mcq",
+      "q": "___ hilfst du? — Meiner Schwester.",
+      "options": [
+        "Wem",
+        "Wen",
+        "Wer"
+      ],
+      "answer": 0,
+      "why": "*helfen* + datif → question **Wem?**"
+    },
+    {
+      "type": "mcq",
+      "q": "___ siehst du? — Den Lehrer.",
+      "options": [
+        "Wen",
+        "Wem",
+        "Wessen"
+      ],
+      "answer": 0,
+      "why": "Complément direct (accusatif) → **Wen?**"
+    },
+    {
+      "type": "mcq",
+      "q": "___ Tasche ist das? — Die Tasche der Lehrerin.",
+      "options": [
+        "Wessen",
+        "Wem",
+        "Wen"
+      ],
+      "answer": 0,
+      "why": "Possession (génitif) → **Wessen?**"
+    },
+    {
+      "type": "gap",
+      "q": "Ich gebe ___ Kind einen Apfel.",
+      "answers": [
+        "dem"
+      ],
+      "why": "L'enfant reçoit → datif neutre : **dem** Kind.",
+      "hint": "das Kind"
+    },
+    {
+      "type": "mcq",
+      "q": "___ ich gestern nach Hause kam, war niemand da.",
+      "options": [
+        "Als",
+        "Wenn",
+        "Ob"
+      ],
+      "answer": 0,
+      "why": "Fait unique dans le passé → **als**."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich weiß nicht, ___ sie heute kommt.",
+      "options": [
+        "ob",
+        "wenn",
+        "als"
+      ],
+      "answer": 0,
+      "why": "Question indirecte (« est-ce que ») → **ob**."
+    },
+    {
+      "type": "mcq",
+      "q": "___ es regnet, bleibe ich zu Hause.",
+      "options": [
+        "Wenn",
+        "Als",
+        "Ob"
+      ],
+      "answer": 0,
+      "why": "Condition / habitude → **wenn**."
+    }
+  ],
+  "exam": [
+    {
+      "type": "order",
+      "answers": [
+        "Heute Abend gehen wir ins Kino",
+        "Wir gehen heute Abend ins Kino"
+      ],
+      "why": "Verbe *gehen* en 2e position dans les deux cas."
+    },
+    {
+      "type": "mcq",
+      "q": "Dans *Der Hund beißt den Mann*, qui mord ?",
+      "options": [
+        "le chien",
+        "l'homme",
+        "on ne sait pas"
+      ],
+      "answer": 0,
+      "why": "*Der Hund* est au nominatif → sujet. *den Mann* est à l'accusatif."
+    },
+    {
+      "type": "mcq",
+      "q": "Dans *Den Mann beißt der Hund*, qui mord ?",
+      "options": [
+        "le chien",
+        "l'homme",
+        "on ne sait pas"
+      ],
+      "answer": 0,
+      "why": "Même sens : c'est le cas, pas la place, qui indique le sujet."
+    },
+    {
+      "type": "gap",
+      "q": "Kannst du ___ Mann helfen?",
+      "answers": [
+        "dem"
+      ],
+      "why": "*helfen* + datif : **dem** Mann.",
+      "hint": "der Mann"
+    },
+    {
+      "type": "cloze",
+      "text": "Ich weiß, dass er morgen [kommt].",
+      "hint": "kommen, subordonnée",
+      "why": "Après *dass*, le verbe conjugué va à la fin : S – C – V."
+    },
+    {
+      "type": "mcq",
+      "q": "___ ich klein war, hatte ich einen Hund.",
+      "options": [
+        "Als",
+        "Wenn",
+        "Ob"
+      ],
+      "answer": 0,
+      "why": "Période unique du passé → **als**."
+    },
+    {
+      "type": "mcq",
+      "q": "Er fragt, ___ wir Zeit haben.",
+      "options": [
+        "ob",
+        "wenn",
+        "als"
+      ],
+      "answer": 0,
+      "why": "Question indirecte → **ob**."
+    },
+    {
+      "type": "mcq",
+      "q": "Das ist das Fahrrad ___ Lehrers.",
+      "options": [
+        "des",
+        "der",
+        "dem"
+      ],
+      "answer": 0,
+      "why": "Génitif masculin : **des** Lehrer**s**."
+    }
+  ]
+}

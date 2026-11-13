@@ -1,0 +1,278 @@
+{
+  "section": "cours",
+  "teacher": "logan",
+  "level": "A2",
+  "source": "Notes du cours du 13/11/2026",
+  "createdAt": "2026-11-13",
+  "id": "cours-logan-negation",
+  "title": "nicht ou kein : la négation complète",
+  "topic": "Négation",
+  "summary": "Quand employer nicht ou kein, et kein décliné aux quatre cas.",
+  "lesson": [
+    {
+      "type": "table",
+      "head": [
+        "On emploie…",
+        "pour nier…",
+        "Exemples"
+      ],
+      "rows": [
+        [
+          "**nicht**",
+          "un verbe, un adjectif, un adverbe, un nom avec article **défini** ou possessif",
+          "Ich esse **nicht**. Das ist **nicht** teuer. Ich sehe den Film **nicht**."
+        ],
+        [
+          "**kein** (= k + ein)",
+          "un nom **sans article** ou avec article **indéfini**",
+          "Ich habe **kein** Geld. Das ist **keine** gute Idee."
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "kein décliné comme ein, aux quatre cas"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Masculin",
+        "Féminin",
+        "Neutre",
+        "Pluriel"
+      ],
+      "rows": [
+        [
+          "Nominatif",
+          "kein",
+          "keine",
+          "kein",
+          "keine"
+        ],
+        [
+          "Accusatif",
+          "**keinen**",
+          "keine",
+          "kein",
+          "keine"
+        ],
+        [
+          "Datif",
+          "**keinem**",
+          "**keiner**",
+          "**keinem**",
+          "**keinen** (+ -n)"
+        ],
+        [
+          "Génitif",
+          "**keines** (+ -s)",
+          "**keiner**",
+          "**keines** (+ -s)",
+          "**keiner**"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich habe mit **keinem** Kollegen darüber gesprochen.",
+          "fr": "Je n'en ai parlé à aucun collègue."
+        },
+        {
+          "de": "Ich spreche mit **keiner** Kollegin darüber.",
+          "fr": "Je n'en parle à aucune collègue."
+        },
+        {
+          "de": "Sie ist Mitglied **keiner** Partei.",
+          "fr": "Elle n'est membre d'aucun parti. (génitif, registre soutenu)"
+        },
+        {
+          "de": "Wir haben **keine** Kinder.",
+          "fr": "Nous n'avons pas d'enfants."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Dans tes notes : *ich gehe mit einem Auto* se dit plutôt ***Ich fahre** mit dem Auto* (en véhicule → *fahren*). Le génitif de *kein* existe, mais il est rare à l'oral."
+    },
+    {
+      "type": "h",
+      "text": "Où placer nicht ?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "À la fin pour nier toute la phrase : *Ich schlafe **nicht**.*",
+        "Devant l'adjectif, l'adverbe ou le complément prépositionnel : *Das ist **nicht** schön. Ich gehe **nicht** ins Kino.*",
+        "Devant l'infinitif, le participe ou la particule : *Ich kann **nicht** kommen. Ich habe **nicht** geschlafen. Ich rufe dich **nicht** an.*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Ich habe ___ Geld.",
+      "options": [
+        "kein",
+        "nicht",
+        "keine"
+      ],
+      "answer": 0,
+      "why": "Nom sans article (das Geld) → **kein**."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich gehe heute ___.",
+      "options": [
+        "nicht",
+        "kein",
+        "keinen"
+      ],
+      "answer": 0,
+      "why": "On nie le verbe → **nicht**."
+    },
+    {
+      "type": "gap",
+      "q": "Wir haben ___ Zeit.",
+      "answers": [
+        "keine"
+      ],
+      "why": "Féminin (die Zeit) → **keine**.",
+      "hint": "die Zeit"
+    },
+    {
+      "type": "mcq",
+      "q": "Er hat ___ Bruder.",
+      "options": [
+        "keinen",
+        "kein",
+        "keinem"
+      ],
+      "answer": 0,
+      "why": "Accusatif masculin → **keinen**."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich spiele mit ___ Kind.",
+      "options": [
+        "keinem",
+        "keinen",
+        "kein"
+      ],
+      "answer": 0,
+      "why": "*mit* + datif neutre → **keinem**."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Essen ist ___ gut.",
+      "options": [
+        "nicht",
+        "kein",
+        "keine"
+      ],
+      "answer": 0,
+      "why": "On nie un adjectif → **nicht**."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich habe heute nicht gearbeitet"
+      ],
+      "why": "*nicht* devant le participe passé."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je ne mange pas de viande.",
+      "answers": [
+        "Ich esse kein Fleisch."
+      ],
+      "why": "das Fleisch, sans article → **kein** Fleisch."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Ich finde den Schlüssel ___.",
+      "options": [
+        "nicht",
+        "keinen",
+        "kein"
+      ],
+      "answer": 0,
+      "why": "Article défini → on garde *den* et on met **nicht**."
+    },
+    {
+      "type": "mcq",
+      "q": "Das ist ___ gute Idee.",
+      "options": [
+        "keine",
+        "nicht",
+        "kein"
+      ],
+      "answer": 0,
+      "why": "*eine gute Idee* → **keine** gute Idee."
+    },
+    {
+      "type": "mcq",
+      "q": "Er spricht mit ___ Kollegin.",
+      "options": [
+        "keiner",
+        "keine",
+        "keinem"
+      ],
+      "answer": 0,
+      "why": "*mit* + datif féminin → **keiner**."
+    },
+    {
+      "type": "gap",
+      "q": "Sie hat ___ Kinder.",
+      "answers": [
+        "keine"
+      ],
+      "why": "Pluriel → **keine**."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich kann heute ___ kommen.",
+      "options": [
+        "nicht",
+        "kein",
+        "keine"
+      ],
+      "answer": 0,
+      "why": "On nie le verbe → **nicht** devant l'infinitif."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich rufe dich heute nicht an"
+      ],
+      "why": "*nicht* avant la particule séparable *an*."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Il n'a pas de voiture.",
+      "answers": [
+        "Er hat kein Auto.",
+        "Er hat keinen Wagen."
+      ],
+      "why": "das Auto → **kein** Auto."
+    },
+    {
+      "type": "mcq",
+      "q": "Sie ist Mitglied ___ Partei.",
+      "options": [
+        "keiner",
+        "keine",
+        "keines"
+      ],
+      "answer": 0,
+      "why": "Génitif féminin (die Partei) → **keiner**."
+    }
+  ]
+}

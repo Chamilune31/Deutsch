@@ -1,0 +1,547 @@
+{
+  "section": "cours",
+  "teacher": "logan",
+  "level": "A2",
+  "source": "Notes du cours du 13/11/2026",
+  "createdAt": "2026-11-13",
+  "id": "cours-logan-conjugaison-present",
+  "title": "Conjuguer au présent : les cas particuliers",
+  "topic": "Conjugaison au présent",
+  "tags": [
+    "Verbes inséparables"
+  ],
+  "summary": "Types de verbes, préfixes, et les verbes en -t/-d, -m/-n, -eln ou à changement de voyelle.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Trois familles de verbes"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Famille",
+        "Rôle",
+        "Exemples"
+      ],
+      "rows": [
+        [
+          "**Hilfsverben** (auxiliaires)",
+          "forment les temps composés et le passif",
+          "haben, sein, werden"
+        ],
+        [
+          "**Modalverben** (modaux)",
+          "nuancent un autre verbe à l'infinitif",
+          "können, müssen, wollen, sollen, dürfen, mögen"
+        ],
+        [
+          "**Vollverben** (verbes pleins)",
+          "portent le sens principal",
+          "machen, lernen, sprechen…"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Préfixes séparables et inséparables"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Inséparables (jamais séparés, pas de ge- au participe)",
+        "Séparables (particule à la fin, ge- au milieu)"
+      ],
+      "rows": [
+        [
+          "**be**kommen, **er**halten, **ent**stehen, **ver**stehen, **ge**nehmigen, **zer**brechen, **miss**verstehen, **emp**fehlen",
+          "**an**kommen, **auf**stehen, **ein**kaufen, **mit**kommen, **fern**sehen, **zurück**kommen"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Les terminaisons régulières"
+    },
+    {
+      "type": "table",
+      "head": [
+        "ich",
+        "du",
+        "er/sie/es",
+        "wir",
+        "ihr",
+        "sie/Sie"
+      ],
+      "rows": [
+        [
+          "radical + **e**",
+          "+ **st**",
+          "+ **t**",
+          "+ **en**",
+          "+ **t**",
+          "+ **en**"
+        ],
+        [
+          "mache",
+          "machst",
+          "macht",
+          "machen",
+          "macht",
+          "machen"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Cas particuliers"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Verbe",
+        "Règle",
+        "Exemples"
+      ],
+      "rows": [
+        [
+          "radical en **-t / -d**",
+          "on ajoute un **e** devant -st et -t (du, er, ihr)",
+          "arbeiten → du arbeit**e**st, er arbeit**e**t, ihr arbeit**e**t ; binden → du bind**e**st"
+        ],
+        [
+          "radical en **-m / -n** après une consonne",
+          "même règle (sauf après l, r, h)",
+          "atmen → du atm**e**st ; öffnen → er öffn**e**t ; mais lernen → du lernst"
+        ],
+        [
+          "en **-eln**",
+          "le **e** du radical tombe souvent à *ich*",
+          "wechseln → ich wechs**le** (ou wechsele), du wechselst"
+        ],
+        [
+          "**e → i / ie** (verbes forts)",
+          "changement de voyelle à *du* et *er/sie/es* seulement",
+          "sprechen → du spr**i**chst, er spr**i**cht ; lesen → du l**ie**st ; sehen → du s**ie**hst"
+        ],
+        [
+          "**a → ä**, **au → äu**",
+          "idem",
+          "fahren → du f**ä**hrst ; laufen → er l**äu**ft"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Le changement de voyelle ne touche **jamais** *ihr* : *ihr sprecht, ihr lest, ihr seht*."
+    }
+  ],
+  "verbs": [
+    {
+      "inf": "arbeiten",
+      "fr": "travailler",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "gearbeitet",
+      "praesens": [
+        "arbeite",
+        "arbeitest",
+        "arbeitet",
+        "arbeiten",
+        "arbeitet",
+        "arbeiten"
+      ],
+      "praeteritum": [
+        "arbeitete",
+        "arbeitetest",
+        "arbeitete",
+        "arbeiteten",
+        "arbeitetet",
+        "arbeiteten"
+      ],
+      "example": {
+        "de": "Wo arbeitest du?",
+        "fr": "Où travailles-tu ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Du [arbeitest] zu viel!",
+          "fr": "Tu travailles trop !"
+        },
+        {
+          "t": "praeteritum",
+          "de": "Er [arbeitete] früher in Hamburg.",
+          "fr": "Avant, il travaillait à Hambourg."
+        }
+      ]
+    },
+    {
+      "inf": "öffnen",
+      "fr": "ouvrir",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "geöffnet",
+      "praesens": [
+        "öffne",
+        "öffnest",
+        "öffnet",
+        "öffnen",
+        "öffnet",
+        "öffnen"
+      ],
+      "praeteritum": [
+        "öffnete",
+        "öffnetest",
+        "öffnete",
+        "öffneten",
+        "öffnetet",
+        "öffneten"
+      ],
+      "example": {
+        "de": "Öffne bitte das Fenster.",
+        "fr": "Ouvre la fenêtre, s'il te plaît."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Öffnest] du bitte das Fenster?",
+          "fr": "Tu ouvres la fenêtre, s'il te plaît ?"
+        },
+        {
+          "t": "perfekt",
+          "de": "Der Laden [hat] um acht Uhr [geöffnet].",
+          "fr": "Le magasin a ouvert à huit heures."
+        }
+      ]
+    },
+    {
+      "inf": "wechseln",
+      "fr": "changer, échanger",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "gewechselt",
+      "praesens": [
+        "wechsle",
+        "wechselst",
+        "wechselt",
+        "wechseln",
+        "wechselt",
+        "wechseln"
+      ],
+      "praeteritum": [
+        "wechselte",
+        "wechseltest",
+        "wechselte",
+        "wechselten",
+        "wechseltet",
+        "wechselten"
+      ],
+      "example": {
+        "de": "Ich wechsle Geld am Flughafen.",
+        "fr": "Je change de l'argent à l'aéroport."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Ich [wechsle] am Flughafen Geld.",
+          "fr": "Je change de l'argent à l'aéroport."
+        },
+        {
+          "t": "perfekt",
+          "de": "Sie [hat] letztes Jahr den Job [gewechselt].",
+          "fr": "Elle a changé de travail l'an dernier."
+        }
+      ],
+      "note": "ich wechsle (ou wechsele)."
+    },
+    {
+      "inf": "lesen",
+      "fr": "lire",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "gelesen",
+      "praesens": [
+        "lese",
+        "liest",
+        "liest",
+        "lesen",
+        "lest",
+        "lesen"
+      ],
+      "praeteritum": [
+        "las",
+        "last",
+        "las",
+        "lasen",
+        "last",
+        "lasen"
+      ],
+      "example": {
+        "de": "Was liest du?",
+        "fr": "Que lis-tu ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Er [liest] jeden Abend die Zeitung.",
+          "fr": "Il lit le journal tous les soirs."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Als Kind [las] ich viele Comics.",
+          "fr": "Enfant, je lisais beaucoup de BD."
+        }
+      ]
+    },
+    {
+      "inf": "sprechen",
+      "fr": "parler",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "gesprochen",
+      "praesens": [
+        "spreche",
+        "sprichst",
+        "spricht",
+        "sprechen",
+        "sprecht",
+        "sprechen"
+      ],
+      "praeteritum": [
+        "sprach",
+        "sprachst",
+        "sprach",
+        "sprachen",
+        "spracht",
+        "sprachen"
+      ],
+      "example": {
+        "de": "Sprichst du Deutsch?",
+        "fr": "Tu parles allemand ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Sprecht] ihr Französisch?",
+          "fr": "Vous parlez français ?"
+        },
+        {
+          "t": "praesens",
+          "de": "Sie [spricht] sehr schnell.",
+          "fr": "Elle parle très vite."
+        }
+      ]
+    },
+    {
+      "inf": "sehen",
+      "fr": "voir",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "gesehen",
+      "praesens": [
+        "sehe",
+        "siehst",
+        "sieht",
+        "sehen",
+        "seht",
+        "sehen"
+      ],
+      "praeteritum": [
+        "sah",
+        "sahst",
+        "sah",
+        "sahen",
+        "saht",
+        "sahen"
+      ],
+      "example": {
+        "de": "Siehst du das?",
+        "fr": "Tu vois ça ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Siehst] du den Bus?",
+          "fr": "Tu vois le bus ?"
+        },
+        {
+          "t": "perfekt",
+          "de": "Wir [haben] den Film schon [gesehen].",
+          "fr": "Nous avons déjà vu le film."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "gap",
+      "q": "Du ___ sehr viel. (arbeiten)",
+      "answers": [
+        "arbeitest"
+      ],
+      "why": "Radical en -t → **e** ajouté : du arbeit**e**st."
+    },
+    {
+      "type": "gap",
+      "q": "Er ___ das Fenster. (öffnen)",
+      "answers": [
+        "öffnet"
+      ],
+      "why": "Radical en -n après consonne → er öffn**e**t."
+    },
+    {
+      "type": "gap",
+      "q": "Du ___ gut Deutsch. (lernen)",
+      "answers": [
+        "lernst"
+      ],
+      "why": "Après *r*, pas de *e* ajouté : du lern**st**."
+    },
+    {
+      "type": "gap",
+      "q": "Ich ___ heute Geld. (wechseln)",
+      "answers": [
+        "wechsle",
+        "wechsele"
+      ],
+      "why": "Verbes en -eln : *ich wechsle* (forme la plus courante)."
+    },
+    {
+      "type": "mcq",
+      "q": "Sprechen, 3e personne : er ___",
+      "options": [
+        "spricht",
+        "sprecht",
+        "sprechet"
+      ],
+      "answer": 0,
+      "why": "e → i à *du* et *er* : er **spricht**."
+    },
+    {
+      "type": "mcq",
+      "q": "Lesen, ihr ___",
+      "options": [
+        "lest",
+        "liest",
+        "lesst"
+      ],
+      "answer": 0,
+      "why": "Pas de changement de voyelle à *ihr* : ihr **lest**."
+    },
+    {
+      "type": "mcq",
+      "q": "Quel verbe a un préfixe inséparable ?",
+      "options": [
+        "verstehen",
+        "ankommen",
+        "einkaufen"
+      ],
+      "answer": 0,
+      "why": "*ver-* est inséparable ; *an-* et *ein-* sont séparables."
+    },
+    {
+      "type": "mcq",
+      "q": "Quel verbe est un auxiliaire (Hilfsverb) ?",
+      "options": [
+        "werden",
+        "können",
+        "machen"
+      ],
+      "answer": 0,
+      "why": "Auxiliaires : haben, sein, **werden**."
+    }
+  ],
+  "exam": [
+    {
+      "type": "gap",
+      "q": "Ihr ___ zu laut. (sprechen)",
+      "answers": [
+        "sprecht"
+      ],
+      "why": "À *ihr*, pas de changement de voyelle : ihr **sprecht**."
+    },
+    {
+      "type": "gap",
+      "q": "Sie ___ jeden Tag die Zeitung. (lesen)",
+      "answers": [
+        "liest"
+      ],
+      "why": "e → ie : sie **liest**."
+    },
+    {
+      "type": "gap",
+      "q": "Wo ___ du? (arbeiten)",
+      "answers": [
+        "arbeitest"
+      ],
+      "why": "du arbeit**e**st."
+    },
+    {
+      "type": "mcq",
+      "q": "Atmen, du ___",
+      "options": [
+        "atmest",
+        "atmst",
+        "atemst"
+      ],
+      "answer": 0,
+      "why": "-m après consonne → **e** ajouté : du atm**e**st."
+    },
+    {
+      "type": "mcq",
+      "q": "Fahren, du ___",
+      "options": [
+        "fährst",
+        "fahrst",
+        "fährest"
+      ],
+      "answer": 0,
+      "why": "a → ä à *du* et *er* : du **fährst**."
+    },
+    {
+      "type": "mcq",
+      "q": "Participe passé de *bekommen* :",
+      "options": [
+        "bekommen",
+        "gebekommen",
+        "bekommt"
+      ],
+      "answer": 0,
+      "why": "Préfixe inséparable *be-* : pas de *ge-*."
+    },
+    {
+      "type": "mcq",
+      "q": "Participe passé de *ankommen* :",
+      "options": [
+        "angekommen",
+        "geankommen",
+        "ankommen"
+      ],
+      "answer": 0,
+      "why": "Préfixe séparable : *-ge-* entre la particule et le verbe."
+    },
+    {
+      "type": "mcq",
+      "q": "Sehen, er ___",
+      "options": [
+        "sieht",
+        "seht",
+        "seiht"
+      ],
+      "answer": 0,
+      "why": "e → ie : er **sieht**."
+    }
+  ]
+}
