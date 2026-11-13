@@ -1,0 +1,119 @@
+{
+  "id": "parler-decrire-photo",
+  "section": "oral",
+  "title": "Décrire une photo : une famille au restaurant",
+  "level": "A2",
+  "topic": "Description d'image",
+  "release": 3,
+  "summary": "Décrire une scène, situer les personnes et faire des suppositions, puis parler de soi.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "La photo"
+    },
+    {
+      "type": "p",
+      "text": "Imagine la photo suivante : une **famille** est assise à une grande table près de la fenêtre, dans un restaurant plein. **Au milieu**, la grand-mère a devant elle un gâteau avec des bougies. **À gauche**, le père rit et lève son verre. **À droite**, la mère prend une photo avec son téléphone. Un petit garçon mange des frites, une fille boit un jus d'orange. **À l'arrière-plan**, un serveur porte un plateau."
+    },
+    {
+      "type": "h",
+      "text": "Le plan en quatre étapes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Vue d'ensemble : *Auf dem Foto sieht man …*",
+        "Les détails : qui est où, qui fait quoi",
+        "Une supposition : *Vielleicht …*, *Ich glaube, dass …*",
+        "Ton expérience : *Das erinnert mich an …*, *Bei uns …*"
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Où ?",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "im Vordergrund",
+          "Im Vordergrund steht ein Tisch."
+        ],
+        [
+          "im Hintergrund",
+          "Im Hintergrund sieht man einen Kellner."
+        ],
+        [
+          "in der Mitte",
+          "In der Mitte sitzt die Großmutter."
+        ],
+        [
+          "links / rechts",
+          "Links lacht der Vater."
+        ],
+        [
+          "vor / neben + datif",
+          "Vor ihr steht ein Kuchen."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Après une indication de lieu en tête de phrase, le verbe reste en 2ᵉ position : *Links **sitzt** der Vater.* Et pour une position (*wo?*), les prépositions mixtes prennent le **datif** : *am Tisch, vor **dem** Fenster*."
+    }
+  ],
+  "task": {
+    "prompt": "Décris la photo présentée dans la leçon (une famille au restaurant) pendant environ **1 minute 30**, puis dis si toi aussi tu vas souvent au restaurant en famille.",
+    "points": [
+      "Ce qu'on voit en général (lieu, personnes)",
+      "Qui est où et qui fait quoi",
+      "Une supposition sur la situation",
+      "Ton expérience personnelle"
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 90,
+    "phrases": [
+      {
+        "de": "Auf dem Foto sieht man …",
+        "fr": "Sur la photo, on voit …"
+      },
+      {
+        "de": "Im Vordergrund / Im Hintergrund …",
+        "fr": "Au premier plan / À l'arrière-plan …"
+      },
+      {
+        "de": "Links / Rechts / In der Mitte sitzt …",
+        "fr": "À gauche / À droite / Au milieu est assis(e) …"
+      },
+      {
+        "de": "Ich glaube, dass …",
+        "fr": "Je crois que …"
+      },
+      {
+        "de": "Vielleicht feiern sie …",
+        "fr": "Peut-être qu'ils fêtent …"
+      },
+      {
+        "de": "Die Stimmung ist fröhlich.",
+        "fr": "L'ambiance est joyeuse."
+      },
+      {
+        "de": "Das Foto erinnert mich an …",
+        "fr": "La photo me fait penser à …"
+      },
+      {
+        "de": "Bei uns in der Familie …",
+        "fr": "Chez nous, dans la famille …"
+      }
+    ],
+    "model": "Auf dem Foto sieht man eine Familie in einem Restaurant. Ich glaube, das sind die Eltern, zwei Kinder und die Großmutter. Sie sitzen an einem großen Tisch am Fenster.\nIn der Mitte sitzt die Großmutter. Vor ihr steht ein Kuchen mit Kerzen. Vielleicht hat sie heute Geburtstag. Links lacht der Vater und hebt sein Glas. Rechts sitzt die Mutter und macht mit ihrem Handy ein Foto. Der kleine Junge isst Pommes, und das Mädchen trinkt einen Orangensaft.\nIm Hintergrund sieht man einen Kellner mit einem Tablett. Das Restaurant ist ziemlich voll, und die Stimmung ist fröhlich.\nDas Foto erinnert mich an meine Familie. Wir gehen nur zu besonderen Anlässen ins Restaurant, zum Beispiel an Geburtstagen. Meistens kochen wir lieber zusammen zu Hause.",
+    "modelFr": "Sur la photo, on voit une famille dans un restaurant. Je crois que ce sont les parents, deux enfants et la grand-mère. Ils sont assis à une grande table près de la fenêtre. Au milieu est assise la grand-mère. Devant elle, il y a un gâteau avec des bougies. C'est peut-être son anniversaire aujourd'hui. À gauche, le père rit et lève son verre. À droite, la mère est assise et prend une photo avec son téléphone. Le petit garçon mange des frites, et la fille boit un jus d'orange. À l'arrière-plan, on voit un serveur avec un plateau. Le restaurant est assez plein, et l'ambiance est joyeuse. La photo me fait penser à ma famille. Nous n'allons au restaurant que pour les grandes occasions, par exemple les anniversaires. La plupart du temps, nous préférons cuisiner ensemble à la maison.",
+    "criteria": [
+      "J'ai situé les personnes (links, rechts, in der Mitte, im Hintergrund)",
+      "J'ai fait au moins une supposition (vielleicht, ich glaube, dass …)",
+      "J'ai parlé de mon expérience personnelle",
+      "Le verbe conjugué était bien en 2ᵉ position"
+    ]
+  },
+  "createdAt": "2026-11-13"
+}

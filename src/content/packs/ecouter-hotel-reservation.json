@@ -1,0 +1,218 @@
+{
+  "id": "ecouter-hotel-reservation",
+  "section": "ecoute",
+  "title": "À l'hôtel : réserver une chambre",
+  "level": "A2",
+  "topic": "Voyage",
+  "release": 3,
+  "summary": "Un appel à la réception d'un hôtel : dates, prix, petit-déjeuner, parking.",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Les dates se disent avec un ordinal : *vom zwölften bis zum vierzehnten Dezember* (du 12 au 14 décembre). Retiens la terminaison **-ten** après *vom / am / bis zum*."
+    },
+    {
+      "type": "p",
+      "text": "Pour réussir l'écoute, note pendant l'appel tous les **chiffres** (dates, prix, heures) : ce sont eux que les questions vérifient le plus souvent."
+    }
+  ],
+  "listening": {
+    "title": "Ein Zimmer am Bodensee",
+    "situation": "Léa veut passer un week-end à Constance avec une amie. Elle appelle un hôtel.",
+    "lines": [
+      {
+        "who": "Rezeption",
+        "de": "Hotel Seeblick in Konstanz, guten Tag! Mein Name ist Peters. Was kann ich für Sie tun?"
+      },
+      {
+        "who": "Léa",
+        "de": "Guten Tag! Ich möchte ein Zimmer reservieren, vom zwölften bis zum vierzehnten Dezember."
+      },
+      {
+        "who": "Rezeption",
+        "de": "Gern. Für wie viele Personen?"
+      },
+      {
+        "who": "Léa",
+        "de": "Für zwei Personen. Haben Sie noch ein Doppelzimmer frei?"
+      },
+      {
+        "who": "Rezeption",
+        "de": "Einen Moment bitte … Ja, wir haben noch ein Doppelzimmer mit Blick auf den See. Es kostet hundertzwanzig Euro pro Nacht."
+      },
+      {
+        "who": "Léa",
+        "de": "Ist das Frühstück im Preis inbegriffen?"
+      },
+      {
+        "who": "Rezeption",
+        "de": "Ja, das Frühstück ist inklusive. Es gibt Frühstück von sieben bis zehn Uhr."
+      },
+      {
+        "who": "Léa",
+        "de": "Sehr gut. Gibt es auch einen Parkplatz? Wir kommen mit dem Auto."
+      },
+      {
+        "who": "Rezeption",
+        "de": "Ja, wir haben eine Tiefgarage. Sie kostet zehn Euro pro Tag."
+      },
+      {
+        "who": "Léa",
+        "de": "Kein Problem. Dann nehme ich das Zimmer. Wir kommen aber wahrscheinlich erst gegen einundzwanzig Uhr an. Ist das in Ordnung?"
+      },
+      {
+        "who": "Rezeption",
+        "de": "Natürlich, die Rezeption ist bis Mitternacht geöffnet. Darf ich noch Ihren Namen und Ihre E-Mail-Adresse haben?"
+      },
+      {
+        "who": "Léa",
+        "de": "Gern. Mein Name ist Léa Martin. Ich buchstabiere: M – A – R – T – I – N."
+      }
+    ],
+    "glossary": [
+      {
+        "de": "das Doppelzimmer",
+        "fr": "la chambre double"
+      },
+      {
+        "de": "der Blick auf den See",
+        "fr": "la vue sur le lac"
+      },
+      {
+        "de": "im Preis inbegriffen",
+        "fr": "compris dans le prix"
+      },
+      {
+        "de": "die Tiefgarage",
+        "fr": "le parking souterrain"
+      },
+      {
+        "de": "ankommen",
+        "fr": "arriver"
+      },
+      {
+        "de": "buchstabieren",
+        "fr": "épeler"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Für welche Daten reserviert Léa?",
+      "options": [
+        "Vom 2. bis zum 4. Dezember",
+        "Vom 12. bis zum 14. Dezember",
+        "Vom 12. bis zum 14. November"
+      ],
+      "answer": 1,
+      "why": "*vom zwölften bis zum vierzehnten Dezember*."
+    },
+    {
+      "type": "mcq",
+      "q": "Für wie viele Personen ist das Zimmer?",
+      "options": [
+        "Für eine Person",
+        "Für zwei Personen",
+        "Für drei Personen"
+      ],
+      "answer": 1,
+      "why": "*Für zwei Personen. Haben Sie noch ein Doppelzimmer frei?*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was ist besonders an dem Zimmer?",
+      "options": [
+        "Es hat einen Blick auf den See",
+        "Es hat einen großen Balkon",
+        "Es ist ganz neu"
+      ],
+      "answer": 0,
+      "why": "*ein Doppelzimmer mit Blick auf den See*."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel kostet das Zimmer pro Nacht?",
+      "options": [
+        "112 Euro",
+        "210 Euro",
+        "120 Euro"
+      ],
+      "answer": 2,
+      "why": "*hundertzwanzig Euro pro Nacht* = 120 €."
+    },
+    {
+      "type": "dictation",
+      "text": "Ich möchte ein Zimmer reservieren.",
+      "fr": "Je voudrais réserver une chambre.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "dictation",
+      "text": "Ist das Frühstück im Preis inbegriffen?",
+      "fr": "Le petit-déjeuner est-il compris dans le prix ?",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Das Frühstück kostet extra.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Ja, das Frühstück ist inklusive.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie reist Léa nach Konstanz?",
+      "options": [
+        "Mit dem Zug",
+        "Mit dem Auto",
+        "Mit dem Bus"
+      ],
+      "answer": 1,
+      "why": "*Wir kommen mit dem Auto.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel kostet die Tiefgarage?",
+      "options": [
+        "Zehn Euro pro Tag",
+        "Nichts",
+        "Zwanzig Euro pro Nacht"
+      ],
+      "answer": 0,
+      "why": "*Sie kostet zehn Euro pro Tag.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wann kommt Léa wahrscheinlich an?",
+      "options": [
+        "Gegen Mittag",
+        "Nach Mitternacht",
+        "Gegen 21 Uhr"
+      ],
+      "answer": 2,
+      "why": "*erst gegen einundzwanzig Uhr* ; ce n'est pas un problème, la réception est ouverte jusqu'à minuit."
+    },
+    {
+      "type": "dictation",
+      "text": "Die Rezeption ist bis Mitternacht geöffnet.",
+      "fr": "La réception est ouverte jusqu'à minuit.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "gap",
+      "q": "Léa möchte ein ___ für zwei Personen.",
+      "answers": [
+        "Doppelzimmer"
+      ],
+      "hint": "chambre double",
+      "why": "*das **Doppelzimmer*** = la chambre double (≠ *das Einzelzimmer*)."
+    }
+  ],
+  "createdAt": "2026-11-13"
+}

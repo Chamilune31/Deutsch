@@ -1,0 +1,227 @@
+{
+  "id": "lire-reglement-residence",
+  "section": "lecture",
+  "title": "Le règlement d'une résidence étudiante",
+  "level": "A2",
+  "topic": "Logement",
+  "release": 3,
+  "summary": "Une Hausordnung : comprendre ce qui est permis, obligatoire ou interdit.",
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Un règlement (*Hausordnung*) utilise surtout l'**impératif de politesse** (*Bitte trennen Sie den Müll*) et les **verbes de modalité** : ce qui est permis, obligatoire ou limité."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Expression",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "Sie dürfen …",
+          "Vous avez le droit de …"
+        ],
+        [
+          "Sie dürfen nur / höchstens …",
+          "Vous pouvez seulement / au maximum …"
+        ],
+        [
+          "Sie müssen …",
+          "Vous devez …"
+        ],
+        [
+          "Bitte + impératif",
+          "Merci de …"
+        ],
+        [
+          "… gehört in …",
+          "… doit être rangé dans …"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Les mots de quantité et de temps font la différence entre Richtig et Falsch : *nur, höchstens, täglich, werktags* (du lundi au samedi), *hintereinander* (d'affilée)."
+    }
+  ],
+  "reading": {
+    "title": "Hausordnung – Studentenwohnheim „Am Campus“",
+    "kind": "Règlement intérieur",
+    "paragraphs": [
+      "Liebe Bewohnerinnen und Bewohner,\nherzlich willkommen im Studentenwohnheim „Am Campus“! Damit sich alle hier wohlfühlen, bitten wir Sie, die folgenden Regeln zu beachten.",
+      "1. Ruhe\nVon 22 bis 7 Uhr ist Nachtruhe. Bitte hören Sie in dieser Zeit nur leise Musik. Wenn Sie eine Party feiern möchten, informieren Sie bitte Ihre Nachbarn eine Woche vorher.",
+      "2. Küche\nJede Etage hat eine Gemeinschaftsküche. Spülen Sie Ihr Geschirr bitte sofort nach dem Essen und lassen Sie keine Lebensmittel auf dem Tisch stehen. Ihr Essen gehört in Ihr eigenes Fach im Kühlschrank.",
+      "3. Müll\nBitte trennen Sie den Müll: Papier, Plastik, Glas und Restmüll. Die Mülltonnen stehen im Hof hinter dem Haus. Glasflaschen dürfen Sie nur werktags zwischen 8 und 20 Uhr in den Container werfen.",
+      "4. Gäste\nBesuch ist natürlich willkommen. Gäste dürfen aber höchstens drei Nächte hintereinander bleiben. Längere Besuche müssen Sie bei der Hausverwaltung anmelden.",
+      "5. Waschküche\nDie Waschmaschinen im Keller können Sie täglich von 7 bis 22 Uhr benutzen. Eine Wäsche kostet 2 Euro. Sie bezahlen mit Ihrer Studierendenkarte.",
+      "---",
+      "Bei Problemen erreichen Sie den Hausmeister, Herrn Yilmaz, montags bis freitags von 8 bis 16 Uhr in seinem Büro im Erdgeschoss. In Notfällen rufen Sie bitte die Nummer am Eingang an.\nIhre Hausverwaltung"
+    ],
+    "glossary": [
+      {
+        "de": "die Nachtruhe",
+        "fr": "le silence de nuit"
+      },
+      {
+        "de": "das Geschirr spülen",
+        "fr": "faire la vaisselle"
+      },
+      {
+        "de": "das Fach",
+        "fr": "le compartiment, le casier"
+      },
+      {
+        "de": "den Müll trennen",
+        "fr": "trier les déchets"
+      },
+      {
+        "de": "werktags",
+        "fr": "les jours ouvrables (lundi–samedi)"
+      },
+      {
+        "de": "hintereinander",
+        "fr": "d'affilée"
+      },
+      {
+        "de": "anmelden",
+        "fr": "déclarer, signaler"
+      },
+      {
+        "de": "der Hausmeister",
+        "fr": "le gardien, le concierge"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Ab wann ist Nachtruhe?",
+      "options": [
+        "Ab 20 Uhr",
+        "Ab 22 Uhr",
+        "Ab 23 Uhr"
+      ],
+      "answer": 1,
+      "why": "*Von 22 bis 7 Uhr ist Nachtruhe.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wer eine Party feiern möchte, muss die Nachbarn einen Tag vorher informieren.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Il faut prévenir les voisins *eine Woche vorher* – une semaine avant."
+    },
+    {
+      "type": "mcq",
+      "q": "Wo soll man sein Essen aufbewahren?",
+      "options": [
+        "Auf dem Küchentisch",
+        "Im Keller",
+        "Im eigenen Fach im Kühlschrank"
+      ],
+      "answer": 2,
+      "why": "*Ihr Essen gehört in Ihr eigenes Fach im Kühlschrank.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wo stehen die Mülltonnen?",
+      "options": [
+        "Im Hof hinter dem Haus",
+        "Im Keller",
+        "Vor dem Eingang"
+      ],
+      "answer": 0,
+      "why": "*Die Mülltonnen stehen im Hof hinter dem Haus.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Glasflaschen darf man am Sonntag in den Container werfen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Seulement *werktags* (pas le dimanche) entre 8 et 20 heures."
+    },
+    {
+      "type": "gap",
+      "q": "Nach dem Essen soll man sein Geschirr sofort ___.",
+      "answers": [
+        "spülen",
+        "abspülen",
+        "abwaschen"
+      ],
+      "hint": "faire la vaisselle",
+      "why": "*Spülen Sie Ihr Geschirr bitte sofort nach dem Essen.* À l'infinitif, le verbe va à la fin."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Wie lange dürfen Gäste höchstens bleiben?",
+      "options": [
+        "Eine Woche",
+        "Drei Nächte hintereinander",
+        "Einen Monat"
+      ],
+      "answer": 1,
+      "why": "*Gäste dürfen aber höchstens drei Nächte hintereinander bleiben.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was muss man bei längeren Besuchen tun?",
+      "options": [
+        "Mehr Miete bezahlen",
+        "Den Hausmeister anrufen",
+        "Den Besuch bei der Hausverwaltung anmelden"
+      ],
+      "answer": 2,
+      "why": "*Längere Besuche müssen Sie bei der Hausverwaltung anmelden.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie bezahlt man die Waschmaschine?",
+      "options": [
+        "Mit der Studierendenkarte",
+        "Bar beim Hausmeister",
+        "Mit einer App"
+      ],
+      "answer": 0,
+      "why": "*Sie bezahlen mit Ihrer Studierendenkarte.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Die Waschmaschinen kann man rund um die Uhr benutzen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Seulement *täglich von 7 bis 22 Uhr* ; *rund um die Uhr* = 24 h sur 24."
+    },
+    {
+      "type": "mcq",
+      "q": "Wann ist der Hausmeister im Büro?",
+      "options": [
+        "Jeden Tag von 7 bis 22 Uhr",
+        "Montags bis freitags von 8 bis 16 Uhr",
+        "Nur am Wochenende"
+      ],
+      "answer": 1,
+      "why": "*montags bis freitags von 8 bis 16 Uhr*. En cas d'urgence, on appelle le numéro affiché à l'entrée."
+    },
+    {
+      "type": "gap",
+      "q": "Der Hausmeister heißt Herr ___.",
+      "answers": [
+        "Yilmaz"
+      ],
+      "why": "*den Hausmeister, Herrn **Yilmaz*** (Herr → Herrn à l'accusatif)."
+    }
+  ],
+  "createdAt": "2026-11-13"
+}

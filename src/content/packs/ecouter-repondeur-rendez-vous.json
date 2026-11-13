@@ -1,0 +1,214 @@
+{
+  "id": "ecouter-repondeur-rendez-vous",
+  "section": "ecoute",
+  "title": "Message sur un répondeur : changement de rendez-vous",
+  "level": "A2",
+  "topic": "Logement",
+  "release": 2,
+  "summary": "Un message vocal déplace une visite d'appartement : retenir les nouveaux créneaux et les consignes.",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Un message vocal suit presque toujours le même plan : **qui** appelle, **pourquoi**, **ce qu'il faut faire** (rappeler, apporter quelque chose, confirmer). Prépare ces trois cases avant d'écouter."
+    },
+    {
+      "type": "p",
+      "text": "Les numéros de téléphone se lisent souvent par paires : *fünfundvierzig* = 45, *achtunddreißig* = 38. Attention à l'ordre inversé : l'unité vient d'abord (*fünf-und-vierzig*)."
+    }
+  ],
+  "listening": {
+    "title": "Eine Nachricht auf der Mailbox",
+    "situation": "Léa cherche un appartement à Fribourg. En sortant de cours, elle écoute un message sur sa boîte vocale.",
+    "lines": [
+      {
+        "who": "Léa",
+        "de": "Hallo, hier ist die Mailbox von Léa Martin. Ich bin gerade nicht erreichbar. Bitte hinterlassen Sie eine Nachricht nach dem Signalton."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Guten Tag, Frau Martin, hier spricht Thomas Braun von der Hausverwaltung Neumann."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Es geht um die Wohnungsbesichtigung in der Goethestraße 14."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Wir hatten den Termin am Donnerstag um 17 Uhr vereinbart."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Leider muss ich den Termin verschieben, weil die jetzige Mieterin am Donnerstag nicht zu Hause ist."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Ich kann Ihnen zwei neue Termine anbieten: Freitag um halb sechs oder Samstag um elf Uhr."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Bitte rufen Sie mich bis morgen Mittag zurück und sagen Sie mir, welcher Termin Ihnen passt."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Meine Nummer ist null sieben sechs eins, fünfundvierzig, achtunddreißig, zweiundzwanzig."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Bringen Sie zur Besichtigung bitte eine Kopie Ihres Ausweises und eine Bescheinigung von Ihrer Uni mit."
+      },
+      {
+        "who": "Herr Braun",
+        "de": "Vielen Dank und noch einen schönen Tag. Auf Wiederhören!"
+      }
+    ],
+    "glossary": [
+      {
+        "de": "erreichbar",
+        "fr": "joignable"
+      },
+      {
+        "de": "eine Nachricht hinterlassen",
+        "fr": "laisser un message"
+      },
+      {
+        "de": "die Hausverwaltung",
+        "fr": "l'agence de gestion immobilière"
+      },
+      {
+        "de": "die Wohnungsbesichtigung",
+        "fr": "la visite d'appartement"
+      },
+      {
+        "de": "einen Termin vereinbaren",
+        "fr": "fixer un rendez-vous"
+      },
+      {
+        "de": "einen Termin verschieben",
+        "fr": "reporter un rendez-vous"
+      },
+      {
+        "de": "die Bescheinigung",
+        "fr": "l'attestation"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Wer hat Léa angerufen?",
+      "options": [
+        "Ein Professor von ihrer Uni",
+        "Ein Mitarbeiter einer Hausverwaltung",
+        "Ihre zukünftige Mitbewohnerin"
+      ],
+      "answer": 1,
+      "why": "*hier spricht Thomas Braun von der Hausverwaltung Neumann*."
+    },
+    {
+      "type": "mcq",
+      "q": "Worum geht es in der Nachricht?",
+      "options": [
+        "Um eine Wohnungsbesichtigung",
+        "Um ein Vorstellungsgespräch",
+        "Um eine Reparatur"
+      ],
+      "answer": 0,
+      "why": "*Es geht um die Wohnungsbesichtigung in der Goethestraße 14.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wann war der alte Termin?",
+      "options": [
+        "Am Freitag um 17:30 Uhr",
+        "Am Samstag um 11 Uhr",
+        "Am Donnerstag um 17 Uhr"
+      ],
+      "answer": 2,
+      "why": "*Wir hatten den Termin am Donnerstag um 17 Uhr vereinbart.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Warum muss Herr Braun den Termin verschieben?",
+      "options": [
+        "Er ist krank",
+        "Die jetzige Mieterin ist am Donnerstag nicht zu Hause",
+        "Die Wohnung ist schon vermietet"
+      ],
+      "answer": 1,
+      "why": "*…weil die jetzige Mieterin am Donnerstag nicht zu Hause ist.*"
+    },
+    {
+      "type": "dictation",
+      "text": "Leider muss ich den Termin verschieben.",
+      "fr": "Malheureusement, je dois reporter le rendez-vous.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "dictation",
+      "text": "Bitte rufen Sie mich bis morgen Mittag zurück.",
+      "fr": "Merci de me rappeler avant demain midi.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Welche neuen Termine schlägt Herr Braun vor?",
+      "options": [
+        "Freitag um 17 Uhr oder Samstag um 10 Uhr",
+        "Freitag um 17:30 Uhr oder Samstag um 11 Uhr",
+        "Donnerstag um 18 Uhr oder Freitag um 11 Uhr"
+      ],
+      "answer": 1,
+      "why": "*Freitag um halb sechs oder Samstag um elf Uhr* – *halb sechs* = 17 h 30 (la demi-heure *avant* six heures)."
+    },
+    {
+      "type": "mcq",
+      "q": "Bis wann soll Léa zurückrufen?",
+      "options": [
+        "Bis heute Abend",
+        "Bis Freitag",
+        "Bis morgen Mittag"
+      ],
+      "answer": 2,
+      "why": "*Bitte rufen Sie mich bis morgen Mittag zurück.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was soll Léa zur Besichtigung mitbringen?",
+      "options": [
+        "Eine Kopie ihres Ausweises und eine Bescheinigung der Uni",
+        "Ihren Mietvertrag und die Kaution",
+        "Ein Foto und ihren Lebenslauf"
+      ],
+      "answer": 0,
+      "why": "*eine Kopie Ihres Ausweises und eine Bescheinigung von Ihrer Uni*."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Wohnung liegt in der Goethestraße 14.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*die Wohnungsbesichtigung in der Goethestraße 14*."
+    },
+    {
+      "type": "dictation",
+      "text": "Welcher Termin passt Ihnen?",
+      "fr": "Quel rendez-vous vous convient ?",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "gap",
+      "q": "Bitte hinterlassen Sie eine ___ nach dem Signalton.",
+      "answers": [
+        "Nachricht"
+      ],
+      "hint": "un message",
+      "why": "*eine **Nachricht** hinterlassen* = laisser un message."
+    }
+  ],
+  "createdAt": "2026-11-13"
+}

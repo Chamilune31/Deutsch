@@ -1,0 +1,130 @@
+{
+  "id": "ecrire-week-end",
+  "section": "ecriture",
+  "title": "Raconter son week-end à un ami",
+  "level": "A2",
+  "topic": "Perfekt",
+  "tags": [
+    "Mail informel"
+  ],
+  "release": 3,
+  "summary": "Un mail amical au Perfekt : raconter, donner son avis, proposer de se voir.",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Raconter au Perfekt"
+    },
+    {
+      "type": "p",
+      "text": "À l'écrit informel comme à l'oral, on raconte au **Perfekt** : auxiliaire *haben* ou *sein* conjugué en 2ᵉ position, participe passé **à la fin**."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Verbe",
+        "Auxiliaire",
+        "Partizip II"
+      ],
+      "rows": [
+        [
+          "fahren (aller en véhicule)",
+          "sein",
+          "gefahren"
+        ],
+        [
+          "gehen (aller à pied)",
+          "sein",
+          "gegangen"
+        ],
+        [
+          "bleiben (rester)",
+          "sein",
+          "geblieben"
+        ],
+        [
+          "besichtigen (visiter)",
+          "haben",
+          "besichtigt"
+        ],
+        [
+          "essen (manger)",
+          "haben",
+          "gegessen"
+        ],
+        [
+          "treffen (retrouver)",
+          "haben",
+          "getroffen"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Am Samstag **bin** ich nach Straßburg **gefahren**.",
+          "fr": "Samedi, je suis allée à Strasbourg."
+        },
+        {
+          "de": "Danach **haben** wir Flammkuchen **gegessen**.",
+          "fr": "Ensuite, nous avons mangé une tarte flambée."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Après *Zuerst, Danach, Am Abend, Leider…* en tête de phrase, le verbe conjugué reste en **2ᵉ position** et le sujet passe après : *Danach **haben wir** …* (et non ~~Danach wir haben~~)."
+    }
+  ],
+  "task": {
+    "prompt": "Ton ami allemand Jonas te demande dans un mail ce que tu as fait le week-end dernier. Réponds-lui (environ **80 mots**).",
+    "points": [
+      "Dis où tu étais et avec qui",
+      "Raconte au moins deux activités",
+      "Dis ce qui t'a plu ou moins plu, et pourquoi",
+      "Propose-lui de faire quelque chose ensemble bientôt"
+    ],
+    "minWords": 80,
+    "phrases": [
+      {
+        "de": "Lieber Jonas, / Liebe Anna,",
+        "fr": "Cher Jonas, / Chère Anna,"
+      },
+      {
+        "de": "danke für deine Nachricht!",
+        "fr": "merci pour ton message !"
+      },
+      {
+        "de": "Am Samstag bin ich mit … nach … gefahren.",
+        "fr": "Samedi, je suis allée à … avec …"
+      },
+      {
+        "de": "Zuerst haben wir …, danach …",
+        "fr": "D'abord nous avons …, ensuite …"
+      },
+      {
+        "de": "Am Abend sind wir ins Kino gegangen.",
+        "fr": "Le soir, nous sommes allés au cinéma."
+      },
+      {
+        "de": "Das hat mir sehr gut gefallen, weil …",
+        "fr": "Ça m'a beaucoup plu, parce que …"
+      },
+      {
+        "de": "Leider hat es den ganzen Tag geregnet.",
+        "fr": "Malheureusement, il a plu toute la journée."
+      },
+      {
+        "de": "Hast du Lust, nächstes Wochenende … zu …?",
+        "fr": "Ça te dirait de … le week-end prochain ?"
+      },
+      {
+        "de": "Viele Grüße",
+        "fr": "Bises / Amitiés"
+      }
+    ],
+    "model": "Lieber Jonas,\ndanke für deine Nachricht! Mein Wochenende war super. Am Samstag bin ich mit meiner Freundin Camille nach Straßburg gefahren. Zuerst haben wir das Münster besichtigt, danach haben wir in einem kleinen Restaurant Flammkuchen gegessen. Am Nachmittag sind wir mit dem Boot auf der Ill gefahren. Das hat mir sehr gut gefallen, weil die Altstadt so schön ist.\nLeider hat es am Sonntag den ganzen Tag geregnet. Deshalb bin ich zu Hause geblieben und habe für meine Prüfung gelernt.\nHast du Lust, nächstes Wochenende mit mir ins Kino zu gehen?\nViele Grüße\nLéa",
+    "modelFr": "Cher Jonas, merci pour ton message ! Mon week-end était super. Samedi, je suis allée à Strasbourg avec mon amie Camille. D'abord, nous avons visité la cathédrale, ensuite nous avons mangé une tarte flambée dans un petit restaurant. L'après-midi, nous avons fait un tour en bateau sur l'Ill. Ça m'a beaucoup plu, parce que la vieille ville est très belle. Malheureusement, dimanche, il a plu toute la journée. Je suis donc restée à la maison et j'ai révisé pour mon examen. Ça te dirait d'aller au cinéma avec moi le week-end prochain ? Bises, Léa"
+  },
+  "createdAt": "2026-11-13"
+}

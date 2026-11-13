@@ -1,0 +1,194 @@
+{
+  "id": "lire-forum-restaurant",
+  "section": "lecture",
+  "title": "Avis sur un restaurant",
+  "level": "A2",
+  "topic": "Restaurant",
+  "release": 2,
+  "summary": "Un fil de forum : qui recommande quoi, qui critique quoi ?",
+  "lesson": [
+    {
+      "type": "tip",
+      "text": "Dans un forum, chaque message a un auteur différent. Note pour chacun en un mot s'il est **plutôt pour** ou **plutôt contre** : beaucoup de questions demandent *qui* dit *quoi*."
+    },
+    {
+      "type": "p",
+      "text": "Repère les mots qui expriment une opinion : *super, zu teuer, freundlich, leider, ich empfehle, kleiner Tipp*. Et attention aux négations cachées : *kein Fleisch*, *geschlossen*."
+    }
+  ],
+  "reading": {
+    "title": "Restaurant „Zur Linde“ – eure Meinungen?",
+    "kind": "Forum",
+    "paragraphs": [
+      "Marie_92: Hallo zusammen! Ich möchte am Samstag mit meinen Eltern essen gehen. Sie besuchen mich zum ersten Mal in Freiburg. Kennt jemand das Restaurant „Zur Linde“ in der Altstadt? Wie ist das Essen dort?",
+      "---",
+      "Tobi_K: Ich war letzten Monat mit meiner Freundin dort. Das Essen war super, besonders der Schweinebraten mit Knödeln. Die Portionen sind sehr groß – wir konnten keinen Nachtisch mehr essen! Aber am Wochenende ist es oft sehr voll. Du musst unbedingt vorher reservieren.",
+      "---",
+      "Lena.S: Ich finde das Restaurant ein bisschen zu teuer. Ein Hauptgericht kostet etwa 22 Euro. Die Bedienung war aber sehr freundlich, und im Sommer sitzt man schön im Garten. Leider gibt es nur zwei vegetarische Gerichte. Für Vegetarier empfehle ich lieber das „Grünkern“ am Bahnhof.",
+      "---",
+      "Herr_Bauer: Wir feiern dort jedes Jahr den Geburtstag meiner Frau. Die Küche ist traditionell, und alles ist frisch. Nur einmal mussten wir fast eine Stunde auf das Essen warten, aber der Kellner hat uns dann ein Getränk spendiert. Kleiner Tipp: Am Montag ist das Restaurant geschlossen!",
+      "---",
+      "Marie_92: Vielen Dank für eure Antworten! Meine Mutter isst kein Fleisch, aber zwei Gerichte reichen ihr bestimmt. Ich rufe gleich an und reserviere einen Tisch für drei Personen."
+    ],
+    "glossary": [
+      {
+        "de": "der Schweinebraten",
+        "fr": "le rôti de porc"
+      },
+      {
+        "de": "der Knödel",
+        "fr": "la boulette (de pomme de terre ou de pain)"
+      },
+      {
+        "de": "der Nachtisch",
+        "fr": "le dessert"
+      },
+      {
+        "de": "das Hauptgericht",
+        "fr": "le plat principal"
+      },
+      {
+        "de": "die Bedienung",
+        "fr": "le service"
+      },
+      {
+        "de": "jemandem etwas spendieren",
+        "fr": "offrir quelque chose à quelqu'un"
+      },
+      {
+        "de": "reichen",
+        "fr": "suffire"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Warum sucht Marie ein Restaurant?",
+      "options": [
+        "Sie hat am Samstag Geburtstag",
+        "Ihre Eltern besuchen sie",
+        "Sie möchte mit Tobi essen gehen"
+      ],
+      "answer": 1,
+      "why": "*Ich möchte am Samstag mit meinen Eltern essen gehen. Sie besuchen mich zum ersten Mal in Freiburg.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Tobi findet die Portionen zu klein.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Au contraire : *Die Portionen sind sehr groß* – ils n'avaient plus de place pour le dessert."
+    },
+    {
+      "type": "mcq",
+      "q": "Was rät Tobi?",
+      "options": [
+        "Früh am Abend kommen",
+        "Den Nachtisch probieren",
+        "Vorher einen Tisch reservieren"
+      ],
+      "answer": 2,
+      "why": "*Du musst unbedingt vorher reservieren* : le week-end, c'est souvent plein."
+    },
+    {
+      "type": "mcq",
+      "q": "Was kritisiert Lena?",
+      "options": [
+        "Die Preise",
+        "Die Bedienung",
+        "Den Garten"
+      ],
+      "answer": 0,
+      "why": "*Ich finde das Restaurant ein bisschen zu teuer.* Elle trouve le service très aimable."
+    },
+    {
+      "type": "mcq",
+      "q": "Lena empfiehlt Vegetariern ein anderes Restaurant.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*Für Vegetarier empfehle ich lieber das „Grünkern“ am Bahnhof.*"
+    },
+    {
+      "type": "gap",
+      "q": "Im Sommer kann man im ___ des Restaurants sitzen.",
+      "answers": [
+        "Garten"
+      ],
+      "hint": "le jardin",
+      "why": "*im Sommer sitzt man schön im **Garten***."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Wie viel kostet ungefähr ein Hauptgericht?",
+      "options": [
+        "12 Euro",
+        "22 Euro",
+        "32 Euro"
+      ],
+      "answer": 1,
+      "why": "*Ein Hauptgericht kostet etwa 22 Euro.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Warum geht Herr Bauer jedes Jahr in die „Linde“?",
+      "options": [
+        "Zum Geburtstag seiner Frau",
+        "Weil er in der Nähe arbeitet",
+        "Weil es dort billig ist"
+      ],
+      "answer": 0,
+      "why": "*Wir feiern dort jedes Jahr den Geburtstag meiner Frau.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was ist Herrn Bauer einmal passiert?",
+      "options": [
+        "Das Essen war kalt",
+        "Der Kellner war unfreundlich",
+        "Er musste lange auf das Essen warten"
+      ],
+      "answer": 2,
+      "why": "*Einmal mussten wir fast eine Stunde auf das Essen warten* – mais le serveur leur a offert une boisson."
+    },
+    {
+      "type": "mcq",
+      "q": "Am Montag kann man in der „Linde“ essen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Am Montag ist das Restaurant geschlossen!*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was macht Marie am Ende?",
+      "options": [
+        "Sie geht lieber ins „Grünkern“",
+        "Sie reserviert einen Tisch in der „Linde“",
+        "Sie kocht für ihre Eltern"
+      ],
+      "answer": 1,
+      "why": "*Ich rufe gleich an und reserviere einen Tisch.* Deux plats végétariens suffiront à sa mère."
+    },
+    {
+      "type": "gap",
+      "q": "Marie reserviert einen Tisch für ___ Personen.",
+      "answers": [
+        "drei",
+        "3"
+      ],
+      "why": "*einen Tisch für **drei** Personen* : Marie et ses deux parents."
+    }
+  ],
+  "createdAt": "2026-11-13"
+}

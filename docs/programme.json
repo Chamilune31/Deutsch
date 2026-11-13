@@ -157,17 +157,11 @@
     "faits": [
       "lire-annonce-coloc",
       "lire-mail-hambourg",
-      "lire-article-job-etudiant"
+      "lire-article-job-etudiant",
+      "lire-forum-restaurant",
+      "lire-reglement-residence"
     ],
     "a_venir": [
-      {
-        "topic": "Un forum : les avis sur un restaurant",
-        "level": "A2"
-      },
-      {
-        "topic": "Le règlement intérieur d'une résidence étudiante",
-        "level": "A2"
-      },
       {
         "topic": "Une offre de stage dans une entreprise allemande",
         "level": "B1"
@@ -190,17 +184,11 @@
     "faits": [
       "ecouter-boulangerie",
       "ecouter-gare",
-      "ecouter-rendez-vous-medecin"
+      "ecouter-rendez-vous-medecin",
+      "ecouter-repondeur-rendez-vous",
+      "ecouter-hotel-reservation"
     ],
     "a_venir": [
-      {
-        "topic": "Message sur un répondeur : changement de rendez-vous",
-        "level": "A2"
-      },
-      {
-        "topic": "À l'hôtel : réserver une chambre",
-        "level": "A2"
-      },
       {
         "topic": "Entretien d'embauche pour un stage",
         "level": "B1"
@@ -223,13 +211,10 @@
     "faits": [
       "ecrire-invitation",
       "ecrire-forum-teletravail",
-      "ecrire-mail-formel"
+      "ecrire-mail-formel",
+      "ecrire-week-end"
     ],
     "a_venir": [
-      {
-        "topic": "Raconter son week-end à un ami",
-        "level": "A2"
-      },
       {
         "topic": "Se plaindre poliment auprès d'un hôtel",
         "level": "B1"
@@ -252,13 +237,10 @@
     "faits": [
       "parler-se-presenter",
       "parler-organiser-fete",
-      "parler-presentation-reseaux"
+      "parler-presentation-reseaux",
+      "parler-decrire-photo"
     ],
     "a_venir": [
-      {
-        "topic": "Décrire une photo : une famille au restaurant",
-        "level": "A2"
-      },
       {
         "topic": "Planifier ensemble un week-end à Vienne",
         "level": "B1"
