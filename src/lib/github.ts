@@ -83,14 +83,40 @@ function toBase64(buf: ArrayBuffer): string {
   return btoa(bin);
 }
 
-export async function uploadFile(path: string, data: ArrayBuffer | string, message: string): Promise<void> {
+export async function uploadFile(path: string, data: ArrayBuffer | string, message: string, sha?: string): Promise<string> {
   const buf = typeof data === 'string' ? new TextEncoder().encode(data).buffer : data;
   const res = await fetch(contentsUrl(path), {
     method: 'PUT',
     headers: headers({ 'Content-Type': 'application/json' }),
-    body: JSON.stringify({ message, content: toBase64(buf as ArrayBuffer), branch: 'main' }),
+    body: JSON.stringify({ message, content: toBase64(buf as ArrayBuffer), branch: 'main', ...(sha ? { sha } : {}) }),
   });
+  if (!res.ok) {
+    const err = await explain(res);
+    (err as Error & { status?: number }).status = res.status;
+    throw err;
+  }
+  const data2 = await res.json().catch(() => ({}));
+  return data2?.content?.sha ?? '';
+}
+
+/** Lit un fichier texte du dépôt avec son identifiant de version (sha). */
+export async function getFile(path: string): Promise<{ sha: string; text: string } | null> {
+  const res = await fetch(`${contentsUrl(path)}?ref=main`, { headers: headers(), cache: 'no-store' });
+  if (res.status === 404) return null;
   if (!res.ok) throw await explain(res);
+  const data = await res.json();
+  const bin = atob(String(data.content ?? '').replace(/\n/g, ''));
+  const bytes = Uint8Array.from(bin, (ch) => ch.charCodeAt(0));
+  return { sha: data.sha, text: new TextDecoder().decode(bytes) };
+}
+
+export function onTokenChange(l: () => void) {
+  listeners.add(l);
+  return () => listeners.delete(l);
+}
+
+export function getToken() {
+  return token;
 }
 
 export interface RemoteFile {

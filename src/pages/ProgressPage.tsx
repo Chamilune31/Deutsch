@@ -2,6 +2,9 @@ import { useRef, useState } from 'react';
 import { exportProgress, importProgress, INTERVALS, resetProgress, streak, useProgress } from '../lib/storage';
 import { usePacks } from '../lib/packs';
 import { packStatus } from '../lib/recommend';
+import { resetEverywhere, syncNow, useSyncStatus } from '../lib/sync';
+import { useGithubToken } from '../lib/github';
+import { GithubConnect } from '../components/GithubConnect';
 
 const MODE = { practice: 'Exercices', exam: 'Examen', review: 'Révision' };
 
@@ -11,6 +14,8 @@ export function ProgressPage() {
   const fileRef = useRef<HTMLInputElement>(null);
   const [msg, setMsg] = useState('');
   const [confirmReset, setConfirmReset] = useState(false);
+  const sync = useSyncStatus();
+  const token = useGithubToken();
 
   const tags = Object.entries(p.tags)
     .map(([tag, t]) => ({ tag, total: t.ok + t.ko, rate: t.ok / Math.max(1e-9, t.ok + t.ko) }))
@@ -34,7 +39,7 @@ export function ProgressPage() {
     <div className="page">
       <header className="page-head">
         <h1>Progrès</h1>
-        <p className="lead">Ta progression est enregistrée dans ce navigateur. Fais une sauvegarde pour la retrouver sur un autre appareil.</p>
+        <p className="lead">Tes exercices, examens et révisions sont enregistrés sur cet appareil et, une fois GitHub connecté, sauvegardés dans ton dépôt pour les retrouver partout.</p>
       </header>
 
       <div className="stats wide">
@@ -125,7 +130,35 @@ export function ProgressPage() {
       </section>
 
       <section className="card">
-        <h2>Sauvegarde</h2>
+        <h2>Sauvegarde automatique</h2>
+        {token ? (
+          <div className="row">
+            <span className={`dot ${sync.state === 'error' ? 'ko' : 'ok'}`} aria-hidden />
+            <span>
+              {sync.state === 'syncing' && 'Synchronisation en cours…'}
+              {sync.state === 'ok' &&
+                `Progression sauvegardée dans GitHub à ${sync.at?.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })}.`}
+              {sync.state === 'error' && `La sauvegarde a échoué : ${sync.msg}`}
+              {sync.state === 'off' && 'Connexion à GitHub…'}
+            </span>
+            <button type="button" className="btn small ghost" onClick={() => syncNow()} disabled={sync.state === 'syncing'}>
+              Synchroniser maintenant
+            </button>
+          </div>
+        ) : (
+          <>
+            <p>
+              Connecte le site à GitHub pour que ta progression soit sauvegardée automatiquement après chaque exercice et retrouvée sur ton
+              téléphone comme sur ton ordinateur.
+            </p>
+            <GithubConnect compact />
+          </>
+        )}
+        <p className="muted small">Sur chaque nouvel appareil, connecte le même jeton : ta progression est récupérée et fusionnée, rien n’est effacé.</p>
+      </section>
+
+      <section className="card">
+        <h2>Sauvegarde manuelle</h2>
         <div className="row">
           <button className="btn" type="button" onClick={download}>
             Télécharger ma sauvegarde
@@ -158,12 +191,12 @@ export function ProgressPage() {
               className="btn danger"
               type="button"
               onClick={() => {
-                resetProgress();
+                resetEverywhere(resetProgress);
                 setConfirmReset(false);
                 setMsg('Progression remise à zéro.');
               }}
             >
-              Confirmer : tout effacer
+              Confirmer : tout effacer, ici et dans GitHub
             </button>
           )}
         </div>

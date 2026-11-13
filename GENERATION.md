@@ -11,6 +11,11 @@ git pull
 npm ci
 ```
 
+## 0 bis. Lire la progression
+Si `progres/progression.json` existe, regarder `progress.tags` (réussite par thème : `ok` / `ko`) et les derniers `attempts`.
+Les thèmes sous 70 % de réussite (avec au moins 5 questions) sont prioritaires : choisir des sujets qui les retravaillent
+et le mentionner dans le résumé. **Ne jamais modifier ce fichier** (il appartient au site).
+
 ## 1. Corriger les rédactions envoyées
 1. Lister `ecrits/*.md`. Pour chaque fichier sans correction `src/content/corrections/<même nom>.json` :
    lire l'en-tête (`pack:`, `date:`) et le texte, retrouver le sujet dans `src/content/packs/<pack>.json`.

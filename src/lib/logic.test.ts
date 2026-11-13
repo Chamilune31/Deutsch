@@ -152,3 +152,27 @@ describe('nouveaux exercices', () => {
     }
   });
 });
+
+import { mergeStates } from './storage';
+describe('synchronisation', () => {
+  it('fusionne deux appareils sans rien perdre', () => {
+    const ref = { k: 'vocab' as const, pack: 'p', de: 'Haus' };
+    const a = {
+      progress: { v: 1 as const, srs: { x: { ref, box: 2, due: '2026-11-20', seen: 3, wrong: 0, last: '2026-11-12' } }, tags: { T: { ok: 3, ko: 1 } },
+        attempts: [{ pack: 'p', mode: 'exam' as const, date: '2026-11-12T10:00:00Z', score: 8, total: 10 }], days: ['2026-11-12'] },
+      imported: [], writings: [{ id: 'w1', pack: 'e', date: '2026-11-12', text: 'a', sent: true }],
+    };
+    const b = {
+      progress: { v: 1 as const, srs: { x: { ref, box: 0, due: '2026-11-14', seen: 4, wrong: 1, last: '2026-11-13' } }, tags: { T: { ok: 2, ko: 0 } },
+        attempts: [{ pack: 'q', mode: 'practice' as const, date: '2026-11-13T09:00:00Z', score: 5, total: 6 }], days: ['2026-11-13'] },
+      imported: [], writings: [],
+    };
+    const m = mergeStates(a, b);
+    expect(m.progress.attempts).toHaveLength(2);
+    expect(m.progress.days).toEqual(['2026-11-12', '2026-11-13']);
+    expect(m.progress.srs.x.seen).toBe(4);
+    expect(m.progress.tags.T).toEqual({ ok: 3, ko: 1 });
+    expect(m.writings).toHaveLength(1);
+    expect(mergeStates(m, m)).toEqual(m);
+  });
+});

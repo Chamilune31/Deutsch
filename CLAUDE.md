@@ -8,6 +8,7 @@ le contenu est écrit par Claude dans `src/content/packs/*.json`, validé au bui
 - Programme à venir : `docs/programme.json`
 - Cours déposés par l'utilisatrice : `cours/logan/`, `cours/brayan/` (suivi dans `cours/processed.json`)
 - Rédactions envoyées depuis le site : `ecrits/` ; corrections : `src/content/corrections/`
+- Progression de l'utilisatrice, synchronisée par le site : `progres/progression.json` (lecture seule pour Claude)
 - Sections : grammaire, verbes, vocabulaire (apprendre) ; lecture, ecoute, ecriture, oral (compétences B1) ; cours
 
 Commandes : `npm run dev`, `npm run validate`, `npm run build`, `npm test`.

@@ -239,3 +239,58 @@ export function unlockAll(): boolean {
     return false;
   }
 }
+
+/* ---------- Synchronisation (voir sync.ts) ---------- */
+
+export interface SyncState {
+  progress: Progress;
+  imported: Pack[];
+  writings: Writing[];
+}
+
+export const subscribeStore = subscribe;
+
+export function getState(): SyncState {
+  return { progress, imported, writings };
+}
+
+/** Remplace l'état local (après fusion avec la copie distante). */
+export function replaceState(s: SyncState) {
+  progress = s.progress;
+  imported = s.imported;
+  writings = s.writings;
+  write(KEY, progress);
+  write(KEY_PACKS, imported);
+  write(KEY_WRITINGS, writings);
+  emit();
+}
+
+/** Fusionne deux états sans perte : rien n'est effacé, on garde l'information la plus avancée. */
+export function mergeStates(a: SyncState, b: SyncState): SyncState {
+  const attempts = new Map<string, Attempt>();
+  for (const x of [...a.progress.attempts, ...b.progress.attempts]) attempts.set(`${x.date}|${x.pack}|${x.mode}`, x);
+  const srs: Record<string, SrsItem> = { ...a.progress.srs };
+  for (const [k, v] of Object.entries(b.progress.srs)) {
+    const cur = srs[k];
+    if (!cur || v.seen > cur.seen || (v.seen === cur.seen && v.last > cur.last)) srs[k] = v;
+  }
+  const tags: Progress['tags'] = { ...a.progress.tags };
+  for (const [k, v] of Object.entries(b.progress.tags)) {
+    const cur = tags[k];
+    if (!cur || v.ok + v.ko > cur.ok + cur.ko) tags[k] = v;
+  }
+  const byId = <T extends { id: string }>(xs: T[], ys: T[]) => Array.from(new Map([...xs, ...ys].map((x) => [x.id, x])).values());
+  return {
+    progress: {
+      v: 1,
+      srs,
+      tags,
+      attempts: Array.from(attempts.values())
+        .sort((x, y) => x.date.localeCompare(y.date))
+        .slice(-500),
+      days: Array.from(new Set([...a.progress.days, ...b.progress.days])).sort(),
+    },
+    imported: byId(a.imported, b.imported),
+    writings: byId(a.writings, b.writings),
+  };
+}

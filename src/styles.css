@@ -507,3 +507,4 @@ th { font-weight: 600; color: var(--ink-2); border-bottom: 2px solid var(--line)
 
 .pre { white-space: pre-line; }
 .reading hr { border: 0; border-top: 1px dashed var(--line); margin: 0.4rem 0; width: 100%; }
+.dot.ko { background: var(--ko); }
