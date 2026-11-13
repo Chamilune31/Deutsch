@@ -1,0 +1,149 @@
+{
+  "id": "cours-brayan-wo-wohin-cas",
+  "section": "cours",
+  "teacher": "brayan",
+  "title": "Wo, woher, wohin et les cas",
+  "level": "A2",
+  "topic": "Wo / Wohin et prépositions",
+  "tags": ["Prépositions mixtes", "Prépositions à cas fixe", "Accusatif et datif"],
+  "summary": "Les questions de lieu, les pronoms aux trois cas, aller quelque part ou y être, et les prépositions à cas fixe.",
+  "source": "Notes du cours du 13/11/2026",
+  "createdAt": "2026-11-13",
+  "lesson": [
+    { "type": "h", "text": "Wo, woher, wohin ?" },
+    { "type": "table", "head": ["Question", "Sens", "Exemple"], "rows": [
+      ["**wo ?**", "où (on est, position)", "Wo wohnst du? — **In** Lyon."],
+      ["**woher ?**", "d'où (origine)", "Woher kommst du? — **Aus** Frankreich."],
+      ["**wohin ?**", "où (on va, direction)", "Wohin gehst du? — **In die** Schule."]
+    ] },
+    { "type": "tip", "text": "À l'oral, on coupe souvent *wohin* en deux : ***Wo** gehst du **hin**?* = *Wohin gehst du?*" },
+    { "type": "h", "text": "Wie geht es … ? (+ datif)" },
+    { "type": "p", "text": "*Wie geht es* se construit avec le **datif** : *Wie geht es **dir**?* / *Wie geht es **Ihnen**?* Pour retourner la question, on garde le datif." },
+    { "type": "examples", "items": [
+      { "de": "Wie geht es dir? — Gut, danke. Und **dir**?", "fr": "Comment vas-tu ? — Bien, merci. Et toi ?" },
+      { "de": "Wie geht es Ihnen? — Sehr gut, danke. Und **Ihnen**?", "fr": "Comment allez-vous ? — Très bien, merci. Et vous ?" },
+      { "de": "Schönes Wochenende! — Danke, **gleichfalls** / **ebenfalls**!", "fr": "Bon week-end ! — Merci, à toi aussi !" }
+    ] },
+    { "type": "h", "text": "Les pronoms personnels aux trois cas" },
+    { "type": "table", "head": ["Nominatif", "Accusatif", "Datif"], "rows": [
+      ["ich", "mich", "mir"], ["du", "dich", "dir"], ["er / sie / es", "ihn / sie / es", "ihm / ihr / ihm"],
+      ["wir", "uns", "uns"], ["ihr", "euch", "euch"], ["sie / Sie", "sie / Sie", "ihnen / Ihnen"]
+    ] },
+    { "type": "list", "items": [
+      "*Wer ist sie?* = qui est-elle ? (3e personne du singulier)",
+      "*Wer sind sie?* = qui sont-ils / elles ? (3e personne du pluriel)",
+      "*Wer sind **S**ie?* = qui êtes-vous ? (vouvoiement, majuscule)",
+      "L'âge se dit avec *sein* : *Ich **bin** neunzehn Jahre alt.*"
+    ] },
+    { "type": "h", "text": "Aller quelque part (wohin ? → accusatif) ou y être (wo ? → datif)" },
+    { "type": "table", "head": ["Wohin ? (accusatif)", "Wo ? (datif)"], "rows": [
+      ["Ich gehe **in die** Schule.", "Ich bin **in der** Schule."],
+      ["Ich gehe **ins** Krankenhaus. (in + das)", "Ich bin **im** Krankenhaus. (in + dem)"],
+      ["Ich gehe **in den** Kindergarten.", "Ich bin **im** Kindergarten."],
+      ["Ich fahre **an den** Bahnhof / Flughafen.", "Ich bin **am** Bahnhof / Flughafen. (an + dem)"],
+      ["Ich gehe **auf den** Markt.", "Ich bin **auf dem** Markt."],
+      ["Ich gehe **auf die** Toilette.", "Ich bin **auf der** Toilette."]
+    ] },
+    { "type": "p", "text": "Avec **zu** (toujours + datif), on indique aussi la direction : *Ich gehe **zur** Schule* (zu + der), *Ich gehe **zum** Bahnhof* (zu + dem)." },
+    { "type": "tip", "text": "Dans un mot composé, c'est le **dernier mot** qui donne le genre : *die Arbeit + **der** Platz → **der** Arbeitsplatz*, *das Kind + **der** Garten → **der** Kindergarten*." },
+    { "type": "h", "text": "Prépositions à cas fixe" },
+    { "type": "table", "head": ["Toujours + datif", "Toujours + accusatif"], "rows": [
+      ["aus, bei, mit, nach, seit, von, zu, **gegenüber** (en face de)", "durch, für, gegen, ohne, um (autour de), **entlang** (le long de)"]
+    ] },
+    { "type": "examples", "items": [
+      { "de": "Ich bin **für den** Mann da. / Ich treffe **den** Mann.", "fr": "Je suis là pour l'homme. / Je rencontre l'homme. (accusatif)" },
+      { "de": "Ich bin **der** Mann.", "fr": "Je suis l'homme. (après *sein* : nominatif)" },
+      { "de": "Ich gebe **dir den** Kuli / **die** Tasche.", "fr": "Je te donne le stylo / le sac. (datif + accusatif)" },
+      { "de": "Die Bank ist **gegenüber dem** Bahnhof.", "fr": "La banque est en face de la gare." }
+    ] },
+    { "type": "h", "text": "À corriger dans tes notes" },
+    { "type": "list", "items": [
+      "**hinter, unter, auf** ne sont pas toujours + datif : ce sont des prépositions **mixtes**, comme *in, an, über, vor, neben, zwischen*. Datif pour *wo ?*, accusatif pour *wohin ?* — exactement comme *auf **dem** Markt / auf **den** Markt* dans tes propres exemples.",
+      "Après *Wie geht es Ihnen?*, on répond « Und **Ihnen**? » (datif), pas « Und Sie? ».",
+      "*Ich gehe auf den Arbeitsplatz* est peu naturel : dis plutôt *Ich gehe **zur Arbeit*** ; et *Ich bin **bei der Arbeit*** (ou, à l'oral, *auf der Arbeit*).",
+      "*entlang* se place en général **après** le nom : *Wir gehen **den Fluss entlang**.*"
+    ] },
+    { "type": "h", "text": "Präteritum vu en cours" },
+    { "type": "table", "head": ["Infinitif", "Präteritum", "Perfekt"], "rows": [
+      ["helfen", "ich half, du halfst, er half", "hat geholfen"],
+      ["fahren", "ich fuhr", "ist gefahren"],
+      ["geben", "ich gab", "hat gegeben"],
+      ["denken", "ich dachte", "hat gedacht"]
+    ] }
+  ],
+  "verbs": [
+    { "inf": "helfen", "fr": "aider", "kinds": ["fort", "datif"], "aux": "haben", "partizip": "geholfen",
+      "praesens": ["helfe", "hilfst", "hilft", "helfen", "helft", "helfen"],
+      "praeteritum": ["half", "halfst", "half", "halfen", "halft", "halfen"],
+      "example": { "de": "Kannst du mir helfen?", "fr": "Tu peux m'aider ?" },
+      "ctx": [
+        { "t": "praeteritum", "de": "Gestern [half] ich meiner Freundin beim Umzug.", "fr": "Hier, j'ai aidé mon amie à déménager." },
+        { "t": "praesens", "de": "[Hilfst] du mir bitte?", "fr": "Tu m'aides, s'il te plaît ?" }
+      ] },
+    { "inf": "fahren", "fr": "aller (en véhicule), conduire", "kinds": ["fort"], "aux": "sein", "partizip": "gefahren",
+      "praesens": ["fahre", "fährst", "fährt", "fahren", "fahrt", "fahren"],
+      "praeteritum": ["fuhr", "fuhrst", "fuhr", "fuhren", "fuhrt", "fuhren"],
+      "example": { "de": "Ich fahre an den Flughafen.", "fr": "Je vais à l'aéroport." },
+      "ctx": [
+        { "t": "praeteritum", "de": "Letzten Sommer [fuhren] wir mit dem Auto nach Spanien.", "fr": "L'été dernier, nous sommes allés en Espagne en voiture." },
+        { "t": "perfekt", "de": "Ich [bin] gestern mit dem Bus zum Bahnhof [gefahren].", "fr": "Hier, je suis allée à la gare en bus." }
+      ] },
+    { "inf": "geben", "fr": "donner", "kinds": ["fort"], "aux": "haben", "partizip": "gegeben",
+      "praesens": ["gebe", "gibst", "gibt", "geben", "gebt", "geben"],
+      "praeteritum": ["gab", "gabst", "gab", "gaben", "gabt", "gaben"],
+      "example": { "de": "Ich gebe dir die Tasche.", "fr": "Je te donne le sac." },
+      "ctx": [
+        { "t": "praeteritum", "de": "Der Lehrer [gab] uns viele Hausaufgaben.", "fr": "Le professeur nous a donné beaucoup de devoirs." },
+        { "t": "praesens", "de": "Ich [gebe] dir den Kuli.", "fr": "Je te donne le stylo." }
+      ] },
+    { "inf": "denken", "fr": "penser", "kinds": ["mixte"], "aux": "haben", "partizip": "gedacht",
+      "praesens": ["denke", "denkst", "denkt", "denken", "denkt", "denken"],
+      "praeteritum": ["dachte", "dachtest", "dachte", "dachten", "dachtet", "dachten"],
+      "example": { "de": "Ich denke an dich.", "fr": "Je pense à toi." },
+      "ctx": [
+        { "t": "praeteritum", "de": "Ich [dachte], du bist krank.", "fr": "Je pensais que tu étais malade." },
+        { "t": "perfekt", "de": "Ich [habe] lange an dich [gedacht].", "fr": "J'ai longtemps pensé à toi." }
+      ] }
+  ],
+  "vocab": [
+    { "de": "Schule", "fr": "l'école", "article": "die", "plural": "Schulen", "ex": { "de": "Ich gehe in die Schule.", "fr": "Je vais à l'école." } },
+    { "de": "Krankenhaus", "fr": "l'hôpital", "article": "das", "plural": "Krankenhäuser", "ex": { "de": "Mein Opa ist im Krankenhaus.", "fr": "Mon grand-père est à l'hôpital." } },
+    { "de": "Flughafen", "fr": "l'aéroport", "article": "der", "plural": "Flughäfen", "ex": { "de": "Ich fahre an den Flughafen.", "fr": "Je vais à l'aéroport." } },
+    { "de": "Bahnhof", "fr": "la gare", "article": "der", "plural": "Bahnhöfe", "ex": { "de": "Wir treffen uns am Bahnhof.", "fr": "On se retrouve à la gare." } },
+    { "de": "Kindergarten", "fr": "l'école maternelle, la crèche", "article": "der", "plural": "Kindergärten", "ex": { "de": "Mein Neffe geht in den Kindergarten.", "fr": "Mon neveu va à la maternelle." } },
+    { "de": "Markt", "fr": "le marché", "article": "der", "plural": "Märkte", "ex": { "de": "Am Samstag gehe ich auf den Markt.", "fr": "Le samedi, je vais au marché." } },
+    { "de": "Arbeitsplatz", "fr": "le poste de travail, le lieu de travail", "article": "der", "plural": "Arbeitsplätze", "ex": { "de": "Mein Arbeitsplatz ist im dritten Stock.", "fr": "Mon poste de travail est au troisième étage." } },
+    { "de": "Toilette", "fr": "les toilettes", "article": "die", "plural": "Toiletten", "ex": { "de": "Wo ist die Toilette, bitte?", "fr": "Où sont les toilettes, s'il vous plaît ?" } },
+    { "de": "Kuli", "fr": "le stylo (à bille)", "article": "der", "plural": "Kulis", "ex": { "de": "Kann ich deinen Kuli haben?", "fr": "Je peux prendre ton stylo ?" } },
+    { "de": "Tasche", "fr": "le sac", "article": "die", "plural": "Taschen", "ex": { "de": "Die Tasche ist sehr schwer.", "fr": "Le sac est très lourd." } },
+    { "de": "Disko", "fr": "la boîte de nuit", "article": "die", "plural": "Diskos", "ex": { "de": "Am Freitag gehen wir in die Disko.", "fr": "Vendredi, on va en boîte." } },
+    { "de": "krank", "fr": "malade", "ex": { "de": "Ich bin heute krank.", "fr": "Je suis malade aujourd'hui." } },
+    { "de": "gleichfalls", "fr": "pareillement, à toi / vous aussi", "ex": { "de": "Guten Appetit! — Danke, gleichfalls!", "fr": "Bon appétit ! — Merci, à toi aussi !" } }
+  ],
+  "exercises": [
+    { "type": "mcq", "q": "___ wohnst du? — In Lyon.", "options": ["Wo", "Woher", "Wohin"], "answer": 0, "why": "On demande la position → **wo**." },
+    { "type": "mcq", "q": "___ kommst du? — Aus Frankreich.", "options": ["Wo", "Woher", "Wohin"], "answer": 1, "why": "On demande l'origine (réponse avec *aus*) → **woher**." },
+    { "type": "mcq", "q": "___ fährst du am Wochenende? — Nach Berlin.", "options": ["Wo", "Woher", "Wohin"], "answer": 2, "why": "On demande la direction → **wohin**." },
+    { "type": "gap", "q": "Hallo Tom! Wie geht es ___?", "answers": ["dir"], "hint": "toi, au datif", "why": "*Wie geht es* + datif : du → **dir**." },
+    { "type": "mcq", "q": "Wie geht es Ihnen? — Gut, danke. Und ___?", "options": ["Ihnen", "Sie", "dir"], "answer": 0, "why": "On garde le datif de politesse : **Ihnen**." },
+    { "type": "cloze", "text": "Morgen gehe ich [ins] Krankenhaus.", "hint": "in + das, direction", "why": "Wohin ? → accusatif : in das = **ins** Krankenhaus." },
+    { "type": "mcq", "q": "Ich warte ___ Bahnhof.", "options": ["am", "an den", "ans"], "answer": 0, "why": "Wo ? (on est sur place) → datif : an dem = **am** Bahnhof." },
+    { "type": "gap", "q": "Ich gehe ___ Bahnhof.", "answers": ["zum"], "hint": "zu + dem", "why": "*zu* + datif : der Bahnhof → zu dem = **zum**." },
+    { "type": "mcq", "q": "Am Samstag gehe ich auf ___ Markt.", "options": ["den", "dem", "der"], "answer": 0, "why": "Wohin ? (direction) → accusatif : **den** Markt." },
+    { "type": "match", "q": "Associe chaque mot à son sens", "pairs": [["wo", "où (position)"], ["woher", "d'où (origine)"], ["wohin", "où (direction)"], ["gleichfalls", "à toi aussi"]] }
+  ],
+  "exam": [
+    { "type": "mcq", "q": "Ich treffe ___ Mann im Café.", "options": ["den", "dem", "der"], "answer": 0, "why": "*treffen* + accusatif : **den** Mann." },
+    { "type": "mcq", "q": "Das Geschenk ist für ___. (lui)", "options": ["ihn", "ihm", "er"], "answer": 0, "why": "*für* + accusatif : er → **ihn**." },
+    { "type": "gap", "q": "Ich gebe ___ den Kuli. (à toi)", "answers": ["dir"], "why": "Celui qui reçoit est au datif : du → **dir**." },
+    { "type": "mcq", "q": "Die Katze schläft unter ___ Tisch.", "options": ["dem", "den", "der"], "answer": 0, "why": "*unter* est une préposition mixte. Ici, position (wo ?) → datif : **dem** Tisch." },
+    { "type": "mcq", "q": "Ich lege die Tasche unter ___ Tisch.", "options": ["den", "dem", "der"], "answer": 0, "why": "Mouvement (wohin ?) → accusatif : **den** Tisch. *unter* n'est donc pas toujours + datif." },
+    { "type": "cloze", "text": "Entschuldigung, Anna ist gerade [auf der] Toilette.", "hint": "position", "why": "Wo ? → datif : die Toilette → **auf der** Toilette." },
+    { "type": "translate", "dir": "fr-de", "q": "Je vais à l'école.", "answers": ["Ich gehe in die Schule.", "Ich gehe zur Schule."], "why": "Direction : **in die** Schule (accusatif) ou **zur** Schule (zu + datif)." },
+    { "type": "translate", "dir": "fr-de", "q": "J'ai dix-neuf ans.", "answers": ["Ich bin neunzehn Jahre alt.", "Ich bin neunzehn.", "Ich bin 19 Jahre alt."], "why": "L'âge se dit avec *sein* : *Ich **bin** neunzehn Jahre alt.*" },
+    { "type": "mcq", "q": "Wir gehen durch ___ Park.", "options": ["den", "dem", "der"], "answer": 0, "why": "*durch* + accusatif : **den** Park." },
+    { "type": "mcq", "q": "Die Apotheke ist ___ dem Bahnhof. (en face de)", "options": ["gegenüber", "entlang", "durch"], "answer": 0, "why": "En face de = **gegenüber** + datif." },
+    { "type": "gap", "q": "Guten Tag! Wer ___ Sie?", "answers": ["sind"], "hint": "vouvoiement", "why": "*Sie* (vous) se conjugue comme la 3e personne du pluriel : *Wer **sind** Sie?*" },
+    { "type": "mcq", "q": "Schönes Wochenende! — Danke, ___!", "options": ["gleichfalls", "bitte", "gern geschehen"], "answer": 0, "why": "Pour retourner un souhait : **gleichfalls** / **ebenfalls**." }
+  ]
+}
