@@ -1,0 +1,943 @@
+{
+  "id": "cours-brayan-routine-quotidienne",
+  "section": "cours",
+  "teacher": "brayan",
+  "title": "Ma journée : dann, danach et les verbes du quotidien",
+  "level": "A2",
+  "topic": "Routine quotidienne",
+  "tags": [
+    "Verbes séparables",
+    "Verbes réfléchis",
+    "Ordre des mots",
+    "Perfekt"
+  ],
+  "summary": "Raconter sa journée avec dann et danach, les verbes du matin et du soir, et la correction de ton texte.",
+  "source": "Notes du cours du 15/11/2026",
+  "createdAt": "2026-11-15",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Raconter sa journée : dann et danach"
+    },
+    {
+      "type": "p",
+      "text": "*dann* (puis, ensuite) et *danach* (après ça) relient les étapes de la journée. Orthographe : **danach** s'écrit avec un seul *n* au milieu (*da* + *nach*). En tête de phrase, ils occupent la 1ʳᵉ place : le **verbe conjugué vient en 2ᵉ position**, le sujet juste après."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich stehe um 7 Uhr auf. **Dann nehme ich** mein Handy.",
+          "fr": "Je me lève à 7 h. Ensuite, je prends mon téléphone."
+        },
+        {
+          "de": "**Danach trinke ich** ein Glas Wasser.",
+          "fr": "Après ça, je bois un verre d'eau."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Varie les connecteurs : *zuerst* (d'abord), *dann*, *danach*, *später* (plus tard), *am Abend* (le soir), *zum Schluss* (pour finir). Après **und**, pas d'inversion et pas besoin de répéter le sujet : *Ich gehe ins Bett **und schlafe** sofort ein.*"
+    },
+    {
+      "type": "h",
+      "text": "Ta journée, corrigée"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Tu as écrit",
+        "Correction",
+        "Pourquoi"
+      ],
+      "rows": [
+        [
+          "dannach",
+          "**danach**",
+          "*da* + *nach* : un seul *n* au milieu"
+        ],
+        [
+          "ich aufgestanden",
+          "ich **bin** aufgestanden",
+          "au Perfekt, l'auxiliaire est obligatoire ; *aufstehen* → *sein*"
+        ],
+        [
+          "trinke ich das Wasser",
+          "trinke ich **ein Glas** Wasser",
+          "quantité non précisée : pas d'article défini"
+        ],
+        [
+          "gehe ich in das Bad",
+          "gehe ich **ins** Bad",
+          "*in* + *das* = *ins* (contraction habituelle)"
+        ],
+        [
+          "wasche ich mein Gesicht",
+          "wasche ich **mir das** Gesicht",
+          "parties du corps : pronom au datif + article défini, comme « je **me** lave **le** visage »"
+        ],
+        [
+          "wasche ich meinen Körper",
+          "**dusche** ich",
+          "plus naturel : *duschen* (se doucher)"
+        ],
+        [
+          "esse ich mein Frühstück",
+          "**frühstücke** ich",
+          "les deux sont justes, *frühstücken* est plus courant"
+        ],
+        [
+          "gehe ich auf den Arbeitplatz",
+          "gehe ich **zur Arbeit**",
+          "aller au travail = *zur Arbeit gehen / fahren* ; *der Arbeit**s**platz* = le poste de travail (avec un *s* de liaison)"
+        ],
+        [
+          "mache ich meinen Computer aus",
+          "mache ich meinen Computer **an**",
+          "**an**machen = allumer ; **aus**machen = éteindre"
+        ],
+        [
+          "esse ich mein Mittagessen",
+          "esse ich **zu Mittag**",
+          "*zu Mittag / zu Abend essen* = déjeuner / dîner"
+        ],
+        [
+          "dann lerne Deutsch für zwei Stunden",
+          "dann lerne **ich zwei Stunden** Deutsch",
+          "sujet obligatoire après *dann* ; une durée s'exprime sans *für* : *zwei Stunden (lang)*"
+        ],
+        [
+          "ghe ich ins Bett und schlafe ich",
+          "**gehe** ich ins Bett und **schlafe ein**",
+          "pas de sujet répété après *und* ; *einschlafen* = s'endormir"
+        ],
+        [
+          "vorbeiretet",
+          "**vorbereitet**",
+          "Partizip de *vorbereiten* : *vor* + *bereitet*, sans *ge-* (car *bereiten* commence par *be-*)"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Le texte corrigé"
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich stehe um 7 Uhr auf. Dann nehme ich mein Handy, danach trinke ich ein Glas Wasser.",
+          "fr": "Je me lève à 7 h. Ensuite, je prends mon téléphone, puis je bois un verre d'eau."
+        },
+        {
+          "de": "Dann gehe ich ins Bad und wasche mir das Gesicht. Danach dusche ich und frühstücke.",
+          "fr": "Ensuite, je vais à la salle de bain et je me lave le visage. Après, je me douche et je prends mon petit-déjeuner."
+        },
+        {
+          "de": "Dann bereite ich meine Tasche vor und gehe zur Arbeit.",
+          "fr": "Ensuite, je prépare mon sac et je vais au travail."
+        },
+        {
+          "de": "Dort mache ich meinen Computer an und arbeite bis 12 Uhr.",
+          "fr": "Là-bas, j'allume mon ordinateur et je travaille jusqu'à midi."
+        },
+        {
+          "de": "Dann esse ich zu Mittag, danach arbeite ich noch bis 18 Uhr.",
+          "fr": "Puis je déjeune, après quoi je travaille encore jusqu'à 18 h."
+        },
+        {
+          "de": "Dann gehe ich nach Hause und esse zu Abend. Danach lerne ich zwei Stunden Deutsch.",
+          "fr": "Ensuite, je rentre à la maison et je dîne. Après, j'apprends l'allemand pendant deux heures."
+        },
+        {
+          "de": "Zum Schluss ziehe ich mich um, gehe ins Bett und schlafe ein.",
+          "fr": "Pour finir, je me change, je vais au lit et je m'endors."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Se réveiller, se lever"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Verbe",
+        "Sens",
+        "Perfekt"
+      ],
+      "rows": [
+        [
+          "aufwachen",
+          "se réveiller (ouvrir les yeux)",
+          "ich **bin** aufgewacht"
+        ],
+        [
+          "aufstehen",
+          "se lever (sortir du lit)",
+          "ich **bin** aufgestanden"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Les deux sont séparables : la particule *auf* part à la fin de la phrase au présent (*Ich **wache** um 6 Uhr **auf**.*) et reste collée au participe (*auf**ge**wacht*)."
+    },
+    {
+      "type": "h",
+      "text": "S'habiller, se changer, se déshabiller"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Verbe",
+        "Sens",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "sich anziehen",
+          "s'habiller",
+          "Ich ziehe mich schnell an."
+        ],
+        [
+          "sich umziehen",
+          "se changer",
+          "Nach der Arbeit ziehe ich mich um."
+        ],
+        [
+          "sich ausziehen",
+          "se déshabiller",
+          "Das Kind zieht sich aus."
+        ],
+        [
+          "entkleiden",
+          "déshabiller (langue soutenue, rare)",
+          "au quotidien, on dit *sich ausziehen*"
+        ],
+        [
+          "die Kleidung wechseln",
+          "changer de vêtements",
+          "Nach dem Sport wechsle ich die Kleidung."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Piège : *umziehen* **sans** *sich* = **déménager**, avec *sein* : *Wir **sind** nach Berlin **umgezogen**.* Avec *sich* = se changer, avec *haben* : *Ich **habe mich umgezogen**.*"
+    },
+    {
+      "type": "h",
+      "text": "anmachen ou ausmachen ?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**an**machen = allumer (la lumière, l'ordinateur, le téléphone) ; synonyme : *einschalten*",
+        "**aus**machen = éteindre ; synonyme : *ausschalten*"
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Moyen mnémotechnique : *an* = « on », *aus* = « off ». Dans tes notes, *ausmachen* était traduit par « allumer » : c'est l'inverse !"
+    },
+    {
+      "type": "h",
+      "text": "Autres mots du cours"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Allemand",
+        "Français",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "wann ?",
+          "quand ?",
+          "Wann stehst du auf?"
+        ],
+        [
+          "noch",
+          "encore",
+          "Ich arbeite noch bis 18 Uhr."
+        ],
+        [
+          "nett",
+          "gentil, sympa",
+          "Brayan ist sehr nett."
+        ],
+        [
+          "süß",
+          "mignon / sucré",
+          "ein süßer Hund ; der Kaffee ist zu süß"
+        ],
+        [
+          "leicht",
+          "léger / facile",
+          "Die Übung ist leicht."
+        ],
+        [
+          "nass",
+          "mouillé",
+          "Meine Haare sind noch nass."
+        ],
+        [
+          "die Sitzung, -en",
+          "la réunion",
+          "Die Sitzung dauert eine Stunde."
+        ],
+        [
+          "die Stunde, -n",
+          "l'heure (durée)",
+          "zwei **Stunden** (durée) ≠ zwei **Uhr** (heure qu'il est)"
+        ]
+      ]
+    }
+  ],
+  "verbs": [
+    {
+      "inf": "aufwachen",
+      "fr": "se réveiller",
+      "kinds": [
+        "regulier",
+        "separable"
+      ],
+      "aux": "sein",
+      "partizip": "aufgewacht",
+      "sep": "auf",
+      "praesens": [
+        "wache",
+        "wachst",
+        "wacht",
+        "wachen",
+        "wacht",
+        "wachen"
+      ],
+      "praeteritum": [
+        "wachte",
+        "wachtest",
+        "wachte",
+        "wachten",
+        "wachtet",
+        "wachten"
+      ],
+      "example": {
+        "de": "Ich wache jeden Morgen um sechs Uhr auf.",
+        "fr": "Je me réveille tous les matins à six heures."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Am Wochenende [wache] ich ohne Wecker [auf].",
+          "fr": "Le week-end, je me réveille sans réveil."
+        },
+        {
+          "t": "perfekt",
+          "de": "Heute Morgen [bin] ich zu spät [aufgewacht].",
+          "fr": "Ce matin, je me suis réveillée trop tard."
+        }
+      ]
+    },
+    {
+      "inf": "aufstehen",
+      "fr": "se lever",
+      "kinds": [
+        "fort",
+        "separable"
+      ],
+      "aux": "sein",
+      "partizip": "aufgestanden",
+      "sep": "auf",
+      "praesens": [
+        "stehe",
+        "stehst",
+        "steht",
+        "stehen",
+        "steht",
+        "stehen"
+      ],
+      "praeteritum": [
+        "stand",
+        "standst",
+        "stand",
+        "standen",
+        "standet",
+        "standen"
+      ],
+      "example": {
+        "de": "Ich stehe um 7 Uhr auf.",
+        "fr": "Je me lève à 7 h."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Wann [stehst] du morgens [auf]?",
+          "fr": "À quelle heure te lèves-tu le matin ?"
+        },
+        {
+          "t": "perfekt",
+          "de": "Gestern [bin] ich erst um neun Uhr [aufgestanden].",
+          "fr": "Hier, je ne me suis levée qu'à neuf heures."
+        }
+      ]
+    },
+    {
+      "inf": "waschen",
+      "fr": "se laver",
+      "kinds": [
+        "fort",
+        "reflechi"
+      ],
+      "refl": true,
+      "aux": "haben",
+      "partizip": "gewaschen",
+      "praesens": [
+        "wasche",
+        "wäschst",
+        "wäscht",
+        "waschen",
+        "wascht",
+        "waschen"
+      ],
+      "praeteritum": [
+        "wusch",
+        "wuschst",
+        "wusch",
+        "wuschen",
+        "wuscht",
+        "wuschen"
+      ],
+      "example": {
+        "de": "Ich wasche mich mit kaltem Wasser.",
+        "fr": "Je me lave à l'eau froide."
+      },
+      "note": "Avec une partie du corps, le pronom passe au datif : *Ich wasche **mir** die Hände.*",
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Nach dem Sport [wasche] ich [mich] sofort.",
+          "fr": "Après le sport, je me lave tout de suite."
+        },
+        {
+          "t": "perfekt",
+          "de": "Die Kinder [haben sich] heute nicht [gewaschen].",
+          "fr": "Les enfants ne se sont pas lavés aujourd'hui."
+        }
+      ]
+    },
+    {
+      "inf": "umziehen",
+      "fr": "se changer",
+      "kinds": [
+        "fort",
+        "separable",
+        "reflechi"
+      ],
+      "refl": true,
+      "aux": "haben",
+      "partizip": "umgezogen",
+      "sep": "um",
+      "praesens": [
+        "ziehe",
+        "ziehst",
+        "zieht",
+        "ziehen",
+        "zieht",
+        "ziehen"
+      ],
+      "praeteritum": [
+        "zog",
+        "zogst",
+        "zog",
+        "zogen",
+        "zogt",
+        "zogen"
+      ],
+      "example": {
+        "de": "Nach der Arbeit ziehe ich mich um.",
+        "fr": "Après le travail, je me change."
+      },
+      "note": "Sans *sich*, *umziehen* veut dire « déménager » et se conjugue avec *sein*.",
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Vor dem Sport [ziehe] ich [mich] in der Umkleide [um].",
+          "fr": "Avant le sport, je me change au vestiaire."
+        },
+        {
+          "t": "perfekt",
+          "de": "Sie [hat sich] für die Party schnell [umgezogen].",
+          "fr": "Elle s'est changée rapidement pour la fête."
+        }
+      ]
+    },
+    {
+      "inf": "vorbereiten",
+      "fr": "préparer",
+      "kinds": [
+        "regulier",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "vorbereitet",
+      "sep": "vor",
+      "praesens": [
+        "bereite",
+        "bereitest",
+        "bereitet",
+        "bereiten",
+        "bereitet",
+        "bereiten"
+      ],
+      "praeteritum": [
+        "bereitete",
+        "bereitetest",
+        "bereitete",
+        "bereiteten",
+        "bereitetet",
+        "bereiteten"
+      ],
+      "example": {
+        "de": "Am Abend bereite ich meine Tasche vor.",
+        "fr": "Le soir, je prépare mon sac."
+      },
+      "note": "Pas de *ge-* au participe : *vorbereitet*.",
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Jeden Abend [bereite] ich meine Tasche für den nächsten Tag [vor].",
+          "fr": "Chaque soir, je prépare mon sac pour le lendemain."
+        },
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] die Sitzung gut [vorbereitet].",
+          "fr": "J'ai bien préparé la réunion."
+        }
+      ]
+    },
+    {
+      "inf": "ausmachen",
+      "fr": "éteindre",
+      "kinds": [
+        "regulier",
+        "separable"
+      ],
+      "aux": "haben",
+      "partizip": "ausgemacht",
+      "sep": "aus",
+      "praesens": [
+        "mache",
+        "machst",
+        "macht",
+        "machen",
+        "macht",
+        "machen"
+      ],
+      "praeteritum": [
+        "machte",
+        "machtest",
+        "machte",
+        "machten",
+        "machtet",
+        "machten"
+      ],
+      "example": {
+        "de": "Ich mache das Licht aus.",
+        "fr": "J'éteins la lumière."
+      },
+      "note": "Contraire : *anmachen* = allumer.",
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Vor dem Schlafen [mache] ich mein Handy [aus].",
+          "fr": "Avant de dormir, j'éteins mon téléphone."
+        },
+        {
+          "t": "perfekt",
+          "de": "[Hast] du den Computer [ausgemacht]?",
+          "fr": "Tu as éteint l'ordinateur ?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Gesicht",
+      "fr": "le visage",
+      "article": "das",
+      "plural": "Gesichter",
+      "ex": {
+        "de": "Morgens wasche ich mir das Gesicht.",
+        "fr": "Le matin, je me lave le visage."
+      }
+    },
+    {
+      "de": "Körper",
+      "fr": "le corps",
+      "article": "der",
+      "plural": "Körper",
+      "ex": {
+        "de": "Sport ist gut für den Körper.",
+        "fr": "Le sport est bon pour le corps."
+      }
+    },
+    {
+      "de": "Kleidung",
+      "fr": "les vêtements",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Nach dem Sport wechsle ich die Kleidung.",
+        "fr": "Après le sport, je change de vêtements."
+      }
+    },
+    {
+      "de": "Sitzung",
+      "fr": "la réunion",
+      "article": "die",
+      "plural": "Sitzungen",
+      "ex": {
+        "de": "Die Sitzung beginnt um zehn Uhr.",
+        "fr": "La réunion commence à dix heures."
+      }
+    },
+    {
+      "de": "Stunde",
+      "fr": "l'heure (durée)",
+      "article": "die",
+      "plural": "Stunden",
+      "ex": {
+        "de": "Ich lerne jeden Abend eine Stunde Deutsch.",
+        "fr": "J'apprends l'allemand une heure chaque soir."
+      }
+    },
+    {
+      "de": "Bad",
+      "fr": "la salle de bain",
+      "article": "das",
+      "plural": "Bäder",
+      "ex": {
+        "de": "Morgens gehe ich zuerst ins Bad.",
+        "fr": "Le matin, je vais d'abord à la salle de bain."
+      }
+    },
+    {
+      "de": "Frühstück",
+      "fr": "le petit-déjeuner",
+      "article": "das",
+      "plural": "Frühstücke",
+      "ex": {
+        "de": "Das Frühstück ist fertig!",
+        "fr": "Le petit-déjeuner est prêt !"
+      }
+    },
+    {
+      "de": "Arbeit",
+      "fr": "le travail",
+      "article": "die",
+      "plural": "Arbeiten",
+      "ex": {
+        "de": "Ich fahre mit dem Fahrrad zur Arbeit.",
+        "fr": "Je vais au travail à vélo."
+      }
+    },
+    {
+      "de": "Arbeitsplatz",
+      "fr": "le poste de travail",
+      "article": "der",
+      "plural": "Arbeitsplätze",
+      "ex": {
+        "de": "Mein Arbeitsplatz ist im dritten Stock.",
+        "fr": "Mon poste de travail est au troisième étage."
+      }
+    },
+    {
+      "de": "frühstücken",
+      "fr": "prendre le petit-déjeuner",
+      "ex": {
+        "de": "Am Wochenende frühstücken wir zusammen.",
+        "fr": "Le week-end, nous prenons le petit-déjeuner ensemble."
+      }
+    },
+    {
+      "de": "danach",
+      "fr": "après (ça), ensuite",
+      "ex": {
+        "de": "Zuerst esse ich, danach lerne ich.",
+        "fr": "D'abord je mange, ensuite j'étudie."
+      }
+    },
+    {
+      "de": "noch",
+      "fr": "encore",
+      "ex": {
+        "de": "Ich muss noch einkaufen.",
+        "fr": "Je dois encore faire les courses."
+      }
+    },
+    {
+      "de": "nass",
+      "fr": "mouillé",
+      "ex": {
+        "de": "Nimm einen Schirm, sonst wirst du nass!",
+        "fr": "Prends un parapluie, sinon tu vas être mouillée !"
+      }
+    },
+    {
+      "de": "leicht",
+      "fr": "léger, facile",
+      "ex": {
+        "de": "Die Prüfung war leicht.",
+        "fr": "L'examen était facile."
+      }
+    },
+    {
+      "de": "nett",
+      "fr": "gentil, sympa",
+      "ex": {
+        "de": "Mein Lehrer ist sehr nett.",
+        "fr": "Mon professeur est très gentil."
+      }
+    },
+    {
+      "de": "süß",
+      "fr": "mignon ; sucré",
+      "ex": {
+        "de": "Der Kuchen ist sehr süß.",
+        "fr": "Le gâteau est très sucré."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Ich stehe um 7 Uhr auf. ___ trinke ich einen Kaffee.",
+      "options": [
+        "Danach",
+        "Dannach",
+        "Nach"
+      ],
+      "answer": 0,
+      "why": "*danach* (après ça) s'écrit avec un seul *n*. *nach* seul est une préposition (*nach dem Frühstück*)."
+    },
+    {
+      "type": "order",
+      "q": "Remets dans l'ordre",
+      "answers": [
+        "Dann gehe ich ins Bad.",
+        "Ich gehe dann ins Bad."
+      ],
+      "why": "Après *dann* en tête, le verbe reste en 2ᵉ position : *Dann **gehe** ich…*"
+    },
+    {
+      "type": "gap",
+      "q": "Morgens wasche ich ___ das Gesicht.",
+      "answers": [
+        "mir"
+      ],
+      "hint": "pronom réfléchi",
+      "why": "Avec une partie du corps, le pronom réfléchi est au **datif** : *ich wasche **mir** das Gesicht*."
+    },
+    {
+      "type": "mcq",
+      "q": "Es ist so dunkel hier. Kannst du bitte das Licht ___?",
+      "options": [
+        "anmachen",
+        "ausmachen",
+        "aufmachen"
+      ],
+      "answer": 0,
+      "why": "Il fait sombre → on **allume** : *anmachen*. *ausmachen* = éteindre, *aufmachen* = ouvrir."
+    },
+    {
+      "type": "cloze",
+      "text": "Gestern [bin] ich um sechs Uhr [aufgestanden].",
+      "hint": "aufstehen au Perfekt",
+      "why": "*aufstehen* exprime un changement de position → auxiliaire **sein** ; participe *auf**ge**standen*."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Après le travail, je me change.",
+      "answers": [
+        "Nach der Arbeit ziehe ich mich um.",
+        "Ich ziehe mich nach der Arbeit um."
+      ],
+      "why": "*sich umziehen* : verbe réfléchi et séparable ; *um* part à la fin."
+    },
+    {
+      "type": "gap",
+      "q": "Ich bin um 6 Uhr aufgewacht, aber erst um 7 Uhr ___.",
+      "answers": [
+        "aufgestanden"
+      ],
+      "hint": "se lever, au Perfekt",
+      "why": "*aufwachen* = se réveiller, *aufstehen* = se lever. Les deux prennent *sein* au Perfekt."
+    },
+    {
+      "type": "mcq",
+      "q": "Comment dit-on « la réunion » ?",
+      "options": [
+        "die Stunde",
+        "die Sitzung",
+        "die Kleidung"
+      ],
+      "answer": 1,
+      "why": "*die Sitzung* = la réunion ; *die Stunde* = l'heure ; *die Kleidung* = les vêtements."
+    },
+    {
+      "type": "gap",
+      "q": "Danach lerne ich zwei ___ Deutsch.",
+      "answers": [
+        "Stunden"
+      ],
+      "hint": "heures (durée)",
+      "why": "Une durée : *zwei **Stunden***, sans *für*. *zwei Uhr* = deux heures (à l'horloge)."
+    },
+    {
+      "type": "match",
+      "q": "Associe",
+      "pairs": [
+        [
+          "nass",
+          "mouillé"
+        ],
+        [
+          "leicht",
+          "léger, facile"
+        ],
+        [
+          "nett",
+          "gentil"
+        ],
+        [
+          "süß",
+          "mignon, sucré"
+        ],
+        [
+          "noch",
+          "encore"
+        ]
+      ],
+      "why": "Les adjectifs et mots du cours de Brayan."
+    }
+  ],
+  "exam": [
+    {
+      "type": "cloze",
+      "text": "Am Abend [bereite] ich meine Tasche [vor].",
+      "hint": "vorbereiten au présent",
+      "why": "*vorbereiten* est séparable : *bereite* en 2ᵉ position, *vor* à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich habe die Sitzung gut ___.",
+      "options": [
+        "vorgebereitet",
+        "vorbereitet",
+        "vorbereiten"
+      ],
+      "answer": 1,
+      "why": "*bereiten* commence par *be-* : pas de *ge-* au participe → *vor**bereitet***."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je me lave le visage.",
+      "answers": [
+        "Ich wasche mir das Gesicht."
+      ],
+      "why": "Partie du corps : pronom au datif (*mir*) + article défini (*das Gesicht*), pas de possessif."
+    },
+    {
+      "type": "mcq",
+      "q": "Vor dem Schlafen ___ ich mein Handy ___.",
+      "options": [
+        "mache … an",
+        "mache … auf",
+        "mache … aus"
+      ],
+      "answer": 2,
+      "why": "Avant de dormir, on **éteint** : *ausmachen* (*aus* = « off »)."
+    },
+    {
+      "type": "order",
+      "q": "Remets dans l'ordre",
+      "answers": [
+        "Danach ziehe ich mich um.",
+        "Ich ziehe mich danach um."
+      ],
+      "why": "*danach* en tête → verbe en 2ᵉ position ; le pronom *mich* suit le sujet ; *um* à la fin."
+    },
+    {
+      "type": "gap",
+      "q": "Wir ___ letztes Jahr nach Berlin umgezogen.",
+      "answers": [
+        "sind"
+      ],
+      "hint": "auxiliaire",
+      "why": "*umziehen* sans *sich* = déménager → auxiliaire **sein**."
+    },
+    {
+      "type": "mcq",
+      "q": "Quelle phrase est correcte ?",
+      "options": [
+        "Dann ich gehe ins Bett und schlafe ein.",
+        "Dann gehe ich ins Bett und schlafe ein.",
+        "Dann gehe ich ins Bett und schlafe ich ein."
+      ],
+      "answer": 1,
+      "why": "Après *dann*, inversion (*gehe ich*) ; après *und*, pas de nouveau sujet ni d'inversion."
+    },
+    {
+      "type": "cloze",
+      "text": "Heute Morgen [bin] ich zu spät [aufgewacht].",
+      "hint": "aufwachen au Perfekt",
+      "why": "*aufwachen* → *sein* + *auf**ge**wacht*."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je travaille encore jusqu'à 18 heures.",
+      "answers": [
+        "Ich arbeite noch bis 18 Uhr.",
+        "Ich arbeite noch bis achtzehn Uhr."
+      ],
+      "why": "*noch* = encore ; *bis* = jusqu'à ; l'heure se dit avec *Uhr*."
+    },
+    {
+      "type": "mcq",
+      "q": "« Je vais au travail. »",
+      "options": [
+        "Ich gehe auf den Arbeitsplatz.",
+        "Ich gehe in der Arbeit.",
+        "Ich gehe zur Arbeit."
+      ],
+      "answer": 2,
+      "why": "Aller au travail = *zur Arbeit gehen* (*zu* + *der* = *zur*)."
+    },
+    {
+      "type": "gap",
+      "q": "___ stehst du morgens auf? — Um halb sieben.",
+      "answers": [
+        "Wann"
+      ],
+      "hint": "quand ?",
+      "why": "*wann ?* = quand ? / à quelle heure ?"
+    },
+    {
+      "type": "mcq",
+      "q": "Meine Haare sind noch ___, ich habe gerade geduscht.",
+      "options": [
+        "leicht",
+        "süß",
+        "nass"
+      ],
+      "answer": 2,
+      "why": "*nass* = mouillé : on vient de se doucher."
+    }
+  ]
+}
