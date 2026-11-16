@@ -159,13 +159,10 @@
       "lire-mail-hambourg",
       "lire-article-job-etudiant",
       "lire-forum-restaurant",
-      "lire-reglement-residence"
+      "lire-reglement-residence",
+      "lire-offre-stage"
     ],
     "a_venir": [
-      {
-        "topic": "Une offre de stage dans une entreprise allemande",
-        "level": "B1"
-      },
       {
         "topic": "Article : la semaine de quatre jours",
         "level": "B1"
@@ -186,13 +183,10 @@
       "ecouter-gare",
       "ecouter-rendez-vous-medecin",
       "ecouter-repondeur-rendez-vous",
-      "ecouter-hotel-reservation"
+      "ecouter-hotel-reservation",
+      "ecouter-entretien-stage"
     ],
     "a_venir": [
-      {
-        "topic": "Entretien d'embauche pour un stage",
-        "level": "B1"
-      },
       {
         "topic": "Bulletin météo à la radio",
         "level": "B1"
@@ -212,13 +206,10 @@
       "ecrire-invitation",
       "ecrire-forum-teletravail",
       "ecrire-mail-formel",
-      "ecrire-week-end"
+      "ecrire-week-end",
+      "ecrire-plainte-hotel"
     ],
     "a_venir": [
-      {
-        "topic": "Se plaindre poliment auprès d'un hôtel",
-        "level": "B1"
-      },
       {
         "topic": "Forum : faut-il apprendre une langue à l'étranger ?",
         "level": "B1"
@@ -238,13 +229,10 @@
       "parler-se-presenter",
       "parler-organiser-fete",
       "parler-presentation-reseaux",
-      "parler-decrire-photo"
+      "parler-decrire-photo",
+      "parler-week-end-vienne"
     ],
     "a_venir": [
-      {
-        "topic": "Planifier ensemble un week-end à Vienne",
-        "level": "B1"
-      },
       {
         "topic": "Présenter : vivre en ville ou à la campagne ?",
         "level": "B1"

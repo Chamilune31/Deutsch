@@ -1,0 +1,93 @@
+{
+  "id": "parler-week-end-vienne",
+  "section": "oral",
+  "title": "Planifier un week-end à Vienne",
+  "level": "B1",
+  "topic": "Planifier",
+  "release": 4,
+  "summary": "Épreuve « planifier ensemble » : transport, logement, programme et budget d'un week-end.",
+  "tags": [
+    "Voyage"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Comme pour la fête, tu dois **proposer**, **réagir** aux idées de ton partenaire et **conclure**. Cette fois, ajoute des **arguments** avec *weil* ou *denn* : c'est ce qui fait la différence entre A2 et B1."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich fahre lieber mit dem Zug, **weil** das besser für die Umwelt **ist**.",
+          "fr": "Je préfère prendre le train, parce que c'est mieux pour l'environnement."
+        },
+        {
+          "de": "Das Hotel ist mir zu teuer, **denn** wir haben nicht viel Geld.",
+          "fr": "L'hôtel est trop cher pour moi, car nous n'avons pas beaucoup d'argent."
+        },
+        {
+          "de": "**Wie wäre es, wenn** wir den Nachtzug **nehmen**?",
+          "fr": "Et si on prenait le train de nuit ?"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*weil* envoie le verbe à la fin, *denn* ne change pas l'ordre des mots. Varie les deux pour montrer que tu maîtrises la construction."
+    }
+  ],
+  "task": {
+    "prompt": "Tu as un long week-end en décembre. Avec un ami, tu organises un voyage à Vienne. Jouez le dialogue en parlant des points ci-dessous (environ **2 minutes**).",
+    "points": [
+      "Comment voyager (train, bus, avion) ?",
+      "Où dormir ?",
+      "Que visiter, que faire le soir ?",
+      "Quel budget, et qui réserve quoi ?"
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 120,
+    "phrases": [
+      {
+        "de": "Was meinst du, sollen wir …?",
+        "fr": "Qu'est-ce que tu en penses, on … ?"
+      },
+      {
+        "de": "Wie wäre es, wenn wir …?",
+        "fr": "Et si on … ?"
+      },
+      {
+        "de": "Ich hätte Lust, … zu …",
+        "fr": "J'aurais envie de…"
+      },
+      {
+        "de": "Da hast du recht, aber …",
+        "fr": "Tu as raison, mais…"
+      },
+      {
+        "de": "Das ist mir zu teuer.",
+        "fr": "C'est trop cher pour moi."
+      },
+      {
+        "de": "Ich fahre lieber …, weil …",
+        "fr": "Je préfère aller…, parce que…"
+      },
+      {
+        "de": "Ich kümmere mich um …",
+        "fr": "Je m'occupe de…"
+      },
+      {
+        "de": "Gut, dann machen wir es so.",
+        "fr": "Bon, alors on fait comme ça."
+      }
+    ],
+    "model": "A: Wir haben im Dezember ein langes Wochenende frei. Was meinst du, sollen wir nach Wien fahren?\nB: Super Idee! Aber wie reisen wir an? Fliegen ist schnell, aber nicht gut für die Umwelt.\nA: Da hast du recht. Wie wäre es, wenn wir den Nachtzug nehmen? Dann sparen wir auch eine Nacht im Hotel.\nB: Gute Idee! Und wo schlafen wir die anderen Nächte? Ein Hotel im Zentrum ist mir zu teuer.\nA: Wir könnten ein Zimmer in einer Jugendherberge nehmen. Die sind günstig und oft sehr zentral.\nB: Einverstanden. Und was möchtest du in Wien sehen? Ich hätte Lust, Schloss Schönbrunn zu besichtigen.\nA: Ja, unbedingt! Am Abend gehen wir dann auf einen Weihnachtsmarkt. Ich möchte auch eine echte Sachertorte probieren.\nB: Und wie viel Geld nehmen wir mit? Ich schlage vor, dass jeder ungefähr zweihundert Euro ausgibt.\nA: Das klingt vernünftig. Ich kümmere mich um die Zugtickets.\nB: Und ich reserviere die Jugendherberge. Gut, dann machen wir es so!",
+    "modelFr": "A : On a un long week-end de libre en décembre. Qu'est-ce que tu en penses, on va à Vienne ? B : Super idée ! Mais comment on y va ? L'avion, c'est rapide, mais ce n'est pas bon pour l'environnement. A : Tu as raison. Et si on prenait le train de nuit ? Comme ça, on économise aussi une nuit d'hôtel. B : Bonne idée ! Et où est-ce qu'on dort les autres nuits ? Un hôtel dans le centre, c'est trop cher pour moi. A : On pourrait prendre une chambre dans une auberge de jeunesse. Elles sont bon marché et souvent très centrales. B : D'accord. Et qu'est-ce que tu veux voir à Vienne ? J'aurais envie de visiter le château de Schönbrunn. A : Oui, absolument ! Le soir, on ira sur un marché de Noël. Je voudrais aussi goûter une vraie Sachertorte. B : Et combien d'argent on emporte ? Je propose que chacun dépense environ deux cents euros. A : Ça me paraît raisonnable. Je m'occupe des billets de train. B : Et moi, je réserve l'auberge de jeunesse. Bon, alors on fait comme ça !",
+    "criteria": [
+      "J'ai parlé des quatre points (transport, logement, programme, budget)",
+      "J'ai fait au moins deux propositions (Wie wäre es, wenn …? / Sollen wir …?)",
+      "J'ai donné au moins une raison avec weil ou denn",
+      "J'ai réagi aux idées de mon partenaire et nous avons conclu ensemble"
+    ]
+  },
+  "createdAt": "2026-11-16"
+}

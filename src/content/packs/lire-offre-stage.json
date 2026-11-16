@@ -1,0 +1,254 @@
+{
+  "id": "lire-offre-stage",
+  "section": "lecture",
+  "title": "Une offre de stage en Allemagne",
+  "level": "B1",
+  "topic": "Travail",
+  "release": 4,
+  "summary": "Une Stellenanzeige : repérer les missions, le profil demandé et les conditions du stage.",
+  "tags": [
+    "Stage",
+    "Entreprise"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Une offre de stage (*Stellenanzeige*) suit presque toujours le même plan. Si tu connais les titres des rubriques, tu trouves l'information demandée en quelques secondes."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Rubrique",
+        "Ce qu'on y trouve"
+      ],
+      "rows": [
+        [
+          "Wir sind … / Über uns",
+          "l'entreprise : secteur, taille, ville"
+        ],
+        [
+          "Ihre Aufgaben",
+          "les missions du stagiaire"
+        ],
+        [
+          "Ihr Profil",
+          "les études, les langues, les qualités demandées"
+        ],
+        [
+          "Wir bieten",
+          "la rémunération (*die Vergütung*), les avantages"
+        ],
+        [
+          "Bewerbung",
+          "comment et jusqu'à quand postuler"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Wir suchen eine Praktikantin oder einen Praktikanten (m/w/d).",
+          "fr": "Nous cherchons une ou un stagiaire (h/f/d)."
+        },
+        {
+          "de": "Sie helfen bei der Organisation von Messen.",
+          "fr": "Vous aidez à organiser des salons."
+        },
+        {
+          "de": "Französischkenntnisse sind von Vorteil.",
+          "fr": "La connaissance du français est un plus."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Attention aux nuances : *Sie helfen bei …* (tu aides, tu n'es pas seule responsable), *von Vorteil* (un plus, pas obligatoire) ≠ *Voraussetzung* (obligatoire). Ce sont des pièges classiques des questions Richtig / Falsch."
+    }
+  ],
+  "reading": {
+    "title": "Praktikum im Marketing (m/w/d) – ab März 2027",
+    "kind": "Offre de stage",
+    "paragraphs": [
+      "Die GreenBox GmbH ist ein junges Unternehmen aus Freiburg mit 45 Mitarbeiterinnen und Mitarbeitern. Wir verkaufen nachhaltige Verpackungen für Lebensmittel – in Deutschland, Österreich und der Schweiz. Für unser Marketingteam suchen wir ab dem 1. März 2027 eine Praktikantin oder einen Praktikanten für sechs Monate.",
+      "Ihre Aufgaben\n– Sie betreuen unsere Social-Media-Kanäle und schreiben kurze Texte für Instagram und LinkedIn.\n– Sie helfen bei der Organisation von zwei Fachmessen in Frankfurt und Wien.\n– Sie analysieren die Ergebnisse unserer Online-Kampagnen und präsentieren sie einmal im Monat dem Team.",
+      "Ihr Profil\n– Sie studieren Betriebswirtschaft, Marketing oder Kommunikation.\n– Sie sprechen gut Deutsch (mindestens B1) und sehr gut Englisch. Französischkenntnisse sind von Vorteil, denn wir möchten unsere Produkte bald auch in Frankreich verkaufen.\n– Sie arbeiten gern im Team und haben kreative Ideen.",
+      "Wir bieten\n– eine Vergütung von 1.000 Euro im Monat\n– flexible Arbeitszeiten und einen Tag Homeoffice pro Woche\n– einen eigenen Laptop und ein kostenloses Ticket für Bus und Bahn\n– ein freundliches Team und regelmäßige Feedbackgespräche",
+      "---",
+      "Interessiert? Dann schicken Sie bitte bis zum 15. Januar Ihren Lebenslauf und ein kurzes Motivationsschreiben per E-Mail an Frau Sabine Keller aus der Personalabteilung. Bitte schreiben Sie auch, ab wann Sie anfangen können. Bei Fragen ist Frau Keller montags bis donnerstags von 9 bis 12 Uhr telefonisch erreichbar."
+    ],
+    "glossary": [
+      {
+        "de": "nachhaltig",
+        "fr": "durable, écologique"
+      },
+      {
+        "de": "die Verpackung",
+        "fr": "l'emballage"
+      },
+      {
+        "de": "betreuen",
+        "fr": "s'occuper de, gérer"
+      },
+      {
+        "de": "die Fachmesse",
+        "fr": "le salon professionnel"
+      },
+      {
+        "de": "die Betriebswirtschaft",
+        "fr": "la gestion (études de commerce)"
+      },
+      {
+        "de": "von Vorteil sein",
+        "fr": "être un atout"
+      },
+      {
+        "de": "die Vergütung",
+        "fr": "la rémunération, la gratification"
+      },
+      {
+        "de": "der Lebenslauf",
+        "fr": "le CV"
+      },
+      {
+        "de": "das Motivationsschreiben",
+        "fr": "la lettre de motivation"
+      },
+      {
+        "de": "die Personalabteilung",
+        "fr": "le service des ressources humaines"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Was verkauft die GreenBox GmbH?",
+      "options": [
+        "Nachhaltige Verpackungen für Lebensmittel",
+        "Bio-Lebensmittel",
+        "Software für Supermärkte"
+      ],
+      "answer": 0,
+      "why": "*Wir verkaufen nachhaltige Verpackungen für Lebensmittel.* L'entreprise vend des emballages, pas la nourriture elle-même."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie lange dauert das Praktikum?",
+      "options": [
+        "Drei Monate",
+        "Sechs Monate",
+        "Ein Jahr"
+      ],
+      "answer": 1,
+      "why": "*… eine Praktikantin oder einen Praktikanten für sechs Monate.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Der Praktikant oder die Praktikantin organisiert die Fachmessen allein.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Sie **helfen bei** der Organisation* : on aide, on n'organise pas seul(e)."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie oft präsentiert man dem Team die Ergebnisse der Kampagnen?",
+      "options": [
+        "Jede Woche",
+        "Am Ende des Praktikums",
+        "Einmal im Monat"
+      ],
+      "answer": 2,
+      "why": "*… und präsentieren sie einmal im Monat dem Team.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Französischkenntnisse sind für diese Stelle Pflicht.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Ils sont *von Vorteil* (un atout), pas obligatoires. Obligatoire se dirait *Pflicht* ou *Voraussetzung*."
+    },
+    {
+      "type": "gap",
+      "q": "Die Firma sucht Studierende aus den Fächern Betriebswirtschaft, Marketing oder ___.",
+      "answers": [
+        "Kommunikation"
+      ],
+      "hint": "die …, le troisième domaine d'études",
+      "why": "*Sie studieren Betriebswirtschaft, Marketing oder Kommunikation.*"
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Warum sind Französischkenntnisse interessant für die Firma?",
+      "options": [
+        "Weil viele Kunden aus der Schweiz kommen",
+        "Weil die Firma ihre Produkte bald auch in Frankreich verkaufen möchte",
+        "Weil das Marketingteam in Paris arbeitet"
+      ],
+      "answer": 1,
+      "why": "*… denn wir möchten unsere Produkte bald auch in Frankreich verkaufen.* *denn* introduit la raison."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel bekommt man im Monat?",
+      "options": [
+        "100 Euro",
+        "1.500 Euro",
+        "1.000 Euro"
+      ],
+      "answer": 2,
+      "why": "*eine Vergütung von 1.000 Euro im Monat*. En allemand, le point sépare les milliers : 1.000 = 1 000."
+    },
+    {
+      "type": "mcq",
+      "q": "Im Praktikum kann man jeden Tag von zu Hause arbeiten.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Seulement *einen Tag Homeoffice pro Woche*."
+    },
+    {
+      "type": "mcq",
+      "q": "Was bekommt man von der Firma?",
+      "options": [
+        "Ein Zimmer in Freiburg",
+        "Ein kostenloses Ticket für Bus und Bahn",
+        "Ein Firmenauto"
+      ],
+      "answer": 1,
+      "why": "*… ein kostenloses Ticket für Bus und Bahn* (et un ordinateur portable)."
+    },
+    {
+      "type": "mcq",
+      "q": "Bis wann muss man sich bewerben?",
+      "options": [
+        "Bis zum 15. Januar",
+        "Bis zum 1. März",
+        "Bis Ende Dezember"
+      ],
+      "answer": 0,
+      "why": "*… schicken Sie bitte bis zum 15. Januar Ihren Lebenslauf …* Le 1er mars est le début du stage."
+    },
+    {
+      "type": "gap",
+      "q": "Mit dem Lebenslauf schickt man ein kurzes ___.",
+      "answers": [
+        "Motivationsschreiben",
+        "Anschreiben"
+      ],
+      "hint": "la lettre de motivation",
+      "why": "*das Motivationsschreiben* (ou *das Anschreiben*) = la lettre de motivation."
+    }
+  ],
+  "createdAt": "2026-11-16"
+}

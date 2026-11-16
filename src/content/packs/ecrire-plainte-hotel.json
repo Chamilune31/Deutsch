@@ -1,0 +1,104 @@
+{
+  "id": "ecrire-plainte-hotel",
+  "section": "ecriture",
+  "title": "Se plaindre poliment auprès d'un hôtel",
+  "level": "B1",
+  "topic": "Réclamation",
+  "release": 4,
+  "summary": "Écrire une réclamation formelle : raconter les problèmes au Perfekt et demander un dédommagement.",
+  "tags": [
+    "Mail formel",
+    "Perfekt"
+  ],
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Le plan d'une réclamation (Beschwerde)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Situation** : quand et où tu as séjourné → *Vom 6. bis zum 8. November habe ich in Ihrem Hotel übernachtet.*",
+        "**Problèmes** : deux faits précis, racontés au **Perfekt** ou au Präteritum de *sein, haben* et des modaux (*war, hatte, konnte*)",
+        "**Ce que tu as fait sur place** : *Ich habe an der Rezeption Bescheid gesagt.*",
+        "**Demande** : remboursement, bon d'achat, excuses → *Ich bitte Sie, mir einen Teil des Preises zurückzuerstatten.*"
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Expression",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "sich über + accusatif beschweren",
+          "se plaindre de"
+        ],
+        [
+          "Leider war ich mit … nicht zufrieden.",
+          "Malheureusement, je n'ai pas été satisfaite de…"
+        ],
+        [
+          "obwohl …",
+          "bien que… (verbe à la fin)"
+        ],
+        [
+          "Ich bitte Sie daher, … zu …",
+          "Je vous prie donc de…"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Reste polie mais ferme : pas de *!!!* ni de reproches personnels. En allemand, *sich beschweren* est réfléchi et se construit avec **über + accusatif** : *Ich beschwere mich über **den** Lärm.*"
+    }
+  ],
+  "task": {
+    "prompt": "Tu as passé un week-end avec une amie dans un hôtel à Munich, mais le séjour s'est mal passé. Écris un mail de réclamation à l'hôtel (environ **100 mots**).",
+    "points": [
+      "Dis quand tu as séjourné à l'hôtel et pourquoi tu écris",
+      "Décris deux problèmes (bruit, Wi-Fi, propreté, petit-déjeuner…)",
+      "Explique ce que tu as fait sur place et ce que l'hôtel a répondu",
+      "Demande un dédommagement"
+    ],
+    "minWords": 100,
+    "phrases": [
+      {
+        "de": "Sehr geehrte Damen und Herren,",
+        "fr": "Madame, Monsieur,"
+      },
+      {
+        "de": "vom … bis zum … habe ich in Ihrem Hotel übernachtet.",
+        "fr": "du … au …, j'ai séjourné dans votre hôtel."
+      },
+      {
+        "de": "Leider war ich mit meinem Aufenthalt nicht zufrieden.",
+        "fr": "Malheureusement, je n'ai pas été satisfaite de mon séjour."
+      },
+      {
+        "de": "Ich möchte mich über … beschweren.",
+        "fr": "Je voudrais me plaindre de…"
+      },
+      {
+        "de": "Obwohl ich an der Rezeption Bescheid gesagt habe, …",
+        "fr": "Bien que j'aie prévenu la réception, …"
+      },
+      {
+        "de": "Ich bitte Sie daher, mir einen Teil des Preises zurückzuerstatten.",
+        "fr": "Je vous prie donc de me rembourser une partie du prix."
+      },
+      {
+        "de": "Ich hoffe auf eine baldige Antwort.",
+        "fr": "J'espère une réponse rapide."
+      },
+      {
+        "de": "Mit freundlichen Grüßen",
+        "fr": "Cordialement"
+      }
+    ],
+    "model": "Sehr geehrte Damen und Herren,\nvom 6. bis zum 8. November habe ich mit einer Freundin in Ihrem Hotel „Sonnenhof“ in München übernachtet. Leider war ich mit meinem Aufenthalt nicht zufrieden.\nAuf Ihrer Website steht, dass alle Zimmer ruhig sind. Unser Zimmer lag aber direkt über der Hotelbar, und wir konnten bis zwei Uhr nachts nicht schlafen. Außerdem hat das WLAN das ganze Wochenende nicht funktioniert.\nObwohl ich schon am ersten Abend an der Rezeption Bescheid gesagt habe, konnte man uns kein anderes Zimmer geben. Der Mitarbeiter hat sich entschuldigt, aber das Hotel war leider ausgebucht.\nIch bitte Sie daher, mir einen Teil des Preises zurückzuerstatten. Ich hoffe auf eine baldige Antwort.\nMit freundlichen Grüßen\nLéa Martin",
+    "modelFr": "Madame, Monsieur, du 6 au 8 novembre, j'ai séjourné avec une amie dans votre hôtel « Sonnenhof » à Munich. Malheureusement, je n'ai pas été satisfaite de mon séjour. Sur votre site, il est écrit que toutes les chambres sont calmes. Mais notre chambre se trouvait juste au-dessus du bar de l'hôtel, et nous n'avons pas pu dormir avant deux heures du matin. De plus, le Wi-Fi n'a pas fonctionné de tout le week-end. Bien que j'aie prévenu la réception dès le premier soir, on n'a pas pu nous donner d'autre chambre. L'employé s'est excusé, mais l'hôtel était malheureusement complet. Je vous prie donc de me rembourser une partie du prix. J'espère une réponse rapide. Cordialement, Léa Martin"
+  },
+  "createdAt": "2026-11-16"
+}

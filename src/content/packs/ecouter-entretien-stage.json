@@ -1,0 +1,246 @@
+{
+  "id": "ecouter-entretien-stage",
+  "section": "ecoute",
+  "title": "Entretien téléphonique pour un stage",
+  "level": "B1",
+  "topic": "Travail",
+  "release": 4,
+  "summary": "Léa passe un entretien pour le stage chez GreenBox : parcours, expérience, motivation, date de début.",
+  "tags": [
+    "Stage",
+    "Entretien"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Dans un entretien (*das Vorstellungsgespräch*), les questions reviennent toujours : se présenter, parler de son expérience, expliquer sa motivation, donner ses disponibilités. Les connaître t'aide à anticiper les réponses."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Question",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "Erzählen Sie bitte etwas über sich.",
+          "Parlez-moi un peu de vous."
+        ],
+        [
+          "Haben Sie schon Berufserfahrung?",
+          "Avez-vous déjà une expérience professionnelle ?"
+        ],
+        [
+          "Warum möchten Sie bei uns arbeiten?",
+          "Pourquoi voulez-vous travailler chez nous ?"
+        ],
+        [
+          "Ab wann könnten Sie anfangen?",
+          "À partir de quand pourriez-vous commencer ?"
+        ],
+        [
+          "Haben Sie Fragen an uns?",
+          "Avez-vous des questions à nous poser ?"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Pour raconter son expérience, on utilise le **Perfekt** : *Letzten Sommer **habe** ich bei einer Agentur **gearbeitet**.* Le participe va à la fin de la phrase."
+    }
+  ],
+  "listening": {
+    "title": "Ein Vorstellungsgespräch am Telefon",
+    "situation": "Léa a postulé au stage de marketing chez GreenBox, à Fribourg. Frau Keller, du service RH, l'appelle pour un entretien.",
+    "lines": [
+      {
+        "who": "Frau Keller",
+        "de": "Guten Tag, Frau Martin, hier ist Sabine Keller von GreenBox. Schön, dass Sie Zeit haben! Erzählen Sie doch bitte kurz etwas über sich."
+      },
+      {
+        "who": "Léa",
+        "de": "Gern. Ich bin zweiundzwanzig und studiere im dritten Jahr an einer Business School in Paris. Mein Schwerpunkt ist Marketing."
+      },
+      {
+        "who": "Frau Keller",
+        "de": "Haben Sie schon Berufserfahrung?"
+      },
+      {
+        "who": "Léa",
+        "de": "Ja, letzten Sommer habe ich zwei Monate bei einer Agentur in Lyon gearbeitet. Dort habe ich vor allem Texte für Instagram geschrieben."
+      },
+      {
+        "who": "Frau Keller",
+        "de": "Sehr gut, das passt zu unserer Stelle. Warum möchten Sie Ihr Praktikum in Deutschland machen?"
+      },
+      {
+        "who": "Léa",
+        "de": "Ich möchte mein Deutsch verbessern und eine neue Arbeitskultur kennenlernen. Außerdem finde ich Ihre Produkte toll, weil sie gut für die Umwelt sind."
+      },
+      {
+        "who": "Frau Keller",
+        "de": "Das freut mich. Ab wann könnten Sie anfangen?"
+      },
+      {
+        "who": "Léa",
+        "de": "Mein Semester endet Ende Februar, also ab dem ersten März."
+      },
+      {
+        "who": "Frau Keller",
+        "de": "Perfekt. Haben Sie auch Fragen an uns?"
+      },
+      {
+        "who": "Léa",
+        "de": "Ja, eine: Helfen Sie Ihren Praktikanten bei der Wohnungssuche in Freiburg?"
+      },
+      {
+        "who": "Frau Keller",
+        "de": "Wir haben leider keine eigenen Wohnungen, aber wir schicken Ihnen eine Liste mit WG-Zimmern. Sie hören nächste Woche von uns."
+      }
+    ],
+    "glossary": [
+      {
+        "de": "das Vorstellungsgespräch",
+        "fr": "l'entretien d'embauche"
+      },
+      {
+        "de": "der Schwerpunkt",
+        "fr": "la spécialisation, la dominante"
+      },
+      {
+        "de": "die Berufserfahrung",
+        "fr": "l'expérience professionnelle"
+      },
+      {
+        "de": "die Agentur",
+        "fr": "l'agence"
+      },
+      {
+        "de": "die Arbeitskultur",
+        "fr": "la culture du travail"
+      },
+      {
+        "de": "die Wohnungssuche",
+        "fr": "la recherche de logement"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "In welchem Studienjahr ist Léa?",
+      "options": [
+        "Im ersten Jahr",
+        "Im zweiten Jahr",
+        "Im dritten Jahr"
+      ],
+      "answer": 2,
+      "why": "*Ich … studiere im dritten Jahr an einer Business School in Paris.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was hat Léa letzten Sommer gemacht?",
+      "options": [
+        "Sie hat bei einer Agentur in Lyon gearbeitet.",
+        "Sie hat einen Deutschkurs in Freiburg besucht.",
+        "Sie hat in einem Hotel in Paris gejobbt."
+      ],
+      "answer": 0,
+      "why": "*… letzten Sommer habe ich zwei Monate bei einer Agentur in Lyon gearbeitet.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Bei der Agentur hat Léa vor allem Texte für Instagram geschrieben.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*Dort habe ich vor allem Texte für Instagram geschrieben.* *vor allem* = surtout."
+    },
+    {
+      "type": "mcq",
+      "q": "Warum möchte Léa ihr Praktikum in Deutschland machen?",
+      "options": [
+        "Ihr Freund wohnt in Freiburg.",
+        "Sie möchte ihr Deutsch verbessern.",
+        "Sie verdient dort mehr Geld."
+      ],
+      "answer": 1,
+      "why": "*Ich möchte mein Deutsch verbessern und eine neue Arbeitskultur kennenlernen.*"
+    },
+    {
+      "type": "dictation",
+      "text": "Haben Sie schon Berufserfahrung?",
+      "fr": "Avez-vous déjà une expérience professionnelle ?",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    },
+    {
+      "type": "dictation",
+      "text": "Ab wann könnten Sie anfangen?",
+      "fr": "À partir de quand pourriez-vous commencer ?",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Ab wann kann Léa das Praktikum beginnen?",
+      "options": [
+        "Ab dem ersten Februar",
+        "Ab dem ersten März",
+        "Ab Ende März"
+      ],
+      "answer": 1,
+      "why": "*Mein Semester endet Ende Februar, also ab dem ersten März.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Die Firma bietet Léa eine Wohnung an.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Wir haben leider keine eigenen Wohnungen* : l'entreprise envoie seulement une liste de chambres en colocation."
+    },
+    {
+      "type": "mcq",
+      "q": "Was schickt die Firma Léa?",
+      "options": [
+        "Einen Arbeitsvertrag",
+        "Ein Zugticket nach Freiburg",
+        "Eine Liste mit WG-Zimmern"
+      ],
+      "answer": 2,
+      "why": "*… aber wir schicken Ihnen eine Liste mit WG-Zimmern.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was gefällt Léa an den Produkten von GreenBox?",
+      "options": [
+        "Sie sind gut für die Umwelt.",
+        "Sie sind sehr billig.",
+        "Sie kommen aus Frankreich."
+      ],
+      "answer": 0,
+      "why": "*… weil sie gut für die Umwelt sind.* Après *weil*, le verbe conjugué va à la fin."
+    },
+    {
+      "type": "gap",
+      "q": "Léas ___ im Studium ist Marketing.",
+      "answers": [
+        "Schwerpunkt"
+      ],
+      "hint": "la spécialisation (masculin)",
+      "why": "*der Schwerpunkt* = la spécialisation. *Mein Schwerpunkt ist Marketing.*"
+    },
+    {
+      "type": "dictation",
+      "text": "Sie hören nächste Woche von uns.",
+      "fr": "Vous aurez de nos nouvelles la semaine prochaine.",
+      "why": "Écoute plusieurs fois, puis vérifie l'orthographe des noms (majuscule) et des terminaisons."
+    }
+  ],
+  "createdAt": "2026-11-16"
+}
