@@ -1,0 +1,732 @@
+{
+  "id": "cours-brayan-adjectifs-perfekt",
+  "section": "cours",
+  "teacher": "brayan",
+  "level": "A2",
+  "title": "Adjectifs après der / ein, et ma matinée au Perfekt",
+  "topic": "Déclinaison des adjectifs",
+  "tags": [
+    "Déclinaison des adjectifs",
+    "Perfekt",
+    "Accusatif et datif"
+  ],
+  "summary": "ein netter Mann, den netten Mann, einem netten Mann : l'adjectif selon l'article et le cas, avec sein, treffen et begegnen. Puis raconter sa matinée au passé.",
+  "source": "Notes du cours du 16/11/2026 + Preply A2, leçon 7.1",
+  "createdAt": "2026-11-16",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Trois verbes, trois cas"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Verbe",
+        "Cas",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "**sein** (être)",
+          "nominatif",
+          "Ich bin **ein netter** Mann."
+        ],
+        [
+          "**treffen** (rencontrer, retrouver)",
+          "accusatif",
+          "Ich treffe **einen netten** Mann."
+        ],
+        [
+          "**begegnen** (croiser, rencontrer par hasard)",
+          "**datif**",
+          "Ich begegne **einem netten** Mann."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*treffen* = rencontrer (souvent un rendez-vous prévu) + accusatif. *begegnen* = croiser par hasard + **datif**, et au Perfekt avec **sein** : *Ich **bin** ihm **begegnet**.*"
+    },
+    {
+      "type": "h",
+      "text": "Après l'article défini (der, die, das)"
+    },
+    {
+      "type": "p",
+      "text": "L'article montre déjà le genre et le cas : l'adjectif prend juste **-e** ou **-en**."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Masculin",
+        "Féminin",
+        "Neutre",
+        "Pluriel"
+      ],
+      "rows": [
+        [
+          "Nominatif (sein)",
+          "der nett**e** Mann",
+          "die nett**e** Frau",
+          "das nett**e** Mädchen",
+          "die nett**en** Leute"
+        ],
+        [
+          "Accusatif (treffen)",
+          "den nett**en** Mann",
+          "die nett**e** Frau",
+          "das nett**e** Mädchen",
+          "die nett**en** Leute"
+        ],
+        [
+          "Datif (begegnen)",
+          "dem nett**en** Mann",
+          "der nett**en** Frau",
+          "dem nett**en** Mädchen",
+          "den nett**en** Leute**n**"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Règle express : **-e** dans les cinq cases du haut à gauche (les trois nominatifs singuliers, plus féminin et neutre à l'accusatif), **-en** partout ailleurs."
+    },
+    {
+      "type": "h",
+      "text": "Après l'article indéfini (ein, eine, ein)"
+    },
+    {
+      "type": "p",
+      "text": "Quand *ein* ne montre pas le genre (*ein* Mann, *ein* Mädchen), c'est l'**adjectif** qui le montre : **-er** pour le masculin, **-es** pour le neutre."
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Masculin",
+        "Féminin",
+        "Neutre",
+        "Pluriel (sans article)"
+      ],
+      "rows": [
+        [
+          "Nominatif (sein)",
+          "ein nett**er** Mann",
+          "eine nett**e** Frau",
+          "ein nett**es** Mädchen",
+          "nett**e** Leute"
+        ],
+        [
+          "Accusatif (treffen)",
+          "einen nett**en** Mann",
+          "eine nett**e** Frau",
+          "ein nett**es** Mädchen",
+          "nett**e** Leute"
+        ],
+        [
+          "Datif (begegnen)",
+          "einem nett**en** Mann",
+          "einer nett**en** Frau",
+          "einem nett**en** Mädchen",
+          "nett**en** Leute**n**"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Der alt**e** Computer ist langsam.",
+          "fr": "Le vieil ordinateur est lent."
+        },
+        {
+          "de": "Ich kaufe die rot**e** Tasche.",
+          "fr": "J'achète le sac rouge."
+        },
+        {
+          "de": "Wir sprechen mit dem freundlich**en** Nachbarn.",
+          "fr": "Nous parlons avec le voisin sympathique."
+        },
+        {
+          "de": "Du begegnest einer nett**en** Frau.",
+          "fr": "Tu croises une femme sympathique."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Après le verbe, l'adjectif ne change pas : *Der Mann ist **nett**. Die Leute sind **nett**.*"
+    },
+    {
+      "type": "h",
+      "text": "Phrases du cours"
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Sie spricht mit ihrem Lehrer.",
+          "fr": "Elle parle avec son professeur."
+        },
+        {
+          "de": "Wenn ich Zeit habe, komme ich zurück. / …, werde ich zurückkommen.",
+          "fr": "Quand j'aurai le temps, je reviendrai."
+        },
+        {
+          "de": "Er kann nicht kommen, weil er arbeitet.",
+          "fr": "Il ne peut pas venir parce qu'il travaille."
+        },
+        {
+          "de": "Ich möchte Deutsch in Deutschland lernen.",
+          "fr": "Je voudrais apprendre l'allemand en Allemagne."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Ma matinée au Perfekt, corrigée"
+    },
+    {
+      "type": "p",
+      "text": "Ton récit est très bien construit : auxiliaire en 2e position, participe à la fin, et inversion après *dann* / *danach* (*danach **habe ich***). Voici la version corrigée, avec quelques connecteurs en plus pour varier :"
+    },
+    {
+      "type": "p",
+      "text": "*Ich **bin** um 7 Uhr **aufgestanden**. Zuerst **habe** ich ein Glas Wasser **getrunken**, dann **habe** ich mein Handy **genommen** und **eingeschaltet**. Danach **habe** ich meine Nachrichten **gelesen**. Dann **bin** ich ins Bad **gegangen** und **habe** mir das Gesicht **gewaschen**. Anschließend **habe** ich **gefrühstückt**. Danach **habe** ich **mich angezogen**, und schließlich **bin** ich **zur Arbeit gegangen**.*"
+    },
+    {
+      "type": "tip",
+      "text": "**sein** pour *aufstehen* (changement d'état) et *gehen* (déplacement) ; **haben** pour tous les autres verbes de ton récit, y compris *sich anziehen* (réfléchi)."
+    },
+    {
+      "type": "h",
+      "text": "À corriger dans tes notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "*du triffst die nett**t**e Frau* → *die **nette** Frau* (faute de frappe).",
+        "*ich begegne**n** einem netten Mädchen* → *ich **begegne***.",
+        "*ein Glasswasser* → *ein **Glas Wasser*** (deux mots, pas d'article devant *Wasser*).",
+        "*dannach* → ***danach*** (un seul *n*) ; *Deutscland* → *Deutsch**land***.",
+        "*meine Nachrichten gesehen* → plutôt ***gelesen*** (on lit un message).",
+        "*mein Handy angemacht* est correct à l'oral ; à l'écrit, ***eingeschaltet***.",
+        "*meine Kleidung gewechselt* → plus naturel : *ich habe **mich angezogen*** (s'habiller) ou *ich habe **mich umgezogen*** (se changer).",
+        "*auf meinen Arbeitplatz gegangen* → ***zur Arbeit gegangen*** ; et le mot s'écrit *Arbeit**s**platz*.",
+        "*mein Gesicht gewaschen* est correct ; on dit aussi souvent *ich habe **mir** das Gesicht gewaschen*."
+      ]
+    }
+  ],
+  "verbs": [
+    {
+      "inf": "begegnen",
+      "fr": "croiser, rencontrer (par hasard)",
+      "kinds": [
+        "regulier",
+        "datif"
+      ],
+      "aux": "sein",
+      "partizip": "begegnet",
+      "praesens": [
+        "begegne",
+        "begegnest",
+        "begegnet",
+        "begegnen",
+        "begegnet",
+        "begegnen"
+      ],
+      "praeteritum": [
+        "begegnete",
+        "begegnetest",
+        "begegnete",
+        "begegneten",
+        "begegnetet",
+        "begegneten"
+      ],
+      "example": {
+        "de": "Ich begegne dem netten Mann.",
+        "fr": "Je croise l'homme sympathique."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Ich [begegne] oft meiner Nachbarin im Treppenhaus.",
+          "fr": "Je croise souvent ma voisine dans l'escalier."
+        },
+        {
+          "t": "perfekt",
+          "de": "Gestern [bin] ich einem netten Mann [begegnet].",
+          "fr": "Hier, j'ai croisé un homme sympathique."
+        }
+      ],
+      "note": "begegnen + datif, Perfekt avec sein."
+    },
+    {
+      "inf": "treffen",
+      "fr": "rencontrer, retrouver",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "getroffen",
+      "praesens": [
+        "treffe",
+        "triffst",
+        "trifft",
+        "treffen",
+        "trefft",
+        "treffen"
+      ],
+      "praeteritum": [
+        "traf",
+        "trafst",
+        "traf",
+        "trafen",
+        "traft",
+        "trafen"
+      ],
+      "example": {
+        "de": "Ich treffe den netten Mann.",
+        "fr": "Je rencontre l'homme sympathique."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Du [triffst] heute die nette Frau aus dem Kurs.",
+          "fr": "Aujourd'hui, tu retrouves la femme sympathique du cours."
+        },
+        {
+          "t": "perfekt",
+          "de": "Wir [haben] den neuen Lehrer [getroffen].",
+          "fr": "Nous avons rencontré le nouveau professeur."
+        }
+      ],
+      "note": "treffen + accusatif."
+    },
+    {
+      "inf": "löschen",
+      "fr": "effacer, supprimer",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "gelöscht",
+      "praesens": [
+        "lösche",
+        "löschst",
+        "löscht",
+        "löschen",
+        "löscht",
+        "löschen"
+      ],
+      "praeteritum": [
+        "löschte",
+        "löschtest",
+        "löschte",
+        "löschten",
+        "löschtet",
+        "löschten"
+      ],
+      "example": {
+        "de": "Ich lösche die alten Fotos.",
+        "fr": "J'efface les vieilles photos."
+      },
+      "ctx": [
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] die alten Fotos [gelöscht].",
+          "fr": "J'ai effacé les vieilles photos."
+        },
+        {
+          "t": "praesens",
+          "de": "[Löschst] du bitte die Nachricht?",
+          "fr": "Tu effaces le message, s'il te plaît ?"
+        }
+      ]
+    },
+    {
+      "inf": "übersetzen",
+      "fr": "traduire",
+      "kinds": [
+        "regulier"
+      ],
+      "aux": "haben",
+      "partizip": "übersetzt",
+      "praesens": [
+        "übersetze",
+        "übersetzt",
+        "übersetzt",
+        "übersetzen",
+        "übersetzt",
+        "übersetzen"
+      ],
+      "praeteritum": [
+        "übersetzte",
+        "übersetztest",
+        "übersetzte",
+        "übersetzten",
+        "übersetztet",
+        "übersetzten"
+      ],
+      "example": {
+        "de": "Kannst du den Satz übersetzen?",
+        "fr": "Tu peux traduire la phrase ?"
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Sie [übersetzt] den Text ins Französische.",
+          "fr": "Elle traduit le texte en français."
+        },
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] den Brief schon [übersetzt].",
+          "fr": "J'ai déjà traduit la lettre."
+        }
+      ],
+      "note": "Inséparable : pas de ge- (übersetzt). du übersetzt (radical en -z)."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "nett",
+      "fr": "gentil, sympathique",
+      "ex": {
+        "de": "Die Lehrerin ist sehr nett.",
+        "fr": "La professeure est très gentille."
+      }
+    },
+    {
+      "de": "alt",
+      "fr": "vieux, âgé",
+      "ex": {
+        "de": "Mein Computer ist alt.",
+        "fr": "Mon ordinateur est vieux."
+      }
+    },
+    {
+      "de": "Mann",
+      "fr": "l'homme",
+      "article": "der",
+      "plural": "Männer",
+      "ex": {
+        "de": "Der Mann ist sehr nett.",
+        "fr": "L'homme est très gentil."
+      }
+    },
+    {
+      "de": "Mädchen",
+      "fr": "la fille, la jeune fille",
+      "article": "das",
+      "plural": "Mädchen",
+      "ex": {
+        "de": "Das Mädchen spielt im Garten.",
+        "fr": "La fille joue dans le jardin."
+      }
+    },
+    {
+      "de": "Leute",
+      "fr": "les gens",
+      "article": "die",
+      "plural": "-",
+      "ex": {
+        "de": "Die Leute sind freundlich.",
+        "fr": "Les gens sont sympathiques."
+      }
+    },
+    {
+      "de": "Gesicht",
+      "fr": "le visage",
+      "article": "das",
+      "plural": "Gesichter",
+      "ex": {
+        "de": "Ich wasche mein Gesicht.",
+        "fr": "Je me lave le visage."
+      }
+    },
+    {
+      "de": "Nachricht",
+      "fr": "le message",
+      "article": "die",
+      "plural": "Nachrichten",
+      "ex": {
+        "de": "Ich habe eine Nachricht bekommen.",
+        "fr": "J'ai reçu un message."
+      }
+    },
+    {
+      "de": "Handy",
+      "fr": "le portable",
+      "article": "das",
+      "plural": "Handys",
+      "ex": {
+        "de": "Mein Handy ist kaputt.",
+        "fr": "Mon portable est cassé."
+      }
+    },
+    {
+      "de": "Frühstück",
+      "fr": "le petit-déjeuner",
+      "article": "das",
+      "plural": "-",
+      "ex": {
+        "de": "Das Frühstück ist fertig.",
+        "fr": "Le petit-déjeuner est prêt."
+      }
+    },
+    {
+      "de": "frühstücken",
+      "fr": "prendre le petit-déjeuner",
+      "ex": {
+        "de": "Wir frühstücken um acht Uhr.",
+        "fr": "Nous prenons le petit-déjeuner à huit heures."
+      }
+    },
+    {
+      "de": "übersetzen",
+      "fr": "traduire",
+      "ex": {
+        "de": "Kannst du das übersetzen?",
+        "fr": "Tu peux traduire ça ?"
+      }
+    },
+    {
+      "de": "begegnen",
+      "fr": "croiser (+ datif)",
+      "ex": {
+        "de": "Ich möchte ihm nicht begegnen.",
+        "fr": "Je ne veux pas le croiser."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Ich bin ein ___ Mann.",
+      "options": [
+        "netter",
+        "nette",
+        "netten"
+      ],
+      "answer": 0,
+      "why": "Nominatif masculin après *ein* → l'adjectif montre le genre : **-er**."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich treffe den ___ Mann.",
+      "options": [
+        "netten",
+        "nette",
+        "netter"
+      ],
+      "answer": 0,
+      "why": "Accusatif masculin → **-en**."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich begegne ___ netten Frau.",
+      "options": [
+        "der",
+        "die",
+        "den"
+      ],
+      "answer": 0,
+      "why": "*begegnen* + datif ; féminin → **der**."
+    },
+    {
+      "type": "gap",
+      "q": "Ich bin ein ___ Mädchen.",
+      "answers": [
+        "nettes"
+      ],
+      "why": "Neutre après *ein* : l'adjectif prend **-es**.",
+      "hint": "nett"
+    },
+    {
+      "type": "mcq",
+      "q": "*begegnen* se construit avec…",
+      "options": [
+        "le datif",
+        "l'accusatif",
+        "le nominatif"
+      ],
+      "answer": 0,
+      "why": "*begegnen* + **datif** (*ich begegne dem Mann*), contrairement à *treffen* + accusatif."
+    },
+    {
+      "type": "cloze",
+      "text": "Du begegnest [einer] [netten] Frau.",
+      "hint": "eine nette Frau, au datif",
+      "why": "Datif féminin : **einer netten** Frau."
+    },
+    {
+      "type": "gap",
+      "q": "Sie begegnen den netten ___.",
+      "answers": [
+        "Leuten"
+      ],
+      "why": "Datif pluriel : le nom prend un **-n** → den netten Leute**n**.",
+      "hint": "die Leute"
+    },
+    {
+      "type": "mcq",
+      "q": "Der ___ Computer ist langsam.",
+      "options": [
+        "alte",
+        "alten",
+        "alter"
+      ],
+      "answer": 0,
+      "why": "Après *der*, nominatif singulier → **-e**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Elle parle avec son professeur.",
+      "answers": [
+        "Sie spricht mit ihrem Lehrer."
+      ],
+      "why": "*mit* + datif : ihr Lehrer → **ihrem** Lehrer."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Il ne peut pas venir parce qu'il travaille.",
+      "answers": [
+        "Er kann nicht kommen, weil er arbeitet."
+      ],
+      "why": "Après *weil*, le verbe conjugué va à la fin."
+    },
+    {
+      "type": "cloze",
+      "text": "Ich [bin] um 7 Uhr [aufgestanden].",
+      "hint": "aufstehen au Perfekt",
+      "why": "*aufstehen* : changement d'état → **sein** ; séparable → auf**ge**standen."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Danach habe ich meine Nachrichten gelesen"
+      ],
+      "why": "*Danach* en 1re position → auxiliaire, puis sujet ; participe à la fin."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Ich kaufe die ___ Tasche.",
+      "options": [
+        "rote",
+        "roten",
+        "roter"
+      ],
+      "answer": 0,
+      "why": "Accusatif féminin après *die* → **-e**."
+    },
+    {
+      "type": "mcq",
+      "q": "Wir sprechen mit dem ___ Nachbarn.",
+      "options": [
+        "freundlichen",
+        "freundliche",
+        "freundlicher"
+      ],
+      "answer": 0,
+      "why": "Datif → **-en**."
+    },
+    {
+      "type": "mcq",
+      "q": "Du triffst eine ___ Frau.",
+      "options": [
+        "nette",
+        "netten",
+        "netter"
+      ],
+      "answer": 0,
+      "why": "Accusatif féminin → **-e** (comme au nominatif)."
+    },
+    {
+      "type": "gap",
+      "q": "Ich treffe einen ___ Mann.",
+      "answers": [
+        "netten"
+      ],
+      "why": "Accusatif masculin → **-en**.",
+      "hint": "nett"
+    },
+    {
+      "type": "mcq",
+      "q": "Ich ___ dem Lehrer im Supermarkt.",
+      "options": [
+        "begegne",
+        "treffe",
+        "sehe"
+      ],
+      "answer": 0,
+      "why": "*dem Lehrer* est au datif : seul **begegnen** se construit avec le datif."
+    },
+    {
+      "type": "mcq",
+      "q": "Sie sind die ___ Leute.",
+      "options": [
+        "netten",
+        "nette",
+        "netter"
+      ],
+      "answer": 0,
+      "why": "Pluriel après *die* → **-en**."
+    },
+    {
+      "type": "gap",
+      "q": "Der Mann, die ___ (pluriel)",
+      "answers": [
+        "Männer"
+      ],
+      "why": "*der Mann* → *die **Männer***."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je voudrais apprendre l'allemand en Allemagne.",
+      "answers": [
+        "Ich möchte Deutsch in Deutschland lernen.",
+        "Ich möchte in Deutschland Deutsch lernen."
+      ],
+      "why": "*möchte* en 2e position, infinitif *lernen* à la fin."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Quand j'aurai le temps, je reviendrai.",
+      "answers": [
+        "Wenn ich Zeit habe, komme ich zurück.",
+        "Wenn ich Zeit habe, werde ich zurückkommen."
+      ],
+      "why": "*Wenn* + verbe à la fin, puis la principale commence par le verbe."
+    },
+    {
+      "type": "cloze",
+      "text": "Dann [bin] ich ins Bad [gegangen].",
+      "hint": "gehen au Perfekt",
+      "why": "Déplacement → **sein** : *bin gegangen*."
+    },
+    {
+      "type": "cloze",
+      "text": "Anschließend [habe] ich [gefrühstückt].",
+      "hint": "frühstücken au Perfekt",
+      "why": "*frühstücken* → **haben** ; participe **gefrühstückt**."
+    },
+    {
+      "type": "mcq",
+      "q": "Schließlich bin ich ___ Arbeit gegangen.",
+      "options": [
+        "zur",
+        "auf den",
+        "an die"
+      ],
+      "answer": 0,
+      "why": "Aller au travail : ***zur** Arbeit* (zu + der)."
+    }
+  ]
+}
