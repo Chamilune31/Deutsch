@@ -1,0 +1,123 @@
+{
+  "id": "ecrire-forum-langue-etranger",
+  "section": "ecriture",
+  "title": "Forum : faut-il apprendre une langue à l'étranger ?",
+  "level": "B1",
+  "topic": "Opinion",
+  "release": 5,
+  "summary": "Répondre à un message de forum : donner son avis, raconter son expérience au Perfekt et donner un conseil.",
+  "tags": [
+    "Forum",
+    "Langues",
+    "Konjunktiv II"
+  ],
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Répondre à quelqu'un sur un forum"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Réagir à la question** : *Deine Frage finde ich sehr spannend!*",
+        "**Donner ton avis** : *Meiner Meinung nach **kann** man …* (verbe juste après) ou *Ich bin der Meinung, dass man … lernen **kann**.* (verbe à la fin)",
+        "**Raconter ton expérience** au **Perfekt** : *Letzten Sommer **habe** ich einen Sprachkurs in Berlin **gemacht**.*",
+        "**Peser le pour et le contre** : *Einerseits …, andererseits …*",
+        "**Conseiller** avec le Konjunktiv II : *An deiner Stelle **würde** ich …* / *Ich **würde** dir raten, … zu …*"
+      ]
+    },
+    {
+      "type": "table",
+      "head": [
+        "Pour conseiller",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "An deiner Stelle würde ich zuerst …",
+          "À ta place, je … d'abord"
+        ],
+        [
+          "Ich würde dir raten, … zu + infinitif",
+          "Je te conseillerais de…"
+        ],
+        [
+          "Du solltest …",
+          "Tu devrais…"
+        ],
+        [
+          "Mein Tipp: …",
+          "Mon conseil : …"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "**Einerseits** lernt man im Ausland schneller, **andererseits** ist ein Aufenthalt teuer.",
+          "fr": "D'un côté, on apprend plus vite à l'étranger, de l'autre, un séjour coûte cher."
+        },
+        {
+          "de": "Ich würde dir raten, zuerst die Grundlagen **zu lernen**.",
+          "fr": "Je te conseillerais d'apprendre d'abord les bases."
+        },
+        {
+          "de": "Du **solltest** jeden Tag ein bisschen Deutsch hören.",
+          "fr": "Tu devrais écouter un peu d'allemand chaque jour."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Après *Einerseits* et *andererseits*, le verbe conjugué vient **tout de suite** (2ᵉ position) : *Andererseits **ist** ein Aufenthalt teuer.* L'erreur fréquente « Andererseits ein Aufenthalt ist teuer » calque l'ordre français."
+    }
+  ],
+  "task": {
+    "prompt": "Sur un forum d'étudiants, Max demande : « **Kann man eine Fremdsprache nur im Ausland richtig lernen?** » Écris ta réponse (environ **100 mots**).",
+    "points": [
+      "Dis ce que tu penses de la question de Max",
+      "Raconte ta propre expérience (cours, séjour, applis, séries…)",
+      "Donne un avantage et un inconvénient d'un séjour à l'étranger",
+      "Donne un conseil à Max"
+    ],
+    "minWords": 100,
+    "phrases": [
+      {
+        "de": "Deine Frage finde ich sehr spannend!",
+        "fr": "Je trouve ta question très intéressante !"
+      },
+      {
+        "de": "Ich bin der Meinung, dass …",
+        "fr": "Je suis d'avis que…"
+      },
+      {
+        "de": "Ich habe die Erfahrung gemacht, dass …",
+        "fr": "J'ai constaté par expérience que…"
+      },
+      {
+        "de": "Ein großer Vorteil ist, dass …",
+        "fr": "Un gros avantage est que…"
+      },
+      {
+        "de": "Einerseits …, andererseits …",
+        "fr": "D'un côté…, de l'autre…"
+      },
+      {
+        "de": "An deiner Stelle würde ich …",
+        "fr": "À ta place, je…"
+      },
+      {
+        "de": "Ich würde dir raten, … zu …",
+        "fr": "Je te conseillerais de…"
+      },
+      {
+        "de": "Viele Grüße",
+        "fr": "Bien à toi / À bientôt"
+      }
+    ],
+    "model": "Hallo Max,\ndeine Frage finde ich sehr spannend! Ich bin der Meinung, dass man eine Sprache auch zu Hause gut lernen kann, aber im Ausland geht es viel schneller.\nIch lerne seit zwei Jahren Deutsch an meiner Hochschule in Frankreich. Letzten Sommer habe ich einen Sprachkurs in Berlin gemacht und bei einer Gastfamilie gewohnt. In vier Wochen habe ich mehr gelernt als in einem ganzen Semester!\nEinerseits muss man im Ausland jeden Tag Deutsch hören und sprechen, und das ist der beste Unterricht. Andererseits ist ein Aufenthalt teuer, und nicht jeder hat Zeit dafür.\nAn deiner Stelle würde ich zuerst die Grundlagen zu Hause lernen und dann für ein paar Wochen nach Deutschland fahren.\nViele Grüße\nLéa",
+    "modelFr": "Salut Max, je trouve ta question très intéressante ! Je pense qu'on peut aussi bien apprendre une langue chez soi, mais qu'à l'étranger, ça va beaucoup plus vite. J'apprends l'allemand depuis deux ans dans mon école en France. L'été dernier, j'ai suivi un cours de langue à Berlin et j'ai habité dans une famille d'accueil. En quatre semaines, j'ai appris plus qu'en un semestre entier ! D'un côté, à l'étranger, on doit écouter et parler allemand tous les jours, et c'est le meilleur des cours. De l'autre, un séjour coûte cher, et tout le monde n'a pas le temps pour ça. À ta place, j'apprendrais d'abord les bases à la maison, puis je partirais quelques semaines en Allemagne. À bientôt, Léa"
+  },
+  "createdAt": "2026-11-19"
+}

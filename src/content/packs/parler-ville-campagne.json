@@ -1,0 +1,135 @@
+{
+  "id": "parler-ville-campagne",
+  "section": "oral",
+  "title": "Présenter : vivre en ville ou à la campagne ?",
+  "level": "B1",
+  "topic": "Présentation",
+  "release": 5,
+  "summary": "Une présentation en cinq parties sur la vie en ville et à la campagne, en réutilisant wo ? / wohin ?",
+  "tags": [
+    "Logement",
+    "Wechselpräpositionen"
+  ],
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Le plan en cinq parties"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Introduire le sujet et annoncer le plan",
+        "Raconter ta situation personnelle (où tu as grandi, où tu vis)",
+        "Décrire la situation en France",
+        "Avantages et inconvénients de la ville et de la campagne",
+        "Conclusion et ton avis"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Wo ? ou Wohin ? — ville et campagne"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Wo ? (datif)",
+        "Wohin ? (accusatif)"
+      ],
+      "rows": [
+        [
+          "la ville",
+          "in der Stadt wohnen",
+          "in die Stadt ziehen"
+        ],
+        [
+          "la campagne",
+          "auf dem Land leben",
+          "aufs Land ziehen"
+        ],
+        [
+          "le village",
+          "in einem Dorf aufwachsen",
+          "in ein Dorf ziehen"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich bin **in einem** kleinen **Dorf** aufgewachsen.",
+          "fr": "J'ai grandi dans un petit village."
+        },
+        {
+          "de": "Viele junge Leute ziehen **in die** großen **Städte**.",
+          "fr": "Beaucoup de jeunes s'installent dans les grandes villes."
+        },
+        {
+          "de": "Später möchte ich lieber **auf dem Land** wohnen.",
+          "fr": "Plus tard, je préférerais vivre à la campagne."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "« La campagne » se dit **das Land** dans cette expression : *auf dem Land* (où ?), *aufs Land* (où vers ?). Ne dis pas *in der Kampagne* : *die Kampagne* veut dire « la campagne » publicitaire ou électorale !"
+    }
+  ],
+  "task": {
+    "prompt": "Présente le sujet « **Leben in der Stadt oder auf dem Land – was ist besser?** » pendant environ **3 minutes**.",
+    "points": [
+      "Présente le sujet et le plan",
+      "Ta situation personnelle : où as-tu grandi, où vis-tu aujourd'hui ?",
+      "La situation en France",
+      "Avantages et inconvénients de la ville et de la campagne",
+      "Ton opinion pour conclure"
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "phrases": [
+      {
+        "de": "In meiner Präsentation geht es um die Frage, ob …",
+        "fr": "Ma présentation porte sur la question de savoir si…"
+      },
+      {
+        "de": "Ich bin in … aufgewachsen.",
+        "fr": "J'ai grandi à / dans…"
+      },
+      {
+        "de": "Seit … wohne ich in …, weil …",
+        "fr": "Depuis…, j'habite à…, parce que…"
+      },
+      {
+        "de": "In Frankreich ziehen viele junge Leute …",
+        "fr": "En France, beaucoup de jeunes s'installent…"
+      },
+      {
+        "de": "Ein Vorteil der Stadt ist, dass …",
+        "fr": "Un avantage de la ville est que…"
+      },
+      {
+        "de": "Auf dem Land ist das Leben zwar ruhiger, aber …",
+        "fr": "À la campagne, la vie est certes plus calme, mais…"
+      },
+      {
+        "de": "Zum Schluss möchte ich sagen, dass …",
+        "fr": "Pour conclure, j'aimerais dire que…"
+      },
+      {
+        "de": "Vielen Dank für Ihre Aufmerksamkeit.",
+        "fr": "Merci de votre attention."
+      }
+    ],
+    "model": "In meiner Präsentation geht es um die Frage, ob man besser in der Stadt oder auf dem Land lebt. Zuerst erzähle ich von meiner Situation, dann spreche ich über Frankreich. Danach nenne ich Vor- und Nachteile, und zum Schluss sage ich meine Meinung.\nIch bin in einem kleinen Dorf in der Normandie aufgewachsen. Seit drei Jahren wohne ich in der Nähe von Paris, weil ich dort studiere.\nIn Frankreich ziehen viele junge Leute in die großen Städte, weil es dort mehr Hochschulen und Arbeitsplätze gibt. In den letzten Jahren sind aber auch viele Familien wieder aufs Land gezogen, weil sie mehr Platz und mehr Natur wollen.\nEin Vorteil der Stadt ist, dass man kein Auto braucht und viele Freizeitangebote hat. Auf der anderen Seite sind die Mieten sehr hoch, und es ist oft laut. Auf dem Land ist das Leben zwar ruhiger und billiger, aber ohne Auto ist man kaum mobil.\nZum Schluss möchte ich sagen: Im Moment lebe ich gern in der Stadt, aber später möchte ich mit meiner Familie lieber auf dem Land wohnen. Vielen Dank für Ihre Aufmerksamkeit.",
+    "modelFr": "Ma présentation porte sur la question de savoir s'il vaut mieux vivre en ville ou à la campagne. D'abord, je parle de ma situation, puis de la France. Ensuite, je cite des avantages et des inconvénients, et pour finir, je donne mon avis. J'ai grandi dans un petit village en Normandie. Depuis trois ans, j'habite près de Paris, parce que j'y fais mes études. En France, beaucoup de jeunes s'installent dans les grandes villes, parce qu'il y a plus d'écoles et d'emplois. Ces dernières années, beaucoup de familles sont aussi reparties à la campagne, parce qu'elles veulent plus d'espace et plus de nature. Un avantage de la ville, c'est qu'on n'a pas besoin de voiture et qu'on a beaucoup d'activités de loisirs. D'un autre côté, les loyers sont très élevés et c'est souvent bruyant. À la campagne, la vie est certes plus calme et moins chère, mais sans voiture, on n'est guère mobile. Pour conclure, j'aimerais dire qu'en ce moment, j'aime vivre en ville, mais que plus tard, avec ma famille, je préférerais habiter à la campagne. Merci de votre attention.",
+    "criteria": [
+      "J'ai annoncé le plan au début (Zuerst …, dann …, zum Schluss …)",
+      "J'ai bien distingué wo ? (in der Stadt, auf dem Land) et wohin ? (in die Stadt, aufs Land)",
+      "J'ai donné au moins un avantage et un inconvénient avec dass ou weil (verbe à la fin)",
+      "J'ai raconté mon parcours au Perfekt (Ich bin … aufgewachsen)",
+      "J'ai donné mon avis clairement pour conclure"
+    ]
+  },
+  "createdAt": "2026-11-19"
+}

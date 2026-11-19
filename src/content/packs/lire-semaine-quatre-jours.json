@@ -1,0 +1,254 @@
+{
+  "id": "lire-semaine-quatre-jours",
+  "section": "lecture",
+  "title": "Article : la semaine de quatre jours",
+  "level": "B1",
+  "topic": "Travail",
+  "release": 5,
+  "summary": "Un article de presse sur la semaine de quatre jours : repérer les faits, les opinions et qui dit quoi.",
+  "tags": [
+    "Article",
+    "Entreprise",
+    "Opinion"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Un article de presse (*der Zeitungsartikel*) sur un sujet de société suit souvent le même plan : une question, un exemple concret avec des témoignages, puis les critiques et une conclusion. À l'examen B1, on te demande surtout de distinguer **les faits** des **opinions**, et de savoir **qui** pense quoi."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Partie de l'article",
+        "Mots qui la signalent"
+      ],
+      "rows": [
+        [
+          "La question posée",
+          "Doch funktioniert das wirklich? / Ist das eine gute Idee?"
+        ],
+        [
+          "Un exemple, un témoignage",
+          "„…“, erzählt …  / sagt …  / … ist begeistert."
+        ],
+        [
+          "Les critiques",
+          "Nicht alle sind überzeugt. / … warnen, dass …  / Kritiker meinen …"
+        ],
+        [
+          "La conclusion",
+          "deshalb / Eines ist aber klar: … / Insgesamt …"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Die Beschäftigten bekommen das **gleiche** Gehalt wie vorher.",
+          "fr": "Les salariés touchent le même salaire qu'avant."
+        },
+        {
+          "de": "Am Anfang hatten wir Angst, **dass** wir weniger **schaffen**.",
+          "fr": "Au début, nous avions peur d'en faire moins."
+        },
+        {
+          "de": "Viele Verbände **warnen**, dass das Modell nicht für jede Branche **passt**.",
+          "fr": "Beaucoup d'organisations préviennent que le modèle ne convient pas à tous les secteurs."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Piège classique des questions Richtig / Falsch : une phrase reprend les mots du texte, mais attribue l'opinion à **la mauvaise personne**, ou transforme *nicht alle* (pas tous) en *niemand* (personne). Repère toujours qui parle entre les guillemets „…“."
+    }
+  ],
+  "reading": {
+    "title": "Vier Tage arbeiten, drei Tage frei?",
+    "kind": "Article de journal",
+    "paragraphs": [
+      "Immer mehr Unternehmen in Deutschland testen die Vier-Tage-Woche. Die Idee ist einfach: Die Beschäftigten arbeiten nur noch vier Tage pro Woche, bekommen aber das gleiche Gehalt wie vorher. Doch funktioniert das wirklich?",
+      "Die Softwarefirma Nordlicht aus Bremen hat das Modell vor einem Jahr eingeführt. Seitdem ist das Büro freitags geschlossen. „Am Anfang hatten wir Angst, dass wir weniger schaffen“, erzählt die Chefin Anna Petersen. „Aber das Gegenteil ist passiert: Unsere Mitarbeiter sind motivierter und seltener krank.“ Die Firma hat außerdem weniger Meetings und mehr Zeit für konzentriertes Arbeiten.",
+      "Auch die Mitarbeiterin Jana Koch, 29, ist begeistert: „Am Freitag gehe ich zum Sport, erledige Einkäufe oder besuche meine Eltern. Am Montag fange ich viel entspannter an.“ Nur eine Sache findet sie schwierig: An den anderen vier Tagen arbeitet sie jetzt oft neun Stunden statt acht.",
+      "Nicht alle sind überzeugt. Viele Arbeitgeberverbände warnen, dass die Vier-Tage-Woche nicht für jede Branche passt. In einem Krankenhaus, in einem Restaurant oder im Supermarkt müssen jeden Tag genug Leute da sein. Dort braucht man also mehr Personal – und das ist teuer, besonders weil schon heute viele Fachkräfte fehlen.",
+      "---",
+      "Experten glauben deshalb, dass es keine Lösung für alle geben wird. Für Büros kann das Modell gut funktionieren, für andere Berufe braucht man flexiblere Ideen, zum Beispiel kürzere Schichten oder mehr freie Tage im Jahr. Eines ist aber klar: Besonders für junge Leute ist die Freizeit heute genauso wichtig wie ein gutes Gehalt."
+    ],
+    "glossary": [
+      {
+        "de": "die Beschäftigten",
+        "fr": "les salariés"
+      },
+      {
+        "de": "das Gehalt",
+        "fr": "le salaire"
+      },
+      {
+        "de": "einführen",
+        "fr": "introduire, mettre en place"
+      },
+      {
+        "de": "seitdem",
+        "fr": "depuis (ce moment-là)"
+      },
+      {
+        "de": "schaffen",
+        "fr": "réussir à faire, venir à bout de"
+      },
+      {
+        "de": "das Gegenteil",
+        "fr": "le contraire"
+      },
+      {
+        "de": "erledigen",
+        "fr": "faire, régler (des tâches)"
+      },
+      {
+        "de": "der Arbeitgeberverband",
+        "fr": "l'organisation patronale"
+      },
+      {
+        "de": "die Branche",
+        "fr": "le secteur d'activité"
+      },
+      {
+        "de": "die Fachkraft (Fachkräfte)",
+        "fr": "le travailleur qualifié"
+      },
+      {
+        "de": "die Schicht",
+        "fr": "le poste (horaires de travail en équipe)"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Was bekommen die Beschäftigten bei der Vier-Tage-Woche?",
+      "options": [
+        "Das gleiche Gehalt wie vorher",
+        "Weniger Geld",
+        "Einen Bonus am Freitag"
+      ],
+      "answer": 0,
+      "why": "*… bekommen aber das gleiche Gehalt wie vorher.* On travaille moins sans perte de salaire."
+    },
+    {
+      "type": "mcq",
+      "q": "Wann ist das Büro von Nordlicht geschlossen?",
+      "options": [
+        "Montags",
+        "Freitags",
+        "Am Mittwochnachmittag"
+      ],
+      "answer": 1,
+      "why": "*Seitdem ist das Büro freitags geschlossen.* *freitags* = le vendredi (chaque vendredi)."
+    },
+    {
+      "type": "mcq",
+      "q": "Anna Petersen hatte am Anfang keine Sorgen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Am Anfang hatten wir Angst, dass wir weniger schaffen.* Elle avait peur au début ; c'est ensuite que le contraire s'est produit."
+    },
+    {
+      "type": "mcq",
+      "q": "Was hat sich bei Nordlicht verändert?",
+      "options": [
+        "Die Firma hat mehr Meetings.",
+        "Die Firma hat neue Mitarbeiter eingestellt.",
+        "Die Mitarbeiter sind seltener krank."
+      ],
+      "answer": 2,
+      "why": "*Unsere Mitarbeiter sind motivierter und seltener krank.* Et il y a **moins** de réunions, pas plus."
+    },
+    {
+      "type": "mcq",
+      "q": "Jana Koch arbeitet an den anderen Tagen länger als früher.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*An den anderen vier Tagen arbeitet sie jetzt oft neun Stunden statt acht.* *statt* = au lieu de."
+    },
+    {
+      "type": "gap",
+      "q": "Am Freitag geht Jana zum Sport, ___ Einkäufe oder besucht ihre Eltern.",
+      "answers": [
+        "erledigt",
+        "macht"
+      ],
+      "hint": "erledigen, à la 3ᵉ personne",
+      "why": "Dans le texte, Jana dit *ich erledige Einkäufe* ; à la 3ᵉ personne : *sie erledigt*."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Warum ist die Vier-Tage-Woche in einem Krankenhaus schwierig?",
+      "options": [
+        "Weil die Ärzte das Modell nicht mögen",
+        "Weil jeden Tag genug Leute da sein müssen",
+        "Weil Krankenhäuser freitags geschlossen sind"
+      ],
+      "answer": 1,
+      "why": "*In einem Krankenhaus … müssen jeden Tag genug Leute da sein.* Il faudrait donc plus de personnel."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Arbeitgeberverbände finden die Vier-Tage-Woche für alle Branchen gut.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Ils *warnen, dass die Vier-Tage-Woche nicht für jede Branche passt* : ils sont plutôt critiques."
+    },
+    {
+      "type": "mcq",
+      "q": "Welches Problem gibt es schon heute?",
+      "options": [
+        "Es gibt zu viele Büros.",
+        "Die Gehälter sind zu niedrig.",
+        "Es fehlen viele Fachkräfte."
+      ],
+      "answer": 2,
+      "why": "*… besonders weil schon heute viele Fachkräfte fehlen.* *fehlen* = manquer."
+    },
+    {
+      "type": "mcq",
+      "q": "Was schlagen die Experten für andere Berufe vor?",
+      "options": [
+        "Kürzere Schichten oder mehr freie Tage im Jahr",
+        "Eine Sechs-Tage-Woche",
+        "Mehr Homeoffice für alle"
+      ],
+      "answer": 0,
+      "why": "*… für andere Berufe braucht man flexiblere Ideen, zum Beispiel kürzere Schichten oder mehr freie Tage im Jahr.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Für junge Leute ist das Gehalt heute wichtiger als die Freizeit.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*… ist die Freizeit heute **genauso wichtig wie** ein gutes Gehalt* : aussi important, pas plus ni moins."
+    },
+    {
+      "type": "gap",
+      "q": "Die Firma Nordlicht hat das Modell vor einem Jahr ___.",
+      "answers": [
+        "eingeführt"
+      ],
+      "hint": "einführen, au participe passé",
+      "why": "*einführen* est séparable : le participe passé est *ein**ge**führt* (le *ge-* se place après la particule)."
+    }
+  ],
+  "createdAt": "2026-11-19"
+}

@@ -160,13 +160,10 @@
       "lire-article-job-etudiant",
       "lire-forum-restaurant",
       "lire-reglement-residence",
-      "lire-offre-stage"
+      "lire-offre-stage",
+      "lire-semaine-quatre-jours"
     ],
     "a_venir": [
-      {
-        "topic": "Article : la semaine de quatre jours",
-        "level": "B1"
-      },
       {
         "topic": "Un programme de festival d'été",
         "level": "A2"
@@ -184,13 +181,10 @@
       "ecouter-rendez-vous-medecin",
       "ecouter-repondeur-rendez-vous",
       "ecouter-hotel-reservation",
-      "ecouter-entretien-stage"
+      "ecouter-entretien-stage",
+      "ecouter-bulletin-meteo"
     ],
     "a_venir": [
-      {
-        "topic": "Bulletin météo à la radio",
-        "level": "B1"
-      },
       {
         "topic": "Au magasin : rapporter un article défectueux",
         "level": "A2"
@@ -207,13 +201,10 @@
       "ecrire-forum-teletravail",
       "ecrire-mail-formel",
       "ecrire-week-end",
-      "ecrire-plainte-hotel"
+      "ecrire-plainte-hotel",
+      "ecrire-forum-langue-etranger"
     ],
     "a_venir": [
-      {
-        "topic": "Forum : faut-il apprendre une langue à l'étranger ?",
-        "level": "B1"
-      },
       {
         "topic": "S'excuser auprès d'un professeur pour une absence",
         "level": "B1"
@@ -230,13 +221,10 @@
       "parler-organiser-fete",
       "parler-presentation-reseaux",
       "parler-decrire-photo",
-      "parler-week-end-vienne"
+      "parler-week-end-vienne",
+      "parler-ville-campagne"
     ],
     "a_venir": [
-      {
-        "topic": "Présenter : vivre en ville ou à la campagne ?",
-        "level": "B1"
-      },
       {
         "topic": "Raconter son meilleur souvenir de voyage",
         "level": "A2"

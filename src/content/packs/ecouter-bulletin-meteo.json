@@ -1,0 +1,275 @@
+{
+  "id": "ecouter-bulletin-meteo",
+  "section": "ecoute",
+  "title": "Bulletin météo à la radio",
+  "level": "B1",
+  "topic": "Météo",
+  "release": 5,
+  "summary": "La météo du week-end à la radio : repérer le temps, les températures et les conseils jour par jour.",
+  "tags": [
+    "Radio",
+    "Météo"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Dans un bulletin météo (*der Wetterbericht*), l'information arrive vite et **jour par jour**. Avant d'écouter, note sur une feuille *Freitag – Samstag – Sonntag* et remplis chaque colonne : temps, températures, conseil."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Allemand",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "Es regnet. / Es schneit.",
+          "Il pleut. / Il neige."
+        ],
+        [
+          "Die Sonne scheint. / Die Sonne kommt heraus.",
+          "Le soleil brille. / Le soleil fait son apparition."
+        ],
+        [
+          "Es ist bewölkt / windig / neblig.",
+          "Le ciel est couvert / Il y a du vent / du brouillard."
+        ],
+        [
+          "Die Temperaturen liegen bei sieben Grad.",
+          "Les températures sont d'environ sept degrés."
+        ],
+        [
+          "Es gibt Sturm / Nebel / Frost.",
+          "Il y a de la tempête / du brouillard / du gel."
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Am Sonntag **wird** es **kälter**.",
+          "fr": "Dimanche, il fera plus froid."
+        },
+        {
+          "de": "Am Samstag **hört** der Regen am Vormittag **auf**.",
+          "fr": "Samedi, la pluie s'arrête dans la matinée."
+        },
+        {
+          "de": "Minus zwei Grad – die Straßen können glatt sein.",
+          "fr": "Moins deux degrés – les routes peuvent être glissantes."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*Es wird kälter* n'est pas un futur : **werden + adjectif** veut dire « devenir ». *Es wird warm* = il commence à faire chaud. Pour parler de demain, l'allemand utilise souvent le **présent** + un repère de temps : *Morgen regnet es.*"
+    }
+  ],
+  "listening": {
+    "title": "Das Wetter am Wochenende",
+    "situation": "Vendredi matin, sur une radio locale de Hambourg. Le présentateur, Tom, passe la parole à Sophie, la météorologue, pour la météo du week-end.",
+    "lines": [
+      {
+        "who": "Tom",
+        "de": "Und jetzt, wie jeden Freitag, das Wetter fürs Wochenende. Hallo Sophie, was erwartet uns?"
+      },
+      {
+        "who": "Sophie",
+        "de": "Hallo Tom! Heute bleibt es leider noch grau und nass. Im ganzen Norden regnet es immer wieder, und der Wind ist ziemlich stark."
+      },
+      {
+        "who": "Tom",
+        "de": "Und wie warm wird es heute?"
+      },
+      {
+        "who": "Sophie",
+        "de": "Nicht sehr warm: Die Temperaturen liegen bei sieben bis neun Grad. In der Nacht kann es an der Küste sogar Sturm geben."
+      },
+      {
+        "who": "Tom",
+        "de": "Das klingt ungemütlich. Wird es am Samstag besser?"
+      },
+      {
+        "who": "Sophie",
+        "de": "Ja, am Samstag hört der Regen am Vormittag auf. Am Nachmittag kommt sogar die Sonne heraus – perfekt für einen Spaziergang an der Elbe."
+      },
+      {
+        "who": "Tom",
+        "de": "Das ist doch mal eine gute Nachricht! Und der Sonntag?"
+      },
+      {
+        "who": "Sophie",
+        "de": "Am Sonntag wird es kälter. Morgens gibt es Nebel, und die Temperaturen fallen auf zwei bis vier Grad. In der Nacht zum Montag kann es sogar Frost geben."
+      },
+      {
+        "who": "Tom",
+        "de": "Also die Winterjacke nicht vergessen?"
+      },
+      {
+        "who": "Sophie",
+        "de": "Genau! Und wer am Montagmorgen mit dem Auto fährt, sollte vorsichtig sein, denn die Straßen können glatt sein."
+      },
+      {
+        "who": "Tom",
+        "de": "Danke, Sophie! Ihnen allen ein schönes Wochenende!"
+      }
+    ],
+    "glossary": [
+      {
+        "de": "nass",
+        "fr": "mouillé, humide"
+      },
+      {
+        "de": "immer wieder",
+        "fr": "régulièrement, par moments"
+      },
+      {
+        "de": "die Küste",
+        "fr": "la côte"
+      },
+      {
+        "de": "der Sturm",
+        "fr": "la tempête"
+      },
+      {
+        "de": "ungemütlich",
+        "fr": "désagréable (temps)"
+      },
+      {
+        "de": "aufhören",
+        "fr": "s'arrêter"
+      },
+      {
+        "de": "der Nebel",
+        "fr": "le brouillard"
+      },
+      {
+        "de": "der Frost",
+        "fr": "le gel"
+      },
+      {
+        "de": "glatt",
+        "fr": "glissant"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Wie ist das Wetter heute, am Freitag?",
+      "options": [
+        "Grau, nass und windig",
+        "Sonnig und warm",
+        "Kalt mit Schnee"
+      ],
+      "answer": 0,
+      "why": "*Heute bleibt es leider noch grau und nass … und der Wind ist ziemlich stark.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie warm wird es heute?",
+      "options": [
+        "Zwei bis vier Grad",
+        "Sieben bis neun Grad",
+        "Siebzehn bis neunzehn Grad"
+      ],
+      "answer": 1,
+      "why": "*Die Temperaturen liegen bei sieben bis neun Grad.* Deux à quatre degrés, c'est pour dimanche."
+    },
+    {
+      "type": "mcq",
+      "q": "Am Samstag regnet es den ganzen Tag.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Am Samstag hört der Regen am Vormittag auf.* L'après-midi, le soleil revient."
+    },
+    {
+      "type": "mcq",
+      "q": "Was empfiehlt Sophie für Samstagnachmittag?",
+      "options": [
+        "Einen Museumsbesuch",
+        "Zu Hause zu bleiben",
+        "Einen Spaziergang an der Elbe"
+      ],
+      "answer": 2,
+      "why": "*Am Nachmittag kommt sogar die Sonne heraus – perfekt für einen Spaziergang an der Elbe.*"
+    },
+    {
+      "type": "dictation",
+      "text": "Am Sonntag wird es kälter.",
+      "fr": "Dimanche, il fera plus froid.",
+      "why": "Écoute plusieurs fois, puis vérifie la majuscule de *Sonntag* et le *ä* de *kälter*."
+    },
+    {
+      "type": "dictation",
+      "text": "Morgens gibt es Nebel.",
+      "fr": "Le matin, il y a du brouillard.",
+      "why": "Écoute plusieurs fois : *morgens* (le matin) prend une majuscule ici seulement parce qu'il commence la phrase ; *Nebel* est un nom."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Wo kann es in der Nacht zum Samstag Sturm geben?",
+      "options": [
+        "In den Bergen",
+        "An der Küste",
+        "Im Hamburger Hafen"
+      ],
+      "answer": 1,
+      "why": "*In der Nacht kann es an der Küste sogar Sturm geben.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Am Sonntag steigen die Temperaturen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Am Sonntag wird es kälter … die Temperaturen fallen auf zwei bis vier Grad.* *fallen* = baisser, *steigen* = monter."
+    },
+    {
+      "type": "mcq",
+      "q": "Was kann es in der Nacht zum Montag geben?",
+      "options": [
+        "Ein Gewitter",
+        "Starken Regen",
+        "Frost"
+      ],
+      "answer": 2,
+      "why": "*In der Nacht zum Montag kann es sogar Frost geben.* *der Frost* = le gel."
+    },
+    {
+      "type": "mcq",
+      "q": "Warum sollen Autofahrer am Montagmorgen vorsichtig sein?",
+      "options": [
+        "Weil die Straßen glatt sein können",
+        "Weil es viel Verkehr gibt",
+        "Weil eine Brücke gesperrt ist"
+      ],
+      "answer": 0,
+      "why": "*… sollte vorsichtig sein, denn die Straßen können glatt sein.* Avec le gel, les routes deviennent glissantes."
+    },
+    {
+      "type": "gap",
+      "q": "Am Samstag hört der Regen am Vormittag ___.",
+      "answers": [
+        "auf"
+      ],
+      "hint": "aufhören est séparable",
+      "why": "*aufhören* (s'arrêter) est séparable : au présent, la particule *auf* va à la fin de la phrase."
+    },
+    {
+      "type": "dictation",
+      "text": "Die Straßen können glatt sein.",
+      "fr": "Les routes peuvent être glissantes.",
+      "why": "Écoute plusieurs fois : *Straßen* s'écrit avec ß, et l'infinitif *sein* va à la fin après le modal *können*."
+    }
+  ],
+  "createdAt": "2026-11-19"
+}
