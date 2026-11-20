@@ -1,0 +1,645 @@
+{
+  "id": "cours-brayan-subordonnees",
+  "section": "cours",
+  "teacher": "brayan",
+  "level": "A2",
+  "title": "Les subordonnées : questions indirectes, weil, dass, wenn, obwohl, als",
+  "topic": "Subordonnées",
+  "tags": [
+    "Subordonnées",
+    "Ordre des mots"
+  ],
+  "summary": "Ich weiß nicht, wer er ist : envoyer le verbe à la fin après un mot interrogatif ou une conjonction, et choisir entre als, wenn et obwohl.",
+  "source": "Notes du cours du 20/11/2026 + Preply A2, leçons 10.1 et 10.2",
+  "createdAt": "2026-11-20",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "La règle d'or : le verbe conjugué à la fin"
+    },
+    {
+      "type": "p",
+      "text": "Après un **mot interrogatif** (W-Wort) ou une **conjonction de subordination** (*weil, dass, wenn, obwohl, als, ob*), le verbe conjugué part **à la fin** de la proposition. Une **virgule** sépare toujours les deux parties."
+    },
+    {
+      "type": "tip",
+      "text": "Si la subordonnée vient **en premier**, la principale commence par son verbe : *Wenn ich Zeit habe, **besuche** ich dich.* On obtient « verbe, virgule, verbe »."
+    },
+    {
+      "type": "h",
+      "text": "Les questions indirectes (W-Fragen)"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Question directe",
+        "Question indirecte (verbe à la fin)"
+      ],
+      "rows": [
+        [
+          "Wer **ist** er?",
+          "Ich weiß nicht, wer er **ist**."
+        ],
+        [
+          "Wohin **möchte** ich gehen?",
+          "Ich gehe, wohin ich **möchte**."
+        ],
+        [
+          "Warum **bewege** ich mich so viel?",
+          "Ich weiß nicht, warum ich mich seit gestern so viel **bewege**."
+        ],
+        [
+          "Wo **wohnt** sie?",
+          "Kannst du mir sagen, wo sie **wohnt**?"
+        ],
+        [
+          "**Kommt** er morgen? (oui/non)",
+          "Ich weiß nicht, **ob** er morgen **kommt**."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Pour une question **oui / non** rendue indirecte, on utilise ***ob*** (= si) : *Ich frage mich, ob…*"
+    },
+    {
+      "type": "h",
+      "text": "weil, dass, wenn"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Conjonction",
+        "Sens",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "**weil**",
+          "parce que",
+          "Ich bin müde, weil ich wenig geschlafen **habe**."
+        ],
+        [
+          "**dass**",
+          "que",
+          "Ich hoffe, dass du bald **kommst**."
+        ],
+        [
+          "**wenn**",
+          "si / quand (répétition ou condition)",
+          "Wenn es regnet, **nehmen** wir den Bus."
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "obwohl et als"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Mot",
+        "Usage",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "**obwohl**",
+          "opposition (bien que)",
+          "Obwohl es regnet, gehe ich spazieren."
+        ],
+        [
+          "**als**",
+          "un moment ou une période **unique** dans le passé",
+          "Als ich klein war, lebte ich in Bafoussam."
+        ],
+        [
+          "**wenn**",
+          "une **habitude** passée, ou une condition",
+          "Wenn ich krank war, blieb ich zu Hause."
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Obwohl er müde ist, arbeitet er weiter.",
+          "fr": "Bien qu'il soit fatigué, il continue de travailler."
+        },
+        {
+          "de": "Als wir in Berlin waren, besuchten wir ein Museum.",
+          "fr": "Quand nous étions à Berlin, nous avons visité un musée."
+        },
+        {
+          "de": "Als ich zehn Jahre alt war, spielte ich Fußball.",
+          "fr": "Quand j'avais dix ans, je jouais au football."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Après *obwohl*, pas de subjonctif comme en français (« bien qu'il **soit** ») : le verbe reste à l'indicatif, simplement placé à la fin."
+    },
+    {
+      "type": "h",
+      "text": "Mots et expressions du cours"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**einen Vortrag halten** = faire un exposé, une conférence (*der Vortrag, die Vorträge*). Perfekt : *Ich habe einen Vortrag **gehalten**.*",
+        "**niemand** = personne ; verbe à la 3e personne du singulier : *Niemand **weiß** es.*",
+        "**schneien** = neiger, toujours avec *es* : *Es **schneit**. Gestern **hat** es **geschneit**.*",
+        "**rufen** = appeler (à voix haute) ; au téléphone : ***an**rufen*.",
+        "**zu + der = zur** : *Ich gehe **zur** Schule / **zur** Arbeit.*",
+        "**obwohl** = bien que."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "À corriger dans tes notes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "*Ich **kenne** nicht, wer er ist* → *Ich **weiß** nicht, wer er ist.* **wissen** s'emploie devant une proposition (*wer…, dass…, ob…*) ; **kennen** devant un nom (*Ich kenne ihn nicht*).",
+        "*hilfbar* n'existe pas. ***hilfsbereit*** (avec un **s**) veut dire « serviable » et s'emploie pour une **personne**. Pour une langue, on dit ***nützlich*** (utile) ou ***hilfreich***.",
+        "*dass **das** Deutsch…* → *dass Deutsch…* : pas d'article devant le nom d'une langue. Phrase corrigée : *Ich weiß, dass Deutsch sehr **nützlich** ist.*"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Corrigé des exercices Preply"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Übung 1 (weil) : a) *Ich bin müde, weil ich wenig geschlafen habe.* b) *Er lernt Deutsch, weil er in Deutschland studieren möchte.*",
+        "Übung 2 : *Ich hoffe, dass du kommst.*",
+        "Übung 3 (exemples) : *Ich lerne viel, weil ich eine Prüfung habe. Ich glaube, dass er heute kommt. Wenn ich Zeit habe, besuche ich dich.*",
+        "als ou obwohl : a) ***Als*** *ich Kind war, wohnte ich…* (moment unique du passé) b) ***Obwohl*** *sie krank ist, geht sie zur Arbeit* (opposition)."
+      ]
+    }
+  ],
+  "verbs": [
+    {
+      "inf": "wissen",
+      "fr": "savoir",
+      "kinds": [
+        "mixte"
+      ],
+      "aux": "haben",
+      "partizip": "gewusst",
+      "praesens": [
+        "weiß",
+        "weißt",
+        "weiß",
+        "wissen",
+        "wisst",
+        "wissen"
+      ],
+      "praeteritum": [
+        "wusste",
+        "wusstest",
+        "wusste",
+        "wussten",
+        "wusstet",
+        "wussten"
+      ],
+      "example": {
+        "de": "Ich weiß nicht, wer er ist.",
+        "fr": "Je ne sais pas qui il est."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Ich [weiß] nicht, warum er so müde ist.",
+          "fr": "Je ne sais pas pourquoi il est si fatigué."
+        },
+        {
+          "t": "praeteritum",
+          "de": "Ich [wusste] nicht, dass du heute kommst.",
+          "fr": "Je ne savais pas que tu venais aujourd'hui."
+        }
+      ],
+      "note": "wissen + proposition (wer, dass, ob…)."
+    },
+    {
+      "inf": "kennen",
+      "fr": "connaître",
+      "kinds": [
+        "mixte"
+      ],
+      "aux": "haben",
+      "partizip": "gekannt",
+      "praesens": [
+        "kenne",
+        "kennst",
+        "kennt",
+        "kennen",
+        "kennt",
+        "kennen"
+      ],
+      "praeteritum": [
+        "kannte",
+        "kanntest",
+        "kannte",
+        "kannten",
+        "kanntet",
+        "kannten"
+      ],
+      "example": {
+        "de": "Ich kenne ihn nicht.",
+        "fr": "Je ne le connais pas."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "[Kennst] du den Mann dort?",
+          "fr": "Tu connais l'homme là-bas ?"
+        },
+        {
+          "t": "praeteritum",
+          "de": "Damals [kannte] ich niemanden in Berlin.",
+          "fr": "À l'époque, je ne connaissais personne à Berlin."
+        }
+      ],
+      "note": "kennen + nom ou pronom, jamais + proposition."
+    },
+    {
+      "inf": "rufen",
+      "fr": "appeler (à voix haute)",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "gerufen",
+      "praesens": [
+        "rufe",
+        "rufst",
+        "ruft",
+        "rufen",
+        "ruft",
+        "rufen"
+      ],
+      "praeteritum": [
+        "rief",
+        "riefst",
+        "rief",
+        "riefen",
+        "rieft",
+        "riefen"
+      ],
+      "example": {
+        "de": "Die Lehrerin ruft meinen Namen.",
+        "fr": "La professeure appelle mon nom."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Die Mutter [ruft] die Kinder zum Essen.",
+          "fr": "La mère appelle les enfants pour manger."
+        },
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] dich zweimal [gerufen].",
+          "fr": "Je t'ai appelée deux fois."
+        }
+      ]
+    },
+    {
+      "inf": "halten",
+      "fr": "tenir ; faire (un exposé)",
+      "kinds": [
+        "fort"
+      ],
+      "aux": "haben",
+      "partizip": "gehalten",
+      "praesens": [
+        "halte",
+        "hältst",
+        "hält",
+        "halten",
+        "haltet",
+        "halten"
+      ],
+      "praeteritum": [
+        "hielt",
+        "hieltst",
+        "hielt",
+        "hielten",
+        "hieltet",
+        "hielten"
+      ],
+      "example": {
+        "de": "Ich halte morgen einen Vortrag.",
+        "fr": "Je fais un exposé demain."
+      },
+      "ctx": [
+        {
+          "t": "praesens",
+          "de": "Morgen [hält] sie einen Vortrag über Marketing.",
+          "fr": "Demain, elle fait un exposé sur le marketing."
+        },
+        {
+          "t": "perfekt",
+          "de": "Ich [habe] gestern einen Vortrag [gehalten].",
+          "fr": "Hier, j'ai fait un exposé."
+        }
+      ],
+      "note": "einen Vortrag halten = faire un exposé."
+    }
+  ],
+  "vocab": [
+    {
+      "de": "Vortrag",
+      "fr": "l'exposé, la conférence",
+      "article": "der",
+      "plural": "Vorträge",
+      "ex": {
+        "de": "Der Vortrag war sehr interessant.",
+        "fr": "L'exposé était très intéressant."
+      }
+    },
+    {
+      "de": "niemand",
+      "fr": "personne",
+      "ex": {
+        "de": "Hier ist niemand.",
+        "fr": "Il n'y a personne ici."
+      }
+    },
+    {
+      "de": "schneien",
+      "fr": "neiger",
+      "ex": {
+        "de": "Morgen soll es schneien.",
+        "fr": "Il paraît qu'il va neiger demain."
+      }
+    },
+    {
+      "de": "obwohl",
+      "fr": "bien que",
+      "ex": {
+        "de": "Ich gehe spazieren, obwohl es regnet.",
+        "fr": "Je vais me promener bien qu'il pleuve."
+      }
+    },
+    {
+      "de": "hilfsbereit",
+      "fr": "serviable",
+      "ex": {
+        "de": "Meine Kollegen sind sehr hilfsbereit.",
+        "fr": "Mes collègues sont très serviables."
+      }
+    },
+    {
+      "de": "nützlich",
+      "fr": "utile",
+      "ex": {
+        "de": "Deutsch ist sehr nützlich.",
+        "fr": "L'allemand est très utile."
+      }
+    },
+    {
+      "de": "müde",
+      "fr": "fatigué",
+      "ex": {
+        "de": "Ich bin heute sehr müde.",
+        "fr": "Je suis très fatiguée aujourd'hui."
+      }
+    },
+    {
+      "de": "Grund",
+      "fr": "la raison",
+      "article": "der",
+      "plural": "Gründe",
+      "ex": {
+        "de": "Was ist der Grund?",
+        "fr": "Quelle est la raison ?"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "answers": [
+        "Ich bin müde, weil ich wenig geschlafen habe"
+      ],
+      "why": "Après *weil* : participe puis auxiliaire conjugué à la fin."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Er lernt Deutsch, weil er in Deutschland studieren möchte"
+      ],
+      "why": "Après *weil* : infinitif puis modal conjugué à la fin."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich hoffe, dass du kommst"
+      ],
+      "why": "*dass* + verbe conjugué à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich weiß nicht, ___ er heißt.",
+      "options": [
+        "wie",
+        "wer",
+        "wo"
+      ],
+      "answer": 0,
+      "why": "« comment il s'appelle » → **wie** er heißt."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich ___ nicht, wer er ist.",
+      "options": [
+        "weiß",
+        "kenne",
+        "kann"
+      ],
+      "answer": 0,
+      "why": "Devant une proposition (*wer er ist*), on emploie **wissen**."
+    },
+    {
+      "type": "mcq",
+      "q": "___ ich klein war, lebte ich in Bafoussam.",
+      "options": [
+        "Als",
+        "Wenn",
+        "Obwohl"
+      ],
+      "answer": 0,
+      "why": "Période unique dans le passé → **als**."
+    },
+    {
+      "type": "mcq",
+      "q": "___ es regnet, gehe ich spazieren.",
+      "options": [
+        "Obwohl",
+        "Als",
+        "Dass"
+      ],
+      "answer": 0,
+      "why": "Opposition (bien que) → **obwohl**."
+    },
+    {
+      "type": "cloze",
+      "text": "Ich weiß nicht, warum er heute nicht [kommt].",
+      "hint": "kommen",
+      "why": "Question indirecte : verbe conjugué à la fin."
+    },
+    {
+      "type": "cloze",
+      "text": "Wenn ich Zeit habe, [besuche] ich dich.",
+      "hint": "besuchen",
+      "why": "Subordonnée en premier → la principale commence par le verbe."
+    },
+    {
+      "type": "gap",
+      "q": "Morgen muss ich einen Vortrag ___.",
+      "answers": [
+        "halten"
+      ],
+      "why": "*einen Vortrag **halten*** = faire un exposé."
+    },
+    {
+      "type": "mcq",
+      "q": "Niemand ___ die Antwort.",
+      "options": [
+        "weiß",
+        "wissen",
+        "weißt"
+      ],
+      "answer": 0,
+      "why": "*niemand* + 3e personne du singulier : **weiß**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Il neige.",
+      "answers": [
+        "Es schneit."
+      ],
+      "why": "*schneien* s'emploie avec le sujet impersonnel **es**."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "___ sie krank ist, geht sie zur Arbeit.",
+      "options": [
+        "Obwohl",
+        "Als",
+        "Ob"
+      ],
+      "answer": 0,
+      "why": "Opposition → **obwohl**."
+    },
+    {
+      "type": "mcq",
+      "q": "___ ich krank war, blieb ich immer zu Hause.",
+      "options": [
+        "Wenn",
+        "Als",
+        "Obwohl"
+      ],
+      "answer": 0,
+      "why": "Habitude passée (*immer*) → **wenn**."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Als wir in Berlin waren, besuchten wir ein Museum"
+      ],
+      "why": "*Als* + verbe à la fin, puis la principale commence par le verbe."
+    },
+    {
+      "type": "cloze",
+      "text": "Sie bleibt zu Hause, weil sie krank [ist].",
+      "hint": "sein",
+      "why": "Après *weil*, le verbe conjugué va à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich frage mich, ___ er morgen kommt.",
+      "options": [
+        "ob",
+        "wenn",
+        "dass"
+      ],
+      "answer": 0,
+      "why": "Question oui / non indirecte → **ob**."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je ne sais pas où il habite.",
+      "answers": [
+        "Ich weiß nicht, wo er wohnt."
+      ],
+      "why": "*wissen* + question indirecte, verbe à la fin."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Je suis fatiguée parce que j'ai peu dormi.",
+      "answers": [
+        "Ich bin müde, weil ich wenig geschlafen habe."
+      ],
+      "why": "Après *weil* : *geschlafen habe* à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Deutsch ist sehr ___.",
+      "options": [
+        "nützlich",
+        "hilfsbereit",
+        "hilfbar"
+      ],
+      "answer": 0,
+      "why": "Pour une langue : **nützlich**. *hilfsbereit* se dit d'une personne ; *hilfbar* n'existe pas."
+    },
+    {
+      "type": "gap",
+      "q": "Ich gehe ___ Schule.",
+      "answers": [
+        "zur"
+      ],
+      "why": "zu + der = **zur**.",
+      "hint": "zu + der"
+    },
+    {
+      "type": "mcq",
+      "q": "Obwohl er müde ist, ___ weiter.",
+      "options": [
+        "arbeitet er",
+        "er arbeitet",
+        "arbeiten er"
+      ],
+      "answer": 0,
+      "why": "Subordonnée en premier → verbe puis sujet : **arbeitet er**."
+    },
+    {
+      "type": "cloze",
+      "text": "Ich hoffe, dass du bald [kommst].",
+      "hint": "kommen, du",
+      "why": "*dass* + verbe à la fin : *kommst*."
+    },
+    {
+      "type": "mcq",
+      "q": "Gestern hat sie einen Vortrag ___.",
+      "options": [
+        "gehalten",
+        "gehaltet",
+        "halten"
+      ],
+      "answer": 0,
+      "why": "*halten* est un verbe fort : participe **gehalten**."
+    }
+  ]
+}
