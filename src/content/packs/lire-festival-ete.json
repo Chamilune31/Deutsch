@@ -1,0 +1,270 @@
+{
+  "id": "lire-festival-ete",
+  "section": "lecture",
+  "title": "Un programme de festival d'été",
+  "level": "A2",
+  "topic": "Loisirs",
+  "release": 6,
+  "summary": "Le programme d'un festival au bord du lac de Constance : trouver vite une heure, un lieu, un prix ou une règle pratique.",
+  "tags": [
+    "Programme",
+    "Loisirs",
+    "Horaires"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Un programme (*das Programm*) ne se lit pas du début à la fin : on **cherche une information précise**. À l'examen, lis d'abord la question, repère le mot-clé (un jour, une heure, un prix), puis cherche-le dans le texte."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Allemand",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "Der Eintritt ist frei. / … ist kostenlos.",
+          "L'entrée est gratuite. / … est gratuit."
+        ],
+        [
+          "die Veranstaltung",
+          "l'événement, la manifestation"
+        ],
+        [
+          "Das Kino findet in der Stadthalle statt.",
+          "Le cinéma a lieu dans la salle municipale."
+        ],
+        [
+          "bei Regen",
+          "en cas de pluie"
+        ],
+        [
+          "ab 10 Uhr / bis 1 Uhr nachts",
+          "à partir de 10 h / jusqu'à 1 h du matin"
+        ],
+        [
+          "Studierende zahlen die Hälfte.",
+          "Les étudiants paient moitié prix."
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Für die Konzerte auf der großen Bühne **braucht** man ein Ticket.",
+          "fr": "Pour les concerts sur la grande scène, il faut un billet."
+        },
+        {
+          "de": "Bitte **reservieren** Sie das Frühstück **bis** Freitag.",
+          "fr": "Merci de réserver le petit-déjeuner d'ici vendredi."
+        },
+        {
+          "de": "Hunde sind im Park **erlaubt**, aber nicht bei den Konzerten.",
+          "fr": "Les chiens sont autorisés dans le parc, mais pas aux concerts."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**frei** a deux sens : *Der Eintritt ist frei* = l'entrée est **gratuite** ; *Ist der Platz frei?* = la place est **libre** ? Et attention à *bis Freitag* : cela veut dire « **au plus tard** vendredi », pas « à partir de vendredi » (= *ab Freitag*)."
+    }
+  ],
+  "reading": {
+    "title": "Sommerfestival am See – 18. bis 20. Juli",
+    "kind": "Programme de festival",
+    "paragraphs": [
+      "Herzlich willkommen zum 12. Sommerfestival in Konstanz! Drei Tage lang gibt es direkt am Bodensee Musik, Theater, Kino und gutes Essen. Der Eintritt zu allen Veranstaltungen im Park ist frei. Nur für die Konzerte auf der großen Bühne braucht man ein Ticket.",
+      "Freitag, 18. Juli\n18:00 Uhr: Eröffnung mit der Bürgermeisterin\n20:30 Uhr: Konzert auf der großen Bühne: die Band „Nordwind“ (Pop und Rock), Ticket: 25 Euro",
+      "Samstag, 19. Juli\n10:00–13:00 Uhr: Kinderprogramm mit Zirkus und Malwerkstatt im Park\n15:00 Uhr: Theater für alle: „Der kleine Prinz“ auf der Wiese, kostenlos\n21:30 Uhr: Open-Air-Kino am Strand: eine deutsche Komödie. Bitte bringen Sie eine Decke mit!",
+      "Sonntag, 20. Juli\n11:00 Uhr: Jazzfrühstück im Café am Hafen (bitte bis Freitag reservieren)\n16:00 Uhr: Abschlusskonzert mit dem Jugendorchester der Stadt, Ticket: 10 Euro, Studierende zahlen die Hälfte",
+      "---",
+      "Gut zu wissen\nTickets gibt es online oder an der Kasse am Haupteingang. Die Kasse ist täglich ab 10 Uhr geöffnet. Auf dem Festivalgelände gibt es keine Parkplätze. Kommen Sie am besten mit dem Fahrrad oder mit dem Bus: Die Linie 5 fährt bis 1 Uhr nachts alle 15 Minuten. Bei Regen findet das Kino in der Stadthalle statt. Hunde sind im Park erlaubt, aber nicht bei den Konzerten. Wir wünschen Ihnen viel Spaß!"
+    ],
+    "glossary": [
+      {
+        "de": "der See / der Bodensee",
+        "fr": "le lac / le lac de Constance"
+      },
+      {
+        "de": "die Veranstaltung",
+        "fr": "l'événement, la manifestation"
+      },
+      {
+        "de": "der Eintritt",
+        "fr": "l'entrée (le prix d'entrée)"
+      },
+      {
+        "de": "die Bühne",
+        "fr": "la scène"
+      },
+      {
+        "de": "die Eröffnung",
+        "fr": "l'ouverture, l'inauguration"
+      },
+      {
+        "de": "die Bürgermeisterin",
+        "fr": "la maire"
+      },
+      {
+        "de": "die Malwerkstatt",
+        "fr": "l'atelier de peinture"
+      },
+      {
+        "de": "die Wiese",
+        "fr": "la pelouse, le pré"
+      },
+      {
+        "de": "die Decke",
+        "fr": "la couverture, le plaid"
+      },
+      {
+        "de": "das Abschlusskonzert",
+        "fr": "le concert de clôture"
+      },
+      {
+        "de": "der Haupteingang",
+        "fr": "l'entrée principale"
+      },
+      {
+        "de": "das Gelände",
+        "fr": "le site, le terrain"
+      },
+      {
+        "de": "stattfinden",
+        "fr": "avoir lieu"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Wie lange dauert das Festival?",
+      "options": [
+        "Drei Tage",
+        "Eine Woche",
+        "Zwei Tage"
+      ],
+      "answer": 0,
+      "why": "*Drei Tage lang gibt es … Musik, Theater, Kino …* : du vendredi 18 au dimanche 20 juillet."
+    },
+    {
+      "type": "mcq",
+      "q": "Für das Theater am Samstag braucht man ein Ticket.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Theater für alle … auf der Wiese, kostenlos.* Seuls les concerts sur la grande scène sont payants."
+    },
+    {
+      "type": "mcq",
+      "q": "Was gibt es am Samstagvormittag?",
+      "options": [
+        "Ein Konzert von „Nordwind“",
+        "Ein Programm für Kinder",
+        "Ein Jazzfrühstück"
+      ],
+      "answer": 1,
+      "why": "*10:00–13:00 Uhr: Kinderprogramm mit Zirkus und Malwerkstatt.* Le *Vormittag*, c'est la matinée."
+    },
+    {
+      "type": "mcq",
+      "q": "Was sollen die Besucher zum Open-Air-Kino mitbringen?",
+      "options": [
+        "Ein Ticket",
+        "Einen Regenschirm",
+        "Eine Decke"
+      ],
+      "answer": 2,
+      "why": "*Bitte bringen Sie eine Decke mit!* *mitbringen* = apporter ; *die Decke* = le plaid, pour s'asseoir sur la plage."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Konzert von „Nordwind“ kostet 25 Euro.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*Konzert auf der großen Bühne: die Band „Nordwind“ … Ticket: 25 Euro.*"
+    },
+    {
+      "type": "gap",
+      "q": "Bei Regen findet das Kino in der Stadthalle ___.",
+      "answers": [
+        "statt"
+      ],
+      "hint": "stattfinden est séparable",
+      "why": "*stattfinden* (avoir lieu) est séparable : au présent, *statt* va à la fin de la phrase."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Bis wann muss man das Jazzfrühstück reservieren?",
+      "options": [
+        "Bis Sonntag",
+        "Bis Freitag",
+        "Bis Samstagabend"
+      ],
+      "answer": 1,
+      "why": "*Jazzfrühstück … (bitte bis Freitag reservieren).* *bis Freitag* = au plus tard vendredi."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel bezahlt eine Studentin für das Abschlusskonzert?",
+      "options": [
+        "10 Euro",
+        "5 Euro",
+        "Nichts"
+      ],
+      "answer": 1,
+      "why": "Le billet coûte 10 euros, mais *Studierende zahlen die Hälfte* : la moitié, donc 5 euros."
+    },
+    {
+      "type": "mcq",
+      "q": "Man kann mit dem Auto zum Festival fahren und dort parken.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Auf dem Festivalgelände gibt es keine Parkplätze.* Le programme conseille le vélo ou le bus."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie oft fährt die Buslinie 5?",
+      "options": [
+        "Jede Stunde",
+        "Alle 30 Minuten",
+        "Alle 15 Minuten"
+      ],
+      "answer": 2,
+      "why": "*Die Linie 5 fährt bis 1 Uhr nachts alle 15 Minuten.* *alle 15 Minuten* = toutes les 15 minutes."
+    },
+    {
+      "type": "mcq",
+      "q": "Hunde dürfen zu den Konzerten mitkommen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Hunde sind im Park erlaubt, aber nicht bei den Konzerten.* Attention au *aber nicht* en fin de phrase."
+    },
+    {
+      "type": "gap",
+      "q": "Der Eintritt zu allen Veranstaltungen im Park ist ___.",
+      "answers": [
+        "frei",
+        "kostenlos"
+      ],
+      "hint": "gratuit",
+      "why": "*Der Eintritt … ist frei* : l'entrée est gratuite. *kostenlos* a le même sens."
+    }
+  ],
+  "createdAt": "2026-11-22"
+}

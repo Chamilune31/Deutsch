@@ -1,0 +1,151 @@
+{
+  "id": "parler-souvenir-voyage",
+  "section": "oral",
+  "title": "Raconter son meilleur souvenir de voyage",
+  "level": "A2",
+  "topic": "Voyage",
+  "release": 6,
+  "summary": "Raconter un voyage pendant deux minutes : situer avec als, enchaîner au Perfekt et raconter un moment particulier.",
+  "tags": [
+    "Perfekt",
+    "als",
+    "Récit"
+  ],
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Le plan du récit"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Situer** : quand, où, avec qui ? *Als ich achtzehn **war**, **bin** ich nach Lissabon **geflogen**.*",
+        "**Le logement** : *Wir **haben** in einer Jugendherberge **übernachtet**.*",
+        "**Les activités, dans l'ordre** : *zuerst …, danach …, abends …*",
+        "**Un moment particulier** : *Am vierten Tag **ist** etwas Lustiges **passiert**.*",
+        "**Pourquoi c'est ton meilleur souvenir** : *…, **weil** ich zum ersten Mal ganz selbstständig **war**.*"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "haben ou sein au Perfekt ?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Verbe",
+        "Perfekt",
+        "Pourquoi"
+      ],
+      "rows": [
+        [
+          "fahren / fliegen",
+          "ich bin gefahren / geflogen",
+          "déplacement → sein"
+        ],
+        [
+          "passieren",
+          "es ist passiert",
+          "événement, changement → sein"
+        ],
+        [
+          "bleiben",
+          "wir sind geblieben",
+          "exception à retenir → sein"
+        ],
+        [
+          "übernachten",
+          "wir haben übernachtet",
+          "pas de déplacement → haben"
+        ],
+        [
+          "besichtigen",
+          "wir haben besichtigt",
+          "préfixe be- (pas de ge-) → haben"
+        ],
+        [
+          "sich verlaufen",
+          "wir haben uns verlaufen",
+          "verbe réfléchi → haben"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "**Als** ich achtzehn **war**, **bin** ich mit zwei Freundinnen nach Lissabon **geflogen**.",
+          "fr": "Quand j'avais dix-huit ans, je suis partie en avion à Lisbonne avec deux amies."
+        },
+        {
+          "de": "Danach **sind** wir mit der alten Straßenbahn bis nach Belém **gefahren**.",
+          "fr": "Ensuite, nous avons pris le vieux tramway jusqu'à Belém."
+        },
+        {
+          "de": "Wir **haben uns** in der Altstadt **verlaufen**.",
+          "fr": "Nous nous sommes perdues dans la vieille ville."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "« Quand » dans le passé, pour **une seule fois**, se dit **als** (pas *wenn*) : *Als ich achtzehn war, …* Le verbe conjugué va **à la fin** de la subordonnée, et la principale commence par le verbe : *Als ich achtzehn war, **bin** ich …* Et attention : *sich verlaufen* (se perdre à pied) prend **haben**, alors qu'en français on dit « nous nous sommes perdus »."
+    }
+  ],
+  "task": {
+    "prompt": "Raconte ton **meilleur souvenir de voyage** pendant environ **2 minutes**.",
+    "points": [
+      "Où et quand es-tu parti(e), et avec qui ?",
+      "Comment as-tu voyagé, où as-tu dormi ?",
+      "Qu'as-tu fait et visité ?",
+      "Raconte un moment particulier (une surprise, un problème, une rencontre)",
+      "Explique pourquoi c'est ton meilleur souvenir"
+    ],
+    "prepSeconds": 90,
+    "speakSeconds": 120,
+    "phrases": [
+      {
+        "de": "Ich möchte von meiner schönsten Reise erzählen.",
+        "fr": "Je voudrais raconter mon plus beau voyage."
+      },
+      {
+        "de": "Als ich … war, bin ich nach … gefahren.",
+        "fr": "Quand j'avais… ans, je suis allé(e) à / en…"
+      },
+      {
+        "de": "Wir sind mit dem Zug gefahren / mit dem Flugzeug geflogen.",
+        "fr": "Nous avons pris le train / l'avion."
+      },
+      {
+        "de": "Wir haben in einer Jugendherberge übernachtet.",
+        "fr": "Nous avons dormi dans une auberge de jeunesse."
+      },
+      {
+        "de": "Zuerst haben wir … besichtigt, danach …",
+        "fr": "D'abord, nous avons visité…, ensuite…"
+      },
+      {
+        "de": "Am … Tag ist etwas Lustiges passiert.",
+        "fr": "Le … jour, il s'est passé quelque chose de drôle."
+      },
+      {
+        "de": "Das war ein unvergesslicher Moment.",
+        "fr": "C'était un moment inoubliable."
+      },
+      {
+        "de": "Diese Reise ist meine schönste Erinnerung, weil …",
+        "fr": "Ce voyage est mon plus beau souvenir, parce que…"
+      }
+    ],
+    "model": "Ich möchte von meiner schönsten Reise erzählen. Als ich achtzehn war, bin ich mit zwei Freundinnen nach Lissabon geflogen. Es war unsere erste Reise ohne Eltern!\nWir haben eine Woche in einer Jugendherberge im Stadtzentrum übernachtet. Das war billig, und wir haben dort viele junge Leute aus der ganzen Welt kennengelernt.\nAm ersten Tag haben wir zuerst die Altstadt besichtigt. Danach sind wir mit der alten Straßenbahn bis nach Belém gefahren. Abends haben wir Fisch gegessen und in kleinen Bars Musik gehört.\nAm vierten Tag ist etwas Lustiges passiert: Wir haben uns in der Altstadt verlaufen. Eine alte Dame hat uns den Weg gezeigt und uns sogar zu einem Kaffee eingeladen. Das war ein unvergesslicher Moment.\nDiese Reise ist meine schönste Erinnerung, weil ich zum ersten Mal ganz selbstständig war. Seitdem reise ich sehr gern.",
+    "modelFr": "Je voudrais raconter mon plus beau voyage. Quand j'avais dix-huit ans, je suis partie en avion à Lisbonne avec deux amies. C'était notre premier voyage sans nos parents ! Nous avons passé une semaine dans une auberge de jeunesse au centre-ville. C'était bon marché, et nous y avons rencontré beaucoup de jeunes du monde entier. Le premier jour, nous avons d'abord visité la vieille ville. Ensuite, nous avons pris le vieux tramway jusqu'à Belém. Le soir, nous avons mangé du poisson et écouté de la musique dans de petits bars. Le quatrième jour, il s'est passé quelque chose de drôle : nous nous sommes perdues dans la vieille ville. Une vieille dame nous a montré le chemin et nous a même invitées à prendre un café. C'était un moment inoubliable. Ce voyage est mon plus beau souvenir, parce que, pour la première fois, j'étais complètement autonome. Depuis, j'adore voyager.",
+    "criteria": [
+      "J'ai situé le voyage avec als (Als ich … war, bin ich …)",
+      "J'ai utilisé sein pour les déplacements (bin gefahren, sind geflogen) et haben pour le reste",
+      "J'ai raconté dans l'ordre avec zuerst, danach, abends, am Ende",
+      "J'ai raconté un moment particulier",
+      "J'ai expliqué pourquoi avec weil (verbe à la fin)"
+    ]
+  },
+  "createdAt": "2026-11-22"
+}

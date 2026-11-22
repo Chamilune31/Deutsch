@@ -161,13 +161,10 @@
       "lire-forum-restaurant",
       "lire-reglement-residence",
       "lire-offre-stage",
-      "lire-semaine-quatre-jours"
+      "lire-semaine-quatre-jours",
+      "lire-festival-ete"
     ],
     "a_venir": [
-      {
-        "topic": "Un programme de festival d'été",
-        "level": "A2"
-      },
       {
         "topic": "Mail d'un collègue : organisation d'un séminaire",
         "level": "B1"
@@ -182,13 +179,10 @@
       "ecouter-repondeur-rendez-vous",
       "ecouter-hotel-reservation",
       "ecouter-entretien-stage",
-      "ecouter-bulletin-meteo"
+      "ecouter-bulletin-meteo",
+      "ecouter-article-defectueux"
     ],
     "a_venir": [
-      {
-        "topic": "Au magasin : rapporter un article défectueux",
-        "level": "A2"
-      },
       {
         "topic": "Podcast : conseils pour mieux dormir",
         "level": "B1"
@@ -202,13 +196,10 @@
       "ecrire-mail-formel",
       "ecrire-week-end",
       "ecrire-plainte-hotel",
-      "ecrire-forum-langue-etranger"
+      "ecrire-forum-langue-etranger",
+      "ecrire-excuse-absence"
     ],
     "a_venir": [
-      {
-        "topic": "S'excuser auprès d'un professeur pour une absence",
-        "level": "B1"
-      },
       {
         "topic": "Répondre à une annonce de colocation",
         "level": "A2"
@@ -222,13 +213,10 @@
       "parler-presentation-reseaux",
       "parler-decrire-photo",
       "parler-week-end-vienne",
-      "parler-ville-campagne"
+      "parler-ville-campagne",
+      "parler-souvenir-voyage"
     ],
     "a_venir": [
-      {
-        "topic": "Raconter son meilleur souvenir de voyage",
-        "level": "A2"
-      },
       {
         "topic": "Présenter : le sport à l'école",
         "level": "B1"

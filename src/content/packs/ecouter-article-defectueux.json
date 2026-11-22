@@ -1,0 +1,279 @@
+{
+  "id": "ecouter-article-defectueux",
+  "section": "ecoute",
+  "title": "Au magasin : rapporter un article défectueux",
+  "level": "A2",
+  "topic": "Achats",
+  "release": 6,
+  "summary": "Une cliente rapporte des écouteurs en panne : comprendre le problème, les solutions proposées et ce qu'elle choisit.",
+  "tags": [
+    "Magasin",
+    "Réclamation"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Rapporter un article au magasin suit toujours le même schéma : on explique **ce qu'on a acheté** et **quand**, on décrit **le problème**, le vendeur demande **le ticket de caisse**, puis il propose une **solution** (réparer, échanger ou rembourser). Pendant l'écoute, note ces quatre informations."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Allemand",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "Das funktioniert nicht richtig. / Das ist kaputt.",
+          "Ça ne fonctionne pas bien. / C'est cassé."
+        ],
+        [
+          "Haben Sie den Kassenbon dabei?",
+          "Vous avez le ticket de caisse sur vous ?"
+        ],
+        [
+          "Wir schicken das Gerät zur Reparatur.",
+          "Nous envoyons l'appareil en réparation."
+        ],
+        [
+          "Wir tauschen es um.",
+          "Nous l'échangeons."
+        ],
+        [
+          "Kann ich mein Geld zurückbekommen?",
+          "Je peux être remboursé(e) ?"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Ich habe letzte Woche diese Kopfhörer bei Ihnen **gekauft**.",
+          "fr": "J'ai acheté ces écouteurs chez vous la semaine dernière."
+        },
+        {
+          "de": "Auf der linken Seite **höre** ich gar nichts.",
+          "fr": "Du côté gauche, je n'entends rien du tout."
+        },
+        {
+          "de": "Oder wir **tauschen** sie sofort **um**.",
+          "fr": "Ou bien nous les échangeons tout de suite."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "*die Kopfhörer* (les écouteurs, le casque) s'emploie presque toujours **au pluriel**, comme en français : *Die Kopfhörer **funktionieren** nicht. Ich probiere **sie** aus.* Et *umtauschen* (échanger) est séparable : *Wir tauschen sie **um**.*"
+    }
+  ],
+  "listening": {
+    "title": "Die Kopfhörer sind kaputt",
+    "situation": "Lundi après-midi, dans un magasin d'électronique à Munich. Une cliente rapporte des écouteurs qu'elle a achetés la semaine dernière.",
+    "lines": [
+      {
+        "who": "Verkäufer",
+        "de": "Guten Tag! Kann ich Ihnen helfen?"
+      },
+      {
+        "who": "Kundin",
+        "de": "Guten Tag! Ja, ich habe letzte Woche diese Kopfhörer bei Ihnen gekauft. Leider funktionieren sie nicht richtig."
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Oh, das tut mir leid. Was ist denn das Problem?"
+      },
+      {
+        "who": "Kundin",
+        "de": "Auf der linken Seite höre ich gar nichts. Ich habe sie schon zweimal aufgeladen, aber das hilft nicht."
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Haben Sie den Kassenbon dabei?"
+      },
+      {
+        "who": "Kundin",
+        "de": "Ja, hier ist er. Ich habe die Kopfhörer am Dienstag gekauft. Sie haben neunundsiebzig Euro gekostet."
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Danke. Sie haben zwei Möglichkeiten: Wir schicken die Kopfhörer zur Reparatur, das dauert ungefähr drei Wochen. Oder wir tauschen sie sofort um."
+      },
+      {
+        "who": "Kundin",
+        "de": "Drei Wochen sind zu lang, ich brauche sie jeden Tag in der U-Bahn. Kann ich nicht einfach mein Geld zurückbekommen?"
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Das geht leider nur, wenn wir das Modell nicht mehr haben. Aber es ist noch im Lager."
+      },
+      {
+        "who": "Kundin",
+        "de": "Na gut, dann tauschen wir sie um. Kann ich die neuen hier gleich ausprobieren?"
+      },
+      {
+        "who": "Verkäufer",
+        "de": "Natürlich, hier sind sie. Probieren Sie sie ruhig aus."
+      },
+      {
+        "who": "Kundin",
+        "de": "Perfekt, jetzt funktionieren beide Seiten. Vielen Dank für Ihre Hilfe!"
+      }
+    ],
+    "glossary": [
+      {
+        "de": "die Kopfhörer (pl.)",
+        "fr": "les écouteurs, le casque"
+      },
+      {
+        "de": "aufladen",
+        "fr": "recharger"
+      },
+      {
+        "de": "der Kassenbon",
+        "fr": "le ticket de caisse"
+      },
+      {
+        "de": "dabeihaben",
+        "fr": "avoir sur soi"
+      },
+      {
+        "de": "die Möglichkeit",
+        "fr": "la possibilité"
+      },
+      {
+        "de": "umtauschen",
+        "fr": "échanger (un article)"
+      },
+      {
+        "de": "zurückbekommen",
+        "fr": "récupérer, se faire rendre"
+      },
+      {
+        "de": "das Lager",
+        "fr": "le stock, la réserve"
+      },
+      {
+        "de": "ausprobieren",
+        "fr": "essayer, tester"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Was bringt die Kundin zurück?",
+      "options": [
+        "Ein Handy",
+        "Kopfhörer",
+        "Einen Laptop"
+      ],
+      "answer": 1,
+      "why": "*Ich habe letzte Woche diese Kopfhörer bei Ihnen gekauft.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Was ist das Problem?",
+      "options": [
+        "Auf der linken Seite hört sie nichts.",
+        "Die Kopfhörer sind zu laut.",
+        "Sie kann die Kopfhörer nicht aufladen."
+      ],
+      "answer": 0,
+      "why": "*Auf der linken Seite höre ich gar nichts.* Elle les a rechargés deux fois, donc la batterie n'est pas en cause."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Kundin hat die Kopfhörer am Dienstag gekauft.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*Ich habe die Kopfhörer am Dienstag gekauft.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wie viel haben die Kopfhörer gekostet?",
+      "options": [
+        "69 Euro",
+        "97 Euro",
+        "79 Euro"
+      ],
+      "answer": 2,
+      "why": "*neunundsiebzig* = 79 : en allemand, on dit l'unité d'abord (*neun*), puis la dizaine (*siebzig*)."
+    },
+    {
+      "type": "dictation",
+      "text": "Leider funktionieren sie nicht richtig.",
+      "fr": "Malheureusement, ils ne fonctionnent pas bien.",
+      "why": "Écoute plusieurs fois : *Leider* avec *ei* (prononcé « aï »), et *funktionieren* au pluriel car *sie* = les écouteurs."
+    },
+    {
+      "type": "dictation",
+      "text": "Haben Sie den Kassenbon dabei?",
+      "fr": "Vous avez le ticket de caisse sur vous ?",
+      "why": "Écoute plusieurs fois : *Sie* (vouvoiement) prend une majuscule, et *dabei* s'écrit en un seul mot."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Wie lange dauert eine Reparatur?",
+      "options": [
+        "Drei Tage",
+        "Ungefähr drei Wochen",
+        "Eine Woche"
+      ],
+      "answer": 1,
+      "why": "*Wir schicken die Kopfhörer zur Reparatur, das dauert ungefähr drei Wochen.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Warum möchte die Kundin nicht so lange warten?",
+      "options": [
+        "Sie fährt morgen in den Urlaub.",
+        "Sie möchte ein anderes Modell.",
+        "Sie braucht die Kopfhörer jeden Tag."
+      ],
+      "answer": 2,
+      "why": "*Drei Wochen sind zu lang, ich brauche sie jeden Tag in der U-Bahn.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Am Ende bekommt die Kundin ihr Geld zurück.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "Elle demande à être remboursée, mais finalement *dann tauschen wir sie um* : elle repart avec des écouteurs neufs."
+    },
+    {
+      "type": "mcq",
+      "q": "Wann bekommt man laut Verkäufer sein Geld zurück?",
+      "options": [
+        "Wenn das Modell nicht mehr da ist",
+        "Immer, wenn man den Kassenbon hat",
+        "Nur in den ersten drei Tagen"
+      ],
+      "answer": 0,
+      "why": "*Das geht leider nur, wenn wir das Modell nicht mehr haben.* Or le modèle est encore en stock."
+    },
+    {
+      "type": "gap",
+      "q": "Kann ich die neuen hier gleich ___?",
+      "answers": [
+        "ausprobieren"
+      ],
+      "hint": "essayer (verbe séparable, à l'infinitif)",
+      "why": "Avec le modal *kann*, le verbe va à l'infinitif en fin de phrase, particule collée : *ausprobieren*."
+    },
+    {
+      "type": "dictation",
+      "text": "Kann ich mein Geld zurückbekommen?",
+      "fr": "Je peux récupérer mon argent ?",
+      "why": "Écoute plusieurs fois : après le modal *kann*, l'infinitif *zurückbekommen* (en un seul mot) va à la fin."
+    }
+  ],
+  "createdAt": "2026-11-22"
+}

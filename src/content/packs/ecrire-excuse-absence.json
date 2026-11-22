@@ -1,0 +1,137 @@
+{
+  "id": "ecrire-excuse-absence",
+  "section": "ecriture",
+  "title": "S'excuser auprès d'un professeur pour une absence",
+  "level": "B1",
+  "topic": "Mail formel",
+  "release": 6,
+  "summary": "Un mail formel à une professeure : s'excuser, justifier son absence avec weil et obwohl, et proposer une solution.",
+  "tags": [
+    "Mail formel",
+    "Subordonnées",
+    "Modaux au Präteritum"
+  ],
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Le plan du mail d'excuse"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Formule d'appel** : *Sehr geehrte Frau Dr. Weber,* — la ligne suivante commence par une **minuscule** : *leider konnte ich …*",
+        "**S'excuser** : *Das tut mir sehr leid, vor allem **weil** wir an diesem Tag unsere Präsentation halten **sollten**.*",
+        "**Expliquer la raison** au Perfekt : *Am Montagabend **habe** ich hohes Fieber **bekommen**.*",
+        "**Proposer une solution** poliment : *Wäre es möglich, dass ich meinen Teil nächste Woche **präsentiere**?*",
+        "**Demander ce qu'il faut rattraper** : *Könnten Sie mir bitte mitteilen, was ich nacharbeiten **muss**?*",
+        "**Conclure** : *Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen*"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Les modaux au Präteritum"
+    },
+    {
+      "type": "p",
+      "text": "Pour raconter ce qu'on **n'a pas pu** ou ce qu'on **devait** faire, l'allemand préfère le **Präteritum** des modaux au Perfekt : *ich konnte* plutôt que *ich habe … gekonnt*. Pas d'Umlaut au Präteritum !"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Infinitif",
+        "ich / er, sie",
+        "wir / sie, Sie"
+      ],
+      "rows": [
+        [
+          "können (pouvoir)",
+          "konnte",
+          "konnten"
+        ],
+        [
+          "müssen (devoir)",
+          "musste",
+          "mussten"
+        ],
+        [
+          "wollen (vouloir)",
+          "wollte",
+          "wollten"
+        ],
+        [
+          "sollen (être censé)",
+          "sollte",
+          "sollten"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Leider **konnte** ich am Dienstag nicht an Ihrem Seminar **teilnehmen**.",
+          "fr": "Malheureusement, je n'ai pas pu assister à votre séminaire mardi."
+        },
+        {
+          "de": "**Obwohl** unsere Präsentation fertig **war**, **konnte** ich leider nicht kommen.",
+          "fr": "Bien que notre présentation soit prête, je n'ai malheureusement pas pu venir."
+        },
+        {
+          "de": "Ich **musste** am nächsten Morgen zum Arzt gehen.",
+          "fr": "J'ai dû aller chez le médecin le lendemain matin."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Après une subordonnée avec *obwohl*, *weil* ou *als* placée en tête, la principale commence **directement par le verbe** : *Obwohl ich krank **war**, **habe** ich gearbeitet.* On obtient « verbe, verbe » de part et d'autre de la virgule. Et dans un mail formel, *Sie*, *Ihr*, *Ihnen* prennent toujours une majuscule."
+    }
+  ],
+  "task": {
+    "prompt": "Mardi, tu as manqué le séminaire de marketing de Frau Dr. Weber. Ce jour-là, ton groupe devait faire une présentation. Écris-lui un mail (environ **100 mots**).",
+    "points": [
+      "Excuse-toi pour ton absence",
+      "Explique pourquoi tu n'as pas pu venir",
+      "Propose une solution pour ta partie de la présentation",
+      "Demande ce que tu dois rattraper pour la prochaine séance"
+    ],
+    "minWords": 100,
+    "phrases": [
+      {
+        "de": "Sehr geehrte Frau Dr. Weber,",
+        "fr": "Madame, (formule d'appel formelle)"
+      },
+      {
+        "de": "leider konnte ich am … nicht an Ihrem Seminar teilnehmen.",
+        "fr": "malheureusement, je n'ai pas pu assister à votre séminaire le…"
+      },
+      {
+        "de": "Das tut mir sehr leid, vor allem weil …",
+        "fr": "J'en suis vraiment désolé(e), surtout parce que…"
+      },
+      {
+        "de": "Obwohl …, konnte ich leider nicht kommen.",
+        "fr": "Bien que…, je n'ai malheureusement pas pu venir."
+      },
+      {
+        "de": "Das ärztliche Attest schicke ich Ihnen im Anhang.",
+        "fr": "Je vous envoie le certificat médical en pièce jointe."
+      },
+      {
+        "de": "Wäre es möglich, dass ich …?",
+        "fr": "Serait-il possible que je… ?"
+      },
+      {
+        "de": "Könnten Sie mir bitte mitteilen, was …?",
+        "fr": "Pourriez-vous m'indiquer ce que… ?"
+      },
+      {
+        "de": "Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen",
+        "fr": "Merci de votre compréhension. Cordialement"
+      }
+    ],
+    "model": "Sehr geehrte Frau Dr. Weber,\nleider konnte ich am Dienstag nicht an Ihrem Marketingseminar teilnehmen. Das tut mir sehr leid, vor allem weil wir an diesem Tag unsere Gruppenpräsentation halten sollten.\nAm Montagabend habe ich hohes Fieber bekommen, und am nächsten Morgen musste ich zum Arzt gehen. Obwohl unsere Präsentation fertig war, konnte ich leider nicht kommen. Das ärztliche Attest schicke ich Ihnen im Anhang.\nMeine Gruppe hat die Präsentation ohne mich gehalten. Wäre es möglich, dass ich meinen Teil nächste Woche allein präsentiere?\nKönnten Sie mir außerdem bitte mitteilen, was ich für die nächste Sitzung nacharbeiten muss?\nVielen Dank für Ihr Verständnis.\nMit freundlichen Grüßen\nChloé Bernard",
+    "modelFr": "Madame, malheureusement, je n'ai pas pu assister à votre séminaire de marketing mardi. J'en suis vraiment désolée, surtout parce que nous devions faire notre présentation de groupe ce jour-là. Lundi soir, j'ai eu une forte fièvre, et le lendemain matin, j'ai dû aller chez le médecin. Bien que notre présentation soit prête, je n'ai malheureusement pas pu venir. Je vous envoie le certificat médical en pièce jointe. Mon groupe a fait la présentation sans moi. Serait-il possible que je présente ma partie seule la semaine prochaine ? Pourriez-vous aussi m'indiquer ce que je dois rattraper pour la prochaine séance ? Merci de votre compréhension. Cordialement, Chloé Bernard"
+  },
+  "createdAt": "2026-11-22"
+}
