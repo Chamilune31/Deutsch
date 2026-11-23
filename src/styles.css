@@ -518,3 +518,4 @@ th { font-weight: 600; color: var(--ink-2); border-bottom: 2px solid var(--line)
 .up-item li { display: flex; align-items: center; gap: 0.5rem; }
 .up-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--c); flex-shrink: 0; }
 .up-item ul:not(:has(.up-dot)) li::before { content: ''; width: 9px; height: 9px; border-radius: 2px; background: var(--yellow); flex-shrink: 0; }
+s.wrong { color: var(--ko); text-decoration-thickness: 1.5px; }

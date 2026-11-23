@@ -127,6 +127,7 @@ describe('mise en forme', () => {
       { t: 'aufstehe', b: true, i: true },
     ]);
     expect(richSegments('a **b** c').map((s) => s.b)).toEqual([false, true, false]);
+    expect(richSegments('~~faux~~ → **juste**')).toEqual([{ t: 'faux', b: false, i: false, s: true }, { t: ' → ', b: false, i: false }, { t: 'juste', b: true, i: false }]);
   });
 });
 

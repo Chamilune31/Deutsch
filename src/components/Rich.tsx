@@ -5,17 +5,22 @@ import { canSpeak, speak } from '../lib/speech';
 export { speak };
 
 /** Découpe un texte en segments **gras** / *italique* (imbrication possible). */
-export function richSegments(text: string): { t: string; b: boolean; i: boolean }[] {
-  const out: { t: string; b: boolean; i: boolean }[] = [];
+export function richSegments(text: string): { t: string; b: boolean; i: boolean; s?: boolean }[] {
+  const out: { t: string; b: boolean; i: boolean; s?: boolean }[] = [];
   let b = false;
   let i = false;
+  let st = false;
   let buf = '';
   const flush = () => {
-    if (buf) out.push({ t: buf, b, i });
+    if (buf) out.push(st ? { t: buf, b, i, s: true } : { t: buf, b, i });
     buf = '';
   };
   for (let k = 0; k < text.length; ) {
-    if (text.startsWith('***', k)) {
+    if (text.startsWith('~~', k)) {
+      flush();
+      st = !st;
+      k += 2;
+    } else if (text.startsWith('***', k)) {
       flush();
       b = !b;
       i = !i;
@@ -40,6 +45,7 @@ export function Rich({ text }: { text: string }) {
     let node: ReactNode = s.t;
     if (s.i) node = <em>{node}</em>;
     if (s.b) node = <strong>{node}</strong>;
+    if (s.s) node = <s className="wrong">{node}</s>;
     return <span key={k}>{node}</span>;
   });
   return <>{parts}</>;

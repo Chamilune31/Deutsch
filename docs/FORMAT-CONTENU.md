@@ -32,7 +32,7 @@ Les explications sont **en français**, les exemples **en allemand** avec traduc
 
 ## Blocs de leçon
 
-Texte avec `**gras**` et `*italique*`.
+Texte avec `**gras**`, `*italique*` et `~~barré~~` (pour montrer une forme fautive, affichée en rouge barré).
 
 ```json
 { "type": "h", "text": "Titre de partie" }
