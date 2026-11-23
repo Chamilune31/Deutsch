@@ -1,0 +1,592 @@
+{
+  "id": "cours-logan-passif",
+  "section": "cours",
+  "teacher": "logan",
+  "level": "B1",
+  "title": "Le passif : Vorgangspassiv et Zustandspassiv",
+  "topic": "Passif",
+  "tags": [
+    "Passif",
+    "Perfekt",
+    "Verbes de modalité"
+  ],
+  "summary": "Das Brot wird gegessen / ist gegessen : former le passif à tous les temps, avec von ou durch, avec un modal, et éviter les pièges.",
+  "source": "German Passive Course (PDF, 24 pages) + notes du cours du 23/11/2026",
+  "createdAt": "2026-11-23",
+  "lesson": [
+    {
+      "type": "h",
+      "text": "À quoi sert le passif ?"
+    },
+    {
+      "type": "p",
+      "text": "Au passif, on met en avant **la chose faite**, sans regarder qui fait l'action. C'est utile quand l'auteur est inconnu, évident ou sans importance, et dans un style factuel (consignes, informations, rapports)."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Der Mechaniker repariert das Auto. → Das Auto **wird repariert**.",
+          "fr": "Le mécanicien répare la voiture. → La voiture est (en train d'être) réparée."
+        },
+        {
+          "de": "Hier **wird** Deutsch **gesprochen**.",
+          "fr": "Ici, on parle allemand."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Deux passifs"
+    },
+    {
+      "type": "table",
+      "head": [
+        "",
+        "Vorgangspassiv (passif d'action)",
+        "Zustandspassiv (passif d'état)"
+      ],
+      "rows": [
+        [
+          "Formation",
+          "**werden** + participe passé",
+          "**sein** + participe passé"
+        ],
+        [
+          "Ce qu'il décrit",
+          "une **action** qui se fait",
+          "l'**état** qui en résulte"
+        ],
+        [
+          "Exemple",
+          "Die Tür **wird** geschlossen. — On ferme la porte.",
+          "Die Tür **ist** geschlossen. — La porte est fermée."
+        ],
+        [
+          "",
+          "Das Essen **wird** vorbereitet. — On prépare le repas.",
+          "Das Essen **ist** vorbereitet. — Le repas est prêt."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Tes notes disent « actions en cours / actions terminées ». Plus précisément : *werden* = l'action elle-même ; *sein* = le **résultat**, l'état visible après l'action. *Das Brot ist gegessen* se dit, mais on dira plus naturellement *Das Brot ist **auf**gegessen* (il n'en reste plus)."
+    },
+    {
+      "type": "h",
+      "text": "Transformer une phrase active"
+    },
+    {
+      "type": "list",
+      "items": [
+        "1. Le **complément à l'accusatif** devient le **sujet** (au nominatif) : *Der Koch kocht **die Suppe*** → ***Die Suppe** wird gekocht.*",
+        "2. **werden** s'accorde avec ce nouveau sujet : *die Suppe **wird** / die Suppen **werden***.",
+        "3. Le verbe passe au **participe passé**, à la fin : *gekocht*.",
+        "4. L'auteur est facultatif : ***von** + datif* (une personne) — *Die Suppe wird **vom** Koch gekocht.*",
+        "Les pronoms passent au nominatif : *Man sieht **ihn*** → ***Er** wird gesehen.*"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Le Vorgangspassiv à tous les temps"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Temps",
+        "Formation",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Présent",
+          "**wird / werden** + participe",
+          "Das Essen **wird** gekocht."
+        ],
+        [
+          "Präteritum",
+          "**wurde / wurden** + participe",
+          "Das Essen **wurde** gekocht."
+        ],
+        [
+          "Perfekt",
+          "**ist / sind** + participe + **worden**",
+          "Das Essen **ist** gekocht **worden**."
+        ],
+        [
+          "Plusquamperfekt",
+          "**war / waren** + participe + **worden**",
+          "Das Essen **war** gekocht **worden**."
+        ],
+        [
+          "Futur I",
+          "**wird / werden** + participe + **werden**",
+          "Das Essen **wird** gekocht **werden**."
+        ],
+        [
+          "Avec un modal",
+          "modal + participe + **werden**",
+          "Das Essen **muss** gekocht **werden**."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Au Perfekt passif, c'est **worden** (sans *ge-*) : *Das Auto ist repariert **worden**.* **geworden** veut dire « devenu » : *Er ist Arzt **geworden**.*"
+    },
+    {
+      "type": "p",
+      "text": "Ton exemple *GTA VI* : ***wurde** gespielt* = le jeu a été joué (action passée, Vorgangspassiv). ***war** gespielt* serait un état passé (Zustandspassiv) : correct grammaticalement, mais peu naturel pour un jeu. On l'emploie plutôt pour un résultat visible : *Die Tür **war** geschlossen.*"
+    },
+    {
+      "type": "h",
+      "text": "von ou durch ?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Préposition",
+        "Cas",
+        "Pour…",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "**von**",
+          "datif",
+          "une personne, un groupe, une institution",
+          "Das Bild wurde **von einer** Künstlerin gemalt. / **vom** Arzt"
+        ],
+        [
+          "**durch**",
+          "accusatif",
+          "une cause, un moyen, un intermédiaire",
+          "Das Dach wurde **durch den** Sturm beschädigt."
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Les cas particuliers"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Passif impersonnel** (verbe sans complément à l'accusatif) : *Es wird getanzt.* Si un autre mot vient en tête, *es* disparaît : *Heute wird getanzt.*",
+        "**Le datif reste au datif** : *Man hilft **dem** Mann* → ***Dem** Mann wird geholfen* (jamais ~~Der Mann wird geholfen~~). Le verbe reste au singulier : *Den Kindern **wird** vorgelesen.*",
+        "**Deux compléments** : l'accusatif devient sujet, le datif ne bouge pas — *Die Regel wird **den Schülern** erklärt.*",
+        "**Subordonnée** : tout le groupe verbal à la fin, le verbe conjugué en dernier — *…, dass das Formular ausgefüllt werden **muss**.*",
+        "**Questions** : *Wird das Essen vorbereitet? Von wem wurde das Bild gemalt?*"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Alternatives au passif, très courantes à l'oral"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**man** + verbe actif : *Man spricht hier Deutsch.*",
+        "**sich lassen** + infinitif (possibilité) : *Das Problem **lässt sich** lösen.* = peut être résolu.",
+        "**sein + zu** + infinitif (nécessité, style formel) : *Die Aufgabe **ist** bis morgen **zu** erledigen.*"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Ta question : sprechen + quelle préposition ?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Construction",
+        "Sens",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "sprechen **über** + **accusatif**",
+          "parler de (un sujet, en détail)",
+          "Wir sprechen **über den** Film."
+        ],
+        [
+          "sprechen **mit** + **datif**",
+          "parler avec (quelqu'un)",
+          "Ich spreche **mit meinem** Lehrer."
+        ],
+        [
+          "sprechen **von** + **datif**",
+          "parler de (mentionner)",
+          "Er spricht oft **von seiner** Reise."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Ce que tu as noté « aber » est sans doute ***über*** (*aber* = mais). *über* est une préposition mixte, mais après *sprechen* elle demande toujours l'**accusatif**."
+    },
+    {
+      "type": "h",
+      "text": "Erreurs fréquentes"
+    },
+    {
+      "type": "list",
+      "items": [
+        "~~Das Auto werden repariert~~ → *Das Auto **wird** repariert* (accord avec le sujet).",
+        "~~Der Brief wird schreiben~~ → *Der Brief wird **geschrieben*** (participe, pas infinitif).",
+        "~~Der Brief ist geschrieben geworden~~ → *… geschrieben **worden***.",
+        "~~Heute wird gemacht die Arbeit~~ → *Heute wird die Arbeit **gemacht*** (participe à la fin).",
+        "von + **datif** (*vom Lehrer*), durch + **accusatif** (*durch den Wind*)."
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Corrigé des exercices du PDF"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**A** : 1. wird … zubereitet 2. wird … repariert 3. wird … abgeschickt 4. wird … unterrichtet 5. werden … zurückgebracht",
+        "**B** : 1. Der Patient wird (vom Arzt) untersucht. 2. Die Brücke wurde (von der Firma) gebaut. 3. Der Bericht ist (von den Mitarbeitern) geschrieben worden. 4. Die Fenster müssen geschlossen werden. 5. Das Porträt wird (von der Künstlerin) gemalt werden.",
+        "**C** : 1. wird … geschlossen 2. ist … geschlossen 3. wird … vorbereitet 4. ist … vorbereitet",
+        "**D** : 1. vom berühmten Maler 2. durch den Sturm 3. von der Ärztin 4. durch einen elektrischen Defekt",
+        "**E** : 1. Die Häuser werden gebaut. 2. Das Formular muss ausgefüllt werden. 3. Wird dem Mann geholfen? 4. Der Brief ist geschrieben worden. 5. Heute wird getanzt. (ou : Es wird heute getanzt.)",
+        "**F** : 1. Das Zimmer wird geputzt. 2. Das Zimmer wurde gestern geputzt. 3. Die Dokumente sind verschickt worden. 4. Die Straße muss repariert werden. 5. Im Saal wird getanzt. 6. Den Kindern wird vorgelesen. 7. Die Tür ist geöffnet (ou : offen). 8. Das Problem kann gelöst werden. / Das Problem lässt sich lösen."
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "de": "reparieren",
+      "fr": "réparer",
+      "ex": {
+        "de": "Wer kann das Auto reparieren?",
+        "fr": "Qui peut réparer la voiture ?"
+      }
+    },
+    {
+      "de": "verschicken",
+      "fr": "envoyer, expédier",
+      "ex": {
+        "de": "Ich muss die Briefe verschicken.",
+        "fr": "Je dois envoyer les lettres."
+      }
+    },
+    {
+      "de": "unterschreiben",
+      "fr": "signer",
+      "ex": {
+        "de": "Bitte hier unterschreiben.",
+        "fr": "Veuillez signer ici."
+      }
+    },
+    {
+      "de": "ausfüllen",
+      "fr": "remplir (un formulaire)",
+      "ex": {
+        "de": "Kannst du das Formular ausfüllen?",
+        "fr": "Tu peux remplir le formulaire ?"
+      }
+    },
+    {
+      "de": "Formular",
+      "fr": "le formulaire",
+      "article": "das",
+      "plural": "Formulare",
+      "ex": {
+        "de": "Das Formular ist sehr lang.",
+        "fr": "Le formulaire est très long."
+      }
+    },
+    {
+      "de": "Rechnung",
+      "fr": "la facture, l'addition",
+      "article": "die",
+      "plural": "Rechnungen",
+      "ex": {
+        "de": "Die Rechnung wird heute bezahlt.",
+        "fr": "La facture est payée aujourd'hui."
+      }
+    },
+    {
+      "de": "Vertrag",
+      "fr": "le contrat",
+      "article": "der",
+      "plural": "Verträge",
+      "ex": {
+        "de": "Der Vertrag wird morgen unterschrieben.",
+        "fr": "Le contrat sera signé demain."
+      }
+    },
+    {
+      "de": "Brücke",
+      "fr": "le pont",
+      "article": "die",
+      "plural": "Brücken",
+      "ex": {
+        "de": "Die Brücke wurde 1990 gebaut.",
+        "fr": "Le pont a été construit en 1990."
+      }
+    },
+    {
+      "de": "Täter",
+      "fr": "le coupable, l'auteur (d'un délit)",
+      "article": "der",
+      "plural": "Täter",
+      "ex": {
+        "de": "Der Täter wurde gefunden.",
+        "fr": "Le coupable a été retrouvé."
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "type": "cloze",
+      "text": "Das Auto [wird] [repariert].",
+      "hint": "reparieren, présent",
+      "why": "Présent : **wird** + participe **repariert** (pas de *ge-* pour les verbes en *-ieren*)."
+    },
+    {
+      "type": "cloze",
+      "text": "Die Briefe [werden] heute [verschickt].",
+      "hint": "verschicken, présent, pluriel",
+      "why": "Sujet pluriel → **werden** ; participe sans *ge-* (préfixe *ver-*)."
+    },
+    {
+      "type": "cloze",
+      "text": "Der Täter [wurde] gestern [gefunden].",
+      "hint": "finden, Präteritum",
+      "why": "Präteritum : **wurde** + participe."
+    },
+    {
+      "type": "cloze",
+      "text": "Das Haus [ist] [renoviert] [worden].",
+      "hint": "renovieren, Perfekt",
+      "why": "Perfekt passif : **ist** + participe + **worden**."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Tür ___ gerade geschlossen. (quelqu'un la ferme)",
+      "options": [
+        "wird",
+        "ist",
+        "hat"
+      ],
+      "answer": 0,
+      "why": "L'action en train de se faire → **werden**."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Tür ___ schon geschlossen. (elle est fermée)",
+      "options": [
+        "ist",
+        "wird",
+        "hat"
+      ],
+      "answer": 0,
+      "why": "L'état qui résulte → **sein** (Zustandspassiv)."
+    },
+    {
+      "type": "mcq",
+      "q": "Der Brief ist geschrieben ___.",
+      "options": [
+        "worden",
+        "geworden",
+        "werden"
+      ],
+      "answer": 0,
+      "why": "Perfekt passif : **worden**. *geworden* = devenu."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Bild wurde ___ einer Künstlerin gemalt.",
+      "options": [
+        "von",
+        "durch",
+        "mit"
+      ],
+      "answer": 0,
+      "why": "Une personne → **von** + datif."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Dach wurde ___ den Sturm beschädigt.",
+      "options": [
+        "durch",
+        "von",
+        "mit"
+      ],
+      "answer": 0,
+      "why": "Une cause → **durch** + accusatif."
+    },
+    {
+      "type": "cloze",
+      "text": "Das Formular muss [ausgefüllt] [werden].",
+      "hint": "ausfüllen, avec müssen",
+      "why": "Modal + participe + **werden** à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Man hilft dem Mann. Au passif :",
+      "options": [
+        "Dem Mann wird geholfen.",
+        "Der Mann wird geholfen.",
+        "Der Mann ist geholfen."
+      ],
+      "answer": 0,
+      "why": "*helfen* + datif : le datif reste au datif → ***Dem** Mann wird geholfen*."
+    },
+    {
+      "type": "mcq",
+      "q": "Wir sprechen ___ den Film.",
+      "options": [
+        "über",
+        "aber",
+        "mit"
+      ],
+      "answer": 0,
+      "why": "Parler d'un sujet : *sprechen **über*** + accusatif."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Ici, on parle allemand.",
+      "answers": [
+        "Hier wird Deutsch gesprochen.",
+        "Man spricht hier Deutsch.",
+        "Hier spricht man Deutsch."
+      ],
+      "why": "Passif (*wird … gesprochen*) ou *man* + actif."
+    }
+  ],
+  "exam": [
+    {
+      "type": "cloze",
+      "text": "Das Essen [wird] jeden Tag frisch [zubereitet].",
+      "hint": "zubereiten, présent",
+      "why": "**wird** + participe ; séparable : zu**be**reitet (pas de *ge-* car *be-*)."
+    },
+    {
+      "type": "cloze",
+      "text": "Die Brücke [wurde] von der Firma [gebaut].",
+      "hint": "bauen, Präteritum",
+      "why": "Präteritum : **wurde gebaut**."
+    },
+    {
+      "type": "cloze",
+      "text": "Der Bericht [ist] von den Mitarbeitern [geschrieben] [worden].",
+      "hint": "schreiben, Perfekt",
+      "why": "Perfekt passif : **ist geschrieben worden**."
+    },
+    {
+      "type": "cloze",
+      "text": "Das Porträt [wird] von der Künstlerin [gemalt] [werden].",
+      "hint": "malen, futur",
+      "why": "Futur passif : **wird** + participe + **werden**."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Häuser ___ gebaut.",
+      "options": [
+        "werden",
+        "wird",
+        "ist"
+      ],
+      "answer": 0,
+      "why": "Sujet pluriel → **werden**."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Essen ___ schon vorbereitet. (il est prêt)",
+      "options": [
+        "ist",
+        "wird",
+        "wurde"
+      ],
+      "answer": 0,
+      "why": "État → **sein** : *ist vorbereitet*."
+    },
+    {
+      "type": "mcq",
+      "q": "Die Patientin wird ___ untersucht.",
+      "options": [
+        "von der Ärztin",
+        "durch die Ärztin",
+        "von die Ärztin"
+      ],
+      "answer": 0,
+      "why": "Une personne → **von** + datif : *von der Ärztin*."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "La route doit être réparée.",
+      "answers": [
+        "Die Straße muss repariert werden."
+      ],
+      "why": "Modal + participe + *werden*."
+    },
+    {
+      "type": "translate",
+      "dir": "fr-de",
+      "q": "Les documents ont été envoyés.",
+      "answers": [
+        "Die Dokumente sind verschickt worden.",
+        "Die Dokumente sind geschickt worden.",
+        "Die Dokumente wurden verschickt."
+      ],
+      "why": "Perfekt passif : *sind … verschickt worden* (pluriel → *sind*)."
+    },
+    {
+      "type": "mcq",
+      "q": "Quelle phrase est correcte ?",
+      "options": [
+        "Heute wird getanzt.",
+        "Heute wird getanzt es.",
+        "Heute es wird getanzt."
+      ],
+      "answer": 0,
+      "why": "Passif impersonnel : *es* disparaît quand un autre mot est en tête."
+    },
+    {
+      "type": "mcq",
+      "q": "Den Kindern ___ vorgelesen.",
+      "options": [
+        "wird",
+        "werden",
+        "sind"
+      ],
+      "answer": 0,
+      "why": "Pas de sujet au nominatif (datif) → verbe au **singulier**."
+    },
+    {
+      "type": "order",
+      "answers": [
+        "Ich glaube, dass das Haus verkauft wird"
+      ],
+      "why": "Subordonnée : participe puis *wird* à la fin."
+    },
+    {
+      "type": "mcq",
+      "q": "Er ist Arzt ___.",
+      "options": [
+        "geworden",
+        "worden",
+        "werden"
+      ],
+      "answer": 0,
+      "why": "« devenir » → **geworden**. *worden* ne s'emploie qu'au passif."
+    },
+    {
+      "type": "mcq",
+      "q": "Ich spreche ___ meinem Lehrer.",
+      "options": [
+        "mit",
+        "über",
+        "aber"
+      ],
+      "answer": 0,
+      "why": "Parler avec quelqu'un : *sprechen **mit*** + datif."
+    }
+  ]
+}
