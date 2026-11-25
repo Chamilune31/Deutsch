@@ -1,0 +1,274 @@
+{
+  "id": "lire-mail-seminaire",
+  "section": "lecture",
+  "title": "Mail d'un collègue : organiser un séminaire",
+  "level": "B1",
+  "topic": "Travail",
+  "release": 7,
+  "summary": "Un collègue organise le séminaire d'équipe : repérer les dates, le transport, le programme et ce que chacun doit faire.",
+  "tags": [
+    "Mail professionnel",
+    "Passif",
+    "Questions indirectes"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Dans un mail d'organisation, les informations importantes sont souvent **dispersées** : une date ici, une condition là, une demande à la fin. Avant de lire, demande-toi : **quand ? où ? comment y aller ? qu'est-ce que je dois faire, et avant quelle date ?** Puis souligne ces éléments pendant la lecture."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Allemand",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "Sag mir bitte bis Freitag Bescheid.",
+          "Préviens-moi d'ici vendredi."
+        ],
+        [
+          "Die Kosten werden (nicht) erstattet.",
+          "Les frais (ne) sont (pas) remboursés."
+        ],
+        [
+          "die Anreise / die Rückfahrt",
+          "le trajet aller / le retour"
+        ],
+        [
+          "an einem Seminar teilnehmen",
+          "participer à un séminaire"
+        ],
+        [
+          "rechtzeitig",
+          "à temps"
+        ],
+        [
+          "die Abteilungsleitung",
+          "la direction du service, le/la chef(fe) de service"
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Le passif dans les mails de travail"
+    },
+    {
+      "type": "p",
+      "text": "Comme dans le cours de Logan, le **passif** (*werden* + participe II) sert à dire **ce qui est fait**, sans insister sur **qui** le fait. On le traduit souvent par « on » ou par un passif français."
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Die Anreise **wird** von der Firma **organisiert**.",
+          "fr": "Le trajet est organisé par l'entreprise."
+        },
+        {
+          "de": "Am ersten Tag **wird** über die Ergebnisse **gesprochen**.",
+          "fr": "Le premier jour, on parle des résultats."
+        },
+        {
+          "de": "Bitte schreibt mir, **ob** ihr vegetarisch **esst**.",
+          "fr": "Écrivez-moi si vous mangez végétarien."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**bis zum 10. Dezember** = **au plus tard** le 10 décembre (une date limite), alors que **ab** = à partir de. Et dans une question indirecte, « si » se dit **ob** (jamais ~~wenn~~), avec le verbe à la fin : *Schreibt mir, **ob** ihr Allergien **habt**.*"
+    }
+  ],
+  "reading": {
+    "title": "Betreff: Teamseminar im Januar – Organisation",
+    "kind": "Mail professionnel",
+    "paragraphs": [
+      "Liebe Kolleginnen und Kollegen,",
+      "wie ihr wisst, findet unser Teamseminar dieses Mal vom 21. bis 22. Januar statt. Nach langer Diskussion haben wir uns für das Hotel Seeblick in Prien am Chiemsee entschieden. Das Hotel liegt ungefähr eine Stunde von München entfernt.",
+      "Die Anreise wird von der Firma organisiert: Am Donnerstag um 8:30 Uhr fährt ein Bus vor unserem Büro ab. Wer lieber mit dem eigenen Auto fahren möchte, sagt mir bitte bis zum 10. Dezember Bescheid. Die Fahrtkosten werden in diesem Fall leider nicht erstattet, aber das Parken am Hotel ist kostenlos.",
+      "Am ersten Tag wird vormittags über die Ergebnisse des letzten Jahres gesprochen. Nach dem Mittagessen arbeiten wir in kleinen Gruppen an unserer neuen Marketingstrategie. Abends gibt es ein gemeinsames Essen im Hotelrestaurant. Für den zweiten Tag ist ein Workshop zum Thema Kommunikation geplant, der von einer externen Trainerin geleitet wird. Gegen 16 Uhr fahren wir zurück.",
+      "Damit ich alles rechtzeitig buchen kann, brauche ich noch ein paar Informationen. Bitte schreibt mir, ob ihr ein Einzelzimmer möchtet oder euch ein Doppelzimmer mit einer Kollegin oder einem Kollegen teilt. Für ein Einzelzimmer muss man allerdings 30 Euro selbst bezahlen. Schreibt mir bitte auch, ob ihr vegetarisch esst oder Allergien habt. Die Zimmer werden nämlich schon nächste Woche reserviert.",
+      "Falls jemand an einem der beiden Tage nicht teilnehmen kann, informiert bitte auch eure Abteilungsleitung.",
+      "Ich freue mich auf zwei spannende Tage mit euch!\nViele Grüße\nJonas"
+    ],
+    "glossary": [
+      {
+        "de": "der Betreff",
+        "fr": "l'objet (d'un mail)"
+      },
+      {
+        "de": "sich entscheiden für (+ acc.)",
+        "fr": "se décider pour, choisir"
+      },
+      {
+        "de": "die Anreise",
+        "fr": "le trajet aller"
+      },
+      {
+        "de": "Bescheid sagen",
+        "fr": "prévenir, informer"
+      },
+      {
+        "de": "die Fahrtkosten (pl.)",
+        "fr": "les frais de déplacement"
+      },
+      {
+        "de": "erstatten",
+        "fr": "rembourser"
+      },
+      {
+        "de": "das Ergebnis, -se",
+        "fr": "le résultat"
+      },
+      {
+        "de": "leiten",
+        "fr": "diriger, animer"
+      },
+      {
+        "de": "rechtzeitig",
+        "fr": "à temps"
+      },
+      {
+        "de": "sich (dat.) etwas teilen",
+        "fr": "partager quelque chose"
+      },
+      {
+        "de": "allerdings",
+        "fr": "toutefois, cependant"
+      },
+      {
+        "de": "die Abteilungsleitung",
+        "fr": "la direction du service"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Wo findet das Teamseminar statt?",
+      "options": [
+        "In einem Hotel am Chiemsee",
+        "Im Büro in München",
+        "In einem Hotel in München"
+      ],
+      "answer": 0,
+      "why": "*Wir haben uns für das Hotel Seeblick in Prien am Chiemsee entschieden.* L'hôtel est à environ une heure de Munich."
+    },
+    {
+      "type": "mcq",
+      "q": "Das Seminar dauert drei Tage.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*vom 21. bis 22. Januar* : deux jours, et Jonas parle à la fin de *zwei spannende Tage*."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie fahren die meisten Mitarbeiter zum Hotel?",
+      "options": [
+        "Mit dem Zug",
+        "Mit dem eigenen Auto",
+        "Mit einem Bus der Firma"
+      ],
+      "answer": 2,
+      "why": "*Die Anreise wird von der Firma organisiert: … fährt ein Bus vor unserem Büro ab.* La voiture personnelle est seulement une option."
+    },
+    {
+      "type": "mcq",
+      "q": "Wer mit dem eigenen Auto fährt, bekommt das Benzingeld zurück.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Die Fahrtkosten werden in diesem Fall leider nicht erstattet.* Seul le parking est gratuit."
+    },
+    {
+      "type": "mcq",
+      "q": "Was machen die Kollegen am ersten Tag nach dem Mittagessen?",
+      "options": [
+        "Einen Workshop zur Kommunikation",
+        "Gruppenarbeit zur Marketingstrategie",
+        "Die Rückfahrt nach München"
+      ],
+      "answer": 1,
+      "why": "*Nach dem Mittagessen arbeiten wir in kleinen Gruppen an unserer neuen Marketingstrategie.* Le workshop a lieu le deuxième jour."
+    },
+    {
+      "type": "gap",
+      "q": "Die Anreise wird von der Firma ___.",
+      "answers": [
+        "organisiert"
+      ],
+      "hint": "passif : werden + participe II de organisieren",
+      "why": "Passif : *wird* + participe II à la fin. Les verbes en *-ieren* n'ont pas de *ge-* : *organisiert*."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Bis wann muss man Jonas sagen, dass man mit dem Auto kommt?",
+      "options": [
+        "Bis zum 21. Januar",
+        "Bis zum 10. Dezember",
+        "Bis nächste Woche"
+      ],
+      "answer": 1,
+      "why": "*Wer lieber mit dem eigenen Auto fahren möchte, sagt mir bitte bis zum 10. Dezember Bescheid.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Wer leitet den Workshop am zweiten Tag?",
+      "options": [
+        "Jonas",
+        "Die Abteilungsleitung",
+        "Eine externe Trainerin"
+      ],
+      "answer": 2,
+      "why": "*… ein Workshop …, der von einer externen Trainerin geleitet wird.* Passif : *von* + datif indique qui fait l'action."
+    },
+    {
+      "type": "mcq",
+      "q": "Ein Einzelzimmer kostet für die Mitarbeiter nichts extra.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Für ein Einzelzimmer muss man allerdings 30 Euro selbst bezahlen.* *allerdings* annonce une restriction."
+    },
+    {
+      "type": "mcq",
+      "q": "Welche Informationen braucht Jonas noch?",
+      "options": [
+        "Welches Zimmer man möchte und ob man Allergien hat",
+        "Welche Ideen man für die Marketingstrategie hat",
+        "Wann man im Januar Urlaub nimmt"
+      ],
+      "answer": 0,
+      "why": "*Bitte schreibt mir, ob ihr ein Einzelzimmer möchtet … ob ihr vegetarisch esst oder Allergien habt.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Die Zimmer werden erst im Januar reserviert.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Die Zimmer werden nämlich schon nächste Woche reserviert.* *schon* (déjà) s'oppose à *erst* (seulement, pas avant)."
+    },
+    {
+      "type": "gap",
+      "q": "Wer nicht teilnehmen kann, informiert auch die ___.",
+      "answers": [
+        "Abteilungsleitung"
+      ],
+      "hint": "la direction du service",
+      "why": "*Falls jemand … nicht teilnehmen kann, informiert bitte auch eure Abteilungsleitung.*"
+    }
+  ],
+  "createdAt": "2026-11-25"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ecrire-reponse-coloc",
+  "section": "ecriture",
+  "title": "Répondre à une annonce de colocation",
+  "level": "A2",
+  "topic": "Logement",
+  "release": 7,
+  "summary": "Un mail à des colocataires : se présenter, dire pourquoi la chambre plaît, poser des questions avec ob et proposer un rendez-vous.",
+  "tags": [
+    "Mail informel",
+    "ihr / euch / euer",
+    "Questions indirectes"
+  ],
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Le plan du mail"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Saluer le groupe** : *Hallo zusammen,* — en colocation (*WG*), on se tutoie, même sans se connaître. La ligne suivante commence par une **minuscule**.",
+        "**Dire pourquoi tu écris** : *ich habe eure Anzeige gelesen und interessiere mich sehr für das Zimmer.*",
+        "**Te présenter** : prénom, âge, études, d'où tu viens.",
+        "**Dire pourquoi la chambre te plaît** : *Das Zimmer gefällt mir, **weil** es nah an der Uni **liegt**.*",
+        "**Poser deux questions** : une directe (*Ist das Internet inbegriffen?*) et une indirecte (*Ich möchte gern wissen, **ob** …*).",
+        "**Proposer un rendez-vous** et conclure : *Wann passt es euch? Ich freue mich auf eure Antwort!*"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Écrire à un groupe : ihr, euch, euer"
+    },
+    {
+      "type": "p",
+      "text": "Quand tu tutoies **plusieurs personnes**, utilise **ihr** (sujet), **euch** (complément) et **euer** (possessif). Dans un mail, ils s'écrivent en minuscules, contrairement à *Sie, Ihnen, Ihr*."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Vouvoiement (Sie)",
+        "Groupe tutoyé (ihr)",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "Haben Sie noch ein Zimmer frei?",
+          "Habt ihr noch ein Zimmer frei?",
+          "Vous avez encore une chambre libre ?"
+        ],
+        [
+          "Ich habe Ihre Anzeige gelesen.",
+          "Ich habe eure Anzeige gelesen.",
+          "J'ai lu votre annonce."
+        ],
+        [
+          "Wann passt es Ihnen?",
+          "Wann passt es euch?",
+          "Quand est-ce que ça vous convient ?"
+        ],
+        [
+          "Ich freue mich auf Ihre Antwort.",
+          "Ich freue mich auf eure Antwort.",
+          "Au plaisir de vous lire."
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "**Ihr** schreibt, dass **ihr** gern zusammen **kocht**.",
+          "fr": "Vous écrivez que vous aimez cuisiner ensemble."
+        },
+        {
+          "de": "Ich möchte gern wissen, **ob** man eine Kaution zahlen **muss**.",
+          "fr": "J'aimerais savoir s'il faut payer une caution."
+        },
+        {
+          "de": "Können wir nächste Woche per Video **sprechen**?",
+          "fr": "Est-ce qu'on peut se parler en visio la semaine prochaine ?"
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "**euer** perd son **e** central dès qu'il prend une terminaison : *euer Zimmer*, mais **eure** Anzeige, **eure** Antwort (et non ~~euere~~). Et « si » dans une question indirecte se dit **ob**, pas ~~wenn~~ : *Ich möchte wissen, **ob** das Internet inbegriffen **ist**.*"
+    }
+  ],
+  "task": {
+    "prompt": "Tu lis cette annonce sur un site de logement : « *Nette 3er-WG in Freiburg sucht ab 1. März eine Mitbewohnerin. 14 m², 390 Euro warm, fünf Minuten zur Uni. Wir kochen gern zusammen. Nichtraucher bitte!* » Écris un mail aux colocataires (environ **80 mots**).",
+    "points": [
+      "Présente-toi (âge, études, d'où tu viens)",
+      "Explique pourquoi la chambre t'intéresse",
+      "Pose deux questions (par exemple sur Internet ou la caution)",
+      "Propose un moment pour visiter ou vous parler en visio"
+    ],
+    "minWords": 80,
+    "phrases": [
+      {
+        "de": "Hallo zusammen, ich habe eure Anzeige gelesen.",
+        "fr": "Bonjour à tous, j'ai lu votre annonce."
+      },
+      {
+        "de": "Ich interessiere mich sehr für das Zimmer.",
+        "fr": "La chambre m'intéresse beaucoup."
+      },
+      {
+        "de": "Ich heiße …, bin … Jahre alt und studiere … in …",
+        "fr": "Je m'appelle…, j'ai… ans et j'étudie… à…"
+      },
+      {
+        "de": "Das Zimmer gefällt mir, weil …",
+        "fr": "La chambre me plaît, parce que…"
+      },
+      {
+        "de": "Ist … in der Miete inbegriffen?",
+        "fr": "Est-ce que… est compris dans le loyer ?"
+      },
+      {
+        "de": "Ich möchte gern wissen, ob …",
+        "fr": "J'aimerais savoir si…"
+      },
+      {
+        "de": "Können wir … per Video sprechen? Wann passt es euch?",
+        "fr": "Est-ce qu'on peut se parler en visio… ? Quand est-ce que ça vous convient ?"
+      },
+      {
+        "de": "Ich freue mich auf eure Antwort! Viele Grüße",
+        "fr": "Au plaisir de vous lire ! À bientôt"
+      }
+    ],
+    "model": "Hallo zusammen,\nich habe eure Anzeige gelesen und interessiere mich sehr für das Zimmer. Ich heiße Chloé, bin 21 Jahre alt und komme aus Lyon. Ich studiere BWL und mache ab März ein Auslandssemester an der Uni Freiburg.\nDas Zimmer gefällt mir, weil es nah an der Uni liegt und nicht zu teuer ist. Ihr schreibt, dass ihr gern zusammen kocht – das finde ich super, denn ich koche auch sehr gern. Und ich rauche nicht.\nIch habe noch zwei Fragen: Ist das Internet in der Miete inbegriffen? Außerdem möchte ich gern wissen, ob man eine Kaution zahlen muss.\nIch bin zurzeit noch in Lyon. Können wir vielleicht nächste Woche per Video sprechen? Am Dienstag oder Donnerstag habe ich ab 18 Uhr Zeit.\nIch freue mich auf eure Antwort!\nViele Grüße\nChloé",
+    "modelFr": "Bonjour à tous, j'ai lu votre annonce et la chambre m'intéresse beaucoup. Je m'appelle Chloé, j'ai 21 ans et je viens de Lyon. J'étudie la gestion et je fais un semestre à l'étranger à l'université de Fribourg à partir de mars. La chambre me plaît parce qu'elle est près de l'université et qu'elle n'est pas trop chère. Vous écrivez que vous aimez cuisiner ensemble : je trouve ça super, car j'adore cuisiner moi aussi. Et je ne fume pas. J'ai encore deux questions : est-ce qu'Internet est compris dans le loyer ? Et j'aimerais savoir s'il faut payer une caution. Je suis encore à Lyon en ce moment. Est-ce qu'on pourrait se parler en visio la semaine prochaine ? Je suis disponible mardi ou jeudi à partir de 18 h. Au plaisir de vous lire ! À bientôt, Chloé"
+  },
+  "createdAt": "2026-11-25"
+}

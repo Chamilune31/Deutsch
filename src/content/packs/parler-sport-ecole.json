@@ -1,0 +1,146 @@
+{
+  "id": "parler-sport-ecole",
+  "section": "oral",
+  "title": "Présenter : le sport à l'école",
+  "level": "B1",
+  "topic": "Présentation",
+  "release": 7,
+  "summary": "Une présentation en cinq parties sur le sport à l'école : avantages, inconvénients et opinion avec einerseits / andererseits.",
+  "tags": [
+    "École",
+    "Sport",
+    "Argumenter"
+  ],
+  "lesson": [
+    {
+      "type": "h",
+      "text": "Les cinq parties de la présentation (B1)"
+    },
+    {
+      "type": "list",
+      "items": [
+        "**Annoncer le sujet et le plan** : *Ich möchte heute über das Thema … sprechen. **Zuerst** erzähle ich …, **dann** …, **am Ende** …*",
+        "**Ton expérience** (au passé) : *Als ich in der Schule **war**, **hatte** ich Sport nicht besonders gern.*",
+        "**La situation dans ton pays** : *In Frankreich haben Schüler im Collège drei bis vier Stunden Sport pro Woche.*",
+        "**Avantages et inconvénients** : *Ein Vorteil ist, dass … / Ein Nachteil ist, dass …*",
+        "**Ton opinion et la conclusion** : *Meiner Meinung nach **ist** … Vielen Dank für Ihre Aufmerksamkeit!*"
+      ]
+    },
+    {
+      "type": "h",
+      "text": "Peser le pour et le contre"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Allemand",
+        "Sens",
+        "Place du verbe"
+      ],
+      "rows": [
+        [
+          "Einerseits bewegen sich die Kinder, andererseits …",
+          "D'un côté les enfants bougent, de l'autre…",
+          "verbe en 2e position"
+        ],
+        [
+          "Ein Vorteil ist, dass man im Team spielt.",
+          "Un avantage, c'est qu'on joue en équipe.",
+          "dass → verbe à la fin"
+        ],
+        [
+          "Ein Nachteil ist, dass die Noten oft unfair sind.",
+          "Un inconvénient, c'est que les notes sont souvent injustes.",
+          "dass → verbe à la fin"
+        ],
+        [
+          "Meiner Meinung nach ist Sport wichtig.",
+          "À mon avis, le sport est important.",
+          "verbe en 2e position"
+        ],
+        [
+          "Ich finde, dass die Schulen mehr anbieten sollten.",
+          "Je trouve que les écoles devraient proposer plus.",
+          "dass → verbe à la fin"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Wer nicht sportlich ist, bekommt schlechte Noten, **obwohl** er sich viel Mühe **gibt**.",
+          "fr": "Celui qui n'est pas sportif a de mauvaises notes, bien qu'il fasse beaucoup d'efforts."
+        },
+        {
+          "de": "Außerdem **lernt** man, im Team zu spielen.",
+          "fr": "En plus, on apprend à jouer en équipe."
+        },
+        {
+          "de": "Meiner Meinung nach **sollte** man Sport nicht benoten.",
+          "fr": "À mon avis, on ne devrait pas noter le sport."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "Piège fréquent pour un francophone : après *Meiner Meinung nach*, *Einerseits* ou *Außerdem*, le **verbe vient tout de suite** (2e position), avant le sujet. On dit *Meiner Meinung nach **ist** Sport wichtig*, et non ~~Meiner Meinung nach Sport ist wichtig~~. Avec *obwohl* et *dass*, en revanche, le verbe va **à la fin**."
+    }
+  ],
+  "task": {
+    "prompt": "Présente le sujet « **Sport in der Schule – wie wichtig ist das?** » pendant environ **3 minutes**.",
+    "points": [
+      "Présente le sujet et le plan",
+      "Ton expérience : aimais-tu le sport à l'école ? Quels sports faisais-tu ?",
+      "La situation dans ton pays (combien d'heures, quels sports, les clubs)",
+      "Avantages et inconvénients du sport à l'école",
+      "Ton opinion pour conclure"
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "phrases": [
+      {
+        "de": "Ich möchte heute über das Thema „Sport in der Schule“ sprechen.",
+        "fr": "Je voudrais parler aujourd'hui du sujet « le sport à l'école »."
+      },
+      {
+        "de": "Zuerst erzähle ich von …, dann …, am Ende sage ich meine Meinung.",
+        "fr": "D'abord je parle de…, puis…, à la fin je donne mon avis."
+      },
+      {
+        "de": "Als ich in der Schule war, …",
+        "fr": "Quand j'étais à l'école, …"
+      },
+      {
+        "de": "In meinem Land haben die Schüler … Stunden Sport pro Woche.",
+        "fr": "Dans mon pays, les élèves ont… heures de sport par semaine."
+      },
+      {
+        "de": "Einerseits …, andererseits …",
+        "fr": "D'un côté…, de l'autre…"
+      },
+      {
+        "de": "Ein Vorteil / Ein Nachteil ist, dass …",
+        "fr": "Un avantage / Un inconvénient, c'est que…"
+      },
+      {
+        "de": "Meiner Meinung nach ist …",
+        "fr": "À mon avis, … est…"
+      },
+      {
+        "de": "Vielen Dank für Ihre Aufmerksamkeit! Haben Sie noch Fragen?",
+        "fr": "Merci de votre attention ! Avez-vous des questions ?"
+      }
+    ],
+    "model": "Ich möchte heute über das Thema „Sport in der Schule“ sprechen. Zuerst erzähle ich von meinen eigenen Erfahrungen, dann beschreibe ich die Situation in Frankreich. Danach spreche ich über Vor- und Nachteile, und am Ende sage ich meine Meinung.\nAls ich in der Schule war, hatte ich Sport nicht besonders gern, weil ich nicht schnell laufen konnte. Aber Volleyball hat mir viel Spaß gemacht, und ich habe sogar in der Schulmannschaft gespielt.\nIn Frankreich haben die Schülerinnen und Schüler im Collège drei bis vier Stunden Sport pro Woche, am Lycée nur noch zwei. Viele machen außerdem nachmittags Sport in einem Verein.\nSport in der Schule hat viele Vorteile. Einerseits bewegen sich die Kinder, denn heute sitzen viele den ganzen Tag vor dem Bildschirm. Außerdem lernt man, im Team zu spielen. Andererseits gibt es auch Nachteile. Ein Nachteil ist, dass die Noten im Sport oft unfair sind. Wer nicht sportlich ist, bekommt schlechte Noten, obwohl er sich viel Mühe gibt.\nMeiner Meinung nach ist Sport in der Schule sehr wichtig, aber man sollte ihn nicht benoten. Ich finde auch, dass die Schulen mehr verschiedene Sportarten anbieten sollten, zum Beispiel Tanzen oder Klettern.\nVielen Dank für Ihre Aufmerksamkeit! Haben Sie noch Fragen?",
+    "modelFr": "Je voudrais parler aujourd'hui du sujet « le sport à l'école ». D'abord, je vais raconter mes propres expériences, puis je décrirai la situation en France. Ensuite, je parlerai des avantages et des inconvénients, et à la fin je donnerai mon avis. Quand j'étais à l'école, je n'aimais pas beaucoup le sport, parce que je ne courais pas vite. Mais le volley me plaisait beaucoup, et j'ai même joué dans l'équipe de l'école. En France, les élèves ont trois à quatre heures de sport par semaine au collège, et plus que deux au lycée. Beaucoup font aussi du sport dans un club l'après-midi. Le sport à l'école a beaucoup d'avantages. D'un côté, les enfants bougent, car aujourd'hui beaucoup passent toute la journée assis devant un écran. En plus, on apprend à jouer en équipe. De l'autre côté, il y a aussi des inconvénients. Un inconvénient, c'est que les notes en sport sont souvent injustes. Celui qui n'est pas sportif a de mauvaises notes, bien qu'il fasse beaucoup d'efforts. À mon avis, le sport à l'école est très important, mais on ne devrait pas le noter. Je trouve aussi que les écoles devraient proposer davantage de sports différents, par exemple la danse ou l'escalade. Merci de votre attention ! Avez-vous des questions ?",
+    "criteria": [
+      "J'ai annoncé le plan au début (Zuerst …, dann …, am Ende …)",
+      "J'ai raconté mon expérience au passé (Als ich in der Schule war, hatte ich …)",
+      "J'ai donné au moins un avantage et un inconvénient avec dass (verbe à la fin)",
+      "J'ai mis le verbe en 2e position après Meiner Meinung nach, Einerseits, Außerdem",
+      "J'ai donné mon avis clairement pour conclure"
+    ]
+  },
+  "createdAt": "2026-11-25"
+}

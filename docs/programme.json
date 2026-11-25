@@ -162,11 +162,28 @@
       "lire-reglement-residence",
       "lire-offre-stage",
       "lire-semaine-quatre-jours",
-      "lire-festival-ete"
+      "lire-festival-ete",
+      "lire-mail-seminaire"
     ],
     "a_venir": [
       {
-        "topic": "Mail d'un collègue : organisation d'un séminaire",
+        "topic": "Article : les Allemands et le vélo en ville",
+        "level": "B1"
+      },
+      {
+        "topic": "Annonce : un job d'été dans un hôtel",
+        "level": "A2"
+      },
+      {
+        "topic": "Courrier de l'université : s'inscrire aux examens",
+        "level": "B1"
+      },
+      {
+        "topic": "Forum : conseils pour un premier appartement",
+        "level": "B1"
+      },
+      {
+        "topic": "Article : faire ses courses sans emballage",
         "level": "B1"
       }
     ]
@@ -180,11 +197,28 @@
       "ecouter-hotel-reservation",
       "ecouter-entretien-stage",
       "ecouter-bulletin-meteo",
-      "ecouter-article-defectueux"
+      "ecouter-article-defectueux",
+      "ecouter-podcast-sommeil"
     ],
     "a_venir": [
       {
-        "topic": "Podcast : conseils pour mieux dormir",
+        "topic": "Message vocal d'une amie : changement de programme",
+        "level": "A2"
+      },
+      {
+        "topic": "Au bureau des objets trouvés",
+        "level": "A2"
+      },
+      {
+        "topic": "À la banque : ouvrir un compte",
+        "level": "A2"
+      },
+      {
+        "topic": "Interview radio : une étudiante Erasmus à Berlin",
+        "level": "B1"
+      },
+      {
+        "topic": "Réunion d'équipe : se répartir les tâches d'un projet",
         "level": "B1"
       }
     ]
@@ -197,12 +231,29 @@
       "ecrire-week-end",
       "ecrire-plainte-hotel",
       "ecrire-forum-langue-etranger",
-      "ecrire-excuse-absence"
+      "ecrire-excuse-absence",
+      "ecrire-reponse-coloc"
     ],
     "a_venir": [
       {
-        "topic": "Répondre à une annonce de colocation",
+        "topic": "Carte postale de vacances à une amie",
         "level": "A2"
+      },
+      {
+        "topic": "Demander conseil à un ami qui vit en Allemagne",
+        "level": "A2"
+      },
+      {
+        "topic": "Mail au propriétaire : signaler un problème dans l'appartement",
+        "level": "B1"
+      },
+      {
+        "topic": "Forum : faut-il interdire les voitures en centre-ville ?",
+        "level": "B1"
+      },
+      {
+        "topic": "Mail formel : candidature spontanée pour un stage",
+        "level": "B1"
       }
     ]
   },
@@ -214,11 +265,28 @@
       "parler-decrire-photo",
       "parler-week-end-vienne",
       "parler-ville-campagne",
-      "parler-souvenir-voyage"
+      "parler-souvenir-voyage",
+      "parler-sport-ecole"
     ],
     "a_venir": [
       {
-        "topic": "Présenter : le sport à l'école",
+        "topic": "Parler de ses projets après les études",
+        "level": "A2"
+      },
+      {
+        "topic": "Décrire une photo : faire les courses au marché",
+        "level": "A2"
+      },
+      {
+        "topic": "Planifier ensemble un cadeau pour une collègue",
+        "level": "B1"
+      },
+      {
+        "topic": "Présenter : travailler pendant ses études ?",
+        "level": "B1"
+      },
+      {
+        "topic": "Présenter : acheter en ligne ou en magasin ?",
         "level": "B1"
       }
     ]

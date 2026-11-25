@@ -1,0 +1,284 @@
+{
+  "id": "ecouter-podcast-sommeil",
+  "section": "ecoute",
+  "title": "Podcast : conseils pour mieux dormir",
+  "level": "B1",
+  "topic": "Santé",
+  "release": 7,
+  "summary": "Un expert du sommeil donne ses conseils dans un podcast : comprendre les chiffres, les erreurs fréquentes et les recommandations.",
+  "tags": [
+    "Podcast",
+    "Conseils",
+    "Impératif"
+  ],
+  "lesson": [
+    {
+      "type": "p",
+      "text": "Dans une interview de radio ou de podcast, l'animatrice pose des **questions courtes** et l'expert répond avec des **chiffres** et des **conseils**. Pendant l'écoute, note les nombres (heures, degrés, minutes) et repère les mots qui annoncent un conseil : *Erstens, Zweitens, Drittens*, *man sollte*, l'impératif *Gehen Sie …*"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Pour donner un conseil",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "Man sollte das Handy weglegen.",
+          "On devrait poser son portable."
+        ],
+        [
+          "Gehen Sie früh ins Bett!",
+          "Couchez-vous tôt ! (impératif, vouvoiement)"
+        ],
+        [
+          "Trinken Sie keinen Kaffee mehr.",
+          "Ne buvez plus de café."
+        ],
+        [
+          "höchstens zwanzig Minuten",
+          "vingt minutes au maximum"
+        ],
+        [
+          "Erstens … zweitens … drittens …",
+          "Premièrement… deuxièmement… troisièmement…"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "items": [
+        {
+          "de": "Deshalb **sollte** man das Handy eine Stunde vor dem Schlafengehen **weglegen**.",
+          "fr": "C'est pourquoi on devrait poser son portable une heure avant d'aller se coucher."
+        },
+        {
+          "de": "**Stehen** Sie lieber **auf** und **lesen** Sie ein bisschen.",
+          "fr": "Levez-vous plutôt et lisez un peu."
+        },
+        {
+          "de": "Wer länger **schläft**, **ist** danach oft noch müder.",
+          "fr": "Celui qui dort plus longtemps est souvent encore plus fatigué après."
+        }
+      ]
+    },
+    {
+      "type": "tip",
+      "text": "« Ne … plus » se dit **nicht mehr** ou **kein … mehr** : *Ich kann **nicht mehr** schlafen. Trinken Sie **keinen** Kaffee **mehr**.* Et **erst wieder …, wenn** = « seulement quand, pas avant » : *Gehen Sie **erst wieder** ins Bett, **wenn** Sie müde sind.*"
+    }
+  ],
+  "listening": {
+    "title": "Gesund im Alltag: Besser schlafen",
+    "situation": "Un podcast santé pour les étudiants. L'animatrice reçoit le Dr Martin Brandt, spécialiste du sommeil.",
+    "lines": [
+      {
+        "who": "Moderatorin",
+        "de": "Hallo und herzlich willkommen zu „Gesund im Alltag“! Heute geht es um ein Thema, das viele Studierende kennen: schlechter Schlaf. Bei mir im Studio ist der Schlafexperte Dr. Martin Brandt. Herr Brandt, wie viele Stunden Schlaf brauchen junge Erwachsene eigentlich?"
+      },
+      {
+        "who": "Experte",
+        "de": "Die meisten brauchen zwischen sieben und neun Stunden. Viele Studierende schlafen aber nur fünf oder sechs Stunden, vor allem in der Prüfungszeit."
+      },
+      {
+        "who": "Moderatorin",
+        "de": "Und was ist der häufigste Fehler?"
+      },
+      {
+        "who": "Experte",
+        "de": "Ganz klar das Handy. Viele schauen im Bett noch lange auf den Bildschirm. Das helle Licht sagt dem Gehirn: Es ist noch Tag! Deshalb sollte man das Handy eine Stunde vor dem Schlafengehen weglegen."
+      },
+      {
+        "who": "Moderatorin",
+        "de": "Das ist nicht leicht! Haben Sie noch andere Tipps?"
+      },
+      {
+        "who": "Experte",
+        "de": "Ja. Erstens: Gehen Sie jeden Tag ungefähr zur gleichen Zeit ins Bett, auch am Wochenende. Zweitens: Trinken Sie nach vierzehn Uhr keinen Kaffee mehr. Und drittens: Das Schlafzimmer sollte kühl und dunkel sein. Ideal sind etwa achtzehn Grad."
+      },
+      {
+        "who": "Moderatorin",
+        "de": "Und was mache ich, wenn ich trotzdem nicht einschlafen kann?"
+      },
+      {
+        "who": "Experte",
+        "de": "Dann sollten Sie nicht stundenlang im Bett liegen bleiben. Stehen Sie lieber auf, lesen Sie ein bisschen bei schwachem Licht und gehen Sie erst wieder ins Bett, wenn Sie müde sind."
+      },
+      {
+        "who": "Moderatorin",
+        "de": "Und ein Mittagsschlaf? Ist das eine gute Idee?"
+      },
+      {
+        "who": "Experte",
+        "de": "Ja, aber höchstens zwanzig Minuten. Wer länger schläft, ist danach oft noch müder und kann abends schlechter einschlafen."
+      },
+      {
+        "who": "Moderatorin",
+        "de": "Vielen Dank, Herr Brandt! Und Ihnen, liebe Hörerinnen und Hörer: Schlafen Sie gut!"
+      }
+    ],
+    "glossary": [
+      {
+        "de": "der Schlaf",
+        "fr": "le sommeil"
+      },
+      {
+        "de": "junge Erwachsene (pl.)",
+        "fr": "les jeunes adultes"
+      },
+      {
+        "de": "die Prüfungszeit",
+        "fr": "la période d'examens"
+      },
+      {
+        "de": "der Bildschirm",
+        "fr": "l'écran"
+      },
+      {
+        "de": "das Gehirn",
+        "fr": "le cerveau"
+      },
+      {
+        "de": "weglegen",
+        "fr": "poser, mettre de côté"
+      },
+      {
+        "de": "kühl",
+        "fr": "frais"
+      },
+      {
+        "de": "einschlafen",
+        "fr": "s'endormir"
+      },
+      {
+        "de": "stundenlang",
+        "fr": "pendant des heures"
+      },
+      {
+        "de": "der Mittagsschlaf",
+        "fr": "la sieste"
+      },
+      {
+        "de": "höchstens",
+        "fr": "au maximum"
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "type": "mcq",
+      "q": "Wie viele Stunden Schlaf brauchen die meisten jungen Erwachsenen?",
+      "options": [
+        "Fünf bis sechs Stunden",
+        "Sieben bis neun Stunden",
+        "Zehn Stunden"
+      ],
+      "answer": 1,
+      "why": "*Die meisten brauchen zwischen sieben und neun Stunden.* Cinq ou six heures, c'est ce que dorment beaucoup d'étudiants, pas ce dont ils ont besoin."
+    },
+    {
+      "type": "mcq",
+      "q": "Was ist laut Dr. Brandt der häufigste Fehler?",
+      "options": [
+        "Zu viel Sport am Abend",
+        "Zu spät essen",
+        "Das Handy im Bett"
+      ],
+      "answer": 2,
+      "why": "*Ganz klar das Handy. Viele schauen im Bett noch lange auf den Bildschirm.*"
+    },
+    {
+      "type": "mcq",
+      "q": "Man sollte das Handy eine Stunde vor dem Schlafengehen weglegen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0,
+      "why": "*Deshalb sollte man das Handy eine Stunde vor dem Schlafengehen weglegen.* La lumière de l'écran fait croire au cerveau qu'il fait encore jour."
+    },
+    {
+      "type": "mcq",
+      "q": "Ab wann sollte man keinen Kaffee mehr trinken?",
+      "options": [
+        "Ab 12 Uhr",
+        "Ab 18 Uhr",
+        "Ab 14 Uhr"
+      ],
+      "answer": 2,
+      "why": "*Trinken Sie nach vierzehn Uhr keinen Kaffee mehr.* *vierzehn Uhr* = 14 h."
+    },
+    {
+      "type": "dictation",
+      "text": "Viele schauen im Bett noch lange auf den Bildschirm.",
+      "fr": "Beaucoup regardent encore longtemps l'écran au lit.",
+      "why": "Écoute plusieurs fois : *auf den Bildschirm schauen* (accusatif, regarder vers l'écran) ; *Bildschirm* s'écrit en un mot avec *sch*."
+    },
+    {
+      "type": "dictation",
+      "text": "Das Schlafzimmer sollte kühl und dunkel sein.",
+      "fr": "La chambre devrait être fraîche et sombre.",
+      "why": "Écoute plusieurs fois : *Schlafzimmer* est un nom composé (une majuscule, un seul mot) ; *kühl* prend un Umlaut et un h muet."
+    }
+  ],
+  "exam": [
+    {
+      "type": "mcq",
+      "q": "Welche Temperatur ist im Schlafzimmer ideal?",
+      "options": [
+        "Etwa 22 Grad",
+        "Etwa 18 Grad",
+        "Etwa 15 Grad"
+      ],
+      "answer": 1,
+      "why": "*Ideal sind etwa achtzehn Grad.* Attention à ne pas confondre *achtzehn* (18) et *achtzig* (80)."
+    },
+    {
+      "type": "mcq",
+      "q": "Am Wochenende kann man ruhig viel später ins Bett gehen.",
+      "options": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1,
+      "why": "*Gehen Sie jeden Tag ungefähr zur gleichen Zeit ins Bett, auch am Wochenende.* *auch* = même le week-end."
+    },
+    {
+      "type": "mcq",
+      "q": "Was soll man tun, wenn man nicht einschlafen kann?",
+      "options": [
+        "Im Bett bleiben und warten",
+        "Aufstehen und ein bisschen lesen",
+        "Einen Kaffee trinken"
+      ],
+      "answer": 1,
+      "why": "*Stehen Sie lieber auf, lesen Sie ein bisschen bei schwachem Licht …* Il ne faut justement pas rester des heures au lit."
+    },
+    {
+      "type": "mcq",
+      "q": "Wie lange sollte ein Mittagsschlaf höchstens dauern?",
+      "options": [
+        "Eine Stunde",
+        "Zehn Minuten",
+        "Zwanzig Minuten"
+      ],
+      "answer": 2,
+      "why": "*Ja, aber höchstens zwanzig Minuten.* Sinon, on est encore plus fatigué et on s'endort plus mal le soir."
+    },
+    {
+      "type": "gap",
+      "q": "Gehen Sie erst wieder ins Bett, wenn Sie ___ sind.",
+      "answers": [
+        "müde"
+      ],
+      "hint": "fatigué(e)",
+      "why": "*… gehen Sie erst wieder ins Bett, wenn Sie müde sind.* Dans la subordonnée avec *wenn*, le verbe *sind* va à la fin."
+    },
+    {
+      "type": "dictation",
+      "text": "Trinken Sie nach vierzehn Uhr keinen Kaffee mehr.",
+      "fr": "Ne buvez plus de café après 14 heures.",
+      "why": "Écoute plusieurs fois : impératif de politesse (verbe en tête + *Sie*) ; *keinen* car *der Kaffee* est masculin à l'accusatif."
+    }
+  ],
+  "createdAt": "2026-11-25"
+}
